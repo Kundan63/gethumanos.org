@@ -3,52 +3,141 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>HumanOS</title>
+<meta name="description" content="HumanOS — Understanding Reality. Improving Humanity.">
 
 <style>
-body{
+
+*{
     margin:0;
-    font-family:Arial,Helvetica,sans-serif;
-    background:#0b1220;
-    color:white;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html,body{
+    width:100%;
+    height:100%;
+}
+
+body{
+
     display:flex;
     justify-content:center;
     align-items:center;
-    height:100vh;
+
+    background:#0b1220;
+
+    color:#ffffff;
+
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    text-align:center;
+
+    padding:40px;
+
 }
 
 .container{
-    text-align:center;
-    max-width:700px;
-    padding:40px;
+
+    max-width:760px;
+
 }
 
 h1{
-    font-size:60px;
-    margin-bottom:10px;
+
+    font-size:72px;
+    font-weight:700;
+    letter-spacing:-2px;
+
+    margin-bottom:18px;
+
 }
 
-h2{
-    color:#66d9ef;
-    font-weight:normal;
+.tagline{
+
+    font-size:34px;
+    font-weight:500;
+
+    color:#63d8ff;
+
+    margin-bottom:42px;
+
 }
 
-p{
-    color:#d0d0d0;
-    line-height:1.7;
-    font-size:18px;
+.description{
+
+    font-size:24px;
+
+    line-height:1.75;
+
+    color:#d8dce6;
+
 }
 
-.button{
-    display:inline-block;
-    margin-top:30px;
-    padding:15px 30px;
-    background:#66d9ef;
-    color:#000;
-    text-decoration:none;
-    border-radius:8px;
-    font-weight:bold;
+.status{
+
+    margin-top:52px;
+
+    font-size:19px;
+
+    color:#9099aa;
+
+    font-style:italic;
+
 }
+
+footer{
+
+    margin-top:70px;
+
+    font-size:14px;
+
+    color:#5f6778;
+
+}
+
+@media (max-width:768px){
+
+    h1{
+
+        font-size:48px;
+
+    }
+
+    .tagline{
+
+        font-size:24px;
+
+    }
+
+    .description{
+
+        font-size:18px;
+
+    }
+
+    .status{
+
+        font-size:16px;
+
+    }
+
+    footer{
+
+        font-size:13px;
+
+    }
+
+}
+
 </style>
 
 </head>
@@ -59,15 +148,31 @@ p{
 
 <h1>HumanOS</h1>
 
-<h2>Understanding Reality. Improving Humanity.</h2>
+<div class="tagline">
 
-<p>
-The operating system for understanding reality.
-</p>
+Understanding Reality. Improving Humanity.
 
-<p><em>Coming Soon...</em></p>
-  
-</a>
+</div>
+
+<div class="description">
+
+A complete operating system<br>
+for understanding reality,<br>
+humanity, and life.
+
+</div>
+
+<div class="status">
+
+🚧 Currently under development.
+
+</div>
+
+<footer>
+
+© 2026 HumanOS
+
+</footer>
 
 </div>
 
