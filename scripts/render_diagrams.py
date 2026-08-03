@@ -34,7 +34,9 @@ NODE_FILL = "var(--lightgray)"
 NODE_STROKE = "var(--gray)"
 NODE_TEXT = "var(--darkgray)"
 ACCENT_FILL = "var(--section-accent, var(--secondary))"
-ACCENT_TEXT = "var(--light)"
+# Hardcoded near-black (not a theme variable) so text on the bright accent
+# fill is always guaranteed high contrast, regardless of mode/section color.
+ACCENT_TEXT = "#0a0a0f"
 LINE_STROKE = "var(--gray)"
 
 def strip_wikilink(s):
@@ -105,7 +107,7 @@ def render_linear_svg(labels):
         fill = ACCENT_FILL if is_end else NODE_FILL
         stroke = "var(--lightgray)" if is_end else NODE_STROKE
         text_fill = ACCENT_TEXT if is_end else NODE_TEXT
-        font_weight = "600" if is_end else "400"
+        font_weight = "700" if is_end else "400"
         parts.append(
             f'<rect x="{x:.1f}" y="{y:.1f}" width="{box_w:.1f}" height="{box_h}" rx="8" '
             f'fill="{fill}" stroke="{stroke}" stroke-width="1.2"/>'
@@ -217,7 +219,7 @@ def render_relationship_svg(title, buckets):
     )
     parts.append(
         f'<text x="{cx_center:.1f}" y="{cy_center + 5:.1f}" text-anchor="middle" '
-        f'font-family="{FONT}" font-weight="600" font-size="14.5" fill="{ACCENT_TEXT}">{esc(title)}</text>'
+        f'font-family="{FONT}" font-weight="700" font-size="14.5" fill="{ACCENT_TEXT}">{esc(title)}</text>'
     )
 
     if in_list:
