@@ -4,7 +4,7 @@ description: Understanding Reality. Improving Humanity.
 ---
 
 <p align="center">
-  <img src="/humanos-logo.png" width="220" alt="HumanOS">
+  <img src="/humanos-logo.png" width="320" alt="HumanOS">
 </p>
 
 <div class="os-terminal">
