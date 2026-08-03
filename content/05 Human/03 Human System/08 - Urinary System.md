@@ -143,21 +143,7 @@ Carries urine from the bladder to the outside of the body.
 
 # The Journey of Urine
 
-```text
-Blood
-   │
-Kidney Filters Blood
-   │
-Nephrons Form Urine
-   │
-Ureters
-   │
-Bladder Stores Urine
-   │
-Urethra
-   │
-Urination
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:234px"><svg width="100%" viewBox="0 0 234 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="202.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Blood</text><rect x="16.0" y="82.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Kidney Filters Blood</text><rect x="16.0" y="148.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Nephrons Form Urine</text><rect x="16.0" y="214.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Ureters</text><rect x="16.0" y="280.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Bladder Stores Urine</text><rect x="16.0" y="346.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Urethra</text><rect x="16.0" y="412.0" width="202.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Urination</text><line x1="117.2" y1="56.0" x2="117.2" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="122.0" x2="117.2" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="188.0" x2="117.2" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="254.0" x2="117.2" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="320.0" x2="117.2" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="386.0" x2="117.2" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 The kidneys filter enormous volumes of blood every day while returning almost all useful water and nutrients back into circulation.
 
@@ -187,32 +173,7 @@ Kidney failure therefore affects nearly every organ system. :contentReference[oa
 
 # Reality Connections
 
-```text
-                Urinary System
-                      │
-      ┌───────────────┼────────────────┐
-      │               │                │
- Cardiovascular   Endocrine      Digestive System
-      │               │                │
-      └───────────────┼────────────────┘
-                      ▼
-             Blood Filtration
-                      │
-                      ▼
-      Water • Electrolytes • pH
-                      │
-                      ▼
-              Homeostasis
-                      │
-                      ▼
- Every Cell in the Body
-                      │
-                      ▼
-Health • Brain • Muscles • Heart
-                      │
-                      ▼
- Survival • Longevity
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 718 262" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Urinary System"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="89.0" width="157.7" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="358.8" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Urinary System</text><rect x="20.0" y="43.0" width="190.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="115.0" y="65.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Cardiovascular System</text><line x1="210.0" y1="60.0" x2="280.0" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="89.0" width="117.3" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="78.7" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Homeostasis</text><line x1="137.3" y1="106.0" x2="280.0" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="135.0" width="157.9" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="99.0" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Endocrine System</text><line x1="177.9" y1="152.0" x2="280.0" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="556.0" y="20.0" width="141.7" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="626.8" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Blood Pressure</text><line x1="437.7" y1="37.0" x2="550.0" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="515.4" y="66.0" width="182.3" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="606.5" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Electrolyte Balance</text><line x1="437.7" y1="83.0" x2="509.4" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="523.5" y="112.0" width="174.2" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="610.6" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Disease &amp; Medicine</text><line x1="437.7" y1="129.0" x2="517.5" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="596.6" y="158.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="647.1" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Longevity</text><line x1="437.7" y1="175.0" x2="590.6" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="218.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="224.0" width="78.8" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="59.4" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Kidneys</text><rect x="108.8" y="224.0" width="78.8" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="148.3" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Nephron</text><rect x="197.7" y="224.0" width="62.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="229.0" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Urine</text><rect x="270.3" y="224.0" width="119.4" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="330.0" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Electrolytes</text><rect x="399.7" y="224.0" width="135.7" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="467.6" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Blood Pressure</text></svg></div>
 
 The urinary system quietly supports every other organ system by keeping the body's internal environment stable.
 
@@ -248,29 +209,13 @@ Understanding kidney health explains why hydration, nutrition, blood pressure co
 
 ### 💧 Drinking Water
 
-```text
-More Water Intake
-       │
-Kidneys Detect Change
-       │
-More Dilute Urine Produced
-       │
-Water Balance Restored
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:283px"><svg width="100%" viewBox="0 0 283 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="251.1" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">More Water Intake</text><rect x="16.0" y="82.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Kidneys Detect Change</text><rect x="16.0" y="148.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">More Dilute Urine Produced</text><rect x="16.0" y="214.0" width="251.1" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Water Balance Restored</text><line x1="141.6" y1="56.0" x2="141.6" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="122.0" x2="141.6" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="188.0" x2="141.6" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 ---
 
 ### 🥵 Hot Weather
 
-```text
-Sweating
-    │
-Water Loss
-    │
-Kidneys Conserve Water
-    │
-Less Concentrated Water Lost
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:299px"><svg width="100%" viewBox="0 0 299 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="267.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="149.7" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Sweating</text><rect x="16.0" y="82.0" width="267.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="149.7" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Water Loss</text><rect x="16.0" y="148.0" width="267.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="149.7" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Kidneys Conserve Water</text><rect x="16.0" y="214.0" width="267.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="149.7" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Less Concentrated Water Lost</text><line x1="149.7" y1="56.0" x2="149.7" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="149.7" y1="122.0" x2="149.7" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="149.7" y1="188.0" x2="149.7" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 ---
 
@@ -348,33 +293,7 @@ Healthy kidneys depend on the interaction of lifestyle, environment, genetics, a
 
 # Root Causes of Urinary Disorders
 
-```text
-Genetics
-      │
-High Blood Pressure
-      │
-Diabetes
-      │
-Poor Hydration
-      │
-Smoking
-      │
-Obesity
-      │
-High Salt Intake
-      │
-Kidney Infections
-      │
-Certain Medications
-      │
-Kidney Stones
-      │
-Aging
-      │
-──────────────────────
-      │
-Kidney & Urinary Disease
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:267px"><svg width="100%" viewBox="0 0 267 864" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="234.9" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Genetics</text><rect x="16.0" y="82.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">High Blood Pressure</text><rect x="16.0" y="148.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Diabetes</text><rect x="16.0" y="214.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Poor Hydration</text><rect x="16.0" y="280.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Smoking</text><rect x="16.0" y="346.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Obesity</text><rect x="16.0" y="412.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">High Salt Intake</text><rect x="16.0" y="478.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Kidney Infections</text><rect x="16.0" y="544.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Certain Medications</text><rect x="16.0" y="610.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="635.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Kidney Stones</text><rect x="16.0" y="676.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="701.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Aging</text><rect x="16.0" y="742.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="767.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">──────────────────────</text><rect x="16.0" y="808.0" width="234.9" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="833.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Kidney &amp; Urinary Disease</text><line x1="133.4" y1="56.0" x2="133.4" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="122.0" x2="133.4" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="188.0" x2="133.4" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="254.0" x2="133.4" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="320.0" x2="133.4" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="386.0" x2="133.4" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="452.0" x2="133.4" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="518.0" x2="133.4" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="584.0" x2="133.4" y2="608.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="650.0" x2="133.4" y2="674.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="716.0" x2="133.4" y2="740.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="782.0" x2="133.4" y2="806.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Worldwide, **diabetes and high blood pressure are the leading causes of chronic kidney disease**, highlighting the close relationship between kidney health and metabolic and cardiovascular health. :contentReference[oaicite:5]{index=5}
 

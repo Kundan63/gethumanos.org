@@ -52,30 +52,7 @@ Disease occurs when these systems become disrupted beyond the body's ability to 
 
 # HumanOS Knowledge Journey
 
-```text
-Human Biology
-        │
-        ▼
-Body Architecture
-        │
-        ▼
-Human Systems
-        │
-        ▼
-Brain & Neuroscience
-        │
-        ▼
-Human Development
-        │
-        ▼
-Lifestyle Biology
-        │
-        ▼
-Health & Medicine
-        │
-        ▼
-Longevity
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:234px"><svg width="100%" viewBox="0 0 234 534" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="202.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Human Biology</text><rect x="16.0" y="82.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Body Architecture</text><rect x="16.0" y="148.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Human Systems</text><rect x="16.0" y="214.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Brain &amp; Neuroscience</text><rect x="16.0" y="280.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Human Development</text><rect x="16.0" y="346.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Lifestyle Biology</text><rect x="16.0" y="412.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Health &amp; Medicine</text><rect x="16.0" y="478.0" width="202.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Longevity</text><line x1="117.2" y1="56.0" x2="117.2" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="122.0" x2="117.2" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="188.0" x2="117.2" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="254.0" x2="117.2" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="320.0" x2="117.2" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="386.0" x2="117.2" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="452.0" x2="117.2" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Lifestyle explains how health is built.
 
@@ -239,21 +216,7 @@ Diagnosis links symptoms to biological causes.
 
 # Medicine as a System
 
-```text
-Disease
-    │
-Symptoms
-    │
-Diagnosis
-    │
-Cause Identified
-    │
-Treatment
-    │
-Recovery
-    │
-Prevention
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:202px"><svg width="100%" viewBox="0 0 202 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="169.9" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Disease</text><rect x="16.0" y="82.0" width="169.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Symptoms</text><rect x="16.0" y="148.0" width="169.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Diagnosis</text><rect x="16.0" y="214.0" width="169.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Cause Identified</text><rect x="16.0" y="280.0" width="169.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Treatment</text><rect x="16.0" y="346.0" width="169.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Recovery</text><rect x="16.0" y="412.0" width="169.9" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Prevention</text><line x1="101.0" y1="56.0" x2="101.0" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="101.0" y1="122.0" x2="101.0" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="101.0" y1="188.0" x2="101.0" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="101.0" y1="254.0" x2="101.0" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="101.0" y1="320.0" x2="101.0" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="101.0" y1="386.0" x2="101.0" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Modern medicine seeks not only to treat illness but also to prevent disease and preserve health throughout life. :contentReference[oaicite:4]{index=4}
 
@@ -261,27 +224,7 @@ Modern medicine seeks not only to treat illness but also to prevent disease and 
 
 # Reality Connections
 
-```text
-Health & Medicine
-         │
- ┌───────┼────────────────┐
- │       │                │
-Biology Lifestyle Environment
- │       │                │
- └───────┼────────────────┘
-         ▼
-Homeostasis
-         │
-Disease
-         │
-Diagnosis
-         │
-Treatment
-         │
-Recovery
-         │
-Healthy Aging
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 742 304" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Health &amp; Medicine"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="135.0" width="182.0" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="371.0" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Health &amp; Medicine</text><rect x="20.0" y="43.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="86.8" y="65.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Human Biology</text><line x1="153.6" y1="60.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="89.0" width="109.2" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="74.6" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Physiology</text><line x1="129.2" y1="106.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="135.0" width="117.3" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="78.7" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Homeostasis</text><line x1="137.3" y1="152.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="181.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="103.0" y="203.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Lifestyle Biology</text><line x1="186.0" y1="198.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="227.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="86.8" y="249.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Immune System</text><line x1="153.6" y1="244.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="632.0" y="20.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="677.0" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Health</text><line x1="462.0" y1="37.0" x2="626.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="604.7" y="66.0" width="117.3" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="663.4" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Homeostasis</text><line x1="462.0" y1="83.0" x2="598.7" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="632.0" y="112.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="677.0" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Disease</text><line x1="462.0" y1="129.0" x2="626.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="547.9" y="158.0" width="174.2" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Disease Mechanisms</text><line x1="462.0" y1="175.0" x2="541.9" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="596.6" y="204.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="659.3" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Risk Factors</text><line x1="462.0" y1="221.0" x2="590.6" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="621.0" y="250.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="671.5" y="272.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Diagnosis</text><line x1="462.0" y1="267.0" x2="615.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /></svg></div>
 
 Health emerges from interactions across biological, behavioral, environmental, and social systems.
 

@@ -49,21 +49,7 @@ Infectious diseases answer this by explaining how pathogens enter the body, mult
 
 # The Infectious Disease System
 
-```text
-Pathogen
-     │
-Entry into Body
-     │
-Multiplication
-     │
-Immune Response
-     │
-Tissue Damage
-     │
-Signs & Symptoms
-     │
-Recovery / Chronic Infection / Death
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:364px"><svg width="100%" viewBox="0 0 364 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="332.3" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="182.2" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Pathogen</text><rect x="16.0" y="82.0" width="332.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="182.2" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Entry into Body</text><rect x="16.0" y="148.0" width="332.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="182.2" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Multiplication</text><rect x="16.0" y="214.0" width="332.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="182.2" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Immune Response</text><rect x="16.0" y="280.0" width="332.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="182.2" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Tissue Damage</text><rect x="16.0" y="346.0" width="332.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="182.2" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Signs &amp; Symptoms</text><rect x="16.0" y="412.0" width="332.3" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="182.2" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Recovery / Chronic Infection / Death</text><line x1="182.2" y1="56.0" x2="182.2" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="182.2" y1="122.0" x2="182.2" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="182.2" y1="188.0" x2="182.2" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="182.2" y1="254.0" x2="182.2" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="182.2" y1="320.0" x2="182.2" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="182.2" y1="386.0" x2="182.2" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 ---
 
@@ -71,19 +57,7 @@ Recovery / Chronic Infection / Death
 
 Disease spreads only when every link in the chain is present.
 
-```text
-Pathogen
-     │
-Reservoir
-     │
-Exit
-     │
-Transmission
-     │
-Entry
-     │
-Susceptible Host
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:202px"><svg width="100%" viewBox="0 0 202 402" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="169.9" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Pathogen</text><rect x="16.0" y="82.0" width="169.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Reservoir</text><rect x="16.0" y="148.0" width="169.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Exit</text><rect x="16.0" y="214.0" width="169.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Transmission</text><rect x="16.0" y="280.0" width="169.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Entry</text><rect x="16.0" y="346.0" width="169.9" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="101.0" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Susceptible Host</text><line x1="101.0" y1="56.0" x2="101.0" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="101.0" y1="122.0" x2="101.0" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="101.0" y1="188.0" x2="101.0" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="101.0" y1="254.0" x2="101.0" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="101.0" y1="320.0" x2="101.0" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Breaking **any one** of these links can prevent infection. Infection prevention and control strategies are built around interrupting this chain. :contentReference[oaicite:2]{index=2}
 
@@ -289,21 +263,7 @@ Mosquitoes, ticks, fleas, and other vectors transmit pathogens between hosts. :c
 
 # Disease Mechanism
 
-```text
-Pathogen
-     │
-Entry
-     │
-Replication
-     │
-Immune Response
-     │
-Inflammation
-     │
-Tissue Damage
-     │
-Symptoms
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:194px"><svg width="100%" viewBox="0 0 194 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="161.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Pathogen</text><rect x="16.0" y="82.0" width="161.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Entry</text><rect x="16.0" y="148.0" width="161.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Replication</text><rect x="16.0" y="214.0" width="161.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Immune Response</text><rect x="16.0" y="280.0" width="161.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Inflammation</text><rect x="16.0" y="346.0" width="161.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Tissue Damage</text><rect x="16.0" y="412.0" width="161.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Symptoms</text><line x1="96.9" y1="56.0" x2="96.9" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="96.9" y1="122.0" x2="96.9" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="96.9" y1="188.0" x2="96.9" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="96.9" y1="254.0" x2="96.9" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="96.9" y1="320.0" x2="96.9" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="96.9" y1="386.0" x2="96.9" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Symptoms arise from both:
 
@@ -506,21 +466,7 @@ Many infectious diseases are curable or controllable when recognized early.
 
 # Reality Connections
 
-```text
-Microbiology
-      │
-Pathogens
-      │
-Immune System
-      │
-Infectious Disease
-      │
-Diagnosis
-Treatment
-Prevention
-      │
-Public Health
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:218px"><svg width="100%" viewBox="0 0 218 534" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="186.2" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Microbiology</text><rect x="16.0" y="82.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Pathogens</text><rect x="16.0" y="148.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Immune System</text><rect x="16.0" y="214.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Infectious Disease</text><rect x="16.0" y="280.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Diagnosis</text><rect x="16.0" y="346.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Treatment</text><rect x="16.0" y="412.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Prevention</text><rect x="16.0" y="478.0" width="186.2" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Public Health</text><line x1="109.1" y1="56.0" x2="109.1" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="122.0" x2="109.1" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="188.0" x2="109.1" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="254.0" x2="109.1" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="320.0" x2="109.1" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="386.0" x2="109.1" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="452.0" x2="109.1" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 ---
 

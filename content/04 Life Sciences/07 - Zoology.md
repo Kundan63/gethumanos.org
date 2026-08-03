@@ -112,39 +112,7 @@ Although animals differ enormously in size, behaviour, and habitat, they share c
 
 # Reality Connections
 
-```text
-                           Zoology
-                              │
-      ┌────────────────────────┼────────────────────────┐
-      │                        │                        │
-     Evolution            Genetics               Ecology
-      │                        │                        │
-      └───────────────┬────────┴───────────────┐
-                      ▼                        ▼
-               Animal Diversity        Animal Behaviour
-                      │                        │
-                      ▼                        ▼
-              Ecosystems             Food Webs
-                      │                        │
-                      └────────────┬───────────┘
-                                   ▼
-                              Human Body
-                                   │
-                                   ▼
-                              Human Brain
-                                   │
-                                   ▼
-                     Behaviour • Health • Society
-                                   │
-                                   ▼
- Agriculture • Medicine • Conservation
-                                   │
-                                   ▼
- Society • Economy • Civilization
-                                   │
-                                   ▼
-                           Living Well
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 700 308" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Zoology"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="112.0" width="140.0" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="350.0" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Zoology</text><rect x="20.0" y="43.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="70.5" y="65.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Evolution</text><line x1="121.1" y1="60.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="89.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="82.7" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Cell Biology</text><line x1="145.4" y1="106.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="135.0" width="93.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="66.5" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Genetics</text><line x1="113.0" y1="152.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="181.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="203.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Botany</text><line x1="110.0" y1="198.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="554.6" y="20.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="617.3" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Biodiversity</text><line x1="420.0" y1="37.0" x2="548.6" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="590.0" y="66.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Human</text><line x1="420.0" y1="83.0" x2="584.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="514.0" y="112.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="597.0" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Health &amp; Medicine</text><line x1="420.0" y1="129.0" x2="508.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="570.8" y="158.0" width="109.2" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="625.4" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Psychology</text><line x1="420.0" y1="175.0" x2="564.8" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="590.0" y="204.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Ecology</text><line x1="420.0" y1="221.0" x2="584.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="264.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="270.0" width="135.7" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="87.8" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Animal Kingdom</text><rect x="165.7" y="270.0" width="151.9" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="241.6" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Animal Behaviour</text><rect x="327.6" y="270.0" width="176.3" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="415.7" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Comparative Anatomy</text><rect x="513.9" y="270.0" width="87.0" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="557.4" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Wildlife</text></svg></div>
 
 Zoology connects the diversity of animal life with ecosystems, human biology, and civilization.
 

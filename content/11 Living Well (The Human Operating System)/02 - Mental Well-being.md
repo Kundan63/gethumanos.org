@@ -56,63 +56,13 @@ A healthy mind improves every area of life because every decision begins there.
 
 Everything in this chapter is built upon knowledge from previous HumanOS sections.
 
-```text
-Foundations
-     │
-Biology
-     │
-Evolution
-     │
-Neuroscience
-     │
-Consciousness
-     │
-Psychology
-     │
-Mindfulness
-     │
-Meditation
-     │
-Meaning & Purpose
-     │
-Mental Well-being
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:210px"><svg width="100%" viewBox="0 0 210 666" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Foundations</text><rect x="16.0" y="82.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Biology</text><rect x="16.0" y="148.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Evolution</text><rect x="16.0" y="214.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Neuroscience</text><rect x="16.0" y="280.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Consciousness</text><rect x="16.0" y="346.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Psychology</text><rect x="16.0" y="412.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Mindfulness</text><rect x="16.0" y="478.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Meditation</text><rect x="16.0" y="544.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Meaning &amp; Purpose</text><rect x="16.0" y="610.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="635.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Mental Well-being</text><line x1="105.0" y1="56.0" x2="105.0" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="122.0" x2="105.0" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="188.0" x2="105.0" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="254.0" x2="105.0" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="320.0" x2="105.0" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="386.0" x2="105.0" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="452.0" x2="105.0" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="518.0" x2="105.0" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="584.0" x2="105.0" y2="608.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 ---
 
 # The Reality Chain
 
-```text
-Biology
-
-↓
-
-Brain
-
-↓
-
-Mind
-
-↓
-
-Thoughts
-
-↓
-
-Emotions
-
-↓
-
-Behavior
-
-↓
-
-Relationships
-
-↓
-
-Life Outcomes
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:178px"><svg width="100%" viewBox="0 0 178 534" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="145.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Biology</text><rect x="16.0" y="82.0" width="145.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Brain</text><rect x="16.0" y="148.0" width="145.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Mind</text><rect x="16.0" y="214.0" width="145.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Thoughts</text><rect x="16.0" y="280.0" width="145.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Emotions</text><rect x="16.0" y="346.0" width="145.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Behavior</text><rect x="16.0" y="412.0" width="145.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Relationships</text><rect x="16.0" y="478.0" width="145.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Life Outcomes</text><line x1="88.8" y1="56.0" x2="88.8" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="88.8" y1="122.0" x2="88.8" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="88.8" y1="188.0" x2="88.8" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="88.8" y1="254.0" x2="88.8" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="88.8" y1="320.0" x2="88.8" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="88.8" y1="386.0" x2="88.8" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="88.8" y1="452.0" x2="88.8" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Understanding mental well-being begins with understanding how the brain produces the mind and how the mind influences behavior.
 
@@ -314,33 +264,7 @@ Mental well-being is an essential component of overall health, not a separate ca
 
 # The Ripple Effect
 
-```text
-Healthy Sleep
-
-↓
-
-Better Brain Function
-
-↓
-
-Improved Attention
-
-↓
-
-Better Decisions
-
-↓
-
-Healthier Relationships
-
-↓
-
-Higher Productivity
-
-↓
-
-Greater Life Satisfaction
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:275px"><svg width="100%" viewBox="0 0 275 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="243.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Healthy Sleep</text><rect x="16.0" y="82.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Better Brain Function</text><rect x="16.0" y="148.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Improved Attention</text><rect x="16.0" y="214.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Better Decisions</text><rect x="16.0" y="280.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Healthier Relationships</text><rect x="16.0" y="346.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Higher Productivity</text><rect x="16.0" y="412.0" width="243.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Greater Life Satisfaction</text><line x1="137.5" y1="56.0" x2="137.5" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="122.0" x2="137.5" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="188.0" x2="137.5" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="254.0" x2="137.5" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="320.0" x2="137.5" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="386.0" x2="137.5" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Small improvements in mental well-being often produce wide-ranging effects across life.
 
@@ -384,33 +308,7 @@ Small improvements in mental well-being often produce wide-ranging effects acros
 
 # HumanOS Loop
 
-```text
-Healthy Mind
-
-↓
-
-Better Thinking
-
-↓
-
-Better Decisions
-
-↓
-
-Better Habits
-
-↓
-
-Better Relationships
-
-↓
-
-Greater Capability
-
-↓
-
-Meaningful Contribution
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:259px"><svg width="100%" viewBox="0 0 259 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="226.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Healthy Mind</text><rect x="16.0" y="82.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Better Thinking</text><rect x="16.0" y="148.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Better Decisions</text><rect x="16.0" y="214.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Better Habits</text><rect x="16.0" y="280.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Better Relationships</text><rect x="16.0" y="346.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Greater Capability</text><rect x="16.0" y="412.0" width="226.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Meaningful Contribution</text><line x1="129.4" y1="56.0" x2="129.4" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="122.0" x2="129.4" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="188.0" x2="129.4" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="254.0" x2="129.4" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="320.0" x2="129.4" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="386.0" x2="129.4" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Mental well-being enables humans to transform knowledge into wise action.
 

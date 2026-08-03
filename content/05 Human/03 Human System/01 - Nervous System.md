@@ -66,31 +66,7 @@ Without rapid communication between organs, complex life would not be possible. 
 
 The nervous system follows a continuous information cycle.
 
-```text
-Environment
-      │
-      ▼
-Sensory Receptors
-      │
-      ▼
-Sensory Neurons
-      │
-      ▼
-Brain & Spinal Cord
-      │
-Information Processing
-      │
-Decision
-      │
-      ▼
-Motor Neurons
-      │
-      ▼
-Muscles & Organs
-      │
-      ▼
-Response
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:251px"><svg width="100%" viewBox="0 0 251 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="218.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Environment</text><rect x="16.0" y="82.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Sensory Receptors</text><rect x="16.0" y="148.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Sensory Neurons</text><rect x="16.0" y="214.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Brain &amp; Spinal Cord</text><rect x="16.0" y="280.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Information Processing</text><rect x="16.0" y="346.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Decision</text><rect x="16.0" y="412.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Motor Neurons</text><rect x="16.0" y="478.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Muscles &amp; Organs</text><rect x="16.0" y="544.0" width="218.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Response</text><line x1="125.3" y1="56.0" x2="125.3" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="122.0" x2="125.3" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="188.0" x2="125.3" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="254.0" x2="125.3" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="320.0" x2="125.3" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="386.0" x2="125.3" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="452.0" x2="125.3" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="518.0" x2="125.3" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Every second, billions of neurons exchange electrical and chemical signals, allowing the body to sense, think, decide, and act. :contentReference[oaicite:2]{index=2}
 
@@ -125,32 +101,7 @@ The autonomic nervous system regulates involuntary functions such as heart rate,
 
 # Reality Connections
 
-```text
-                 Nervous System
-                        │
-      ┌─────────────────┼──────────────────┐
-      │                 │                  │
-  Environment      Sensory Organs      Endocrine System
-      │                 │                  │
-      └─────────────────┼──────────────────┘
-                        ▼
-                 Brain Processing
-                        │
-                        ▼
-       Thoughts • Emotions • Decisions
-                        │
-                        ▼
- Movement • Speech • Memory • Learning
-                        │
-                        ▼
- Organ Systems & Homeostasis
-                        │
-                        ▼
- Human Behaviour
-                        │
-                        ▼
- Society • Technology • Civilization
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 718 308" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Nervous System"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="112.0" width="157.7" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="358.8" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Nervous System</text><rect x="20.0" y="43.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="65.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Cells</text><line x1="110.0" y1="60.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="89.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="86.8" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Organ Systems</text><line x1="153.6" y1="106.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="135.0" width="117.3" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="78.7" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Homeostasis</text><line x1="137.3" y1="152.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="181.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="86.8" y="203.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Human Biology</text><line x1="153.6" y1="198.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="507.7" y="20.0" width="190.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="602.7" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Brain &amp; Neuroscience</text><line x1="437.7" y1="37.0" x2="501.7" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="607.7" y="66.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="652.7" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Mind</text><line x1="437.7" y1="83.0" x2="601.7" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="588.5" y="112.0" width="109.2" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="643.1" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Psychology</text><line x1="437.7" y1="129.0" x2="582.5" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="604.7" y="158.0" width="93.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="651.2" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Learning</text><line x1="437.7" y1="175.0" x2="598.7" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="564.1" y="204.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="630.9" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Consciousness</text><line x1="437.7" y1="221.0" x2="558.1" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="264.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="270.0" width="62.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="51.3" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Brain</text><rect x="92.6" y="270.0" width="111.3" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="148.3" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Spinal Cord</text><rect x="213.9" y="270.0" width="78.8" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="253.3" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Neurons</text><rect x="302.8" y="270.0" width="216.9" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="411.2" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Autonomic Nervous System</text><rect x="529.6" y="270.0" width="87.0" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="573.1" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Reflexes</text></svg></div>
 
 The nervous system connects the external world with every aspect of human biology and behaviour.
 
@@ -191,21 +142,7 @@ Damage to the nervous system can affect movement, memory, language, personality,
 
 ### 👀 Seeing a Red Traffic Light
 
-```text
-Light
-   │
-Eyes
-   │
-Optic Nerve
-   │
-Brain
-   │
-Decision
-   │
-Leg Muscles
-   │
-Brake Pedal
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:172px"><svg width="100%" viewBox="0 0 161 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="129.3" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="80.7" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Light</text><rect x="16.0" y="82.0" width="129.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="80.7" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Eyes</text><rect x="16.0" y="148.0" width="129.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="80.7" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Optic Nerve</text><rect x="16.0" y="214.0" width="129.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="80.7" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Brain</text><rect x="16.0" y="280.0" width="129.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="80.7" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Decision</text><rect x="16.0" y="346.0" width="129.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="80.7" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Leg Muscles</text><rect x="16.0" y="412.0" width="129.3" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="80.7" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Brake Pedal</text><line x1="80.7" y1="56.0" x2="80.7" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="80.7" y1="122.0" x2="80.7" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="80.7" y1="188.0" x2="80.7" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="80.7" y1="254.0" x2="80.7" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="80.7" y1="320.0" x2="80.7" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="80.7" y1="386.0" x2="80.7" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 The nervous system transforms light into action within fractions of a second.
 
@@ -213,17 +150,7 @@ The nervous system transforms light into action within fractions of a second.
 
 ### 🔥 Touching a Hot Surface
 
-```text
-Heat
-   │
-Skin Receptors
-   │
-Spinal Cord
-   │
-Arm Muscles
-   │
-Hand Withdraws
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:186px"><svg width="100%" viewBox="0 0 186 336" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="153.7" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Heat</text><rect x="16.0" y="82.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Skin Receptors</text><rect x="16.0" y="148.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Spinal Cord</text><rect x="16.0" y="214.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Arm Muscles</text><rect x="16.0" y="280.0" width="153.7" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Hand Withdraws</text><line x1="92.8" y1="56.0" x2="92.8" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="122.0" x2="92.8" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="188.0" x2="92.8" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="254.0" x2="92.8" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 The spinal cord can trigger a reflex before the brain becomes consciously aware of the pain. :contentReference[oaicite:4]{index=4}
 
@@ -322,39 +249,7 @@ Different disorders affect different parts of the nervous system, but all disrup
 
 # Root Causes of Nervous System Disease
 
-```text
-Genetics
-      │
-Aging
-      │
-Stroke
-      │
-High Blood Pressure
-      │
-Diabetes
-      │
-Poor Nutrition
-      │
-Sleep Deprivation
-      │
-Smoking
-      │
-Alcohol & Drugs
-      │
-Chronic Stress
-      │
-Head Injury
-      │
-Infections
-      │
-Pollution
-      │
-Autoimmune Disease
-      │
-──────────────────────
-      │
-Neurological Disorders
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:251px"><svg width="100%" viewBox="0 0 251 1062" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="218.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Genetics</text><rect x="16.0" y="82.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Aging</text><rect x="16.0" y="148.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Stroke</text><rect x="16.0" y="214.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">High Blood Pressure</text><rect x="16.0" y="280.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Diabetes</text><rect x="16.0" y="346.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Poor Nutrition</text><rect x="16.0" y="412.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Sleep Deprivation</text><rect x="16.0" y="478.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Smoking</text><rect x="16.0" y="544.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Alcohol &amp; Drugs</text><rect x="16.0" y="610.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="635.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Chronic Stress</text><rect x="16.0" y="676.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="701.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Head Injury</text><rect x="16.0" y="742.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="767.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Infections</text><rect x="16.0" y="808.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="833.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Pollution</text><rect x="16.0" y="874.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="899.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Autoimmune Disease</text><rect x="16.0" y="940.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="965.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">──────────────────────</text><rect x="16.0" y="1006.0" width="218.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="1031.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Neurological Disorders</text><line x1="125.3" y1="56.0" x2="125.3" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="122.0" x2="125.3" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="188.0" x2="125.3" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="254.0" x2="125.3" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="320.0" x2="125.3" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="386.0" x2="125.3" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="452.0" x2="125.3" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="518.0" x2="125.3" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="584.0" x2="125.3" y2="608.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="650.0" x2="125.3" y2="674.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="716.0" x2="125.3" y2="740.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="782.0" x2="125.3" y2="806.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="848.0" x2="125.3" y2="872.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="914.0" x2="125.3" y2="938.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="980.0" x2="125.3" y2="1004.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Neurological diseases often arise from multiple interacting factors rather than a single cause.
 

@@ -51,19 +51,7 @@ Habits form when repeated behaviors strengthen associations between **cues** and
 
 # The Habit System
 
-```text
-Cue
-    │
-Action
-    │
-Reward
-    │
-Repetition
-    │
-Automatic Behavior
-    │
-Habit
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:218px"><svg width="100%" viewBox="0 0 218 402" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="186.2" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Cue</text><rect x="16.0" y="82.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Action</text><rect x="16.0" y="148.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Reward</text><rect x="16.0" y="214.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Repetition</text><rect x="16.0" y="280.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Automatic Behavior</text><rect x="16.0" y="346.0" width="186.2" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Habit</text><line x1="109.1" y1="56.0" x2="109.1" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="122.0" x2="109.1" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="188.0" x2="109.1" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="254.0" x2="109.1" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="320.0" x2="109.1" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 ---
 
@@ -135,17 +123,7 @@ When rewards consistently follow a behavior, the brain becomes more likely to re
 
 # How Habits Form
 
-```text
-Repeated Behavior
-        │
-Consistent Context
-        │
-Cue-Behavior Association
-        │
-Less Conscious Effort
-        │
-Automatic Habit
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:267px"><svg width="100%" viewBox="0 0 267 336" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="234.9" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Repeated Behavior</text><rect x="16.0" y="82.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Consistent Context</text><rect x="16.0" y="148.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Cue-Behavior Association</text><rect x="16.0" y="214.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Less Conscious Effort</text><rect x="16.0" y="280.0" width="234.9" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Automatic Habit</text><line x1="133.4" y1="56.0" x2="133.4" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="122.0" x2="133.4" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="188.0" x2="133.4" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="254.0" x2="133.4" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 With repetition, control gradually shifts from deliberate decision making toward automatic responses triggered by familiar cues. :contentReference[oaicite:6]{index=6}
 
@@ -272,13 +250,7 @@ One effective strategy is linking a new habit to an existing one.
 
 Example:
 
-```text
-Brush Teeth
-      │
-Drink Water
-      │
-Meditate for 2 Minutes
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:251px"><svg width="100%" viewBox="0 0 251 204" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="218.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Brush Teeth</text><rect x="16.0" y="82.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Drink Water</text><rect x="16.0" y="148.0" width="218.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Meditate for 2 Minutes</text><line x1="125.3" y1="56.0" x2="125.3" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="122.0" x2="125.3" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Existing habits provide reliable cues for new behaviors.
 
@@ -347,21 +319,7 @@ Small repeated behaviors often produce larger long-term effects than occasional 
 
 # Reality Connections
 
-```text
-Brain
-     │
-Learning
-     │
-Memory
-     │
-Habits
-     │
-Behavior
-     │
-Lifestyle
-     │
-Life Outcomes
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:178px"><svg width="100%" viewBox="0 0 178 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="145.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Brain</text><rect x="16.0" y="82.0" width="145.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Learning</text><rect x="16.0" y="148.0" width="145.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Memory</text><rect x="16.0" y="214.0" width="145.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Habits</text><rect x="16.0" y="280.0" width="145.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Behavior</text><rect x="16.0" y="346.0" width="145.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Lifestyle</text><rect x="16.0" y="412.0" width="145.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="88.8" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Life Outcomes</text><line x1="88.8" y1="56.0" x2="88.8" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="88.8" y1="122.0" x2="88.8" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="88.8" y1="188.0" x2="88.8" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="88.8" y1="254.0" x2="88.8" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="88.8" y1="320.0" x2="88.8" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="88.8" y1="386.0" x2="88.8" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Habits convert repeated decisions into automatic behavior.
 

@@ -57,29 +57,7 @@ Chronic diseases answer this by showing how repeated biological stress gradually
 
 # The Chronic Disease System
 
-```text
-Genes
-Environment
-Lifestyle
-Aging
-      │
-      ▼
-Risk Factors
-      │
-      ▼
-Cellular Stress
-      │
-      ▼
-Chronic Inflammation
-Metabolic Dysfunction
-Hormonal Changes
-      │
-      ▼
-Organ Damage
-      │
-      ▼
-Chronic Disease
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:243px"><svg width="100%" viewBox="0 0 243 732" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="210.5" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="121.3" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Genes</text><rect x="16.0" y="82.0" width="210.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="121.3" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Environment</text><rect x="16.0" y="148.0" width="210.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="121.3" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Lifestyle</text><rect x="16.0" y="214.0" width="210.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="121.3" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Aging</text><rect x="16.0" y="280.0" width="210.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="121.3" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Risk Factors</text><rect x="16.0" y="346.0" width="210.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="121.3" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Cellular Stress</text><rect x="16.0" y="412.0" width="210.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="121.3" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Chronic Inflammation</text><rect x="16.0" y="478.0" width="210.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="121.3" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Metabolic Dysfunction</text><rect x="16.0" y="544.0" width="210.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="121.3" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Hormonal Changes</text><rect x="16.0" y="610.0" width="210.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="121.3" y="635.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Organ Damage</text><rect x="16.0" y="676.0" width="210.5" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="121.3" y="701.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Chronic Disease</text><line x1="121.3" y1="56.0" x2="121.3" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="121.3" y1="122.0" x2="121.3" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="121.3" y1="188.0" x2="121.3" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="121.3" y1="254.0" x2="121.3" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="121.3" y1="320.0" x2="121.3" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="121.3" y1="386.0" x2="121.3" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="121.3" y1="452.0" x2="121.3" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="121.3" y1="518.0" x2="121.3" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="121.3" y1="584.0" x2="121.3" y2="608.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="121.3" y1="650.0" x2="121.3" y2="674.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Unlike infections, chronic diseases usually develop through years of cumulative biological change.
 
@@ -240,25 +218,7 @@ WHO recognizes that chronic diseases result from the interaction of genetic, phy
 
 # Common Disease Mechanisms
 
-```text
-Lifestyle + Environment
-         │
-         ▼
-Inflammation
-Oxidative Stress
-Insulin Resistance
-High Blood Pressure
-High Cholesterol
-         │
-         ▼
-Cell Damage
-         │
-         ▼
-Organ Damage
-         │
-         ▼
-Chronic Disease
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:259px"><svg width="100%" viewBox="0 0 259 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="226.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Lifestyle + Environment</text><rect x="16.0" y="82.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Inflammation</text><rect x="16.0" y="148.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Oxidative Stress</text><rect x="16.0" y="214.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Insulin Resistance</text><rect x="16.0" y="280.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">High Blood Pressure</text><rect x="16.0" y="346.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">High Cholesterol</text><rect x="16.0" y="412.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Cell Damage</text><rect x="16.0" y="478.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Organ Damage</text><rect x="16.0" y="544.0" width="226.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Chronic Disease</text><line x1="129.4" y1="56.0" x2="129.4" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="122.0" x2="129.4" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="188.0" x2="129.4" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="254.0" x2="129.4" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="320.0" x2="129.4" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="386.0" x2="129.4" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="452.0" x2="129.4" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="518.0" x2="129.4" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Many chronic diseases share these underlying biological mechanisms.
 
@@ -426,17 +386,7 @@ Some Ayurvedic herbs and practices have shown promising results for selected chr
 
 # Prevention
 
-```text
-Healthy Lifestyle
-       │
-Risk Reduction
-       │
-Regular Screening
-       │
-Early Detection
-       │
-Better Outcomes
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:210px"><svg width="100%" viewBox="0 0 210 336" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Healthy Lifestyle</text><rect x="16.0" y="82.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Risk Reduction</text><rect x="16.0" y="148.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Regular Screening</text><rect x="16.0" y="214.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Early Detection</text><rect x="16.0" y="280.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Better Outcomes</text><line x1="105.0" y1="56.0" x2="105.0" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="122.0" x2="105.0" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="188.0" x2="105.0" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="254.0" x2="105.0" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Key preventive measures include:
 
@@ -485,23 +435,7 @@ many people live long, productive lives while effectively managing these conditi
 
 # Reality Connections
 
-```text
-Genes
-Lifestyle
-Environment
-      │
-      ▼
-Chronic Disease
-      │
- ┌────┼──────────────┐
- │    │              │
-Treatment
-Lifestyle Medicine
-Prevention
-      │
-      ▼
-Healthy Aging
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 734 262" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Chronic Diseases"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="89.0" width="173.9" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="367.0" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Chronic Diseases</text><rect x="20.0" y="43.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="65.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Disease</text><line x1="110.0" y1="60.0" x2="280.0" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="89.0" width="174.2" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="107.1" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Disease Mechanisms</text><line x1="194.2" y1="106.0" x2="280.0" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="135.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="82.7" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Risk Factors</text><line x1="145.4" y1="152.0" x2="280.0" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="523.9" y="20.0" width="190.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="618.9" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Cardiovascular Diseases</text><line x1="453.9" y1="37.0" x2="517.9" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="523.9" y="66.0" width="190.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="618.9" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Diabetes &amp; Metabolic Disorders</text><line x1="453.9" y1="83.0" x2="517.9" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="623.9" y="112.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="668.9" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Cancer</text><line x1="453.9" y1="129.0" x2="617.9" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="531.6" y="158.0" width="182.3" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="622.8" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Preventive Medicine</text><line x1="453.9" y1="175.0" x2="525.6" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="218.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="224.0" width="168.2" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="104.1" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Lifestyle Medicine</text><rect x="198.2" y="224.0" width="151.9" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="274.1" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Health Promotion</text><rect x="360.1" y="224.0" width="127.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="423.9" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Healthy Aging</text><rect x="497.6" y="224.0" width="119.4" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="557.4" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Inflammation</text></svg></div>
 
 ---
 

@@ -51,19 +51,7 @@ Adulthood answers one of the most important questions in human development:
 
 # The Journey of Adulthood
 
-```text
-Puberty
-     │
-Emerging Adulthood
-     │
-Early Adulthood
-     │
-Middle Adulthood
-     │
-Late Adulthood
-     │
-Healthy Aging
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:218px"><svg width="100%" viewBox="0 0 218 402" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="186.2" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Puberty</text><rect x="16.0" y="82.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Emerging Adulthood</text><rect x="16.0" y="148.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Early Adulthood</text><rect x="16.0" y="214.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Middle Adulthood</text><rect x="16.0" y="280.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Late Adulthood</text><rect x="16.0" y="346.0" width="186.2" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Healthy Aging</text><line x1="109.1" y1="56.0" x2="109.1" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="122.0" x2="109.1" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="188.0" x2="109.1" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="254.0" x2="109.1" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="320.0" x2="109.1" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Development does not stop after puberty.
 
@@ -182,17 +170,7 @@ Many age-related changes are influenced by lifestyle as well as biology. :conten
 
 Although physical growth ends, the brain continues developing.
 
-```text
-Experience
-      │
-Learning
-      │
-Neuroplasticity
-      │
-Better Judgment
-      │
-Wisdom
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:194px"><svg width="100%" viewBox="0 0 194 336" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="161.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Experience</text><rect x="16.0" y="82.0" width="161.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Learning</text><rect x="16.0" y="148.0" width="161.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Neuroplasticity</text><rect x="16.0" y="214.0" width="161.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Better Judgment</text><rect x="16.0" y="280.0" width="161.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Wisdom</text><line x1="96.9" y1="56.0" x2="96.9" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="96.9" y1="122.0" x2="96.9" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="96.9" y1="188.0" x2="96.9" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="96.9" y1="254.0" x2="96.9" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 The prefrontal cortex continues maturing into the mid-20s, and adults continue learning through neuroplasticity throughout life. :contentReference[oaicite:8]{index=8}
 
@@ -232,23 +210,7 @@ These roles vary greatly among individuals and cultures.
 
 # Reality Connections
 
-```text
-               Adulthood
-                    │
-      ┌─────────────┼──────────────┐
-      │             │              │
- Biology      Experience      Society
-      │             │              │
-      └─────────────┼──────────────┘
-                    ▼
- Health • Learning • Work
-                    │
-                    ▼
- Family • Community
-                    │
-                    ▼
- Civilization
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 700 308" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Adulthood"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="112.0" width="140.0" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="350.0" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Adulthood</text><rect x="20.0" y="20.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Puberty</text><line x1="110.0" y1="37.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="66.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Brain</text><line x1="110.0" y1="83.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="112.0" width="93.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="66.5" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Learning</text><line x1="113.0" y1="129.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="158.0" width="149.8" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="94.9" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Neuroplasticity</text><line x1="169.8" y1="175.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="204.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="103.0" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Lifestyle Biology</text><line x1="186.0" y1="221.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="546.4" y="20.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="613.2" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Healthy Aging</text><line x1="420.0" y1="37.0" x2="540.4" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="578.9" y="66.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="629.5" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Parenting</text><line x1="420.0" y1="83.0" x2="572.9" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="590.0" y="112.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Career</text><line x1="420.0" y1="129.0" x2="584.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="590.0" y="158.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Society</text><line x1="420.0" y1="175.0" x2="584.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="578.9" y="204.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="629.5" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Longevity</text><line x1="420.0" y1="221.0" x2="572.9" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="264.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="270.0" width="103.2" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="71.6" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Healthspan</text><rect x="133.2" y="270.0" width="70.7" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="168.6" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Stress</text><rect x="213.9" y="270.0" width="87.0" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="257.4" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Exercise</text><rect x="310.9" y="270.0" width="95.1" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="358.4" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Nutrition</text><rect x="416.0" y="270.0" width="127.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="479.7" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Mental Health</text><rect x="553.5" y="270.0" width="78.8" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="592.9" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Purpose</text></svg></div>
 
 Adulthood connects biology with responsibility, productivity, and social contribution.
 
@@ -274,17 +236,7 @@ Most human achievements occur during adulthood because knowledge, experience, an
 
 ### 💼 Building a Career
 
-```text
-Education
-     │
-Experience
-     │
-Skill
-     │
-Expertise
-     │
-Contribution
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:172px"><svg width="100%" viewBox="0 0 169 336" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="137.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="84.7" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Education</text><rect x="16.0" y="82.0" width="137.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="84.7" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Experience</text><rect x="16.0" y="148.0" width="137.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="84.7" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Skill</text><rect x="16.0" y="214.0" width="137.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="84.7" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Expertise</text><rect x="16.0" y="280.0" width="137.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="84.7" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Contribution</text><line x1="84.7" y1="56.0" x2="84.7" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="84.7" y1="122.0" x2="84.7" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="84.7" y1="188.0" x2="84.7" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="84.7" y1="254.0" x2="84.7" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Professional competence develops through years of practice and continuous learning.
 
@@ -355,23 +307,7 @@ Healthy adulthood depends on maintaining physical, mental, emotional, and social
 
 Adults may face:
 
-```text
-Stress
-     │
-Work Demands
-     │
-Chronic Disease
-     │
-Poor Lifestyle
-     │
-Relationship Challenges
-     │
-Financial Pressure
-     │
-────────────────────
-     │
-Reduced Well-being
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:259px"><svg width="100%" viewBox="0 0 259 534" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="226.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Stress</text><rect x="16.0" y="82.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Work Demands</text><rect x="16.0" y="148.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Chronic Disease</text><rect x="16.0" y="214.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Poor Lifestyle</text><rect x="16.0" y="280.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Relationship Challenges</text><rect x="16.0" y="346.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Financial Pressure</text><rect x="16.0" y="412.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">────────────────────</text><rect x="16.0" y="478.0" width="226.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Reduced Well-being</text><line x1="129.4" y1="56.0" x2="129.4" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="122.0" x2="129.4" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="188.0" x2="129.4" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="254.0" x2="129.4" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="320.0" x2="129.4" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="386.0" x2="129.4" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="452.0" x2="129.4" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Many challenges can be reduced through healthy habits, supportive relationships, preventive healthcare, and lifelong learning.
 

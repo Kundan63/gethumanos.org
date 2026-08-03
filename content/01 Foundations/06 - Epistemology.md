@@ -78,29 +78,7 @@ Rather than producing new scientific discoveries, epistemology evaluates **how t
 
 # Reality Connections
 
-```text
-                     Epistemology
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-      Knowledge         Science        Philosophy
-          │                │                │
-          └────────────┬───┘                │
-                       │                    │
-                 Human Understanding       │
-                       │                    │
-               Better Judgement            │
-                       │                    │
-          Education • Research • Medicine
-                       │
- Business • Economics • Politics • Law
-                       │
-          Technology • Artificial Intelligence
-                       │
-             Better Human Decisions
-                       │
-               Better Human Life
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 701 308" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Epistemology"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="112.0" width="141.4" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="350.7" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Epistemology</text><rect x="20.0" y="43.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="103.0" y="65.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Critical Thinking</text><line x1="186.0" y1="60.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="89.0" width="157.9" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="99.0" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Systems Thinking</text><line x1="177.9" y1="106.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="135.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="103.0" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Scientific Method</text><line x1="186.0" y1="152.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="181.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="203.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Logic</text><line x1="110.0" y1="198.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="491.4" y="20.0" width="190.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="586.4" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Philosophy of Knowledge</text><line x1="421.4" y1="37.0" x2="485.4" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="588.5" y="66.0" width="93.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Universe</text><line x1="421.4" y1="83.0" x2="582.5" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="523.5" y="112.0" width="157.9" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="602.5" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Natural Sciences</text><line x1="421.4" y1="129.0" x2="517.5" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="531.6" y="158.0" width="149.8" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="606.5" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Decision Making</text><line x1="421.4" y1="175.0" x2="525.6" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="588.5" y="204.0" width="93.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Research</text><line x1="421.4" y1="221.0" x2="582.5" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="264.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="270.0" width="111.3" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="75.7" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Mathematics</text><rect x="141.3" y="270.0" width="87.0" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="184.8" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Learning</text><rect x="238.3" y="270.0" width="103.2" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="289.9" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Philosophy</text></svg></div>
 
 Epistemology ensures that the knowledge used to shape civilization is as reliable as possible.
 

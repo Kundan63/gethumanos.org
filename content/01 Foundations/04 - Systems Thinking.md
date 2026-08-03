@@ -78,26 +78,7 @@ This is called a **feedback loop** and is one of the defining characteristics of
 
 # Reality Connections
 
-```text
-                     Systems Thinking
-                              │
-        ┌─────────────────────┼─────────────────────┐
-        │                     │                     │
-     Universe             Natural World         Human Life
-        │                     │                     │
- Physical Laws         Ecosystems            Human Body
-        │                     │                     │
-    Climate              Evolution             Brain
-        │                     │                     │
-      Society          Economics           Technology
-        │                     │                     │
- Philosophy             Civilization      Environment
-        └─────────────────────┼─────────────────────┘
-                              │
-                     Better Decisions
-                              │
-                     Better Human Life
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 734 354" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Systems Thinking"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="135.0" width="173.9" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="367.0" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Systems Thinking</text><rect x="20.0" y="135.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="103.0" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Scientific Method</text><line x1="186.0" y1="152.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="547.9" y="20.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="630.9" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Critical Thinking</text><line x1="453.9" y1="37.0" x2="541.9" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="623.9" y="66.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="668.9" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Physics</text><line x1="453.9" y1="83.0" x2="617.9" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="612.8" y="112.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="663.4" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Chemistry</text><line x1="453.9" y1="129.0" x2="606.8" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="580.4" y="158.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="647.1" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Earth Science</text><line x1="453.9" y1="175.0" x2="574.4" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="623.9" y="204.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="668.9" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Ecology</text><line x1="453.9" y1="221.0" x2="617.9" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="623.9" y="250.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="668.9" y="272.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Human</text><line x1="453.9" y1="267.0" x2="617.9" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="310.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="316.0" width="62.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="51.3" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Logic</text><rect x="92.6" y="316.0" width="119.4" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="152.3" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Epistemology</text><rect x="222.0" y="316.0" width="143.8" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="293.9" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Decision Making</text><rect x="375.8" y="316.0" width="192.5" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="472.1" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Environmental Science</text></svg></div>
 
 ---
 

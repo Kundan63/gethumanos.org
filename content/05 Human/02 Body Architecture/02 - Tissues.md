@@ -58,27 +58,7 @@ Working together, they create tissues.
 
 Different tissues then combine to build organs.
 
-```text
-         Cells
-           │
-           ▼
- Similar Specialized Cells
-           │
-           ▼
-        Tissues
-           │
-           ▼
- Different Tissues
-           │
-           ▼
-         Organs
-           │
-           ▼
-     Organ Systems
-           │
-           ▼
-      Human Body
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:275px"><svg width="100%" viewBox="0 0 275 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="243.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Cells</text><rect x="16.0" y="82.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Similar Specialized Cells</text><rect x="16.0" y="148.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Tissues</text><rect x="16.0" y="214.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Different Tissues</text><rect x="16.0" y="280.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Organs</text><rect x="16.0" y="346.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Organ Systems</text><rect x="16.0" y="412.0" width="243.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Human Body</text><line x1="137.5" y1="56.0" x2="137.5" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="122.0" x2="137.5" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="188.0" x2="137.5" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="254.0" x2="137.5" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="320.0" x2="137.5" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="386.0" x2="137.5" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Each tissue type has a unique structure that allows it to perform its specific function.
 
@@ -181,32 +161,7 @@ These four tissue types form the structural foundation of every organ in the bod
 
 # Reality Connections
 
-```text
-                      Tissues
-                         │
-      ┌──────────────────┼──────────────────┐
-      │                  │                  │
-      Cells         Genetics          Biochemistry
-      │                  │                  │
-      └──────────────────┼──────────────────┘
-                         ▼
-                 Specialized Functions
-                         │
-                         ▼
-                     Organs
-                         │
-                         ▼
-                  Organ Systems
-                         │
-                         ▼
-                   Human Body
-                         │
-                         ▼
-             Health • Disease • Aging
-                         │
-                         ▼
-          Medicine • Society • Civilization
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 700 308" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Tissues"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="112.0" width="140.0" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="350.0" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Tissues</text><rect x="20.0" y="66.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Cells</text><line x1="110.0" y1="83.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="112.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="82.7" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Cell Biology</text><line x1="145.4" y1="129.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="158.0" width="93.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="66.5" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Genetics</text><line x1="113.0" y1="175.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="590.0" y="20.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Organs</text><line x1="420.0" y1="37.0" x2="584.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="546.4" y="66.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="613.2" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Organ Systems</text><line x1="420.0" y1="83.0" x2="540.4" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="562.7" y="112.0" width="117.3" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="621.3" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Homeostasis</text><line x1="420.0" y1="129.0" x2="556.7" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="570.8" y="158.0" width="109.2" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="625.4" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Physiology</text><line x1="420.0" y1="175.0" x2="564.8" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="505.8" y="204.0" width="174.2" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="592.9" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Disease &amp; Medicine</text><line x1="420.0" y1="221.0" x2="499.8" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="264.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="270.0" width="160.0" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="100.0" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Epithelial Tissue</text><rect x="190.0" y="270.0" width="160.0" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="270.1" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Connective Tissue</text><rect x="360.1" y="270.0" width="127.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="423.9" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Muscle Tissue</text><rect x="497.6" y="270.0" width="135.7" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="565.5" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Nervous Tissue</text></svg></div>
 
 Tissues connect microscopic cellular biology with the functioning human body.
 
@@ -382,58 +337,15 @@ Questions about meaning and purpose are explored later in HumanOS.
 
 Healthy tissues depend upon healthy cells.
 
-```text
-Healthy Cells
-       │
-       ▼
-Healthy Tissues
-       │
-       ▼
-Healthy Organs
-       │
-       ▼
-Healthy Human
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:194px"><svg width="100%" viewBox="0 0 194 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="161.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Healthy Cells</text><rect x="16.0" y="82.0" width="161.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Healthy Tissues</text><rect x="16.0" y="148.0" width="161.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Healthy Organs</text><rect x="16.0" y="214.0" width="161.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="96.9" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Healthy Human</text><line x1="96.9" y1="56.0" x2="96.9" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="96.9" y1="122.0" x2="96.9" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="96.9" y1="188.0" x2="96.9" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Many factors influence tissue health:
 
-```text
-Balanced Nutrition
-Exercise
-Quality Sleep
-Good Blood Supply
-Healthy Hormones
-Normal Immunity
-Clean Environment
-Healthy Aging
-        │
-        ▼
- Healthy Tissue Function
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:259px"><svg width="100%" viewBox="0 0 259 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="226.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Balanced Nutrition</text><rect x="16.0" y="82.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Exercise</text><rect x="16.0" y="148.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Quality Sleep</text><rect x="16.0" y="214.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Good Blood Supply</text><rect x="16.0" y="280.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Healthy Hormones</text><rect x="16.0" y="346.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Normal Immunity</text><rect x="16.0" y="412.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Clean Environment</text><rect x="16.0" y="478.0" width="226.8" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Healthy Aging</text><rect x="16.0" y="544.0" width="226.8" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="129.4" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Healthy Tissue Function</text><line x1="129.4" y1="56.0" x2="129.4" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="122.0" x2="129.4" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="188.0" x2="129.4" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="254.0" x2="129.4" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="320.0" x2="129.4" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="386.0" x2="129.4" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="452.0" x2="129.4" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="129.4" y1="518.0" x2="129.4" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Factors that damage tissues include:
 
-```text
-Smoking
-Poor Nutrition
-Physical Inactivity
-Alcohol Misuse
-Chronic Stress
-Air Pollution
-Radiation
-Infections
-Autoimmune Disease
-Trauma
-        │
-        ▼
- Tissue Damage
-        │
-        ▼
- Organ Dysfunction
-        │
-        ▼
- Disease
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:226px"><svg width="100%" viewBox="0 0 226 864" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="194.3" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Smoking</text><rect x="16.0" y="82.0" width="194.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Poor Nutrition</text><rect x="16.0" y="148.0" width="194.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Physical Inactivity</text><rect x="16.0" y="214.0" width="194.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Alcohol Misuse</text><rect x="16.0" y="280.0" width="194.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Chronic Stress</text><rect x="16.0" y="346.0" width="194.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Air Pollution</text><rect x="16.0" y="412.0" width="194.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Radiation</text><rect x="16.0" y="478.0" width="194.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Infections</text><rect x="16.0" y="544.0" width="194.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Autoimmune Disease</text><rect x="16.0" y="610.0" width="194.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="635.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Trauma</text><rect x="16.0" y="676.0" width="194.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="701.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Tissue Damage</text><rect x="16.0" y="742.0" width="194.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="767.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Organ Dysfunction</text><rect x="16.0" y="808.0" width="194.3" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="113.1" y="833.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Disease</text><line x1="113.1" y1="56.0" x2="113.1" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="113.1" y1="122.0" x2="113.1" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="113.1" y1="188.0" x2="113.1" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="113.1" y1="254.0" x2="113.1" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="113.1" y1="320.0" x2="113.1" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="113.1" y1="386.0" x2="113.1" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="113.1" y1="452.0" x2="113.1" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="113.1" y1="518.0" x2="113.1" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="113.1" y1="584.0" x2="113.1" y2="608.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="113.1" y1="650.0" x2="113.1" y2="674.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="113.1" y1="716.0" x2="113.1" y2="740.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="113.1" y1="782.0" x2="113.1" y2="806.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Different diseases affect different tissue types, but tissue damage is a common pathway through which many illnesses impair organ function. :contentReference[oaicite:4]{index=4}
 

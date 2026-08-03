@@ -53,24 +53,7 @@ This specialization increases:
 
 Every experience involves multiple regions working together.
 
-```text
-Environment
-      │
-      ▼
-Sensory Input
-      │
-      ▼
-Specialized Brain Regions
-      │
-      ▼
-Information Integration
-      │
-      ▼
-Decision Making
-      │
-      ▼
-Behaviour
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:275px"><svg width="100%" viewBox="0 0 275 402" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="243.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Environment</text><rect x="16.0" y="82.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Sensory Input</text><rect x="16.0" y="148.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Specialized Brain Regions</text><rect x="16.0" y="214.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Information Integration</text><rect x="16.0" y="280.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Decision Making</text><rect x="16.0" y="346.0" width="243.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Behaviour</text><line x1="137.5" y1="56.0" x2="137.5" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="122.0" x2="137.5" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="188.0" x2="137.5" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="254.0" x2="137.5" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="320.0" x2="137.5" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 The brain operates through **distributed neural networks**.
 
@@ -252,15 +235,7 @@ Rather than being a single organ, it is a functional network. :contentReference[
 
 # Cerebellum
 
-```text
-Cerebellum
-      │
-      ▼
-Balance
-Coordination
-Motor Learning
-Precision
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:186px"><svg width="100%" viewBox="0 0 186 336" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="153.7" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Cerebellum</text><rect x="16.0" y="82.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Balance</text><rect x="16.0" y="148.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Coordination</text><rect x="16.0" y="214.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Motor Learning</text><rect x="16.0" y="280.0" width="153.7" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Precision</text><line x1="92.8" y1="56.0" x2="92.8" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="122.0" x2="92.8" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="188.0" x2="92.8" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="254.0" x2="92.8" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 The cerebellum fine-tunes movement, maintains posture, and helps us learn complex motor skills such as writing, cycling, or playing musical instruments.
 
@@ -295,29 +270,7 @@ The brainstem connects the brain with the spinal cord and is essential for survi
 
 # How Brain Regions Work Together
 
-```text
-See an Apple
-      │
-Occipital Lobe
-(Vision)
-      │
-Temporal Lobe
-(Recognition)
-      │
-Parietal Lobe
-(Location)
-      │
-Frontal Lobe
-(Decision)
-      │
-Motor Cortex
-(Reach)
-      │
-Cerebellum
-(Coordination)
-      │
-Pick Up Apple
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:186px"><svg width="100%" viewBox="0 0 186 930" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="153.7" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">See an Apple</text><rect x="16.0" y="82.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Occipital Lobe</text><rect x="16.0" y="148.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Vision)</text><rect x="16.0" y="214.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Temporal Lobe</text><rect x="16.0" y="280.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Recognition)</text><rect x="16.0" y="346.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Parietal Lobe</text><rect x="16.0" y="412.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Location)</text><rect x="16.0" y="478.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Frontal Lobe</text><rect x="16.0" y="544.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Decision)</text><rect x="16.0" y="610.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="635.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Motor Cortex</text><rect x="16.0" y="676.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="701.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Reach)</text><rect x="16.0" y="742.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="767.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Cerebellum</text><rect x="16.0" y="808.0" width="153.7" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="833.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Coordination)</text><rect x="16.0" y="874.0" width="153.7" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="92.8" y="899.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Pick Up Apple</text><line x1="92.8" y1="56.0" x2="92.8" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="122.0" x2="92.8" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="188.0" x2="92.8" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="254.0" x2="92.8" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="320.0" x2="92.8" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="386.0" x2="92.8" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="452.0" x2="92.8" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="518.0" x2="92.8" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="584.0" x2="92.8" y2="608.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="650.0" x2="92.8" y2="674.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="716.0" x2="92.8" y2="740.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="782.0" x2="92.8" y2="806.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="92.8" y1="848.0" x2="92.8" y2="872.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 No single region performs this entire task.
 
@@ -327,29 +280,7 @@ The brain succeeds because specialized regions cooperate continuously.
 
 # Reality Connections
 
-```text
-               Brain Regions
-                     │
-     ┌───────────────┼────────────────┐
-     │               │                │
- Neurons       Synapses       Neurotransmitters
-     │               │                │
-     └───────────────┼────────────────┘
-                     ▼
-           Neural Networks
-                     │
-                     ▼
-Memory • Learning • Emotion
-                     │
-                     ▼
-Decision Making • Language
-                     │
-                     ▼
-Behaviour
-                     │
-                     ▼
-Human Civilization
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 710 262" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Brain Regions"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="89.0" width="149.6" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="354.8" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Brain Regions</text><rect x="20.0" y="20.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Brain</text><line x1="110.0" y1="37.0" x2="280.0" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="66.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Neurons</text><line x1="110.0" y1="83.0" x2="280.0" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="112.0" width="93.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="66.5" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Synapses</text><line x1="113.0" y1="129.0" x2="280.0" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="158.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="103.0" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Neurotransmitters</text><line x1="186.0" y1="175.0" x2="280.0" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="599.6" y="20.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="644.6" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Memory</text><line x1="429.6" y1="37.0" x2="593.6" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="596.6" y="66.0" width="93.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="643.1" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Learning</text><line x1="429.6" y1="83.0" x2="590.6" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="596.6" y="112.0" width="93.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="643.1" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Language</text><line x1="429.6" y1="129.0" x2="590.6" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="556.0" y="158.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="622.8" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Consciousness</text><line x1="429.6" y1="175.0" x2="550.0" y2="106.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="218.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="224.0" width="119.4" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="79.7" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Frontal Lobe</text><rect x="149.4" y="224.0" width="127.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="213.2" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Temporal Lobe</text><rect x="287.0" y="224.0" width="127.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="350.8" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Parietal Lobe</text><rect x="424.6" y="224.0" width="135.7" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="492.4" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Occipital Lobe</text><rect x="570.2" y="224.0" width="103.2" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="621.8" y="242.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Cerebellum</text></svg></div>
 
 Brain regions transform simple neural signals into the complex abilities that define humanity.
 
@@ -380,19 +311,7 @@ Understanding brain regions also improves education, rehabilitation, and brain-c
 
 ### 📖 Reading
 
-```text
-Eyes
-   │
-Occipital Lobe
-   │
-Temporal Lobe
-   │
-Language Areas
-   │
-Prefrontal Cortex
-   │
-Understanding
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:210px"><svg width="100%" viewBox="0 0 210 402" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Eyes</text><rect x="16.0" y="82.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Occipital Lobe</text><rect x="16.0" y="148.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Temporal Lobe</text><rect x="16.0" y="214.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Language Areas</text><rect x="16.0" y="280.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Prefrontal Cortex</text><rect x="16.0" y="346.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Understanding</text><line x1="105.0" y1="56.0" x2="105.0" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="122.0" x2="105.0" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="188.0" x2="105.0" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="254.0" x2="105.0" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="320.0" x2="105.0" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Reading requires coordinated activity across multiple brain regions.
 
@@ -413,19 +332,7 @@ to produce smooth movement.
 
 ### 😊 Recognizing a Friend
 
-```text
-Eyes
-   │
-Occipital Lobe
-   │
-Temporal Lobe
-(Face Recognition)
-   │
-Limbic System
-(Emotion)
-   │
-Memory
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:218px"><svg width="100%" viewBox="0 0 218 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="186.2" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Eyes</text><rect x="16.0" y="82.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Occipital Lobe</text><rect x="16.0" y="148.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Temporal Lobe</text><rect x="16.0" y="214.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Face Recognition)</text><rect x="16.0" y="280.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Limbic System</text><rect x="16.0" y="346.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Emotion)</text><rect x="16.0" y="412.0" width="186.2" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Memory</text><line x1="109.1" y1="56.0" x2="109.1" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="122.0" x2="109.1" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="188.0" x2="109.1" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="254.0" x2="109.1" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="320.0" x2="109.1" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="386.0" x2="109.1" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Recognition is both perceptual and emotional.
 
@@ -491,27 +398,7 @@ Symptoms depend largely on **which brain regions or networks are affected**, not
 
 # Root Causes of Brain Region Damage
 
-```text
-Genetics
-      │
-Stroke
-      │
-Head Injury
-      │
-Neurodegenerative Disease
-      │
-Infection
-      │
-Brain Tumors
-      │
-Poor Blood Supply
-      │
-Chronic Disease
-      │
-──────────────────────
-      │
-Brain Dysfunction
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:275px"><svg width="100%" viewBox="0 0 275 666" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="243.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Genetics</text><rect x="16.0" y="82.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Stroke</text><rect x="16.0" y="148.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Head Injury</text><rect x="16.0" y="214.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Neurodegenerative Disease</text><rect x="16.0" y="280.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Infection</text><rect x="16.0" y="346.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Brain Tumors</text><rect x="16.0" y="412.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Poor Blood Supply</text><rect x="16.0" y="478.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Chronic Disease</text><rect x="16.0" y="544.0" width="243.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">──────────────────────</text><rect x="16.0" y="610.0" width="243.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="137.5" y="635.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Brain Dysfunction</text><line x1="137.5" y1="56.0" x2="137.5" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="122.0" x2="137.5" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="188.0" x2="137.5" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="254.0" x2="137.5" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="320.0" x2="137.5" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="386.0" x2="137.5" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="452.0" x2="137.5" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="518.0" x2="137.5" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="137.5" y1="584.0" x2="137.5" y2="608.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 ---
 

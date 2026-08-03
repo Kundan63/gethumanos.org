@@ -46,30 +46,7 @@ Matter is therefore the physical foundation of reality.
 
 Matter is organized hierarchically.
 
-```text
-Subatomic Particles
-        │
-        ▼
-Atoms
-        │
-        ▼
-Molecules
-        │
-        ▼
-Materials
-        │
-        ▼
-Living Cells
-        │
-        ▼
-Organs
-        │
-        ▼
-Human Body
-        │
-        ▼
-Society & Civilization
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:251px"><svg width="100%" viewBox="0 0 251 534" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="218.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Subatomic Particles</text><rect x="16.0" y="82.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Atoms</text><rect x="16.0" y="148.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Molecules</text><rect x="16.0" y="214.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Materials</text><rect x="16.0" y="280.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Living Cells</text><rect x="16.0" y="346.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Organs</text><rect x="16.0" y="412.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Human Body</text><rect x="16.0" y="478.0" width="218.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Society &amp; Civilization</text><line x1="125.3" y1="56.0" x2="125.3" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="122.0" x2="125.3" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="188.0" x2="125.3" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="254.0" x2="125.3" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="320.0" x2="125.3" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="386.0" x2="125.3" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="452.0" x2="125.3" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Different arrangements of atoms produce different materials.
 
@@ -85,39 +62,7 @@ Small differences at the atomic level create enormous differences in the physica
 
 # Reality Connections
 
-```text
-                          Matter
-                             │
-        ┌────────────────────┼────────────────────┐
-        │                    │                    │
-     Universe          Physical World        Human World
-        │                    │                    │
-        ▼                    ▼                    ▼
- Stars & Galaxies      Atoms & Molecules      Human Body
-        │                    │                    │
-        ▼                    ▼                    ▼
-     Planets            Chemistry          Cells & Organs
-        │                    │                    │
-        ▼                    ▼                    ▼
-      Earth            Materials            Brain
-        │                    │                    │
-        └───────────────┬────┴───────────────┐
-                        ▼                    ▼
-                       Life            Human Mind
-                        │                    │
-                        └──────────┬─────────┘
-                                   ▼
-                              Behaviour
-                                   │
-                                   ▼
-         Society • Economy • Technology • Civilization
-                                   │
-                                   ▼
-                          Health • Sustainability
-                                   │
-                                   ▼
-                             Living Well
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 700 308" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Matter"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="112.0" width="140.0" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="350.0" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Matter</text><rect x="20.0" y="89.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Space</text><line x1="110.0" y1="106.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="135.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Time</text><line x1="110.0" y1="152.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="590.0" y="20.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Energy</text><line x1="420.0" y1="37.0" x2="584.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="546.4" y="66.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="613.2" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Physical Laws</text><line x1="420.0" y1="83.0" x2="540.4" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="578.9" y="112.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="629.5" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Chemistry</text><line x1="420.0" y1="129.0" x2="572.9" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="546.4" y="158.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="613.2" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Life Sciences</text><line x1="420.0" y1="175.0" x2="540.4" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="590.0" y="204.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Human</text><line x1="420.0" y1="221.0" x2="584.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="264.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="270.0" width="78.8" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="59.4" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Physics</text><rect x="108.8" y="270.0" width="62.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="140.1" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Atoms</text><rect x="181.4" y="270.0" width="87.0" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="224.9" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Universe</text></svg></div>
 
 Matter connects the physical Universe to every aspect of human existence.
 
@@ -227,21 +172,7 @@ Human civilization can be viewed as the organization and transformation of matte
 
 History is often described by the materials humans learned to use:
 
-```text
-Stone Age
-      │
-      ▼
-Bronze Age
-      │
-      ▼
-Iron Age
-      │
-      ▼
-Steel Age
-      │
-      ▼
-Silicon Age
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:172px"><svg width="100%" viewBox="0 0 161 336" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="129.3" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="80.7" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Stone Age</text><rect x="16.0" y="82.0" width="129.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="80.7" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Bronze Age</text><rect x="16.0" y="148.0" width="129.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="80.7" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Iron Age</text><rect x="16.0" y="214.0" width="129.3" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="80.7" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Steel Age</text><rect x="16.0" y="280.0" width="129.3" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="80.7" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Silicon Age</text><line x1="80.7" y1="56.0" x2="80.7" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="80.7" y1="122.0" x2="80.7" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="80.7" y1="188.0" x2="80.7" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="80.7" y1="254.0" x2="80.7" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Each major civilization advanced because humans learned to understand and manipulate matter more effectively.
 

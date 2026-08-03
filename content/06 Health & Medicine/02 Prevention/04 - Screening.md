@@ -75,21 +75,9 @@ Screening is the **first step**, not the final answer.
 
 # Screening vs Diagnosis
 
-```text
-Screening
-     │
-Healthy Population
-     │
-Find Higher-Risk Individuals
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:299px"><svg width="100%" viewBox="0 0 299 204" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="267.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="149.7" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Screening</text><rect x="16.0" y="82.0" width="267.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="149.7" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Healthy Population</text><rect x="16.0" y="148.0" width="267.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="149.7" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Find Higher-Risk Individuals</text><line x1="149.7" y1="56.0" x2="149.7" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="149.7" y1="122.0" x2="149.7" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
-```text
-Diagnosis
-      │
-Symptoms or Positive Screen
-      │
-Confirm Disease
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:291px"><svg width="100%" viewBox="0 0 291 204" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="259.2" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="145.6" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Diagnosis</text><rect x="16.0" y="82.0" width="259.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="145.6" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Symptoms or Positive Screen</text><rect x="16.0" y="148.0" width="259.2" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="145.6" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Confirm Disease</text><line x1="145.6" y1="56.0" x2="145.6" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="145.6" y1="122.0" x2="145.6" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 | Screening | Diagnosis |
 |-----------|-----------|
@@ -212,13 +200,7 @@ Example:
 
 # Benefits of Screening
 
-```text
-Early Detection
-      │
-Earlier Treatment
-      │
-Better Outcomes
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:210px"><svg width="100%" viewBox="0 0 210 204" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Early Detection</text><rect x="16.0" y="82.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Earlier Treatment</text><rect x="16.0" y="148.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Better Outcomes</text><line x1="105.0" y1="56.0" x2="105.0" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="122.0" x2="105.0" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Potential benefits include:
 
@@ -261,20 +243,7 @@ Because of these risks, screening should be evidence-based rather than performed
 
 # Reality Connections
 
-```text
-Risk Factors
-      │
-      ▼
-Screening
-      │
-Early Detection
-      │
-Diagnosis
-      │
-Treatment
-      │
-Better Health Outcomes
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:251px"><svg width="100%" viewBox="0 0 251 402" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="218.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Risk Factors</text><rect x="16.0" y="82.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Screening</text><rect x="16.0" y="148.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Early Detection</text><rect x="16.0" y="214.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Diagnosis</text><rect x="16.0" y="280.0" width="218.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Treatment</text><rect x="16.0" y="346.0" width="218.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="125.3" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Better Health Outcomes</text><line x1="125.3" y1="56.0" x2="125.3" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="122.0" x2="125.3" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="188.0" x2="125.3" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="254.0" x2="125.3" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="125.3" y1="320.0" x2="125.3" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Screening connects epidemiology, diagnostics, preventive medicine, oncology, cardiology, endocrinology, and public health.
 
@@ -298,55 +267,25 @@ However, unnecessary screening may expose people to harm without clear benefit, 
 
 ### ❤️ Blood Pressure Screening
 
-```text
-No Symptoms
-      │
-Blood Pressure Check
-      │
-Hypertension Found
-      │
-Treatment Begins
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:234px"><svg width="100%" viewBox="0 0 234 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="202.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">No Symptoms</text><rect x="16.0" y="82.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Blood Pressure Check</text><rect x="16.0" y="148.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Hypertension Found</text><rect x="16.0" y="214.0" width="202.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Treatment Begins</text><line x1="117.2" y1="56.0" x2="117.2" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="122.0" x2="117.2" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="188.0" x2="117.2" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 ---
 
 ### 🍬 Diabetes Screening
 
-```text
-Risk Factors
-      │
-Blood Test
-      │
-Prediabetes Found
-      │
-Lifestyle Changes
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:210px"><svg width="100%" viewBox="0 0 210 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Risk Factors</text><rect x="16.0" y="82.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Blood Test</text><rect x="16.0" y="148.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Prediabetes Found</text><rect x="16.0" y="214.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Lifestyle Changes</text><line x1="105.0" y1="56.0" x2="105.0" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="122.0" x2="105.0" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="188.0" x2="105.0" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 ---
 
 ### 🎗 Breast Cancer Screening
 
-```text
-Routine Mammogram
-        │
-Small Tumor Found
-        │
-Earlier Treatment
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:210px"><svg width="100%" viewBox="0 0 210 204" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Routine Mammogram</text><rect x="16.0" y="82.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Small Tumor Found</text><rect x="16.0" y="148.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Earlier Treatment</text><line x1="105.0" y1="56.0" x2="105.0" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="122.0" x2="105.0" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 ---
 
 ### 👶 Newborn Screening
 
-```text
-Birth
-   │
-Blood Sample
-   │
-Rare Disease Found
-   │
-Early Treatment
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:218px"><svg width="100%" viewBox="0 0 218 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="186.2" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Birth</text><rect x="16.0" y="82.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Blood Sample</text><rect x="16.0" y="148.0" width="186.2" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Rare Disease Found</text><rect x="16.0" y="214.0" width="186.2" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="109.1" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Early Treatment</text><line x1="109.1" y1="56.0" x2="109.1" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="122.0" x2="109.1" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="109.1" y1="188.0" x2="109.1" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 ---
 

@@ -63,27 +63,7 @@ Without digestion:
 
 Digestion follows six fundamental processes.
 
-```text
-Food
-   │
-   ▼
-Ingestion
-   │
-   ▼
-Mechanical Digestion
-   │
-   ▼
-Chemical Digestion
-   │
-   ▼
-Absorption
-   │
-   ▼
-Distribution
-   │
-   ▼
-Waste Elimination
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:234px"><svg width="100%" viewBox="0 0 234 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="202.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Food</text><rect x="16.0" y="82.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Ingestion</text><rect x="16.0" y="148.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Mechanical Digestion</text><rect x="16.0" y="214.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Chemical Digestion</text><rect x="16.0" y="280.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Absorption</text><rect x="16.0" y="346.0" width="202.4" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Distribution</text><rect x="16.0" y="412.0" width="202.4" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="117.2" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Waste Elimination</text><line x1="117.2" y1="56.0" x2="117.2" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="122.0" x2="117.2" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="188.0" x2="117.2" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="254.0" x2="117.2" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="320.0" x2="117.2" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="117.2" y1="386.0" x2="117.2" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 These six activities—ingestion, propulsion, mechanical digestion, chemical digestion, absorption, and defecation—are the core functions of the digestive system. :contentReference[oaicite:1]{index=1}
 
@@ -140,35 +120,7 @@ Together they make efficient digestion possible. :contentReference[oaicite:2]{in
 
 # Journey of Food
 
-```text
-🍎 Food
-   │
-   ▼
-Mouth
-(Chewing + Saliva)
-   │
-   ▼
-Esophagus
-(Peristalsis)
-   │
-   ▼
-Stomach
-(Mechanical Mixing + Acid)
-   │
-   ▼
-Small Intestine
-(Digestion + Nutrient Absorption)
-   │
-   ▼
-Large Intestine
-(Water Absorption)
-   │
-   ▼
-Rectum
-   │
-   ▼
-Waste Elimination
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:340px"><svg width="100%" viewBox="0 0 340 864" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="308.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">🍎 Food</text><rect x="16.0" y="82.0" width="308.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Mouth</text><rect x="16.0" y="148.0" width="308.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Chewing + Saliva)</text><rect x="16.0" y="214.0" width="308.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Esophagus</text><rect x="16.0" y="280.0" width="308.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Peristalsis)</text><rect x="16.0" y="346.0" width="308.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Stomach</text><rect x="16.0" y="412.0" width="308.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Mechanical Mixing + Acid)</text><rect x="16.0" y="478.0" width="308.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Small Intestine</text><rect x="16.0" y="544.0" width="308.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Digestion + Nutrient Absorption)</text><rect x="16.0" y="610.0" width="308.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="635.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Large Intestine</text><rect x="16.0" y="676.0" width="308.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="701.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Water Absorption)</text><rect x="16.0" y="742.0" width="308.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="767.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Rectum</text><rect x="16.0" y="808.0" width="308.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="170.0" y="833.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Waste Elimination</text><line x1="170.0" y1="56.0" x2="170.0" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="170.0" y1="122.0" x2="170.0" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="170.0" y1="188.0" x2="170.0" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="170.0" y1="254.0" x2="170.0" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="170.0" y1="320.0" x2="170.0" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="170.0" y1="386.0" x2="170.0" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="170.0" y1="452.0" x2="170.0" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="170.0" y1="518.0" x2="170.0" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="170.0" y1="584.0" x2="170.0" y2="608.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="170.0" y1="650.0" x2="170.0" y2="674.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="170.0" y1="716.0" x2="170.0" y2="740.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="170.0" y1="782.0" x2="170.0" y2="806.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Most digestion and nutrient absorption occur in the **small intestine**, making it the functional center of the digestive system. :contentReference[oaicite:3]{index=3}
 
@@ -176,35 +128,7 @@ Most digestion and nutrient absorption occur in the **small intestine**, making 
 
 # Reality Connections
 
-```text
-                Digestive System
-                       │
-      ┌────────────────┼────────────────┐
-      │                │                │
-   Food          Environment      Microbiome
-      │                │                │
-      └────────────────┼────────────────┘
-                       ▼
-                  Digestion
-                       │
-                       ▼
-              Nutrient Absorption
-                       │
-                       ▼
-            Cardiovascular System
-                       │
-                       ▼
-              Human Cells
-                       │
-                       ▼
- Energy • Growth • Repair • Immunity
-                       │
-                       ▼
- Brain • Muscles • Hormones
-                       │
-                       ▼
- Health • Behaviour • Society
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 734 308" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Digestive System"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="112.0" width="173.9" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="367.0" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Digestive System</text><rect x="20.0" y="66.0" width="190.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="115.0" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Cardiovascular System</text><line x1="210.0" y1="83.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="112.0" width="174.2" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="107.1" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Respiratory System</text><line x1="194.2" y1="129.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="158.0" width="117.3" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="78.7" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Homeostasis</text><line x1="137.3" y1="175.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="612.8" y="20.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="663.4" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Nutrition</text><line x1="453.9" y1="37.0" x2="606.8" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="604.7" y="66.0" width="109.2" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="659.3" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Metabolism</text><line x1="453.9" y1="83.0" x2="598.7" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="580.4" y="112.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="647.1" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Immune System</text><line x1="453.9" y1="129.0" x2="574.4" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="621.0" y="158.0" width="93.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="667.4" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Exercise</text><line x1="453.9" y1="175.0" x2="615.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="539.8" y="204.0" width="174.2" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="626.8" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Disease &amp; Medicine</text><line x1="453.9" y1="221.0" x2="533.8" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="264.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="270.0" width="78.8" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="59.4" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Stomach</text><rect x="108.8" y="270.0" width="143.8" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="180.7" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Small Intestine</text><rect x="262.6" y="270.0" width="62.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="293.9" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Liver</text><rect x="335.2" y="270.0" width="87.0" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="378.7" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Pancreas</text><rect x="432.2" y="270.0" width="135.7" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="500.0" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Gut Microbiome</text></svg></div>
 
 The digestive system connects the environment directly to every cell in the body.
 
@@ -243,19 +167,7 @@ Understanding digestion helps explain why nutrition is one of the most powerful 
 
 ### 🍽 Eating Lunch
 
-```text
-Food
-   │
-Chewing
-   │
-Stomach
-   │
-Small Intestine
-   │
-Bloodstream
-   │
-Cells Produce ATP
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:210px"><svg width="100%" viewBox="0 0 210 402" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Food</text><rect x="16.0" y="82.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Chewing</text><rect x="16.0" y="148.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Stomach</text><rect x="16.0" y="214.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Small Intestine</text><rect x="16.0" y="280.0" width="178.0" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Bloodstream</text><rect x="16.0" y="346.0" width="178.0" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="105.0" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Cells Produce ATP</text><line x1="105.0" y1="56.0" x2="105.0" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="122.0" x2="105.0" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="188.0" x2="105.0" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="254.0" x2="105.0" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="105.0" y1="320.0" x2="105.0" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 ---
 
@@ -351,35 +263,7 @@ Digestive health is influenced by biology, diet, microorganisms, behaviour, and 
 
 # Root Causes of Digestive Disease
 
-```text
-Genetics
-      │
-Poor Nutrition
-      │
-Food Contamination
-      │
-Alcohol
-      │
-Smoking
-      │
-Chronic Stress
-      │
-Physical Inactivity
-      │
-Obesity
-      │
-Gut Microbiome Imbalance
-      │
-Infections
-      │
-Autoimmune Disease
-      │
-Certain Medications
-      │
-──────────────────────
-      │
-Digestive Disorders
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:267px"><svg width="100%" viewBox="0 0 267 930" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="234.9" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Genetics</text><rect x="16.0" y="82.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Poor Nutrition</text><rect x="16.0" y="148.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Food Contamination</text><rect x="16.0" y="214.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Alcohol</text><rect x="16.0" y="280.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Smoking</text><rect x="16.0" y="346.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Chronic Stress</text><rect x="16.0" y="412.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Physical Inactivity</text><rect x="16.0" y="478.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Obesity</text><rect x="16.0" y="544.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Gut Microbiome Imbalance</text><rect x="16.0" y="610.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="635.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Infections</text><rect x="16.0" y="676.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="701.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Autoimmune Disease</text><rect x="16.0" y="742.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="767.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Certain Medications</text><rect x="16.0" y="808.0" width="234.9" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="833.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">──────────────────────</text><rect x="16.0" y="874.0" width="234.9" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="133.4" y="899.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Digestive Disorders</text><line x1="133.4" y1="56.0" x2="133.4" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="122.0" x2="133.4" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="188.0" x2="133.4" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="254.0" x2="133.4" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="320.0" x2="133.4" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="386.0" x2="133.4" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="452.0" x2="133.4" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="518.0" x2="133.4" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="584.0" x2="133.4" y2="608.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="650.0" x2="133.4" y2="674.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="716.0" x2="133.4" y2="740.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="782.0" x2="133.4" y2="806.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="133.4" y1="848.0" x2="133.4" y2="872.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Digestive diseases often result from interactions among genetics, diet, microorganisms, lifestyle, medications, and environmental exposures.
 

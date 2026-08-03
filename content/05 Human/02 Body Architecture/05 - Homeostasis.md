@@ -49,25 +49,7 @@ Homeostasis evolved because maintaining internal stability greatly improves surv
 
 The body constantly monitors itself through **feedback systems**.
 
-```text
-         Internal Change
-                │
-                ▼
-          Receptors (Sensors)
-                │
-                ▼
-        Control Center (Brain/
-     Endocrine System/Other Organs)
-                │
-                ▼
-        Effectors (Organs/Tissues)
-                │
-                ▼
-          Corrective Response
-                │
-                ▼
-      Internal Balance Restored
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:316px"><svg width="100%" viewBox="0 0 316 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="283.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="157.8" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Internal Change</text><rect x="16.0" y="82.0" width="283.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="157.8" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Receptors (Sensors)</text><rect x="16.0" y="148.0" width="283.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="157.8" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Control Center (Brain/</text><rect x="16.0" y="214.0" width="283.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="157.8" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Endocrine System/Other Organs)</text><rect x="16.0" y="280.0" width="283.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="157.8" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Effectors (Organs/Tissues)</text><rect x="16.0" y="346.0" width="283.6" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="157.8" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Corrective Response</text><rect x="16.0" y="412.0" width="283.6" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="157.8" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Internal Balance Restored</text><line x1="157.8" y1="56.0" x2="157.8" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="157.8" y1="122.0" x2="157.8" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="157.8" y1="188.0" x2="157.8" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="157.8" y1="254.0" x2="157.8" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="157.8" y1="320.0" x2="157.8" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="157.8" y1="386.0" x2="157.8" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Most homeostatic control occurs through **negative feedback**, where the body reverses a change to return toward its normal range.
 
@@ -117,24 +99,7 @@ It emerges from cooperation among multiple organ systems.
 
 ## Negative Feedback (Maintains Stability)
 
-```text
-Body Temperature Rises
-          │
-          ▼
-Temperature Sensors
-          │
-          ▼
-Brain
-          │
-          ▼
-Sweat Glands Activated
-          │
-          ▼
-Heat Lost
-          │
-          ▼
-Temperature Returns to Normal
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:307px"><svg width="100%" viewBox="0 0 307 402" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="275.5" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="153.7" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Body Temperature Rises</text><rect x="16.0" y="82.0" width="275.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="153.7" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Temperature Sensors</text><rect x="16.0" y="148.0" width="275.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="153.7" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Brain</text><rect x="16.0" y="214.0" width="275.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="153.7" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Sweat Glands Activated</text><rect x="16.0" y="280.0" width="275.5" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="153.7" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Heat Lost</text><rect x="16.0" y="346.0" width="275.5" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="153.7" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Temperature Returns to Normal</text><line x1="153.7" y1="56.0" x2="153.7" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="153.7" y1="122.0" x2="153.7" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="153.7" y1="188.0" x2="153.7" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="153.7" y1="254.0" x2="153.7" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="153.7" y1="320.0" x2="153.7" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 This is the body's most common homeostatic mechanism. :contentReference[oaicite:3]{index=3}
 
@@ -155,32 +120,7 @@ Positive feedback is **not** used to maintain day-to-day homeostasis but to acco
 
 # Reality Connections
 
-```text
-                     Homeostasis
-                           │
-      ┌────────────────────┼─────────────────────┐
-      │                    │                     │
- Organ Systems       Nervous System      Endocrine System
-      │                    │                     │
-      └──────────────┬─────┴──────────────┐
-                     ▼                    ▼
-            Stable Internal Environment
-                     │
-                     ▼
-          Healthy Cells & Organs
-                     │
-                     ▼
-         Health • Growth • Healing
-                     │
-                     ▼
-        Brain • Mind • Behaviour
-                     │
-                     ▼
-          Society • Productivity
-                     │
-                     ▼
-                 Living Well
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 700 308" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Homeostasis"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="112.0" width="140.0" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="350.0" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Homeostasis</text><rect x="20.0" y="43.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="65.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Cells</text><line x1="110.0" y1="60.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="89.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Tissues</text><line x1="110.0" y1="106.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="135.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Organs</text><line x1="110.0" y1="152.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="181.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="86.8" y="203.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Organ Systems</text><line x1="153.6" y1="198.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="546.4" y="20.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="613.2" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Human Systems</text><line x1="420.0" y1="37.0" x2="540.4" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="554.6" y="66.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="617.3" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Neuroscience</text><line x1="420.0" y1="83.0" x2="548.6" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="514.0" y="112.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="597.0" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Lifestyle Biology</text><line x1="420.0" y1="129.0" x2="508.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="505.8" y="158.0" width="174.2" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="592.9" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Disease &amp; Medicine</text><line x1="420.0" y1="175.0" x2="499.8" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="578.9" y="204.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="629.5" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Longevity</text><line x1="420.0" y1="221.0" x2="572.9" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="264.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="270.0" width="160.0" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="100.0" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Negative Feedback</text><rect x="190.0" y="270.0" width="160.0" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="270.1" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Positive Feedback</text><rect x="360.1" y="270.0" width="151.9" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="436.0" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Endocrine System</text><rect x="522.0" y="270.0" width="135.7" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="589.8" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Nervous System</text></svg></div>
 
 Homeostasis links every biological system into one coordinated whole.
 

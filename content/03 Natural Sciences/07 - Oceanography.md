@@ -129,42 +129,7 @@ Each branch studies a different aspect of the ocean, but together they explain h
 
 # Reality Connections
 
-```text
-                        Oceanography
-                              │
-      ┌────────────────────────┼────────────────────────┐
-      │                        │                        │
-   Solar Energy          Earth Systems            Climate
-      │                        │                        │
-      └───────────────┬────────┴───────────────┐
-                      ▼                        ▼
-                Oceans & Currents       Water Cycle
-                      │                        │
-                      ▼                        ▼
-              Marine Ecosystems      Carbon Cycle
-                      │                        │
-                      └────────────┬───────────┘
-                                   ▼
-                            Food & Oxygen
-                                   │
-                                   ▼
-                              Human Health
-                                   │
-                                   ▼
-                           Human Behaviour
-                                   │
-                                   ▼
- Fisheries • Shipping • Trade • Energy
-                                   │
-                                   ▼
- Society • Economy • Technology
-                                   │
-                                   ▼
-       Sustainability • Climate Resilience
-                                   │
-                                   ▼
-                             Living Well
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 701 308" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Oceanography"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="112.0" width="141.4" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="350.7" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Oceanography</text><rect x="20.0" y="43.0" width="133.6" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="86.8" y="65.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Earth Science</text><line x1="153.6" y1="60.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="89.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Geology</text><line x1="110.0" y1="106.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="135.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="65.0" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Physics</text><line x1="110.0" y1="152.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="181.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="70.5" y="203.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Chemistry</text><line x1="121.1" y1="198.0" x2="280.0" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="591.4" y="20.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="636.4" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Climate</text><line x1="421.4" y1="37.0" x2="585.4" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="591.4" y="66.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="636.4" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Ecology</text><line x1="421.4" y1="83.0" x2="585.4" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="491.4" y="112.0" width="190.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="586.4" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Environmental Science</text><line x1="421.4" y1="129.0" x2="485.4" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="539.8" y="158.0" width="141.7" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="610.6" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Origin of Life</text><line x1="421.4" y1="175.0" x2="533.8" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="539.8" y="204.0" width="141.7" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="610.6" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Marine Biology</text><line x1="421.4" y1="221.0" x2="533.8" y2="129.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="264.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="270.0" width="111.3" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="75.7" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Water Cycle</text><rect x="141.3" y="270.0" width="111.3" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="197.0" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Hydrosphere</text><rect x="262.6" y="270.0" width="160.0" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="342.7" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Marine Ecosystems</text><rect x="432.7" y="270.0" width="62.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="464.0" y="288.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Earth</text></svg></div>
 
 Oceanography shows that the oceans connect Earth's climate, ecosystems, economy, and human survival into one continuous system.
 

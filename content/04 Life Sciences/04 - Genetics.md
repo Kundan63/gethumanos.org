@@ -91,33 +91,7 @@ The interaction of genes, proteins, cells, and the environment ultimately produc
 
 Life stores information much like a biological operating system.
 
-```text
-             DNA
-              │
-              ▼
-         Chromosomes
-              │
-              ▼
-            Genes
-              │
-              ▼
-   RNA (Working Copy)
-              │
-              ▼
-          Proteins
-              │
-              ▼
- Cellular Functions
-              │
-              ▼
-      Tissues & Organs
-              │
-              ▼
-      Complete Organism
-              │
-              ▼
- Reproduction & Inheritance
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:283px"><svg width="100%" viewBox="0 0 283 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="251.1" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">DNA</text><rect x="16.0" y="82.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Chromosomes</text><rect x="16.0" y="148.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Genes</text><rect x="16.0" y="214.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">RNA (Working Copy)</text><rect x="16.0" y="280.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Proteins</text><rect x="16.0" y="346.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Cellular Functions</text><rect x="16.0" y="412.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Tissues &amp; Organs</text><rect x="16.0" y="478.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Complete Organism</text><rect x="16.0" y="544.0" width="251.1" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Reproduction &amp; Inheritance</text><line x1="141.6" y1="56.0" x2="141.6" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="122.0" x2="141.6" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="188.0" x2="141.6" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="254.0" x2="141.6" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="320.0" x2="141.6" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="386.0" x2="141.6" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="452.0" x2="141.6" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="518.0" x2="141.6" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 Every living organism follows this fundamental biological information system, although details differ among species.
 
@@ -125,39 +99,7 @@ Every living organism follows this fundamental biological information system, al
 
 # Reality Connections
 
-```text
-                          Genetics
-                              │
-      ┌───────────────────────┼────────────────────────┐
-      │                       │                        │
- Cell Biology            Evolution               Chemistry
-      │                       │                        │
-      └───────────────┬────────┴───────────────┐
-                      ▼                        ▼
-                DNA & Genes             Inheritance
-                      │                        │
-                      ▼                        ▼
-             Protein Production       Biological Variation
-                      │                        │
-                      └────────────┬───────────┘
-                                   ▼
-                             Human Body
-                                   │
-                                   ▼
-                             Human Brain
-                                   │
-                                   ▼
-                     Health • Behaviour • Disease
-                                   │
-                                   ▼
- Medicine • Agriculture • Biotechnology
-                                   │
-                                   ▼
- Society • Economy • Civilization
-                                   │
-                                   ▼
-                           Living Well
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 700 354" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Genetics"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="135.0" width="140.0" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="350.0" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Genetics</text><rect x="20.0" y="112.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="82.7" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Cell Biology</text><line x1="145.4" y1="129.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="158.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="70.5" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Evolution</text><line x1="121.1" y1="175.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="554.6" y="20.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="617.3" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Microbiology</text><line x1="420.0" y1="37.0" x2="548.6" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="590.0" y="66.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Botany</text><line x1="420.0" y1="83.0" x2="584.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="590.0" y="112.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Zoology</text><line x1="420.0" y1="129.0" x2="584.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="554.6" y="158.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="617.3" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Biodiversity</text><line x1="420.0" y1="175.0" x2="548.6" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="514.0" y="204.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="597.0" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Health &amp; Medicine</text><line x1="420.0" y1="221.0" x2="508.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="590.0" y="250.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="272.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Human</text><line x1="420.0" y1="267.0" x2="584.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="310.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="316.0" width="46.4" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="43.2" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">DNA</text><rect x="76.4" y="316.0" width="62.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="107.7" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Genes</text><rect x="149.0" y="316.0" width="111.3" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="204.6" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Chromosomes</text><rect x="270.3" y="316.0" width="143.8" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="342.2" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Gene Expression</text><rect x="424.1" y="316.0" width="111.3" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="479.7" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Inheritance</text></svg></div>
 
 Genetics connects molecular biology with the diversity of life, human health, and future biotechnology.
 

@@ -269,3 +269,23 @@ input:focus-visible {
 .page-title > a:hover {
   opacity: 0.8;
 }
+
+// ---- Generated diagram panels (auto-converted from ASCII charts) ----
+.diagram-panel {
+  display: block;
+  margin: 1.25rem auto;
+  padding: 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--light) 97%, var(--secondary) 3%);
+  overflow-x: auto;
+}
+.diagram-panel svg {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+.diagram-panel-narrow {
+  max-width: 100%;
+}

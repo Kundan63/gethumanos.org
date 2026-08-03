@@ -44,34 +44,7 @@ Evolution is therefore the mechanism through which life continually adapts to ch
 
 Evolution is driven by several interacting mechanisms.
 
-```text
-Parents
-    │
-    ▼
-Genetic Variation
-(Mutation & Recombination)
-    │
-    ▼
-Different Traits
-    │
-    ▼
-Natural Selection
-Genetic Drift
-Gene Flow
-Sexual Selection
-    │
-    ▼
-Successful Traits Spread
-    │
-    ▼
-Population Changes
-    │
-    ▼
-Adaptation
-    │
-    ▼
-New Species
-```
+<div class="diagram-panel diagram-panel-narrow" style="max-width:283px"><svg width="100%" viewBox="0 0 283 798" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="16.0" y="16.0" width="251.1" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="41.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">Parents</text><rect x="16.0" y="82.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="107.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Genetic Variation</text><rect x="16.0" y="148.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="173.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">(Mutation &amp; Recombination)</text><rect x="16.0" y="214.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="239.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Different Traits</text><rect x="16.0" y="280.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="305.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Natural Selection</text><rect x="16.0" y="346.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="371.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Genetic Drift</text><rect x="16.0" y="412.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="437.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Gene Flow</text><rect x="16.0" y="478.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="503.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Sexual Selection</text><rect x="16.0" y="544.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="569.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Successful Traits Spread</text><rect x="16.0" y="610.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="635.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Population Changes</text><rect x="16.0" y="676.0" width="251.1" height="40" rx="8"  fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="701.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--darkgray)">Adaptation</text><rect x="16.0" y="742.0" width="251.1" height="40" rx="8"  fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="141.6" y="767.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="14.5" fill="var(--light)">New Species</text><line x1="141.6" y1="56.0" x2="141.6" y2="80.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="122.0" x2="141.6" y2="146.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="188.0" x2="141.6" y2="212.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="254.0" x2="141.6" y2="278.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="320.0" x2="141.6" y2="344.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="386.0" x2="141.6" y2="410.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="452.0" x2="141.6" y2="476.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="518.0" x2="141.6" y2="542.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="584.0" x2="141.6" y2="608.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="650.0" x2="141.6" y2="674.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/><line x1="141.6" y1="716.0" x2="141.6" y2="740.0" stroke="var(--gray)" stroke-width="1.6" marker-end="url(#hos-arrow)"/></svg></div>
 
 The four primary mechanisms recognized in modern evolutionary biology are:
 
@@ -125,41 +98,7 @@ One of evolution's most remarkable outcomes is that **life has evolved organisms
 
 # Reality Connections
 
-```text
-                          Evolution
-                               │
-       ┌───────────────────────┼────────────────────────┐
-       │                       │                        │
- Origin of Life           Genetics                 Environment
-       │                       │                        │
-       └───────────────┬───────┴───────────────┐
-                       ▼                       ▼
-                Adaptation               Biodiversity
-                       │                       │
-                       ▼                       ▼
-              Plants • Animals • Microbes
-                       │
-                       ▼
-                 Ecosystems
-                       │
-                       ▼
-                 Human Body
-                       │
-                       ▼
-                 Human Brain
-                       │
-                       ▼
-          Human Behaviour & Culture
-                       │
-                       ▼
- Medicine • Agriculture • Biotechnology
-                       │
-                       ▼
- Society • Civilization
-                       │
-                       ▼
-                 Living Well
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 700 354" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Evolution"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="135.0" width="140.0" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="350.0" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Evolution</text><rect x="20.0" y="135.0" width="141.7" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="90.8" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Origin of Life</text><line x1="161.7" y1="152.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="554.6" y="20.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="617.3" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Cell Biology</text><line x1="420.0" y1="37.0" x2="548.6" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="587.0" y="66.0" width="93.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="633.5" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Genetics</text><line x1="420.0" y1="83.0" x2="581.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="554.6" y="112.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="617.3" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Microbiology</text><line x1="420.0" y1="129.0" x2="548.6" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="590.0" y="158.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Botany</text><line x1="420.0" y1="175.0" x2="584.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="590.0" y="204.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Zoology</text><line x1="420.0" y1="221.0" x2="584.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="554.6" y="250.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="617.3" y="272.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Biodiversity</text><line x1="420.0" y1="267.0" x2="548.6" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="310.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="316.0" width="160.0" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="100.0" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Natural Selection</text><rect x="190.0" y="316.0" width="103.2" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="241.6" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Adaptation</text><rect x="303.2" y="316.0" width="103.2" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="354.8" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Speciation</text><rect x="416.4" y="316.0" width="143.8" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="488.3" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Common Ancestry</text><rect x="570.2" y="316.0" width="46.4" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="593.4" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">DNA</text></svg></div>
 
 Evolution connects molecular biology, ecosystems, human health, and civilization into one continuous biological story.
 

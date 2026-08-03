@@ -36,30 +36,7 @@ This allows humans to evaluate arguments objectively across science, law, philos
 
 # Reality Connections
 
-```text
-                         Logic
-                           │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-   Mathematics        Scientific         Philosophy
-                          Method
-        │                  │                  │
-        └──────────────┬───┘                  │
-                       │                      │
-                 Human Mind                  │
-                       │                      │
-               Critical Thinking             │
-                       │                      │
-                 Decision Making             │
-                       │                      │
- Family • Education • Business • Law • Politics
-                       │
-             Technology • Computing • AI
-                       │
-               Human Civilization
-                       │
-                Living Well
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 700 354" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Logic"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="135.0" width="140.0" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="350.0" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Logic</text><rect x="20.0" y="135.0" width="117.3" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="78.7" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Mathematics</text><line x1="137.3" y1="152.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="514.0" y="20.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="597.0" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Scientific Method</text><line x1="420.0" y1="37.0" x2="508.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="522.1" y="66.0" width="157.9" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="601.0" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Systems Thinking</text><line x1="420.0" y1="83.0" x2="516.1" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="514.0" y="112.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="597.0" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Critical Thinking</text><line x1="420.0" y1="129.0" x2="508.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="554.6" y="158.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="617.3" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Epistemology</text><line x1="420.0" y1="175.0" x2="548.6" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="490.0" y="204.0" width="190.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="585.0" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Philosophy of Knowledge</text><line x1="420.0" y1="221.0" x2="484.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="578.9" y="250.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="629.5" y="272.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Computing</text><line x1="420.0" y1="267.0" x2="572.9" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="310.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="316.0" width="143.8" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="91.9" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Decision Making</text><rect x="173.8" y="316.0" width="103.2" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="225.4" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Philosophy</text><rect x="287.0" y="316.0" width="111.3" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="342.7" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Mathematics</text></svg></div>
 
 ---
 

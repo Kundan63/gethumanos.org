@@ -144,42 +144,7 @@ One microscopic cell contains all the genetic instructions needed to build an en
 
 # Reality Connections
 
-```text
-                        Cell Biology
-                              │
-      ┌────────────────────────┼────────────────────────┐
-      │                        │                        │
-   Chemistry              Genetics               Evolution
-      │                        │                        │
-      └───────────────┬────────┴───────────────┐
-                      ▼                        ▼
-             Molecules & DNA           Cell Structure
-                      │                        │
-                      ▼                        ▼
-               Cell Function         Cell Division
-                      │                        │
-                      └────────────┬───────────┘
-                                   ▼
-                         Tissues & Organs
-                                   │
-                                   ▼
-                             Human Body
-                                   │
-                                   ▼
-                             Human Brain
-                                   │
-                                   ▼
-                    Behaviour • Health • Disease
-                                   │
-                                   ▼
-          Medicine • Biotechnology • Agriculture
-                                   │
-                                   ▼
-                     Society • Civilization
-                                   │
-                                   ▼
-                            Living Well
-```
+<div class="diagram-panel" style="max-width:640px"><svg width="100%" viewBox="0 0 701 354" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Cell Biology"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L6 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="280.0" y="135.0" width="141.4" height="44" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1"/><text x="350.7" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="600" font-size="14.5" fill="var(--light)">Cell Biology</text><rect x="20.0" y="89.0" width="141.7" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="90.8" y="111.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Origin of Life</text><line x1="161.7" y1="106.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="135.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="70.5" y="157.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Evolution</text><line x1="121.1" y1="152.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="181.0" width="101.1" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="70.5" y="203.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Chemistry</text><line x1="121.1" y1="198.0" x2="280.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" marker-end="url(#hos-arrow2)"/><rect x="588.5" y="20.0" width="93.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="635.0" y="42.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Genetics</text><line x1="421.4" y1="37.0" x2="582.5" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="556.0" y="66.0" width="125.4" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="618.7" y="88.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Microbiology</text><line x1="421.4" y1="83.0" x2="550.0" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="591.4" y="112.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="636.4" y="134.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Botany</text><line x1="421.4" y1="129.0" x2="585.4" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="591.4" y="158.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="636.4" y="180.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Zoology</text><line x1="421.4" y1="175.0" x2="585.4" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="515.4" y="204.0" width="166.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="598.4" y="226.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Health &amp; Medicine</text><line x1="421.4" y1="221.0" x2="509.4" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><rect x="591.4" y="250.0" width="90.0" height="34" rx="7" fill="var(--light)" stroke="var(--lightgray)" stroke-width="1"/><text x="636.4" y="272.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Human</text><line x1="421.4" y1="267.0" x2="585.4" y2="152.0" stroke="var(--gray)" stroke-width="1.2" opacity="0.55" /><text x="20" y="310.0" font-family="var(--bodyFont)" font-size="11.5" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="316.0" width="111.3" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="75.7" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Cell Theory</text><rect x="141.3" y="316.0" width="127.6" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="205.1" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Cell Membrane</text><rect x="278.9" y="316.0" width="46.4" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="302.1" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">DNA</text><rect x="335.2" y="316.0" width="103.2" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="386.8" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Organelles</text><rect x="448.4" y="316.0" width="78.8" height="26" rx="13" fill="none" stroke="var(--lightgray)" stroke-width="1"/><text x="487.9" y="334.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Mitosis</text></svg></div>
 
 Cell Biology connects molecular chemistry with the complexity of the human body and civilization.
 
