@@ -219,6 +219,27 @@ input:focus-visible {
       border-radius: 3px;
     }
   }
+
+  // Carry the section's identity color into every page under it —
+  // breadcrumb trail + active table-of-contents entry — so navigating
+  // between HumanOS's 12 domains feels spatial, not just textual.
+  body[data-slug^="#{$slug}/"] {
+    --section-accent: #{$accent};
+
+    .breadcrumb-element p {
+      color: var(--section-accent);
+      opacity: 0.85;
+    }
+    .breadcrumb-element:last-child a {
+      color: var(--section-accent);
+    }
+
+    ul.toc-content.overflow > li > a.in-view {
+      color: var(--section-accent);
+      opacity: 1;
+      font-weight: $semiBoldWeight;
+    }
+  }
 }
 
 // ---- Sidebar brand: icon + wordmark for the site title ----
