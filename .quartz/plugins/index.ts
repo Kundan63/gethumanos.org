@@ -4,7 +4,6 @@ export type { CreatedModifiedDateOptions } from "@quartz-community/created-modif
 export type { SyntaxHighlightingOptions } from "@quartz-community/syntax-highlighting"
 export type { ObsidianFlavoredMarkdownOptions } from "@quartz-community/obsidian-flavored-markdown"
 export type { GfmOptions } from "@quartz-community/github-flavored-markdown"
-export type { TableOfContentsTransformerOptions, TocEntry } from "@quartz-community/table-of-contents"
 export type { CrawlLinksOptions } from "@quartz-community/crawl-links"
 export type { DescriptionOptions } from "@quartz-community/description"
 export type { Args, LatexOptions } from "@quartz-community/latex"
@@ -26,7 +25,6 @@ export type { BasesEntry, BasesView, FilterNode, GroupBy, PropertyConfig, SortDi
 export type { NotePropertiesComponentOptions, NotePropertiesOptions } from "@quartz-community/note-properties"
 export type { ShadowContentIndexEntry, ShadowIndexBlob, ShadowIndexFile, EncryptedPageComponentOptions, EncryptedContentIndexOptions, EncryptedPagesOptions } from "@quartz-community/encrypted-pages"
 export { tokenClassifierTransformer } from "@quartz-community/syntax-highlighting"
-export { TableOfContents } from "@quartz-community/table-of-contents"
 export { FontsEmitter } from "@quartz-community/quartz-fonts"
 export { CustomOgImagesEmitterName } from "@quartz-community/og-image"
 export { CanvasBody, CanvasFrame } from "@quartz-community/canvas-page"
@@ -51,9 +49,6 @@ export const plugins: Record<string, Record<string, (...args: unknown[]) => void
   },
   "quartz-community__github-flavored-markdown": {
     GitHubFlavoredMarkdown: (...args: unknown[]) => { componentRegistry.setOptionOverrides("quartz-community__github-flavored-markdown", args[0] as Record<string, unknown>); },
-  },
-  "quartz-community__table-of-contents": {
-    TableOfContentsTransformer: (...args: unknown[]) => { componentRegistry.setOptionOverrides("quartz-community__table-of-contents", args[0] as Record<string, unknown>); },
   },
   "quartz-community__crawl-links": {
     CrawlLinks: (...args: unknown[]) => { componentRegistry.setOptionOverrides("quartz-community__crawl-links", args[0] as Record<string, unknown>); },
@@ -141,7 +136,6 @@ export const CreatedModifiedDate = plugins["quartz-community__created-modified-d
 export const SyntaxHighlighting = plugins["quartz-community__syntax-highlighting"].SyntaxHighlighting
 export const ObsidianFlavoredMarkdown = plugins["quartz-community__obsidian-flavored-markdown"].ObsidianFlavoredMarkdown
 export const GitHubFlavoredMarkdown = plugins["quartz-community__github-flavored-markdown"].GitHubFlavoredMarkdown
-export const TableOfContentsTransformer = plugins["quartz-community__table-of-contents"].TableOfContentsTransformer
 export const CrawlLinks = plugins["quartz-community__crawl-links"].CrawlLinks
 export const Description = plugins["quartz-community__description"].Description
 export const Latex = plugins["quartz-community__latex"].Latex
