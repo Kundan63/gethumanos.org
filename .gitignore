@@ -1,14 +1,6 @@
-.DS_Store
-.gitignore
 node_modules
 public
-prof
-tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
-private/
-.replit
-replit.nix
-.quartz/
-quartz/cli/tui/dist/
-.turbo/
+quartz/.quartz-cache
+.DS_Store
+*.log
