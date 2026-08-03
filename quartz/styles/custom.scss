@@ -220,3 +220,31 @@ input:focus-visible {
     }
   }
 }
+
+// ---- Sidebar brand: icon + wordmark for the site title ----
+.page-title {
+  margin: 0;
+}
+.page-title > a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  font-family: var(--headerFont);
+  font-weight: $boldWeight;
+  letter-spacing: -0.01em;
+  transition: opacity 0.15s ease;
+}
+.page-title > a::before {
+  content: "";
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+  background-image: url("static/mark.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.page-title > a:hover {
+  opacity: 0.8;
+}
