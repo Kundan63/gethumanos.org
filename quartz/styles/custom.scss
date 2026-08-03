@@ -1,3 +1,222 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ============================================================
+// HumanOS custom theme — dark "operating system" aesthetic
+// ============================================================
+
+// ---- Global feel: selection, scrollbar, focus ----
+::selection {
+  background: color-mix(in srgb, var(--secondary) 35%, transparent);
+  color: var(--dark);
+}
+
+html {
+  scrollbar-width: thin;
+  scrollbar-color: var(--gray) transparent;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--lightgray);
+  border-radius: 8px;
+  border: 2px solid var(--light);
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--gray);
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+// ---- Links: subtle glow underline instead of flat color swap ----
+.markdown-preview-view a.internal,
+.markdown-preview-view a.external {
+  text-decoration: none;
+  background-image: linear-gradient(var(--secondary), var(--secondary));
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 1.5px;
+  transition:
+    background-size 0.25s ease,
+    color 0.25s ease;
+}
+.markdown-preview-view a.internal:hover,
+.markdown-preview-view a.external:hover {
+  background-size: 100% 1.5px;
+  color: var(--secondary);
+}
+
+// ---- Code blocks: terminal-panel feel ----
+.markdown-preview-view pre {
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.25);
+}
+.markdown-preview-view code {
+  font-feature-settings: "liga" 1, "calt" 1;
+}
+
+// ---- Callouts: brighter left-edge glow ----
+.callout {
+  border-radius: 6px;
+  border: 1px solid var(--lightgray);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.18);
+}
+.callout::before {
+  filter: saturate(1.3);
+}
+
+// ---- Graph panel: HUD-style container ----
+.graph {
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--light) 96%, var(--secondary) 4%);
+}
+
+// ---- Cards / buttons used on custom pages ----
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.85rem;
+  margin: 1.75rem 0;
+}
+
+.os-card {
+  display: block;
+  padding: 1.1rem 1.2rem;
+  border-radius: 10px;
+  border: 1px solid var(--lightgray);
+  background: color-mix(in srgb, var(--light) 94%, var(--card-accent, var(--secondary)) 6%);
+  text-decoration: none !important;
+  transition:
+    transform 0.18s ease,
+    border-color 0.18s ease,
+    box-shadow 0.18s ease;
+}
+.os-card:hover {
+  transform: translateY(-3px);
+  border-color: color-mix(in srgb, var(--card-accent, var(--secondary)) 70%, var(--lightgray));
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.28);
+}
+.os-card .os-card-icon {
+  font-size: 1.6rem;
+  display: inline-block;
+  margin-bottom: 0.4rem;
+}
+.os-card .os-card-title {
+  display: block;
+  font-family: var(--headerFont);
+  font-weight: $semiBoldWeight;
+  color: var(--dark) !important;
+  font-size: 1.05rem;
+  margin-bottom: 0.2rem;
+}
+.os-card .os-card-desc {
+  display: block;
+  color: var(--darkgray) !important;
+  font-size: 0.87rem;
+  line-height: 1.4;
+}
+
+// Rotate a small accent palette across cards so sections feel distinct
+// without breaking the overall dark cohesive theme.
+.os-card:nth-of-type(12n + 1) { --card-accent: #22d3ee; }
+.os-card:nth-of-type(12n + 2) { --card-accent: #a78bfa; }
+.os-card:nth-of-type(12n + 3) { --card-accent: #34d399; }
+.os-card:nth-of-type(12n + 4) { --card-accent: #f472b6; }
+.os-card:nth-of-type(12n + 5) { --card-accent: #fbbf24; }
+.os-card:nth-of-type(12n + 6) { --card-accent: #60a5fa; }
+.os-card:nth-of-type(12n + 7) { --card-accent: #fb923c; }
+.os-card:nth-of-type(12n + 8) { --card-accent: #4ade80; }
+.os-card:nth-of-type(12n + 9) { --card-accent: #e879f9; }
+.os-card:nth-of-type(12n + 10) { --card-accent: #38bdf8; }
+.os-card:nth-of-type(12n + 11) { --card-accent: #f87171; }
+.os-card:nth-of-type(12n + 12) { --card-accent: #c4b5fd; }
+
+// ---- Stat strip on homepage ----
+.os-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.25rem 0 2rem 0;
+}
+.os-stat {
+  flex: 1 1 140px;
+  padding: 0.9rem 1rem;
+  border-radius: 10px;
+  border: 1px solid var(--lightgray);
+  background: color-mix(in srgb, var(--light) 95%, var(--secondary) 5%);
+  text-align: center;
+}
+.os-stat .os-stat-num {
+  display: block;
+  font-family: var(--codeFont);
+  font-size: 1.5rem;
+  font-weight: $boldWeight;
+  color: var(--secondary);
+}
+.os-stat .os-stat-label {
+  display: block;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--gray);
+  margin-top: 0.15rem;
+}
+
+// ---- Terminal / boot-sequence block ----
+.os-terminal {
+  font-family: var(--codeFont);
+  font-size: 0.85rem;
+  line-height: 1.7;
+  background: color-mix(in srgb, var(--light) 92%, black 8%);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0;
+  color: var(--darkgray);
+  overflow-x: auto;
+}
+.os-terminal .prompt { color: var(--secondary); }
+.os-terminal .ok { color: #4ade80; }
+.os-terminal .dim { color: var(--gray); }
+
+// ---- Per-section icon + accent on folder listing pages ----
+// data-slug lives on <body data-slug="...">
+@each $slug, $emoji, $accent in
+  ("01-foundations", "🧭", #22d3ee),
+  ("02-universe", "🌌", #a78bfa),
+  ("03-natural-sciences", "⚛️", #34d399),
+  ("04-life-sciences", "🧬", #4ade80),
+  ("05-human", "👤", #f472b6),
+  ("06-health--and--medicine", "❤️", #fb7185),
+  ("07-mind", "🧠", #60a5fa),
+  ("08-society--and--civilisation", "🏛", #fbbf24),
+  ("09-technology--and--engineering", "⚙️", #38bdf8),
+  ("10-philosophy--and--spirituality", "💭", #c4b5fd),
+  ("11-living-well-(the-human-operating-system)", "🌱", #4ade80),
+  ("12-humanos", "📖", #22d3ee)
+{
+  body[data-slug="#{$slug}/index"] {
+    .article-title::before {
+      content: "#{$emoji}";
+      margin-right: 0.5rem;
+    }
+    .page-header {
+      border-left: 3px solid #{$accent};
+      padding-left: 1rem;
+      border-radius: 3px;
+    }
+  }
+}

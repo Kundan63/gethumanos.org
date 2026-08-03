@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: HumanOS
-  pageTitleSuffix: " · HumanOS"
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics: null
@@ -15,30 +15,32 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Manrope
+      header: Space Grotesk
       body: Inter
-      code: IBM Plex Mono
+      code: JetBrains Mono
     colors:
+      # "lightMode" = Dusk: dark graphite variant (toggle target)
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#14161b"
+        lightgray: "#262a33"
+        gray: "#454b57"
+        darkgray: "#c2c9d4"
+        dark: "#f5f7fa"
+        secondary: "#38bdf8"
+        tertiary: "#c4b5fd"
+        highlight: rgba(56, 189, 248, 0.13)
+        textHighlight: rgba(250, 204, 21, 0.28)
+      # "darkMode" = Midnight: near-black default variant
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#0a0b0f"
+        lightgray: "#1c1f26"
+        gray: "#383d47"
+        darkgray: "#b8c0cc"
+        dark: "#f1f4f8"
+        secondary: "#22d3ee"
+        tertiary: "#a78bfa"
+        highlight: rgba(34, 211, 238, 0.14)
+        textHighlight: rgba(250, 204, 21, 0.3)
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -138,6 +140,26 @@ plugins:
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
+    options:
+      localGraph:
+        depth: 2
+        scale: 1.1
+        repelForce: 0.6
+        centerForce: 0.35
+        linkDistance: 34
+        fontSize: 0.65
+        opacityScale: 1.1
+        focusOnHover: true
+      globalGraph:
+        depth: -1
+        scale: 0.85
+        repelForce: 0.6
+        centerForce: 0.25
+        linkDistance: 34
+        fontSize: 0.6
+        opacityScale: 1.1
+        focusOnHover: true
+        enableRadial: true
     layout:
       position: right
       priority: 10
