@@ -291,3 +291,27 @@ These qualities define the HumanOS standard.
 # Final Principle
 
 > **HumanOS exists to help humanity understand reality more clearly, think more wisely, act more responsibly, and contribute more positively. Every principle in this document exists to protect that mission as HumanOS continues to evolve.**
+
+---
+
+# Knowledge Relationships
+
+## Depends On
+
+- [[HumanOS Blueprint]]
+- [[HumanOS Framework]]
+- [[Critical Thinking]]
+
+## Enables
+
+- [[HumanOS Decision Framework]]
+- [[HumanOS Manifesto]]
+
+## Related
+
+- [[HumanOS]]
+- [[Epistemology]]
+
+## Next
+
+→ [[HumanOS Decision Framework]]

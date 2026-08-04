@@ -284,14 +284,14 @@ Many applications.
 
 This framework integrates knowledge from:
 
-- Foundations
-- Mathematics
-- Psychology
-- Neuroscience
-- Economics
-- Ethics
-- Leadership
-- Living Well
+- [[Foundations]]
+- [[Mathematics]]
+- [[Psychology]]
+- [[Brain & Neuroscience]]
+- [[Economics]]
+- [[Ethics]]
+- [[Leadership]]
+- [[Living Well]]
 
 Decision making is where every HumanOS discipline converges into action.
 
@@ -300,3 +300,27 @@ Decision making is where every HumanOS discipline converges into action.
 # HumanOS Principle
 
 > **Better lives are not built by perfect knowledge. They are built by consistently making better decisions. HumanOS teaches that wise decisions begin with reality, are strengthened by evidence, guided by ethics, evaluated through systems thinking, and refined through continuous learning. Every decision is an opportunity to transform understanding into responsible action and responsible action into a better future.**
+
+---
+
+# Knowledge Relationships
+
+## Depends On
+
+- [[HumanOS Principles]]
+- [[Critical Thinking]]
+- [[Decision Making]]
+
+## Enables
+
+- [[HumanOS Capability Framework]]
+- [[HumanOS Life Architecture]]
+
+## Related
+
+- [[Systems Thinking]]
+- [[Ethics]]
+
+## Next
+
+→ [[HumanOS Capability Framework]]

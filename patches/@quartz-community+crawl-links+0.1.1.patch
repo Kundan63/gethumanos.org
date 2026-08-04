@@ -1,0 +1,85 @@
+diff --git a/node_modules/@quartz-community/crawl-links/dist/index.js b/node_modules/@quartz-community/crawl-links/dist/index.js
+index 5005175..49f1d7d 100644
+--- a/node_modules/@quartz-community/crawl-links/dist/index.js
++++ b/node_modules/@quartz-community/crawl-links/dist/index.js
+@@ -117,22 +117,76 @@ function transformLink(src, target, opts) {
+     if (opts.strategy === "shortest") {
+       const isMultiSegment = targetCanonical.includes("/");
+       const isFolderTarget = isFolderPath(targetSlug);
++      const stripNumPrefix = (s) => s.replace(/^\d+-+/, "");
++      const stripParenSuffix = (s) => s.replace(/-\(.*\)$/, "");
++      // HumanOS patch: a few concepts get mentioned constantly across the
++      // vault (e.g. "Longevity", "Neuroscience", "Technology") but don't
++      // have their own note -- the closest real note covers the topic
++      // under a different title. Redirect just those known cases to the
++      // real page instead of leaving every mention dangling.
++      const conceptAliases = {
++        "longevity": "aging",
++        "healthy-aging": "aging",
++        "healthspan": "aging",
++        "disease--and--medicine": "health--and--medicine",
++        "medicine": "health--and--medicine",
++        "neuroscience": "brain--and--neuroscience",
++        "technology": "technology--and--engineering",
++        "society": "society--and--civilisation",
++        "dna": "genetics",
++      };
++      const resolvedTarget = conceptAliases[targetCanonical] ?? targetCanonical;
++      const normSpelling = (s) => s.replace(/isation/g, "ization").replace(/isable/g, "izable").replace(/isolog/g, "izolog");
++      const norm = (s) => normSpelling(stripParenSuffix(s));
+       const matchingFileNames = opts.allSlugs.filter((slug2) => {
+         if (isMultiSegment) {
+-          if (slug2 === targetCanonical || slug2.endsWith("/" + targetCanonical)) {
++          if (slug2 === resolvedTarget || slug2.endsWith("/" + resolvedTarget)) {
+             return true;
+           }
+           if (isFolderTarget) {
+-            const withIndex = targetCanonical + "/index";
++            const withIndex = resolvedTarget + "/index";
+             return slug2 === withIndex || slug2.endsWith("/" + withIndex);
+           }
+           return false;
+         }
+         const parts = slug2.split("/");
+         const fileName = parts.at(-1);
+-        return targetCanonical === fileName;
++        if (resolvedTarget === fileName) return true;
++        // HumanOS patch: our filenames/folders carry a leading "NN-" or
++        // "NN---" ordering prefix (e.g. "03---humanos-principles",
++        // "05-human") that bare [[Wikilink]] text never includes, so the
++        // exact-match check above always missed real pages. Retry against
++        // the filename/folder with that numeric prefix stripped, and for
++        // README/index hub pages, also retry against the parent folder
++        // name (also prefix-stripped) so e.g. [[Human]] can resolve to
++        // "05-human/00---readme". Also normalize away a trailing "-(...)"
++        // folder subtitle (e.g. "living-well-(the-human-operating-system)")
++        // and British/American -isation/-ization spelling drift (e.g. the
++        // "08 Society & Civilisation" folder vs. the vault's own prose,
++        // which almost always spells it "Civilization"), since both cause
++        // an otherwise-correct wikilink to miss a real page.
++        const strippedFileName = stripNumPrefix(fileName);
++        if (resolvedTarget === strippedFileName) return true;
++        if (norm(resolvedTarget) === norm(strippedFileName)) return true;
++        if ((strippedFileName === "readme" || strippedFileName === "index") && parts.length >= 2) {
++          const folderName = parts[parts.length - 2];
++          const strippedFolderName = stripNumPrefix(folderName);
++          if (
++            resolvedTarget === folderName ||
++            resolvedTarget === strippedFolderName ||
++            norm(resolvedTarget) === norm(strippedFolderName)
++          ) {
++            return true;
++          }
++        }
++        return false;
+       });
+-      if (matchingFileNames.length === 1) {
++      if (matchingFileNames.length >= 1) {
++        // HumanOS patch: a handful of titles genuinely exist twice in this
++        // vault (e.g. "Decision Making" in both Mind and Living Well).
++        // Rather than leaving every mention of those unresolved, link to
++        // the first match -- an approximate connection beats none for the
++        // graph view, and the ambiguity is rare enough not to be confusing.
+         const matchedSlug = matchingFileNames[0];
+         return resolveRelative(effectiveSrc, matchedSlug) + targetAnchor;
+       }

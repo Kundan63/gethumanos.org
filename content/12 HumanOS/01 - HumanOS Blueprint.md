@@ -294,14 +294,14 @@ The content continues evolving.
 
 The remaining HumanOS documents build upon this foundation.
 
-- **HumanOS Principles** defines the governing rules.
-- **HumanOS Framework** explains how every domain connects.
-- **HumanOS Decision Framework** explains how to think.
-- **HumanOS Capability Framework** explains how humans grow.
-- **HumanOS Learning Framework** explains continual learning.
-- **HumanOS Life Architecture** explains practical application.
-- **HumanOS Manifesto** explains purpose and responsibility.
-- **The Journey Continues** reminds us that understanding reality is a lifelong pursuit.
+- **[[HumanOS Principles]]** defines the governing rules.
+- **[[HumanOS Framework]]** explains how every domain connects.
+- **[[HumanOS Decision Framework]]** explains how to think.
+- **[[HumanOS Capability Framework]]** explains how humans grow.
+- **[[HumanOS Learning Framework]]** explains continual learning.
+- **[[HumanOS Life Architecture]]** explains practical application.
+- **[[HumanOS Manifesto]]** explains purpose and responsibility.
+- **[[The Journey Continues]]** reminds us that understanding reality is a lifelong pursuit.
 
 ---
 
@@ -310,3 +310,32 @@ The remaining HumanOS documents build upon this foundation.
 > **HumanOS is a Reality Operating System.**
 >
 > Its architecture mirrors reality itself: from the universe to life, from life to humanity, from humanity to civilization, and from understanding to responsible contribution. Every concept, every connection, and every framework exists to help people understand reality more deeply, live more wisely, develop greater capability, and leave humanity better than they found it.
+
+---
+
+# Knowledge Relationships
+
+## Depends On
+
+- [[HumanOS]]
+- [[Systems Thinking]]
+
+## Enables
+
+- [[HumanOS Principles]]
+- [[HumanOS Framework]]
+- [[HumanOS Decision Framework]]
+- [[HumanOS Capability Framework]]
+- [[HumanOS Learning Framework]]
+- [[HumanOS Life Architecture]]
+- [[HumanOS Manifesto]]
+- [[The Journey Continues]]
+
+## Related
+
+- [[Systems Thinking]]
+- [[HumanOS]]
+
+## Next
+
+→ [[HumanOS Principles]]

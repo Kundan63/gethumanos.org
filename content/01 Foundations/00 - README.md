@@ -252,30 +252,30 @@ Everything in HumanOS follows this cycle.
 
 ## Enables
 
-- Universe
-- Natural Sciences
-- Life Sciences
-- Human
-- Health & Medicine
-- Mind
-- Society & Civilization
-- Technology & Engineering
-- Philosophy & Spirituality
-- Living Well
+- [[Universe]]
+- [[Natural Sciences]]
+- [[Life Sciences]]
+- [[Human]]
+- [[Health & Medicine]]
+- [[Mind]]
+- [[Society & Civilization]]
+- [[Technology & Engineering]]
+- [[Philosophy & Spirituality]]
+- [[Living Well]]
 
 ## Related
 
-- Mathematics
-- Logic
-- Scientific Method
-- Systems Thinking
-- Critical Thinking
-- Epistemology
-- Philosophy of Knowledge
+- [[Mathematics]]
+- [[Logic]]
+- [[Scientific Method]]
+- [[Systems Thinking]]
+- [[Critical Thinking]]
+- [[Epistemology]]
+- [[Philosophy of Knowledge]]
 
 ## Next
 
-→ **Mathematics**
+→ [[Mathematics]]
 
 ---
 

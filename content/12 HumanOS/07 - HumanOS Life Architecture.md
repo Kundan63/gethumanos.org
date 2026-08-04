@@ -294,30 +294,31 @@ A good decision strengthens the system as a whole.
 
 ---
 
-# Connections
+# Knowledge Relationships
 
-## Built Upon
+## Depends On
 
-- Physical Well-being
-- Mental Well-being
-- Relationships
-- Career
-- Personal Finance
-- Productivity
-- Leadership
-- Decision Making
-- Personal Growth
+- [[Physical Well-being]]
+- [[Mental Well-being]]
+- [[Relationships]]
+- [[Career]]
+- [[Personal Finance]]
+- [[Productivity]]
+- [[Leadership]]
+- [[Decision Making]]
+- [[Personal Growth]]
+- [[HumanOS Decision Framework]]
+- [[HumanOS Capability Framework]]
+- [[HumanOS Learning Framework]]
 
-## Strengthens
+## Enables
 
-- HumanOS Manifesto
-- The Journey Continues
+- [[HumanOS Manifesto]]
+- [[The Journey Continues]]
 
-## Related
+## Next
 
-- HumanOS Decision Framework
-- HumanOS Capability Framework
-- HumanOS Learning Framework
+→ [[HumanOS Manifesto]]
 
 ---
 

@@ -327,27 +327,33 @@ If you can teach it clearly, you understand it more deeply.
 
 ---
 
-# Connections
+# Knowledge Relationships
 
-**Built Upon**
+## Depends On
 
-- Human Biology
-- Mind
-- Psychology
-- Education
-- Decision Making
+- [[Human Biology]]
+- [[Mind]]
+- [[Psychology]]
+- [[Education]]
+- [[Decision Making]]
+- [[HumanOS Capability Framework]]
 
-**Strengthens**
+## Enables
 
-- Capability
-- Creativity
-- Leadership
-- Career
-- Personal Growth
+- [[HumanOS Life Architecture]]
 
-**Supports**
+## Related
 
-Every section of HumanOS.
+- [[Creativity]]
+- [[Leadership]]
+- [[Career]]
+- [[Personal Growth]]
+
+## Next
+
+→ [[HumanOS Life Architecture]]
+
+**Supports** every section of HumanOS.
 
 ---
 

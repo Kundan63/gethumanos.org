@@ -373,3 +373,26 @@ Also ask:
 # HumanOS Principle
 
 > **Knowledge is the beginning of growth, but not its destination. HumanOS defines capability as the integration of understanding, skill, judgment, character, and experience into consistent, responsible action. The purpose of capability is not personal achievement alone, but meaningful contribution that improves individuals, communities, and humanity.**
+
+---
+
+# Knowledge Relationships
+
+## Depends On
+
+- [[HumanOS Decision Framework]]
+- [[Personal Growth]]
+
+## Enables
+
+- [[HumanOS Learning Framework]]
+- [[HumanOS Life Architecture]]
+
+## Related
+
+- [[Leadership]]
+- [[Productivity]]
+
+## Next
+
+→ [[HumanOS Learning Framework]]

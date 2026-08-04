@@ -235,3 +235,22 @@ but because reality always has another question.
 > **Live Wisely.**
 >
 > **Contribute Responsibly.**
+
+---
+
+# Knowledge Relationships
+
+## Depends On
+
+- [[HumanOS Manifesto]]
+- [[HumanOS Life Architecture]]
+
+## Related
+
+- [[HumanOS]]
+- [[HumanOS Blueprint]]
+- [[Lifelong Learning]]
+
+## Next
+
+→ [[HumanOS]]

@@ -249,3 +249,26 @@ The more connections a concept has, the greater its explanatory power.
 > **Understanding grows through connection.**
 >
 > HumanOS teaches reality as an interconnected network of systems rather than a collection of isolated disciplines. Every topic is understood by examining what it depends upon, how it works, what it influences, and why it matters. The strength of HumanOS lies not only in the quality of its individual notes, but in the quality of the relationships between them.
+
+---
+
+# Knowledge Relationships
+
+## Depends On
+
+- [[HumanOS Blueprint]]
+- [[Systems Thinking]]
+
+## Enables
+
+- [[HumanOS Decision Framework]]
+- [[HumanOS Capability Framework]]
+
+## Related
+
+- [[HumanOS]]
+- [[HumanOS Principles]]
+
+## Next
+
+→ [[HumanOS Principles]]
