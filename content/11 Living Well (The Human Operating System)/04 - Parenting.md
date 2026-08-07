@@ -1,6 +1,6 @@
 # Parenting
 
-> **Parenting is the lifelong responsibility of nurturing, protecting, educating, and guiding children so they develop into healthy, capable, ethical, independent, and compassionate adults.** Parenting is more than meeting a child's physical needs—it shapes brain development, emotional security, character, learning, relationships, and future contribution to society. Parents and caregivers are among the most influential architects of human development. :contentReference[oaicite:0]{index=0}
+> **Parenting is the lifelong responsibility of nurturing, protecting, educating, and guiding children so they develop into healthy, capable, ethical, independent, and compassionate adults.** Parenting is more than meeting a child's physical needs—it shapes brain development, emotional security, character, learning, relationships, and future contribution to society. Parents and caregivers are among the most influential architects of human development.
 
 ---
 
@@ -84,25 +84,26 @@ It includes:
 - Love
 - Preparation for adulthood
 
-Parenting changes as children grow, but its purpose remains the same: helping them become capable and responsible people. :contentReference[oaicite:1]{index=1}
+Parenting changes as children grow, but its purpose remains the same: helping them become capable and responsible people.
 
 ---
 
 # The Parenting System
 
-```text
-Parenting
-      │
- ├── Love & Attachment
- ├── Safety
- ├── Health
- ├── Learning
- ├── Emotional Development
- ├── Character
- ├── Independence
- ├── Boundaries
- └── Role Modelling
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Parenting</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Love & Attachment</div></div>
+<div class="tree-item"><div class="tree-node">Safety</div></div>
+<div class="tree-item"><div class="tree-node">Health</div></div>
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Emotional Development</div></div>
+<div class="tree-item"><div class="tree-node">Character</div></div>
+<div class="tree-item"><div class="tree-node">Independence</div></div>
+<div class="tree-item"><div class="tree-node">Boundaries</div></div>
+<div class="tree-item"><div class="tree-node">Role Modelling</div></div>
+</div>
+</div>
 
 Every component supports healthy development.
 
@@ -119,7 +120,7 @@ Children develop best when they experience:
 - Trust
 - Consistent care
 
-Secure attachment builds confidence to explore the world while knowing support is available when needed. :contentReference[oaicite:2]{index=2}
+Secure attachment builds confidence to explore the world while knowing support is available when needed.
 
 ---
 
@@ -163,7 +164,7 @@ Children learn through:
 - Exploration
 - Daily experiences
 
-Early childhood experiences strongly influence later learning and development. :contentReference[oaicite:3]{index=3}
+Early childhood experiences strongly influence later learning and development.
 
 ---
 
@@ -194,7 +195,7 @@ Parents model:
 - Courage
 - Integrity
 
-Children often imitate what adults consistently do more than what they say. :contentReference[oaicite:4]{index=4}
+Children often imitate what adults consistently do more than what they say.
 
 ---
 
@@ -278,7 +279,7 @@ Effective parenting supports:
 - Resilience
 - Long-term well-being
 
-Parents and caregivers shape experiences that influence how children think, learn, behave, and ultimately participate in society. :contentReference[oaicite:5]{index=5}
+Parents and caregivers shape experiences that influence how children think, learn, behave, and ultimately participate in society.
 
 ---
 
@@ -320,7 +321,7 @@ The influence of parenting extends across generations.
 
 ✔ Consistent routines and emotional safety benefit children.
 
-✔ Parenting support improves outcomes for both children and caregivers. :contentReference[oaicite:6]{index=6}
+✔ Parenting support improves outcomes for both children and caregivers.
 
 ---
 
@@ -359,8 +360,6 @@ Ask yourself:
 ## Built Upon
 
 - [[Evolution]]
-- [[Biology]]
-- [[Neuroscience]]
 - [[Psychology]]
 - [[Relationships]]
 - [[Education]]
@@ -373,27 +372,27 @@ Ask yourself:
 - [[Decision Making]]
 - [[Leadership]]
 - [[Lifelong Learning]]
-- [[Healthy Society]]
 
 ## Related
 
-- [[Child Development]]
 - [[Learning]]
-- [[Attachment]]
 - [[Family]]
-
-## Next
-
-→ [[Career]]
 
 ---
 
 # HumanOS Principle
 
-Parenting is the process of developing human potential across generations. By providing nurturing care, healthy boundaries, opportunities to learn, and positive role models, parents help children become capable, compassionate, and responsible adults. Parenting is therefore not only an act of caring for children—it is an act of shaping the future of humanity. :contentReference[oaicite:7]{index=7}
+Parenting is the process of developing human potential across generations. By providing nurturing care, healthy boundaries, opportunities to learn, and positive role models, parents help children become capable, compassionate, and responsible adults. Parenting is therefore not only an act of caring for children—it is an act of shaping the future of humanity.
 
 ---
 
 # Key Insight
 
 > **Every civilization is built twice: first in the home, then in the world. Parenting is where biology becomes character, learning becomes capability, and today's children become tomorrow's parents, leaders, scientists, artists, and citizens. Raising a child is not only about helping one life flourish—it is about influencing the future of humanity, one generation at a time.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/05---career" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Career</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,35 +1,35 @@
 # Society & Civilization
 
-> *Society is the organized system of human relationships, institutions, and interactions through which people live together, cooperate, and develop shared ways of life. Civilization is the advanced stage of organized society characterized by cities, governments, laws, economies, education, technology, writing, and complex social institutions. Together they explain how individual humans become families, communities, cultures, nations, and ultimately global civilization. The scientific study of society belongs primarily to sociology, while anthropology, history, economics, political science, and related disciplines explain different aspects of human civilization.* :contentReference[oaicite:0]{index=0}
+> *Society is what happens when humans stop going it alone — the organized web of relationships, institutions, and shared habits that let people live together, cooperate, and build a common way of life. Civilization is what that web looks like once it matures: cities, governments, laws, economies, education, technology, writing, and everything else that comes with organizing millions of people at once. Together, they explain how you go from a single human to a family, to a community, to a culture, to a nation, to a global civilization. Sociology studies society directly; anthropology, history, economics, and political science each explain a different slice of how civilization actually works.*
 
 ---
 
 # Why does this section exist?
 
-Humans are not solitary organisms.
+You are not a solitary organism, and neither is anyone else.
 
-No individual can independently produce:
+No single person, on their own, can produce:
 
-- Food
+- Food, at scale
 - Language
 - Education
 - Science
 - Technology
 - Laws
 - Healthcare
-- Civilization
+- Civilization itself
 
-These emerge only through cooperation across generations.
+Every one of those only exists because generations of people cooperated to build it.
 
-This section explains **how billions of individuals organize themselves into functioning societies** and how those societies evolve over time. :contentReference[oaicite:1]{index=1}
+This section explains **how billions of individuals organize themselves into functioning societies** — and how those societies keep evolving once they exist.
 
 ---
 
 # The Big Question
 
-> **How do individual humans become civilizations?**
+> **How do individual humans turn into civilizations?**
 
-Beginning with families and small groups, humans develop culture, institutions, economies, governments, and systems of knowledge that enable large-scale cooperation.
+Starting from families and small groups, humans build up culture, institutions, economies, governments, and systems of knowledge that make large-scale cooperation possible — the kind no single person could pull off alone.
 
 ---
 
@@ -41,204 +41,49 @@ Beginning with families and small groups, humans develop culture, institutions, 
 
 # Knowledge Structure
 
-```text
-Society & Civilization
-│
-├── Anthropology
-│
-├── History
-│
-├── Culture
-│
-├── Family
-│
-├── Education
-│
-├── Economics
-│
-├── Politics
-│
-├── Law
-│
-├── Business
-│
-└── Communication
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Society & Civilization</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Anthropology</div></div>
+<div class="tree-item"><div class="tree-node">History</div></div>
+<div class="tree-item"><div class="tree-node">Culture</div></div>
+<div class="tree-item"><div class="tree-node">Family</div></div>
+<div class="tree-item"><div class="tree-node">Education</div></div>
+<div class="tree-item"><div class="tree-node">Economics</div></div>
+<div class="tree-item"><div class="tree-node">Politics</div></div>
+<div class="tree-item"><div class="tree-node">Law</div></div>
+<div class="tree-item"><div class="tree-node">Business</div></div>
+<div class="tree-item"><div class="tree-node">Communication</div></div>
+</div>
+</div>
 
-Each topic explains one essential system that allows humans to live together and build civilizations.
+Each topic explains one essential system that lets humans live together and build civilizations.
 
 ---
 
 # Learning Path
 
-## 1. Anthropology
+Ten systems, each solving a different piece of the same problem: how do you get millions of individuals to function as one civilization?
 
-Anthropology studies humanity across time.
+<div class="card-grid">
+<a class="os-card" href="/08-society--and--civilisation/01---anthropology" data-no-popover="true"><span class="os-card-icon">&#129485;</span><span class="os-card-title">Anthropology</span><span class="os-card-desc">What makes humans human — origins, evolution, culture, and diversity.</span></a>
+<a class="os-card" href="/08-society--and--civilisation/02---history" data-no-popover="true"><span class="os-card-icon">&#128220;</span><span class="os-card-title">History</span><span class="os-card-desc">How societies change through time, and how the present emerged from the past.</span></a>
+<a class="os-card" href="/08-society--and--civilisation/03---culture" data-no-popover="true"><span class="os-card-icon">&#127917;</span><span class="os-card-title">Culture</span><span class="os-card-desc">The shared values, beliefs, customs, and language that guide how people live.</span></a>
+<a class="os-card" href="/08-society--and--civilisation/04---family" data-no-popover="true"><span class="os-card-icon">&#128106;</span><span class="os-card-title">Family</span><span class="os-card-desc">The fundamental social unit that provides care, protection, and socialization.</span></a>
+<a class="os-card" href="/08-society--and--civilisation/05---education" data-no-popover="true"><span class="os-card-icon">&#127891;</span><span class="os-card-title">Education</span><span class="os-card-desc">How knowledge transfers between generations instead of starting over each time.</span></a>
+<a class="os-card" href="/08-society--and--civilisation/06---economics" data-no-popover="true"><span class="os-card-icon">&#128200;</span><span class="os-card-title">Economics</span><span class="os-card-desc">How societies produce, distribute, and use scarce resources.</span></a>
+<a class="os-card" href="/08-society--and--civilisation/07---politics" data-no-popover="true"><span class="os-card-icon">&#127963;&#65039;</span><span class="os-card-title">Politics</span><span class="os-card-desc">How societies organize collective decision making — governments, power, and rights.</span></a>
+<a class="os-card" href="/08-society--and--civilisation/08---law" data-no-popover="true"><span class="os-card-icon">&#9878;&#65039;</span><span class="os-card-title">Law</span><span class="os-card-desc">The formal rules that protect rights, property, and public order.</span></a>
+<a class="os-card" href="/08-society--and--civilisation/09---business" data-no-popover="true"><span class="os-card-icon">&#128188;</span><span class="os-card-title">Business</span><span class="os-card-desc">How entrepreneurship and organizations turn knowledge and resources into value.</span></a>
+<a class="os-card" href="/08-society--and--civilisation/10---communication" data-no-popover="true"><span class="os-card-icon">&#128172;</span><span class="os-card-title">Communication</span><span class="os-card-desc">How information moves between people — the basis of all cooperation.</span></a>
+</div>
 
-It explores:
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Mumbai,_India,_Back_Bay,_Mumbai_city_skyline.jpg?width=1200" alt="The Mumbai city skyline along Back Bay, India">
+<p class="domain-figure-caption">The Mumbai skyline, India — via Wikimedia Commons</p>
+</div>
 
-- Human origins
-- Human evolution
-- Culture
-- Languages
-- Societies
-- Human diversity
-
-It asks:
-
-> **What makes humans human?** :contentReference[oaicite:2]{index=2}
-
----
-
-## 2. History
-
-History studies how societies change through time.
-
-It examines:
-
-- Ancient civilizations
-- Empires
-- Revolutions
-- Scientific progress
-- Wars
-- Social change
-
-History explains how the present emerged from the past.
-
----
-
-## 3. Culture
-
-Culture is the shared system of:
-
-- Values
-- Beliefs
-- Customs
-- Language
-- Traditions
-- Norms
-- Symbols
-
-Culture guides how people think, communicate, and behave within society. :contentReference[oaicite:3]{index=3}
-
----
-
-## 4. Family
-
-Family is the fundamental social unit.
-
-Families provide:
-
-- Care
-- Protection
-- Socialization
-- Education
-- Emotional support
-- Reproduction
-
-Nearly every society is built upon family structures.
-
----
-
-## 5. Education
-
-Education transfers knowledge between generations.
-
-It develops:
-
-- Literacy
-- Skills
-- Critical thinking
-- Scientific knowledge
-- Professional expertise
-
-Education enables civilization to accumulate knowledge instead of repeatedly starting over.
-
----
-
-## 6. Economics
-
-Economics studies how societies produce, distribute, and use limited resources.
-
-It explains:
-
-- Markets
-- Trade
-- Production
-- Consumption
-- Wealth
-- Incentives
-
-Economics answers:
-
-> **How should scarce resources be used?** :contentReference[oaicite:4]{index=4}
-
----
-
-## 7. Politics
-
-Politics concerns how societies organize collective decision making.
-
-It studies:
-
-- Governments
-- Power
-- Public policy
-- Democracy
-- Rights
-- International relations
-
-Politics determines how societies make collective choices.
-
----
-
-## 8. Law
-
-Law creates formal rules that regulate society.
-
-It protects:
-
-- Rights
-- Property
-- Contracts
-- Justice
-- Public order
-
-Law provides stability by establishing predictable systems of accountability.
-
----
-
-## 9. Business
-
-Business creates goods and services that satisfy human needs.
-
-It includes:
-
-- Entrepreneurship
-- Management
-- Innovation
-- Markets
-- Organizations
-- Value creation
-
-Business transforms knowledge and resources into practical solutions.
-
----
-
-## 10. Communication
-
-Communication allows information to move between people.
-
-It includes:
-
-- Language
-- Writing
-- Speech
-- Media
-- Digital communication
-- Nonverbal communication
-
-Without communication, cooperation, education, science, and civilization would not be possible.
+Anthropology asks the question underneath all of it: **what makes humans human?** Everything else on this list — history, culture, family, education, economics, politics, law, business, communication — is really an answer to some piece of that question, worked out at civilizational scale.
 
 ---
 
@@ -246,44 +91,44 @@ Without communication, cooperation, education, science, and civilization would n
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:230px"><svg width="100%" viewBox="0 0 230 510" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="194.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="115.1" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Individuals</text><rect x="18.0" y="90.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Families</text><rect x="18.0" y="162.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Villages</text><rect x="18.0" y="234.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cities</text><rect x="18.0" y="306.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Kingdoms</text><rect x="18.0" y="378.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Nations</text><rect x="18.0" y="450.0" width="194.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="115.1" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Global Civilization</text><line x1="115.1" y1="64.0" x2="115.1" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="136.0" x2="115.1" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="208.0" x2="115.1" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="280.0" x2="115.1" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="352.0" x2="115.1" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="424.0" x2="115.1" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-As societies grow, they develop increasingly complex institutions for coordinating human activity.
+As societies grow, they build increasingly complex institutions just to coordinate everyone's activity.
 
 ---
 
 # Core Social Institutions
 
-```text
-Society
-     │
- ├── Family
- ├── Education
- ├── Economy
- ├── Government
- ├── Law
- ├── Religion
- └── Communication
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Society</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Family</div></div>
+<div class="tree-item"><div class="tree-node">Education</div></div>
+<div class="tree-item"><div class="tree-node">Economy</div></div>
+<div class="tree-item"><div class="tree-node">Government</div></div>
+<div class="tree-item"><div class="tree-node">Law</div></div>
+<div class="tree-item"><div class="tree-node">Religion</div></div>
+<div class="tree-item"><div class="tree-node">Communication</div></div>
+</div>
+</div>
 
-These institutions solve recurring problems that every society must address, although they differ across cultures and historical periods. :contentReference[oaicite:5]{index=5}
+Every society on record has had to solve these same recurring problems — the institutions that solve them just look different depending on the culture and the century.
 
 ---
 
 # Why should humans care?
 
-Every person lives within society.
+You live inside a society whether you think about it or not, and it shapes far more of your life than most people realize.
 
-Society influences:
+> [!note] What society actually shapes
+> - Health
+> - Education
+> - Opportunities
+> - Wealth
+> - Freedom
+> - Relationships
+> - Identity
+> - Security
 
-- Health
-- Education
-- Opportunities
-- Wealth
-- Freedom
-- Relationships
-- Identity
-- Security
-
-Understanding society helps people become informed citizens, responsible leaders, and thoughtful contributors to human progress.
+Understand how society works, and you're better equipped to be an informed citizen, a responsible leader, and a genuine contributor to human progress — instead of just a passenger.
 
 ---
 
@@ -291,26 +136,25 @@ Understanding society helps people become informed citizens, responsible leaders
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:176px"><svg width="100%" viewBox="0 0 173 582" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="137.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="86.7" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Biology</text><rect x="18.0" y="90.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Mind</text><rect x="18.0" y="162.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Individuals</text><rect x="18.0" y="234.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Families</text><rect x="18.0" y="306.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Society</text><rect x="18.0" y="378.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Civilization</text><rect x="18.0" y="450.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Technology</text><rect x="18.0" y="522.0" width="137.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="86.7" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Future</text><line x1="86.7" y1="64.0" x2="86.7" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="136.0" x2="86.7" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="208.0" x2="86.7" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="280.0" x2="86.7" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="352.0" x2="86.7" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="424.0" x2="86.7" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="496.0" x2="86.7" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Society connects individual human minds to the collective systems that shape civilization.
+Society is where individual minds connect into the collective systems that shape civilization.
 
 ---
 
 # Role in HumanOS
 
-The **Society & Civilization** section explains how human cooperation creates cultures, institutions, economies, governments, laws, businesses, and systems of communication that enable civilization to emerge and evolve.
+The **Society & Civilization** section explains how human cooperation creates the cultures, institutions, economies, governments, laws, businesses, and communication systems that let civilization emerge — and keep evolving.
 
-It connects:
+> [!info] What it connects
+> - [[Psychology]]
+> - [[Behaviour]]
+> - [[Communication]]
+> - [[Economics]]
+> - [[Politics]]
+> - Technology
+> - [[History]]
+> - Earth & Environment
 
-- [[Psychology]]
-- [[Behaviour]]
-- [[Communication]]
-- [[Economics]]
-- [[Politics]]
-- [[Technology]]
-- [[History]]
-- [[Earth & Environment]]
-
-It serves as the bridge between **individual human behavior** and the **collective systems** that shape the past, present, and future of humanity.
+Think of it as the bridge between **individual human behavior** and the **collective systems** that shape humanity's past, present, and future.
 
 ---
 
@@ -321,7 +165,6 @@ It serves as the bridge between **individual human behavior** and the **collecti
 - [[Mind]]
 - [[Behaviour]]
 - [[Communication]]
-- [[Human Evolution]]
 
 ## Enables
 
@@ -329,7 +172,6 @@ It serves as the bridge between **individual human behavior** and the **collecti
 - [[Politics]]
 - [[Law]]
 - [[Business]]
-- [[Technology]]
 
 ## Related
 
@@ -338,18 +180,22 @@ It serves as the bridge between **individual human behavior** and the **collecti
 - [[Education]]
 - [[Psychology]]
 
-## Next
-
-→ [[Anthropology]]
-
 ---
 
 # HumanOS Principle
 
-Human civilization emerges from the ability of individuals to cooperate through shared culture, communication, institutions, and knowledge. Families, education, economies, governments, laws, and businesses are interconnected systems that solve collective problems and enable societies to grow beyond the capabilities of any single person. Understanding these systems helps explain how humanity built civilization—and how it can continue to improve it. :contentReference[oaicite:6]{index=6}
+> [!tip] The core idea
+> Civilization exists because individuals learned to cooperate through shared culture, communication, institutions, and knowledge. Families, education, economies, governments, laws, and businesses are interconnected systems that solve collective problems and let societies grow far beyond what any single person could ever manage alone. Understand these systems, and you understand how humanity actually built civilization — and how it keeps improving it.
 
 ---
 
 # Key Insight
 
-> **No human builds civilization alone. Every language spoken, law obeyed, technology invented, and idea shared exists because countless generations cooperated through families, cultures, institutions, and communication. Understanding society reveals how individual lives become collective progress—and how today's choices shape the civilization of tomorrow.** :contentReference[oaicite:7]{index=7}
+> **No one builds civilization alone. Every language you speak, every law you follow, every piece of technology you use, every idea you've ever shared exists because countless generations cooperated through families, cultures, institutions, and communication. Understanding society shows you how individual lives add up to collective progress — and how the choices being made today shape the civilization of tomorrow.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/08-society--and--civilisation/01---anthropology" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Anthropology</span><span class="os-cta-sub">What makes humans human — origins, evolution, culture, and diversity</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,6 +1,6 @@
 # Pharmacology
 
-> *Pharmacology is the scientific study of drugs (medicines) and how they interact with living organisms. It examines how drugs produce their effects, how the body absorbs, distributes, metabolizes, and eliminates them, and how they can be used safely and effectively to prevent, diagnose, or treat disease. Pharmacology forms the scientific foundation of modern medicine by integrating biology, chemistry, physiology, and clinical medicine.* :contentReference[oaicite:0]{index=0}
+> *Pharmacology is the scientific study of drugs (medicines) and how they interact with living organisms. It examines how drugs produce their effects, how the body absorbs, distributes, metabolizes, and eliminates them, and how they can be used safely and effectively to prevent, diagnose, or treat disease. Pharmacology forms the scientific foundation of modern medicine by integrating biology, chemistry, physiology, and clinical medicine.*
 
 ---
 
@@ -17,7 +17,7 @@ Pharmacology is the science of:
 It answers two fundamental questions:
 
 1. **What does the drug do to the body?** *(Pharmacodynamics)*
-2. **What does the body do to the drug?** *(Pharmacokinetics)* :contentReference[oaicite:1]{index=1}
+2. **What does the body do to the drug?** *(Pharmacokinetics)*
 
 ---
 
@@ -36,7 +36,7 @@ Medicines are designed to:
 - Prevent disease
 - Improve quality of life
 
-Pharmacology explains **how** these medicines work and **how to use them safely**. :contentReference[oaicite:2]{index=2}
+Pharmacology explains **how** these medicines work and **how to use them safely**.
 
 ---
 
@@ -44,7 +44,7 @@ Pharmacology explains **how** these medicines work and **how to use them safely*
 
 > **How can a tiny molecule change the function of an entire organ—or even save a life?**
 
-Medicines work by interacting with specific biological targets such as receptors, enzymes, ion channels, transporters, or DNA, modifying normal physiological processes. :contentReference[oaicite:3]{index=3}
+Medicines work by interacting with specific biological targets such as receptors, enzymes, ion channels, transporters, or DNA, modifying normal physiological processes.
 
 ---
 
@@ -56,22 +56,18 @@ Medicines work by interacting with specific biological targets such as receptors
 
 # Major Branches of Pharmacology
 
-```text
-Pharmacology
-      │
- ┌────┼───────────────┬──────────────┐
- ▼    ▼               ▼              ▼
-Pharmacokinetics
-Pharmacodynamics
-Clinical Pharmacology
-Toxicology
- │
- ├────────────┬─────────────┬────────────┐
- ▼            ▼             ▼
-Pharmacogenomics
-Chemotherapy
-Drug Development
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Pharmacology</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Pharmacokinetics</div></div>
+<div class="tree-item"><div class="tree-node">Pharmacodynamics</div></div>
+<div class="tree-item"><div class="tree-node">Clinical Pharmacology</div></div>
+<div class="tree-item"><div class="tree-node">Toxicology</div></div>
+<div class="tree-item"><div class="tree-node">Pharmacogenomics</div></div>
+<div class="tree-item"><div class="tree-node">Chemotherapy</div></div>
+<div class="tree-item"><div class="tree-node">Drug Development</div></div>
+</div>
+</div>
 
 ---
 
@@ -93,7 +89,7 @@ PK determines:
 - Duration
 - Route of administration
 
-:contentReference[oaicite:4]{index=4}
+
 
 ---
 
@@ -110,7 +106,7 @@ Studies:
 - Drug efficacy
 - Side effects
 
-:contentReference[oaicite:5]{index=5}
+
 
 ---
 
@@ -149,7 +145,7 @@ Studies how genetic variation affects:
 - Drug toxicity
 - Personalized medicine
 
-:contentReference[oaicite:6]{index=6}
+
 
 ---
 
@@ -214,7 +210,7 @@ Removal of drugs primarily through:
 - Sweat
 - Breast milk
 
-:contentReference[oaicite:7]{index=7}
+
 
 ---
 
@@ -277,25 +273,26 @@ Examples:
 - Sulfonamides
 - Benzodiazepines
 
-WHO's International Nonproprietary Names (INN) system often uses common stems to indicate drug classes (for example, **-pril** for ACE inhibitors and **-statin** for HMG-CoA reductase inhibitors). :contentReference[oaicite:8]{index=8}
+WHO's International Nonproprietary Names (INN) system often uses common stems to indicate drug classes (for example, **-pril** for ACE inhibitors and **-statin** for HMG-CoA reductase inhibitors).
 
 ---
 
 # Routes of Drug Administration
 
-```text
-Drug
- │
- ├── Oral
- ├── Injection
- ├── Inhalation
- ├── Topical
- ├── Eye
- ├── Ear
- ├── Rectal
- ├── Vaginal
- └── Transdermal
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Drug</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Oral</div></div>
+<div class="tree-item"><div class="tree-node">Injection</div></div>
+<div class="tree-item"><div class="tree-node">Inhalation</div></div>
+<div class="tree-item"><div class="tree-node">Topical</div></div>
+<div class="tree-item"><div class="tree-node">Eye</div></div>
+<div class="tree-item"><div class="tree-node">Ear</div></div>
+<div class="tree-item"><div class="tree-node">Rectal</div></div>
+<div class="tree-item"><div class="tree-node">Vaginal</div></div>
+<div class="tree-item"><div class="tree-node">Transdermal</div></div>
+</div>
+</div>
 
 Different routes affect:
 
@@ -348,7 +345,7 @@ Drug response varies because of:
 - Alcohol
 - Smoking
 
-:contentReference[oaicite:9]{index=9}
+
 
 ---
 
@@ -380,7 +377,7 @@ Clinical trials progress through:
 - Phase III – Large-scale confirmation
 - Phase IV – Post-marketing surveillance
 
-:contentReference[oaicite:10]{index=10}
+
 
 ---
 
@@ -421,7 +418,7 @@ Safe medicine use requires:
 - Correct timing
 - Monitoring for adverse effects
 
-Medication safety is a major component of modern healthcare. :contentReference[oaicite:11]{index=11}
+Medication safety is a major component of modern healthcare.
 
 ---
 
@@ -437,11 +434,13 @@ Nearly every person uses medicines during life.
 
 Understanding pharmacology helps people:
 
-- Use medicines safely
-- Avoid harmful interactions
-- Understand side effects
-- Improve treatment success
-- Make informed healthcare decisions
+> [!success]
+> - Use medicines safely
+> - Avoid harmful interactions
+> - Understand side effects
+> - Improve treatment success
+> - Make informed healthcare decisions
+
 
 ---
 
@@ -511,13 +510,6 @@ Modern pharmacology uses:
 It connects:
 
 - [[Disease]]
-- [[Drug Development]]
-- [[Pharmacokinetics]]
-- [[Pharmacodynamics]]
-- [[Physiology]]
-- [[Biochemistry]]
-- [[Precision Medicine]]
-- [[Healthcare]]
 
 It demonstrates that effective treatment depends not only on discovering medicines but also on understanding how the body and the medicine influence each other.
 
@@ -527,37 +519,32 @@ It demonstrates that effective treatment depends not only on discovering medicin
 
 ## Depends On
 
-- [[Biochemistry]]
-- [[Physiology]]
 - [[Cell Biology]]
 - [[Disease Mechanisms]]
 
 ## Enables
 
-- [[Clinical Medicine]]
-- [[Drug Development]]
-- [[Precision Medicine]]
-- [[Therapeutics]]
+None.
 
 ## Related
 
-- [[Toxicology]]
 - [[Genetics]]
-- [[Healthcare]]
-- [[Public Health]]
-
-## Next
-
-→ [[Surgery]]
 
 ---
 
 # HumanOS Principle
 
-Pharmacology is the science that explains how medicines interact with living systems to prevent, diagnose, and treat disease. By understanding how drugs are absorbed, distributed, metabolized, excreted, and how they act on specific biological targets, pharmacology enables safer, more effective, and increasingly personalized medical care. As advances in genomics, biotechnology, and artificial intelligence continue, pharmacology remains central to the future of precision medicine and global health. :contentReference[oaicite:12]{index=12}
+Pharmacology is the science that explains how medicines interact with living systems to prevent, diagnose, and treat disease. By understanding how drugs are absorbed, distributed, metabolized, excreted, and how they act on specific biological targets, pharmacology enables safer, more effective, and increasingly personalized medical care. As advances in genomics, biotechnology, and artificial intelligence continue, pharmacology remains central to the future of precision medicine and global health.
 
 ---
 
 # Key Insight
 
-> **Pharmacology is the bridge between chemistry, biology, and medicine. Understanding how drugs interact with the human body reveals not only how diseases can be treated, but also why every medicine carries both the potential for benefit and the risk of harm—making scientific evidence, appropriate dosing, and individualized care essential for safe and effective therapy.** :contentReference[oaicite:13]{index=13}
+> **Pharmacology is the bridge between chemistry, biology, and medicine. Understanding how drugs interact with the human body reveals not only how diseases can be treated, but also why every medicine carries both the potential for benefit and the risk of harm—making scientific evidence, appropriate dosing, and individualized care essential for safe and effective therapy.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/04-medical-treatment/02---surgery" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Surgery</span><span class="os-cta-sub">Surgery is a branch of medicine that uses operative procedures to diagnose, treat,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

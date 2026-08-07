@@ -1,6 +1,6 @@
 # Productivity
 
-> **Productivity is the ability to consistently transform time, energy, knowledge, and resources into meaningful value.** It is not about doing more things—it is about doing the right things effectively and sustainably. True productivity balances performance with well-being, recognizing that long-term contribution depends on healthy people, thoughtful systems, and purposeful work. :contentReference[oaicite:0]{index=0}
+> **Productivity is the ability to consistently transform time, energy, knowledge, and resources into meaningful value.** It is not about doing more things—it is about doing the right things effectively and sustainably. True productivity balances performance with well-being, recognizing that long-term contribution depends on healthy people, thoughtful systems, and purposeful work.
 
 ---
 
@@ -84,25 +84,26 @@ Those resources include:
 
 Higher productivity means creating more meaningful value with the same or fewer resources.
 
-Working longer is not necessarily working more productively. Productivity growth comes from working **smarter**, improving systems, and reducing waste rather than simply increasing effort. :contentReference[oaicite:1]{index=1}
+Working longer is not necessarily working more productively. Productivity growth comes from working **smarter**, improving systems, and reducing waste rather than simply increasing effort.
 
 ---
 
 # The Productivity System
 
-```text
-Productivity
-      │
- ├── Purpose
- ├── Energy
- ├── Attention
- ├── Planning
- ├── Prioritization
- ├── Focus
- ├── Execution
- ├── Recovery
- └── Continuous Improvement
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Productivity</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Purpose</div></div>
+<div class="tree-item"><div class="tree-node">Energy</div></div>
+<div class="tree-item"><div class="tree-node">Attention</div></div>
+<div class="tree-item"><div class="tree-node">Planning</div></div>
+<div class="tree-item"><div class="tree-node">Prioritization</div></div>
+<div class="tree-item"><div class="tree-node">Focus</div></div>
+<div class="tree-item"><div class="tree-node">Execution</div></div>
+<div class="tree-item"><div class="tree-node">Recovery</div></div>
+<div class="tree-item"><div class="tree-node">Continuous Improvement</div></div>
+</div>
+</div>
 
 Every component influences long-term effectiveness.
 
@@ -202,7 +203,7 @@ Recovery restores:
 - Motivation
 - Creativity
 
-Sustainable productivity depends upon balancing effort with recovery rather than maximizing hours worked. :contentReference[oaicite:2]{index=2}
+Sustainable productivity depends upon balancing effort with recovery rather than maximizing hours worked.
 
 ---
 
@@ -246,7 +247,7 @@ Healthy productivity improves:
 - Contribution
 - Quality of life
 
-Research also shows that well-being and productivity reinforce one another. Supporting health and well-being can improve sustainable productivity, while productive systems can contribute to improved living standards. :contentReference[oaicite:3]{index=3}
+Research also shows that well-being and productivity reinforce one another. Supporting health and well-being can improve sustainable productivity, while productive systems can contribute to improved living standards.
 
 ---
 
@@ -288,7 +289,7 @@ Small improvements in daily habits often create significant long-term outcomes.
 
 ✔ Recovery is essential for long-term productivity.
 
-✔ Sustainable productivity comes from working smarter, not simply longer. :contentReference[oaicite:4]{index=4}
+✔ Sustainable productivity comes from working smarter, not simply longer.
 
 ---
 
@@ -326,11 +327,8 @@ Ask yourself:
 
 ## Built Upon
 
-- [[Biology]]
-- [[Neuroscience]]
 - [[Psychology]]
 - [[Decision Making]]
-- [[Technology]]
 - [[Career]]
 - [[Personal Finance]]
 
@@ -338,30 +336,27 @@ Ask yourself:
 
 - [[Leadership]]
 - [[Creativity]]
-- [[Career Growth]]
-- [[Financial Security]]
 - [[Personal Growth]]
-- [[Contribution]]
 
 ## Related
 
-- [[Focus]]
 - [[Habits]]
-- [[Time Management]]
-- [[Deep Work]]
-
-## Next
-
-→ [[Leadership]]
 
 ---
 
 # HumanOS Principle
 
-Productivity is the disciplined transformation of time, energy, attention, and knowledge into meaningful value. Sustainable productivity is achieved not by maximizing effort, but by aligning purpose, health, focus, effective systems, and continuous improvement. The ultimate purpose of productivity is not simply to accomplish more—it is to create greater value for oneself, for others, and for society. :contentReference[oaicite:5]{index=5}
+Productivity is the disciplined transformation of time, energy, attention, and knowledge into meaningful value. Sustainable productivity is achieved not by maximizing effort, but by aligning purpose, health, focus, effective systems, and continuous improvement. The ultimate purpose of productivity is not simply to accomplish more—it is to create greater value for oneself, for others, and for society.
 
 ---
 
 # Key Insight
 
 > **Time is fixed. Energy is renewable. Attention is limited. Knowledge is expandable. Productivity is the art of bringing all four together to create value that improves both your own life and the lives of others. HumanOS measures productivity not by how busy you are, but by how effectively you transform your capabilities into meaningful contribution.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/08---leadership" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Leadership</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -20,7 +20,7 @@ It studies:
 
 Its goal is to discover the universal principles that explain how nature behaves.
 
-Unlike chemistry, which focuses on substances and reactions, or biology, which studies living systems, physics seeks the most fundamental rules that govern **everything** in the Universe. :contentReference[oaicite:0]{index=0}
+Unlike chemistry, which focuses on substances and reactions, or biology, which studies living systems, physics seeks the most fundamental rules that govern **everything** in the Universe.
 
 ---
 
@@ -63,41 +63,69 @@ Physics constantly tests its explanations against observations.
 
 When better evidence becomes available, scientific models are refined or expanded.
 
-This makes physics one of humanity's most reliable methods for understanding nature. :contentReference[oaicite:1]{index=1}
+This makes physics one of humanity's most reliable methods for understanding nature.
 
 ---
 
 # Major Areas of Physics
 
-```text
-                    Physics
-                       │
-     ┌─────────────────┼──────────────────┐
-     │                 │                  │
-Mechanics       Thermodynamics    Electromagnetism
-     │                 │                  │
-     ├────────────┐    │                  │
-     ▼            ▼    ▼                  ▼
-Motion       Forces   Heat          Electricity
-                                          │
-                                          ▼
-                                       Magnetism
-                       │
-                       ▼
-                    Optics
-                       │
-                       ▼
-                      Light
-                       │
-       ┌───────────────┼────────────────┐
-       ▼                                ▼
- Quantum Physics                 Relativity
-       │                                │
-       ▼                                ▼
-Atoms & Particles          Space • Time • Gravity
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Physics</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Mechanics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Motion</div></div>
+<div class="tree-item"><div class="tree-node">Forces</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Thermodynamics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Heat</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Electromagnetism</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Electricity</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Magnetism</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Optics</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Light</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Quantum Physics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Atoms &amp; Particles</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Relativity</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Space • Time • Gravity</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-Although physics has many branches, they are all connected by the goal of explaining how the Universe behaves. :contentReference[oaicite:2]{index=2}
+Although physics has many branches, they are all connected by the goal of explaining how the Universe behaves.
 
 ---
 
@@ -117,58 +145,39 @@ It explains almost everything you experience every day.
 
 Physics helps humans understand:
 
-- Why objects fall.
-- How electricity powers homes.
-- Why airplanes fly.
-- How smartphones work.
-- How medicines are imaged using MRI and X-rays.
-- How satellites enable GPS.
-- Why climate behaves the way it does.
-- How energy can be used more efficiently.
+> [!success]
+> - Why objects fall.
+> - How electricity powers homes.
+> - Why airplanes fly.
+> - How smartphones work.
+> - How medicines are imaged using MRI and X-rays.
+> - How satellites enable GPS.
+> - Why climate behaves the way it does.
+> - How energy can be used more efficiently.
 
-Understanding physics improves our ability to solve problems, develop technology, and make informed decisions about the world around us. :contentReference[oaicite:3]{index=3}
+Understanding physics improves our ability to solve problems, develop technology, and make informed decisions about the world around us.
 
 ---
 
 # Daily Life Examples
 
-### 🚶 Walking
-
-Walking is possible because friction between your feet and the ground prevents slipping.
-
----
-
-### 🚗 Driving
-
-Acceleration, braking, turning, and seat belts all rely on Newton's laws of motion.
-
----
-
-### 📱 Smartphone
-
-A smartphone combines electricity, magnetism, semiconductors, light, sound, and radio waves—all explained by physics.
-
----
-
-### ❤️ Medical Imaging
-
-MRI, CT scans, X-rays, ultrasound, and radiation therapy all apply physical principles to diagnose and treat disease.
-
----
-
-### 🌦 Weather Forecasts
-
-Weather prediction depends on physics governing fluids, heat transfer, and atmospheric motion.
-
----
-
-### 🚀 Space Exploration
-
-Launching satellites and exploring other planets requires precise understanding of gravity, motion, energy, and orbital mechanics.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🚶</span><span class="os-card-title">Walking</span><span class="os-card-desc">Walking is possible because friction between your feet and the ground prevents slipping.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🚗</span><span class="os-card-title">Driving</span><span class="os-card-desc">Acceleration, braking, turning, and seat belts all rely on Newton's laws of motion.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">📱</span><span class="os-card-title">Smartphone</span><span class="os-card-desc">A smartphone combines electricity, magnetism, semiconductors, light, sound, and radio waves—all explained by physics.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">❤️</span><span class="os-card-title">Medical Imaging</span><span class="os-card-desc">MRI, CT scans, X-rays, ultrasound, and radiation therapy all apply physical principles to diagnose and treat disease.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌦</span><span class="os-card-title">Weather Forecasts</span><span class="os-card-desc">Weather prediction depends on physics governing fluids, heat transfer, and atmospheric motion.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🚀</span><span class="os-card-title">Space Exploration</span><span class="os-card-desc">Launching satellites and exploring other planets requires precise understanding of gravity, motion, energy, and orbital mechanics.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sir_CV_Raman.JPG?width=1200" alt="Portrait photograph of Sir C.V. Raman, the Indian physicist who discovered the Raman effect and won the 1930 Nobel Prize in Physics">
+<p class="domain-figure-caption">Sir C.V. Raman, the Indian physicist who won the 1930 Nobel Prize in Physics for the Raman effect — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -345,9 +354,7 @@ Physics becomes the foundation for chemistry, Earth science, engineering, medici
 
 - [[Chemistry]]
 - [[Earth Science]]
-- [[Engineering & Applied Sciences]]
 - [[Health & Medicine]]
-- [[Technology]]
 
 ---
 
@@ -359,12 +366,13 @@ Physics becomes the foundation for chemistry, Earth science, engineering, medici
 
 ---
 
-## Next
-
-→ [[Chemistry]]
-
----
-
 # Key Insight
 
 > **Physics is humanity's attempt to understand the fundamental rules of reality. By discovering how matter, energy, space, time, and forces interact, physics not only explains the Universe but also enables medicine, technology, engineering, and countless decisions that improve human life.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/03-natural-sciences/02---chemistry" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Chemistry</span><span class="os-cta-sub">Chemistry explains how matter transforms. It reveals how atoms become molecules,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

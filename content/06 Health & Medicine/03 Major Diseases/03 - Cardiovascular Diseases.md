@@ -1,6 +1,6 @@
 # Cardiovascular Diseases
 
-> *Cardiovascular diseases (CVDs) are a group of disorders affecting the heart and blood vessels. They include coronary artery disease, stroke, hypertension-related heart disease, heart failure, peripheral arterial disease, congenital heart disease, rheumatic heart disease, deep vein thrombosis, and pulmonary embolism. Cardiovascular diseases are the leading cause of death worldwide, responsible for an estimated **19.8 million deaths in 2022**, with approximately **85%** of these deaths resulting from heart attacks and strokes. Most cardiovascular diseases are preventable by reducing behavioral and environmental risk factors while appropriately treating hypertension, diabetes, and high cholesterol.* :contentReference[oaicite:0]{index=0}
+> *Cardiovascular diseases (CVDs) are a group of disorders affecting the heart and blood vessels. They include coronary artery disease, stroke, hypertension-related heart disease, heart failure, peripheral arterial disease, congenital heart disease, rheumatic heart disease, deep vein thrombosis, and pulmonary embolism. Cardiovascular diseases are the leading cause of death worldwide, responsible for an estimated **19.8 million deaths in 2022**, with approximately **85%** of these deaths resulting from heart attacks and strokes. Most cardiovascular diseases are preventable by reducing behavioral and environmental risk factors while appropriately treating hypertension, diabetes, and high cholesterol.*
 
 ---
 
@@ -55,7 +55,7 @@ Over years or decades this may lead to:
 
 > **How do everyday habits gradually damage the heart and blood vessels?**
 
-Cardiovascular diseases develop through long-term interactions between genetics, aging, lifestyle, metabolism, and the environment that progressively impair the structure and function of the circulatory system. :contentReference[oaicite:1]{index=1}
+Cardiovascular diseases develop through long-term interactions between genetics, aging, lifestyle, metabolism, and the environment that progressively impair the structure and function of the circulatory system.
 
 ---
 
@@ -67,21 +67,21 @@ Cardiovascular diseases develop through long-term interactions between genetics,
 
 # Major Cardiovascular Diseases
 
-```text
-Cardiovascular Diseases
-        │
- ┌──────┼───────────────┬──────────────┐
- ▼      ▼               ▼              ▼
-Coronary Artery Disease
-Stroke
-Heart Failure
-Hypertension
- │
- ├────────────┬───────────────┐
- ▼            ▼
-Peripheral Artery Disease
-Congenital Heart Disease
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Cardiovascular Diseases</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Coronary Artery Disease</div></div>
+<div class="tree-item"><div class="tree-node">Stroke</div></div>
+<div class="tree-item"><div class="tree-node">Heart Failure</div></div>
+<div class="tree-item">
+<div class="tree-node">Hypertension</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Peripheral Artery Disease</div></div>
+<div class="tree-item"><div class="tree-node">Congenital Heart Disease</div></div>
+</div>
+</div>
+</div>
+</div>
 
 ---
 
@@ -134,7 +134,7 @@ Persistently elevated blood pressure.
 
 Often causes no symptoms until complications develop.
 
-It is one of the strongest modifiable risk factors for heart attack, stroke, kidney disease, and heart failure. :contentReference[oaicite:2]{index=2}
+It is one of the strongest modifiable risk factors for heart attack, stroke, kidney disease, and heart failure.
 
 ---
 
@@ -154,15 +154,14 @@ Common symptoms:
 
 Cardiovascular disease results from multiple interacting causes.
 
-```text
-Complete Causes
-      │
- ┌────┼──────────────────────────────┐
- ▼    ▼                              ▼
-Genetics
-Lifestyle
-Environment
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+</div>
+</div>
 
 ### 🧬 Genetics
 
@@ -264,7 +263,7 @@ Examples:
 - Occupational chemicals
 - Heat stress
 
-Air pollution is now recognized as an important environmental cardiovascular risk factor. :contentReference[oaicite:3]{index=3}
+Air pollution is now recognized as an important environmental cardiovascular risk factor.
 
 ---
 
@@ -279,7 +278,7 @@ These measurable conditions greatly increase cardiovascular risk:
 - Obesity
 - Metabolic syndrome
 
-These often develop before overt cardiovascular disease. :contentReference[oaicite:4]{index=4}
+These often develop before overt cardiovascular disease.
 
 ---
 
@@ -306,7 +305,7 @@ Symptoms vary by disease but may include:
 - Sudden weakness
 - Difficulty speaking
 
-Many people have **no symptoms** until a heart attack or stroke occurs. :contentReference[oaicite:5]{index=5}
+Many people have **no symptoms** until a heart attack or stroke occurs.
 
 ---
 
@@ -357,7 +356,7 @@ Treatment depends on the specific condition but may include:
 - Pacemakers
 - Heart transplantation (selected cases)
 
-:contentReference[oaicite:6]{index=6}
+
 
 ---
 
@@ -374,7 +373,7 @@ Evidence-based strategies include:
 - Diabetes control
 - Cholesterol management
 
-These significantly reduce cardiovascular risk. :contentReference[oaicite:7]{index=7}
+These significantly reduce cardiovascular risk.
 
 ---
 
@@ -411,7 +410,7 @@ These significantly reduce cardiovascular risk. :contentReference[oaicite:7]{ind
 - Trans fats
 - Excess saturated fats
 
-Reducing salt intake while increasing fruit and vegetable consumption is associated with lower cardiovascular risk. :contentReference[oaicite:8]{index=8}
+Reducing salt intake while increasing fruit and vegetable consumption is associated with lower cardiovascular risk.
 
 ---
 
@@ -472,7 +471,7 @@ Key preventive measures include:
 - Limit alcohol
 - Attend regular health checks
 
-WHO identifies addressing tobacco use, unhealthy diet, physical inactivity, harmful alcohol use, and air pollution as the most effective prevention strategy. :contentReference[oaicite:9]{index=9}
+WHO identifies addressing tobacco use, unhealthy diet, physical inactivity, harmful alcohol use, and air pollution as the most effective prevention strategy.
 
 ---
 
@@ -516,13 +515,14 @@ Cardiovascular diseases are the **leading cause of death worldwide**, yet many c
 
 Understanding cardiovascular disease allows people to:
 
-- Reduce risk early
-- Detect disease sooner
-- Prevent heart attacks and strokes
-- Extend lifespan
-- Improve quality of life
+> [!success]
+> - Reduce risk early
+> - Detect disease sooner
+> - Prevent heart attacks and strokes
+> - Extend lifespan
+> - Improve quality of life
 
-:contentReference[oaicite:10]{index=10}
+
 
 ---
 
@@ -590,11 +590,8 @@ It connects:
 
 - [[Chronic Diseases]]
 - [[Cardiovascular System]]
-- [[Hypertension]]
-- [[Atherosclerosis]]
 - [[Lifestyle Medicine]]
 - [[Preventive Medicine]]
-- [[Healthy Aging]]
 
 It demonstrates that cardiovascular health is the product of genetics, environment, and lifelong behaviors, making prevention one of the most powerful tools in modern medicine.
 
@@ -610,9 +607,6 @@ It demonstrates that cardiovascular health is the product of genetics, environme
 
 ## Enables
 
-- [[Hypertension]]
-- [[Stroke]]
-- [[Heart Failure]]
 - [[Preventive Medicine]]
 
 ## Related
@@ -622,18 +616,21 @@ It demonstrates that cardiovascular health is the product of genetics, environme
 - [[Exercise]]
 - [[Chronic Diseases]]
 
-## Next
-
-→ [[Diabetes & Metabolic Disorders]]
-
 ---
 
 # HumanOS Principle
 
-Cardiovascular diseases develop through long-term interactions between genetics, aging, lifestyle, and environmental exposures that progressively damage the heart and blood vessels. Although they are the leading cause of death globally, many cardiovascular diseases are preventable through healthy nutrition, regular physical activity, avoidance of tobacco, control of blood pressure, cholesterol and diabetes, and timely medical care. Understanding cardiovascular disease demonstrates that protecting the circulatory system protects every organ that depends on it. :contentReference[oaicite:11]{index=11}
+Cardiovascular diseases develop through long-term interactions between genetics, aging, lifestyle, and environmental exposures that progressively damage the heart and blood vessels. Although they are the leading cause of death globally, many cardiovascular diseases are preventable through healthy nutrition, regular physical activity, avoidance of tobacco, control of blood pressure, cholesterol and diabetes, and timely medical care. Understanding cardiovascular disease demonstrates that protecting the circulatory system protects every organ that depends on it.
 
 ---
 
 # Key Insight
 
-> **Cardiovascular diseases are disorders of the heart and blood vessels that arise from cumulative biological damage over time. By understanding their causes, mechanisms, risk factors, prevention, and treatment, individuals can greatly reduce the likelihood of heart attack, stroke, heart failure, and other life-threatening complications while improving both lifespan and healthspan.** :contentReference[oaicite:12]{index=12}
+> **Cardiovascular diseases are disorders of the heart and blood vessels that arise from cumulative biological damage over time. By understanding their causes, mechanisms, risk factors, prevention, and treatment, individuals can greatly reduce the likelihood of heart attack, stroke, heart failure, and other life-threatening complications while improving both lifespan and healthspan.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/04---diabetes--and--metabolic-disorders" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Diabetes & Metabolic Disorders</span><span class="os-cta-sub">Diabetes and metabolic disorders are a group of chronic diseases in which the body's...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

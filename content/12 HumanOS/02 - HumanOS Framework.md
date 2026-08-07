@@ -84,17 +84,15 @@ Building from simpler systems toward more complex systems.
 
 Connecting related disciplines.
 
-```text
-Psychology
-
-↔ Neuroscience
-
-↔ Education
-
-↔ Economics
-
-↔ Artificial Intelligence
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Psychology</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Neuroscience</div></div>
+<div class="tree-item"><div class="tree-node">Education</div></div>
+<div class="tree-item"><div class="tree-node">Economics</div></div>
+<div class="tree-item"><div class="tree-node">Artificial Intelligence</div></div>
+</div>
+</div>
 
 ---
 
@@ -220,25 +218,32 @@ It behaves as a network.
 
 Every concept should connect to multiple others.
 
-```text
-Physics
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Physics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Chemistry</div></div>
+<div class="tree-item"><div class="tree-node">Mathematics</div></div>
+<div class="tree-item"><div class="tree-node">Engineering</div></div>
+</div>
+</div>
 
-├── Chemistry
-├── Mathematics
-├── Engineering
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Chemistry</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Biology</div></div>
+<div class="tree-item"><div class="tree-node">Medicine</div></div>
+<div class="tree-item"><div class="tree-node">Materials Science</div></div>
+</div>
+</div>
 
-Chemistry
-
-├── Biology
-├── Medicine
-├── Materials Science
-
-Biology
-
-├── Neuroscience
-├── Psychology
-├── Evolution
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Biology</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Neuroscience</div></div>
+<div class="tree-item"><div class="tree-node">Psychology</div></div>
+<div class="tree-item"><div class="tree-node">Evolution</div></div>
+</div>
+</div>
 
 The more connections a concept has, the greater its explanatory power.
 
@@ -269,6 +274,9 @@ The more connections a concept has, the greater its explanatory power.
 - [[HumanOS]]
 - [[HumanOS Principles]]
 
-## Next
+---
 
-→ [[HumanOS Principles]]
+<div class="cta-row"><a class="os-cta" href="/12-humanos/03---humanos-principles" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: HumanOS Principles</span><span class="os-cta-sub">The HumanOS Principles define the fundamental rules that govern every part of HumanOS.</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

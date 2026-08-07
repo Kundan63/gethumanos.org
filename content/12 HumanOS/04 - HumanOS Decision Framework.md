@@ -321,6 +321,9 @@ Decision making is where every HumanOS discipline converges into action.
 - [[Systems Thinking]]
 - [[Ethics]]
 
-## Next
+---
 
-→ [[HumanOS Capability Framework]]
+<div class="cta-row"><a class="os-cta" href="/12-humanos/05---humanos-capability-framework" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: HumanOS Capability Framework</span><span class="os-cta-sub">The HumanOS Capability Framework explains how humans develop the ability to...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

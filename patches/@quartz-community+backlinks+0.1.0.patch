@@ -1,0 +1,28 @@
+diff --git a/node_modules/@quartz-community/backlinks/dist/components/index.js b/node_modules/@quartz-community/backlinks/dist/components/index.js
+index 0ddc3de..9c9774d 100644
+--- a/node_modules/@quartz-community/backlinks/dist/components/index.js
++++ b/node_modules/@quartz-community/backlinks/dist/components/index.js
+@@ -459,7 +459,8 @@ var defaultOptions = {
+   hideWhenEmpty: true
+ };
+ function selectBacklinkSources(allFiles, currentSlug) {
+-  return allFiles.filter((file) => file.unlisted !== true && file.links?.includes(currentSlug));
++  const currentDomain = currentSlug.split("/")[0];
++  return allFiles.filter((file) => file.unlisted !== true && file.links?.includes(currentSlug) && file.slug?.split("/")[0] === currentDomain);
+ }
+ var Backlinks_default = ((opts) => {
+   const options = { ...defaultOptions, ...opts };
+diff --git a/node_modules/@quartz-community/backlinks/dist/index.js b/node_modules/@quartz-community/backlinks/dist/index.js
+index 0ddc3de..9c9774d 100644
+--- a/node_modules/@quartz-community/backlinks/dist/index.js
++++ b/node_modules/@quartz-community/backlinks/dist/index.js
+@@ -459,7 +459,8 @@ var defaultOptions = {
+   hideWhenEmpty: true
+ };
+ function selectBacklinkSources(allFiles, currentSlug) {
+-  return allFiles.filter((file) => file.unlisted !== true && file.links?.includes(currentSlug));
++  const currentDomain = currentSlug.split("/")[0];
++  return allFiles.filter((file) => file.unlisted !== true && file.links?.includes(currentSlug) && file.slug?.split("/")[0] === currentDomain);
+ }
+ var Backlinks_default = ((opts) => {
+   const options = { ...defaultOptions, ...opts };

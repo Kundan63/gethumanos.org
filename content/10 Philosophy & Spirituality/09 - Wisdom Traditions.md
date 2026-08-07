@@ -1,6 +1,6 @@
 # Wisdom Traditions
 
-> *Wisdom traditions are long-standing philosophical, religious, and cultural systems that seek to answer life's deepest questions and guide people toward wise, ethical, and meaningful living. Rather than focusing primarily on abstract theory, wisdom traditions emphasize practical knowledge, moral character, self-understanding, compassion, and the cultivation of a flourishing life. They are found across civilizations and include traditions such as Stoicism, Confucianism, Buddhism, Daoism, Vedanta, Indigenous knowledge systems, and many others.* :contentReference[oaicite:0]{index=0}
+> *Wisdom traditions are long-standing philosophical, religious, and cultural systems that seek to answer life's deepest questions and guide people toward wise, ethical, and meaningful living. Rather than focusing primarily on abstract theory, wisdom traditions emphasize practical knowledge, moral character, self-understanding, compassion, and the cultivation of a flourishing life. They are found across civilizations and include traditions such as Stoicism, Confucianism, Buddhism, Daoism, Vedanta, Indigenous knowledge systems, and many others.*
 
 ---
 
@@ -25,7 +25,7 @@ Wisdom traditions combine:
 - Practice
 - Character
 
-Their goal is not only understanding reality but **helping people live wisely within it.** :contentReference[oaicite:1]{index=1}
+Their goal is not only understanding reality but **helping people live wisely within it.**
 
 ---
 
@@ -44,7 +44,7 @@ People must also develop:
 - Humility
 - Practical wisdom
 
-Wisdom traditions exist because every generation must learn how to navigate uncertainty, relationships, suffering, and responsibility. :contentReference[oaicite:2]{index=2}
+Wisdom traditions exist because every generation must learn how to navigate uncertainty, relationships, suffering, and responsibility.
 
 ---
 
@@ -64,18 +64,19 @@ Wisdom traditions answer this through lifelong learning, ethical living, reflect
 
 # Components of Wisdom Traditions
 
-```text
-Wisdom Traditions
-        │
- ├── Knowledge
- ├── Character
- ├── Virtue
- ├── Reflection
- ├── Practice
- ├── Compassion
- ├── Community
- └── Lifelong Learning
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Wisdom Traditions</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Knowledge</div></div>
+<div class="tree-item"><div class="tree-node">Character</div></div>
+<div class="tree-item"><div class="tree-node">Virtue</div></div>
+<div class="tree-item"><div class="tree-node">Reflection</div></div>
+<div class="tree-item"><div class="tree-node">Practice</div></div>
+<div class="tree-item"><div class="tree-node">Compassion</div></div>
+<div class="tree-item"><div class="tree-node">Community</div></div>
+<div class="tree-item"><div class="tree-node">Lifelong Learning</div></div>
+</div>
+</div>
 
 These elements appear in many cultures despite differences in beliefs and practices.
 
@@ -128,7 +129,7 @@ Common virtues across many traditions include:
 - Honesty
 - Generosity
 
-Although traditions differ, many value moral excellence and self-discipline. :contentReference[oaicite:3]{index=3}
+Although traditions differ, many value moral excellence and self-discipline.
 
 ---
 
@@ -204,28 +205,29 @@ Wise individuals remain:
 - Open to correction
 - Willing to continue learning
 
-Humility is widely regarded as an important aspect of wisdom. :contentReference[oaicite:4]{index=4}
+Humility is widely regarded as an important aspect of wisdom.
 
 ---
 
 # Major Wisdom Traditions
 
-```text
-Wisdom Traditions
-        │
- ├── Stoicism
- ├── Confucianism
- ├── Daoism
- ├── Buddhism
- ├── Vedanta
- ├── Indigenous Traditions
- ├── Sufism
- ├── Jewish Wisdom Literature
- ├── Christian Wisdom Traditions
- └── Islamic Wisdom Traditions
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Wisdom Traditions</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Stoicism</div></div>
+<div class="tree-item"><div class="tree-node">Confucianism</div></div>
+<div class="tree-item"><div class="tree-node">Daoism</div></div>
+<div class="tree-item"><div class="tree-node">Buddhism</div></div>
+<div class="tree-item"><div class="tree-node">Vedanta</div></div>
+<div class="tree-item"><div class="tree-node">Indigenous Traditions</div></div>
+<div class="tree-item"><div class="tree-node">Sufism</div></div>
+<div class="tree-item"><div class="tree-node">Jewish Wisdom Literature</div></div>
+<div class="tree-item"><div class="tree-node">Christian Wisdom Traditions</div></div>
+<div class="tree-item"><div class="tree-node">Islamic Wisdom Traditions</div></div>
+</div>
+</div>
 
-These traditions differ in worldview and beliefs, but many share an interest in cultivating wisdom, virtue, and meaningful living. :contentReference[oaicite:5]{index=5}
+These traditions differ in worldview and beliefs, but many share an interest in cultivating wisdom, virtue, and meaningful living.
 
 ---
 
@@ -311,7 +313,7 @@ Across cultures, many wisdom traditions encourage:
 - Reflection
 - Balance
 
-The specific teachings vary, but these themes appear repeatedly across civilizations. :contentReference[oaicite:6]{index=6}
+The specific teachings vary, but these themes appear repeatedly across civilizations.
 
 ---
 
@@ -329,13 +331,15 @@ Wisdom helps us live well within it.
 
 Wisdom traditions contribute to:
 
-- Leadership
-- Education
-- Psychology
-- Ethics
-- Conflict resolution
-- Personal development
-- Community life
+<div class="tag-grid">
+<span class="tag-pill">Leadership</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Psychology</span>
+<span class="tag-pill">Ethics</span>
+<span class="tag-pill">Conflict resolution</span>
+<span class="tag-pill">Personal development</span>
+<span class="tag-pill">Community life</span>
+</div>
 
 ---
 
@@ -355,7 +359,7 @@ Some are religious, some are philosophical, and many combine both.
 
 Intelligence concerns solving problems.
 
-Wisdom includes judgment, humility, ethics, and practical life understanding. :contentReference[oaicite:7]{index=7}
+Wisdom includes judgment, humility, ethics, and practical life understanding.
 
 ---
 
@@ -363,7 +367,7 @@ Wisdom includes judgment, humility, ethics, and practical life understanding. :c
 
 **Reality:**
 
-Many ancient insights about character, relationships, and decision-making remain relevant and continue to be studied in philosophy and psychology. :contentReference[oaicite:8]{index=8}
+Many ancient insights about character, relationships, and decision-making remain relevant and continue to be studied in philosophy and psychology.
 
 ---
 
@@ -371,12 +375,13 @@ Many ancient insights about character, relationships, and decision-making remain
 
 Wisdom traditions help people:
 
-- Make better decisions
-- Build strong character
-- Handle uncertainty
-- Develop resilience
-- Improve relationships
-- Live with greater purpose
+> [!success]
+> - Make better decisions
+> - Build strong character
+> - Handle uncertainty
+> - Develop resilience
+> - Improve relationships
+> - Live with greater purpose
 
 They complement scientific knowledge by addressing questions of values, judgment, and human flourishing.
 
@@ -477,8 +482,6 @@ It demonstrates that while science expands knowledge and technology expands capa
 
 - [[Meaning & Purpose]]
 - [[Leadership]]
-- [[Character]]
-- [[Human Flourishing]]
 - [[Lifelong Learning]]
 
 ## Related
@@ -486,20 +489,22 @@ It demonstrates that while science expands knowledge and technology expands capa
 - [[Meditation]]
 - [[Mindfulness]]
 - [[Consciousness]]
-- [[Virtue]]
-
-## Next
-
-→ [[Meaning & Purpose]]
 
 ---
 
 # HumanOS Principle
 
-Wisdom traditions are humanity's long-standing systems for cultivating practical wisdom, ethical character, and meaningful living. Found across diverse cultures and civilizations, they integrate knowledge, reflection, experience, and disciplined practice to help individuals navigate life's deepest challenges. While their beliefs and practices differ, they share a common goal: transforming understanding into wise action that benefits both individuals and society. :contentReference[oaicite:9]{index=9}
+Wisdom traditions are humanity's long-standing systems for cultivating practical wisdom, ethical character, and meaningful living. Found across diverse cultures and civilizations, they integrate knowledge, reflection, experience, and disciplined practice to help individuals navigate life's deepest challenges. While their beliefs and practices differ, they share a common goal: transforming understanding into wise action that benefits both individuals and society.
 
 ---
 
 # Key Insight
 
 > **Wisdom traditions are humanity's memory of how to live well. Science teaches us how the world works, technology expands what we can do, but wisdom traditions remind us that a flourishing life depends not only on knowledge and power, but on character, compassion, and the judgment to use them well.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/10-philosophy--and--spirituality/10---meaning--and--purpose" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Meaning & Purpose</span><span class="os-cta-sub">Meaning and purpose are closely related but distinct concepts that help humans...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -29,7 +29,7 @@ Without the nervous system:
 - You could not remember.
 - Your heart, lungs, and digestive system would lose coordinated regulation.
 
-The nervous system is divided into the **Central Nervous System (CNS)**—the brain and spinal cord—and the **Peripheral Nervous System (PNS)**—the nerves and ganglia that connect the CNS to the rest of the body. :contentReference[oaicite:0]{index=0}
+The nervous system is divided into the **Central Nervous System (CNS)**—the brain and spinal cord—and the **Peripheral Nervous System (PNS)**—the nerves and ganglia that connect the CNS to the rest of the body.
 
 ---
 
@@ -58,7 +58,7 @@ Its purpose is to:
 - Enable learning.
 - Improve survival.
 
-Without rapid communication between organs, complex life would not be possible. :contentReference[oaicite:1]{index=1}
+Without rapid communication between organs, complex life would not be possible.
 
 ---
 
@@ -68,34 +68,44 @@ The nervous system follows a continuous information cycle.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:255px"><svg width="100%" viewBox="0 0 255 654" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="218.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="127.3" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Environment</text><rect x="18.0" y="90.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Sensory Receptors</text><rect x="18.0" y="162.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Sensory Neurons</text><rect x="18.0" y="234.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Brain &amp; Spinal Cord</text><rect x="18.0" y="306.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Information Processing</text><rect x="18.0" y="378.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Decision</text><rect x="18.0" y="450.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Motor Neurons</text><rect x="18.0" y="522.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Muscles &amp; Organs</text><rect x="18.0" y="594.0" width="218.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="127.3" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Response</text><line x1="127.3" y1="64.0" x2="127.3" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="136.0" x2="127.3" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="208.0" x2="127.3" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="280.0" x2="127.3" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="352.0" x2="127.3" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="424.0" x2="127.3" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="496.0" x2="127.3" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="568.0" x2="127.3" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Every second, billions of neurons exchange electrical and chemical signals, allowing the body to sense, think, decide, and act. :contentReference[oaicite:2]{index=2}
+Every second, billions of neurons exchange electrical and chemical signals, allowing the body to sense, think, decide, and act.
 
 ---
 
 # Organization of the Nervous System
 
-```text
-                 Nervous System
-                        │
-        ┌───────────────┴───────────────┐
-        ▼                               ▼
-Central Nervous System         Peripheral Nervous System
-        │                               │
-        ▼                               ▼
- Brain & Spinal Cord          Cranial & Spinal Nerves
-                                        │
-                    ┌───────────────────┴──────────────────┐
-                    ▼                                      ▼
-             Somatic System                     Autonomic System
-             (Voluntary)                          (Involuntary)
-                                                        │
-                             ┌──────────────────────────┼──────────────────────────┐
-                             ▼                          ▼                          ▼
-                    Sympathetic                Parasympathetic               Enteric
-                    Fight or Flight            Rest and Digest            Digestive Control
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Nervous System</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Central Nervous System</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Brain &amp; Spinal Cord</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Peripheral Nervous System</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Cranial &amp; Spinal Nerves</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Somatic System (Voluntary)</div></div>
+<div class="tree-item">
+<div class="tree-node">Autonomic System (Involuntary)</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Sympathetic<br>Fight or Flight</div></div>
+<div class="tree-item"><div class="tree-node">Parasympathetic<br>Rest and Digest</div></div>
+<div class="tree-item"><div class="tree-node">Enteric<br>Digestive Control</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-The autonomic nervous system regulates involuntary functions such as heart rate, digestion, blood pressure, and temperature, while the somatic nervous system controls voluntary movement. :contentReference[oaicite:3]{index=3}
+The autonomic nervous system regulates involuntary functions such as heart rate, digestion, blood pressure, and temperature, while the somatic nervous system controls voluntary movement.
 
 ---
 
@@ -113,26 +123,28 @@ Everything that makes you **you** depends on your nervous system.
 
 It allows you to:
 
-- Think
-- Learn
-- Remember
-- Love
-- Speak
-- Create
-- Solve problems
-- Feel pain
-- Experience joy
-- Build relationships
+> [!success]
+> - Think
+> - Learn
+> - Remember
+> - Love
+> - Speak
+> - Create
+> - Solve problems
+> - Feel pain
+> - Experience joy
+> - Build relationships
 
 It also controls functions you rarely notice:
 
-- Heart rate
-- Breathing
-- Digestion
-- Sweating
-- Blood pressure
-- Body temperature
-- Reflexes
+> [!success]
+> - Heart rate
+> - Breathing
+> - Digestion
+> - Sweating
+> - Blood pressure
+> - Body temperature
+> - Reflexes
 
 Damage to the nervous system can affect movement, memory, language, personality, emotions, and even consciousness.
 
@@ -152,7 +164,7 @@ The nervous system transforms light into action within fractions of a second.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:190px"><svg width="100%" viewBox="0 0 190 366" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="153.7" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="94.8" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Heat</text><rect x="18.0" y="90.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Skin Receptors</text><rect x="18.0" y="162.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Spinal Cord</text><rect x="18.0" y="234.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Arm Muscles</text><rect x="18.0" y="306.0" width="153.7" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="94.8" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Hand Withdraws</text><line x1="94.8" y1="64.0" x2="94.8" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="136.0" x2="94.8" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="208.0" x2="94.8" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="280.0" x2="94.8" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-The spinal cord can trigger a reflex before the brain becomes consciously aware of the pain. :contentReference[oaicite:4]{index=4}
+The spinal cord can trigger a reflex before the brain becomes consciously aware of the pain.
 
 ---
 
@@ -200,32 +212,36 @@ During sleep the nervous system:
 
 The nervous system is influenced by almost every aspect of life.
 
-```text
-                  Nervous System
-                        ▲
-                        │
-     ┌──────────────────┼──────────────────┐
-     │                  │                  │
- Nutrition        Physical Activity     Sleep
-     │                  │                  │
-     ├──────────────────┼──────────────────┤
-     │                  │                  │
- Stress         Relationships      Learning
-     │                  │                  │
-     ├──────────────────┼──────────────────┤
-     │                  │                  │
- Environment      Pollution         Aging
-     │                  │                  │
-     ├──────────────────┼──────────────────┤
-     │                  │                  │
- Genetics      Infection        Healthcare
-     │                  │                  │
-     └──────────────────┼──────────────────┘
-                        │
-              Brain & Nervous Function
-                        │
-          Health or Neurological Disease
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Nervous System</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Nutrition, Physical Activity, Sleep</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Stress, Relationships, Learning</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Environment, Pollution, Aging</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Genetics, Infection, Healthcare</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Brain &amp; Nervous Function</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Health or Neurological Disease</span></div>
+</div>
+</div>
 
 The nervous system depends on continuous support from every other body system.
 
@@ -256,6 +272,11 @@ Neurological diseases often arise from multiple interacting factors rather than 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nimhans_main.jpg?width=1200" alt="The NIMHANS (National Institute of Mental Health and Neurosciences) campus building in Bangalore, India">
+<p class="domain-figure-caption">NIMHANS, Bangalore — India's premier institute for neuroscience and mental health — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -452,16 +473,7 @@ Understanding the nervous system explains **how information flows through the hu
 ## Related
 
 - [[Brain]]
-- [[Spinal Cord]]
 - [[Neurons]]
-- [[Autonomic Nervous System]]
-- [[Reflexes]]
-
----
-
-## Next
-
-→ [[Endocrine System]]
 
 ---
 
@@ -486,3 +498,10 @@ Understanding the nervous system is therefore the bridge between **biology** and
 # Key Insight
 
 > **The nervous system is the body's master control and communication network. By continuously sensing the environment, processing information, coordinating organs, and enabling thought, memory, emotion, and consciousness, it transforms biological activity into human experience. Protecting the nervous system through healthy living, learning, sleep, exercise, and preventive care is fundamental to preserving both physical health and the qualities that make us uniquely human.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/03-human-system/02---endocrine-system" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Endocrine System</span><span class="os-cta-sub">The Endocrine System is the body's long-distance communication network. Using hormones...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

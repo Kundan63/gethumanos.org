@@ -1,6 +1,6 @@
 # Decision Making
 
-> **Decision Making is the process of selecting a course of action from available alternatives based on goals, evidence, values, risks, and expected outcomes.** Every human decision—whether personal, professional, scientific, or societal—shapes future possibilities. Better decisions improve health, relationships, careers, financial security, and the long-term direction of individuals and civilizations. Evidence-informed decision-making combines the best available knowledge with context, values, and judgment rather than relying on impulse or habit alone. :contentReference[oaicite:0]{index=0}
+> **Decision Making is the process of selecting a course of action from available alternatives based on goals, evidence, values, risks, and expected outcomes.** Every human decision—whether personal, professional, scientific, or societal—shapes future possibilities. Better decisions improve health, relationships, careers, financial security, and the long-term direction of individuals and civilizations. Evidence-informed decision-making combines the best available knowledge with context, values, and judgment rather than relying on impulse or habit alone.
 
 ---
 
@@ -92,25 +92,26 @@ Good decision making does not guarantee perfect outcomes.
 
 It increases the probability of better outcomes over time.
 
-Evidence-informed decision-making emphasizes using the best available evidence while also considering context, ethics, feasibility, and stakeholder values. :contentReference[oaicite:1]{index=1}
+Evidence-informed decision-making emphasizes using the best available evidence while also considering context, ethics, feasibility, and stakeholder values.
 
 ---
 
 # The Decision-Making System
 
-```text
-Decision Making
-        │
- ├── Goals
- ├── Evidence
- ├── Critical Thinking
- ├── Risk Assessment
- ├── Trade-offs
- ├── Ethics
- ├── Action
- ├── Feedback
- └── Continuous Learning
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Decision Making</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Goals</div></div>
+<div class="tree-item"><div class="tree-node">Evidence</div></div>
+<div class="tree-item"><div class="tree-node">Critical Thinking</div></div>
+<div class="tree-item"><div class="tree-node">Risk Assessment</div></div>
+<div class="tree-item"><div class="tree-node">Trade-offs</div></div>
+<div class="tree-item"><div class="tree-node">Ethics</div></div>
+<div class="tree-item"><div class="tree-node">Action</div></div>
+<div class="tree-item"><div class="tree-node">Feedback</div></div>
+<div class="tree-item"><div class="tree-node">Continuous Learning</div></div>
+</div>
+</div>
 
 Every component strengthens the quality of decisions.
 
@@ -146,7 +147,7 @@ Evidence may include:
 - Observation
 - Expert knowledge
 
-Evidence should be evaluated for quality, relevance, and limitations rather than accepted uncritically. :contentReference[oaicite:2]{index=2}
+Evidence should be evaluated for quality, relevance, and limitations rather than accepted uncritically.
 
 ---
 
@@ -160,7 +161,7 @@ Critical thinking helps people:
 - Evaluate claims.
 - Recognize uncertainty.
 
-It protects against poor reasoning and improves judgment. :contentReference[oaicite:3]{index=3}
+It protects against poor reasoning and improves judgment.
 
 ---
 
@@ -232,7 +233,7 @@ Learning closes the decision loop.
 
 Good decision makers remain adaptable.
 
-As new evidence emerges, responsible people are willing to revise conclusions rather than defend outdated beliefs. Evidence-informed decision-making is an iterative process that integrates new information over time. :contentReference[oaicite:4]{index=4}
+As new evidence emerges, responsible people are willing to revise conclusions rather than defend outdated beliefs. Evidence-informed decision-making is an iterative process that integrates new information over time.
 
 ---
 
@@ -268,7 +269,7 @@ Better decision making improves:
 - Problem solving
 - Long-term well-being
 
-Individuals and institutions that consistently use evidence-informed approaches generally make more effective and transparent decisions. :contentReference[oaicite:5]{index=5}
+Individuals and institutions that consistently use evidence-informed approaches generally make more effective and transparent decisions.
 
 ---
 
@@ -310,7 +311,7 @@ Every major life outcome is influenced by countless small decisions.
 
 ✔ Feedback and learning improve future decisions.
 
-✔ Ethical considerations are an essential part of responsible decision making. :contentReference[oaicite:6]{index=6}
+✔ Ethical considerations are an essential part of responsible decision making.
 
 ---
 
@@ -353,7 +354,6 @@ Ask yourself:
 - [[Logic]]
 - [[Mathematics]]
 - [[Psychology]]
-- [[Neuroscience]]
 - [[Economics]]
 - [[Ethics]]
 - [[Leadership]]
@@ -364,28 +364,27 @@ Ask yourself:
 - [[Leadership]]
 - [[Personal Finance]]
 - [[Career]]
-- [[Problem Solving]]
-- [[Wisdom]]
 
 ## Related
 
 - [[Critical Thinking]]
-- [[Risk]]
-- [[Biases]]
 - [[Systems Thinking]]
-
-## Next
-
-→ [[Lifelong Learning]]
 
 ---
 
 # HumanOS Principle
 
-Decision making is the disciplined process of transforming knowledge into responsible action. By combining evidence, critical thinking, ethical judgment, and continuous learning, humans increase the likelihood of making choices that improve individual lives, strengthen communities, and contribute to the long-term progress of civilization. :contentReference[oaicite:7]{index=7}
+Decision making is the disciplined process of transforming knowledge into responsible action. By combining evidence, critical thinking, ethical judgment, and continuous learning, humans increase the likelihood of making choices that improve individual lives, strengthen communities, and contribute to the long-term progress of civilization.
 
 ---
 
 # Key Insight
 
 > **Your future is built one decision at a time. Every choice is a bridge between the reality you understand today and the reality you will live tomorrow. HumanOS teaches decision making not as choosing the easiest option, but as consistently choosing the wisest one based on evidence, values, and responsibility.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/11---lifelong-learning" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Lifelong Learning</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

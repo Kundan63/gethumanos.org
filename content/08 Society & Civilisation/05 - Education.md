@@ -1,6 +1,6 @@
 # Education
 
-> *Education is the lifelong process through which people acquire knowledge, skills, values, attitudes, habits, and ways of thinking that enable them to understand the world, develop their potential, participate in society, and improve their lives. It occurs through both formal institutions such as schools and universities and informal experiences within families, communities, workplaces, and everyday life. Education is one of humanity's most important mechanisms for transmitting knowledge and culture across generations.* :contentReference[oaicite:0]{index=0}
+> *Education is the lifelong process through which people acquire knowledge, skills, values, attitudes, habits, and ways of thinking that enable them to understand the world, develop their potential, participate in society, and improve their lives. It occurs through both formal institutions such as schools and universities and informal experiences within families, communities, workplaces, and everyday life. Education is one of humanity's most important mechanisms for transmitting knowledge and culture across generations.*
 
 ---
 
@@ -27,7 +27,7 @@ Humans learn:
 - From society
 - Throughout life
 
-Education transforms information into understanding and understanding into capability. :contentReference[oaicite:1]{index=1}
+Education transforms information into understanding and understanding into capability.
 
 ---
 
@@ -65,22 +65,22 @@ Education answers this by organizing learning so individuals can acquire existin
 
 # Components of Education
 
-```text
-Education
-      │
- ┌────┼──────────────┬──────────────┐
- ▼    ▼              ▼              ▼
-Knowledge
-Skills
-Values
-Character
- │
- ├────────────┬──────────────┬──────────────┐
- ▼            ▼              ▼
-Critical Thinking
-Creativity
-Communication
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Education</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Knowledge</div></div>
+<div class="tree-item"><div class="tree-node">Skills</div></div>
+<div class="tree-item"><div class="tree-node">Values</div></div>
+<div class="tree-item">
+<div class="tree-node">Character</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Critical Thinking</div></div>
+<div class="tree-item"><div class="tree-node">Creativity</div></div>
+<div class="tree-item"><div class="tree-node">Communication</div></div>
+</div>
+</div>
+</div>
+</div>
 
 Education develops both intellectual and personal capabilities.
 
@@ -88,14 +88,15 @@ Education develops both intellectual and personal capabilities.
 
 # Types of Education
 
-```text
-Education
-      │
- ├── Formal
- ├── Informal
- ├── Non-formal
- └── Lifelong Learning
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Education</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Formal</div></div>
+<div class="tree-item"><div class="tree-node">Informal</div></div>
+<div class="tree-item"><div class="tree-node">Non-formal</div></div>
+<div class="tree-item"><div class="tree-node">Lifelong Learning</div></div>
+</div>
+</div>
 
 ---
 
@@ -115,7 +116,7 @@ Characteristics:
 - Assessment
 - Qualifications
 
-Formal education develops academic knowledge and professional skills. :contentReference[oaicite:2]{index=2}
+Formal education develops academic knowledge and professional skills.
 
 ---
 
@@ -131,7 +132,7 @@ Examples:
 - Watching documentaries
 - Daily experiences
 
-Informal education begins at birth and continues throughout life. :contentReference[oaicite:3]{index=3}
+Informal education begins at birth and continues throughout life.
 
 ---
 
@@ -180,7 +181,7 @@ Education aims to develop:
 - Problem-solving
 - Lifelong learning
 
-Its purpose extends beyond employment to preparing individuals for responsible participation in society. :contentReference[oaicite:4]{index=4}
+Its purpose extends beyond employment to preparing individuals for responsible participation in society.
 
 ---
 
@@ -212,7 +213,7 @@ Education helps society by:
 - Promoting citizenship
 - Reducing ignorance
 
-Sociologists view education as one of society's central institutions because it prepares people for participation in social life. :contentReference[oaicite:5]{index=5}
+Sociologists view education as one of society's central institutions because it prepares people for participation in social life.
 
 ---
 
@@ -261,7 +262,7 @@ Education continues to evolve through:
 - Interactive technologies
 - Lifelong learning platforms
 
-Technology expands access but also creates new challenges for attention, equity, and effective learning. :contentReference[oaicite:6]{index=6}
+Technology expands access but also creates new challenges for attention, equity, and effective learning.
 
 ---
 
@@ -269,14 +270,16 @@ Technology expands access but also creates new challenges for attention, equity,
 
 Education contributes to:
 
-- Science
-- Medicine
-- Engineering
-- Business
-- Government
-- Technology
-- Healthcare
-- Personal development
+<div class="tag-grid">
+<span class="tag-pill">Science</span>
+<span class="tag-pill">Medicine</span>
+<span class="tag-pill">Engineering</span>
+<span class="tag-pill">Business</span>
+<span class="tag-pill">Government</span>
+<span class="tag-pill">Technology</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Personal development</span>
+</div>
 
 Nearly every profession depends on education.
 
@@ -288,7 +291,7 @@ Nearly every profession depends on education.
 
 Reality:
 
-Education occurs throughout life in families, workplaces, communities, and personal experiences. :contentReference[oaicite:7]{index=7}
+Education occurs throughout life in families, workplaces, communities, and personal experiences.
 
 ---
 
@@ -312,14 +315,15 @@ Modern societies require lifelong learning as knowledge and technology continue 
 
 Education influences:
 
-- Health
-- Career
-- Income
-- Relationships
-- Citizenship
-- Innovation
-- Personal growth
-- Quality of life
+> [!success]
+> - Health
+> - Career
+> - Income
+> - Relationships
+> - Citizenship
+> - Innovation
+> - Personal growth
+> - Quality of life
 
 Education empowers individuals while strengthening society.
 
@@ -334,6 +338,11 @@ Education transforms individual learning into collective human progress.
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nalanda_University_India_ruins.jpg?width=1200" alt="Ruins of Nalanda University, one of the world's earliest residential universities, in India">
+<p class="domain-figure-caption">Ruins of Nalanda, the ancient Indian center of learning founded in the 5th century CE — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -402,8 +411,6 @@ It connects:
 - [[Communication]]
 - [[Culture]]
 - [[Economics]]
-- [[Technology]]
-- [[Civilization]]
 
 It demonstrates that civilization advances because every generation builds upon the knowledge inherited from those before it.
 
@@ -421,30 +428,28 @@ It demonstrates that civilization advances because every generation builds upon 
 ## Enables
 
 - [[Economics]]
-- [[Science]]
-- [[Technology]]
 - [[Business]]
-- [[Innovation]]
 
 ## Related
 
 - [[Psychology]]
 - [[History]]
-- [[Knowledge]]
-- [[Society]]
-
-## Next
-
-→ [[Economics]]
 
 ---
 
 # HumanOS Principle
 
-Education is the lifelong process through which individuals acquire knowledge, skills, values, and ways of thinking that enable them to understand reality and contribute to society. Through formal and informal learning, education preserves culture, advances science, develops human potential, and allows civilization to accumulate knowledge across generations. It is one of humanity's most powerful tools for personal growth and collective progress. :contentReference[oaicite:8]{index=8}
+Education is the lifelong process through which individuals acquire knowledge, skills, values, and ways of thinking that enable them to understand reality and contribute to society. Through formal and informal learning, education preserves culture, advances science, develops human potential, and allows civilization to accumulate knowledge across generations. It is one of humanity's most powerful tools for personal growth and collective progress.
 
 ---
 
 # Key Insight
 
-> **Education is civilization's memory system. Every language spoken, scientific law discovered, medical breakthrough achieved, and technological innovation created survives because it can be taught. Education transforms individual learning into humanity's collective intelligence, allowing each generation to begin where the previous one left off rather than starting from nothing.** :contentReference[oaicite:9]{index=9}
+> **Education is civilization's memory system. Every language spoken, scientific law discovered, medical breakthrough achieved, and technological innovation created survives because it can be taught. Education transforms individual learning into humanity's collective intelligence, allowing each generation to begin where the previous one left off rather than starting from nothing.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/08-society--and--civilisation/06---economics" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Economics</span><span class="os-cta-sub">Economics is the social science that studies how individuals, businesses, governments,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

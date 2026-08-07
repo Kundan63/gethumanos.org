@@ -340,6 +340,9 @@ This is the journey.
 - [[HumanOS]]
 - [[HumanOS Blueprint]]
 
-## Next
+---
 
-→ [[The Journey Continues]]
+<div class="cta-row"><a class="os-cta" href="/12-humanos/09---the-journey-continues" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: The Journey Continues</span><span class="os-cta-sub">HumanOS ends here.</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

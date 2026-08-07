@@ -1,6 +1,6 @@
 # Palliative Care
 
-> *Palliative care is an approach that improves the quality of life of patients (adults and children) and their families who are facing problems associated with life-threatening or serious illness. It prevents and relieves suffering through the early identification, careful assessment, and treatment of pain and other physical, psychological, social, and spiritual problems. Palliative care is appropriate at any stage of serious illness and can be provided alongside treatments intended to cure or prolong life. Globally, an estimated **56.8 million people** need palliative care each year, yet only about **14%** receive it.* :contentReference[oaicite:0]{index=0}
+> *Palliative care is an approach that improves the quality of life of patients (adults and children) and their families who are facing problems associated with life-threatening or serious illness. It prevents and relieves suffering through the early identification, careful assessment, and treatment of pain and other physical, psychological, social, and spiritual problems. Palliative care is appropriate at any stage of serious illness and can be provided alongside treatments intended to cure or prolong life. Globally, an estimated **56.8 million people** need palliative care each year, yet only about **14%** receive it.*
 
 ---
 
@@ -16,7 +16,7 @@ Palliative care is a patient-centered approach that aims to:
 - Help families and caregivers
 - Assist with complex medical decisions
 
-Unlike emergency medicine or surgery, the primary goal is **comfort, dignity, and quality of life**, regardless of whether the illness can be cured. :contentReference[oaicite:1]{index=1}
+Unlike emergency medicine or surgery, the primary goal is **comfort, dignity, and quality of life**, regardless of whether the illness can be cured.
 
 ---
 
@@ -35,7 +35,7 @@ Patients may experience:
 - Family stress
 - Financial concerns
 
-Palliative care exists to reduce this suffering while supporting patients and families throughout the illness. :contentReference[oaicite:2]{index=2}
+Palliative care exists to reduce this suffering while supporting patients and families throughout the illness.
 
 ---
 
@@ -55,27 +55,20 @@ Palliative care focuses on relieving suffering, preserving dignity, and helping 
 
 # Who Can Benefit?
 
-```text
-Serious Illness
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Cancer
-Heart Disease
-Stroke
-Kidney Failure
- │
- ├─────────────┬──────────────┬──────────────┐
- ▼             ▼              ▼
-COPD
-Dementia
-Parkinson Disease
- │
- ├─────────────┬──────────────┐
- ▼             ▼
-Liver Disease
-Children with Serious Illness
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Serious Illness</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Cancer</div></div>
+<div class="tree-item"><div class="tree-node">Heart Disease</div></div>
+<div class="tree-item"><div class="tree-node">Stroke</div></div>
+<div class="tree-item"><div class="tree-node">Kidney Failure</div></div>
+<div class="tree-item"><div class="tree-node">COPD</div></div>
+<div class="tree-item"><div class="tree-node">Dementia</div></div>
+<div class="tree-item"><div class="tree-node">Parkinson Disease</div></div>
+<div class="tree-item"><div class="tree-node">Liver Disease</div></div>
+<div class="tree-item"><div class="tree-node">Children with Serious Illness</div></div>
+</div>
+</div>
 
 Palliative care is appropriate for many conditions, including:
 
@@ -90,7 +83,7 @@ Palliative care is appropriate for many conditions, including:
 - Drug-resistant tuberculosis
 - Severe congenital disorders
 
-It is **not limited to cancer or end-of-life care**. :contentReference[oaicite:3]{index=3}
+It is **not limited to cancer or end-of-life care**.
 
 ---
 
@@ -107,21 +100,22 @@ Palliative care:
 - Uses a multidisciplinary team
 - Can begin early alongside disease-directed treatment
 
-These principles are central to the WHO definition of palliative care. :contentReference[oaicite:4]{index=4}
+These principles are central to the WHO definition of palliative care.
 
 ---
 
 # Dimensions of Care
 
-```text
-Palliative Care
-      │
- ├── Physical
- ├── Psychological
- ├── Social
- ├── Spiritual
- └── Family Support
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Palliative Care</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Physical</div></div>
+<div class="tree-item"><div class="tree-node">Psychological</div></div>
+<div class="tree-item"><div class="tree-node">Social</div></div>
+<div class="tree-item"><div class="tree-node">Spiritual</div></div>
+<div class="tree-item"><div class="tree-node">Family Support</div></div>
+</div>
+</div>
 
 ---
 
@@ -188,7 +182,7 @@ Care is delivered by a multidisciplinary team that may include:
 - Chaplains or spiritual care providers
 - Volunteers
 
-Family members and caregivers are also important members of the care team. :contentReference[oaicite:5]{index=5}
+Family members and caregivers are also important members of the care team.
 
 ---
 
@@ -205,7 +199,7 @@ Treatment may include:
 - Physical therapy
 - Psychological therapies
 
-WHO recognizes access to essential pain medicines, including opioids for severe pain, as an important component of palliative care. :contentReference[oaicite:6]{index=6}
+WHO recognizes access to essential pain medicines, including opioids for severe pain, as an important component of palliative care.
 
 ---
 
@@ -249,7 +243,7 @@ Shared decision-making is a central feature of palliative care.
 | Can be combined with curative treatment | Usually focuses primarily on comfort rather than curative treatment |
 | Improves quality of life throughout illness | Focuses on comfort during the final stage of life |
 
-Hospice care is considered one form of palliative care, but palliative care begins much earlier and is not limited to the final months of life. :contentReference[oaicite:7]{index=7}
+Hospice care is considered one form of palliative care, but palliative care begins much earlier and is not limited to the final months of life.
 
 ---
 
@@ -265,7 +259,7 @@ Care may be delivered in:
 - Hospices
 - Long-term care facilities
 
-WHO recommends integrating palliative care into all levels of healthcare, including primary care. :contentReference[oaicite:8]{index=8}
+WHO recommends integrating palliative care into all levels of healthcare, including primary care.
 
 ---
 
@@ -317,7 +311,7 @@ Nutrition should prioritize comfort and patient preferences.
 | Family support | Reduced caregiver burden | ★★★★☆ |
 | Rehabilitation | Improved function | ★★★★☆ |
 
-Early palliative care has been shown to improve quality of life and may reduce unnecessary hospital admissions. :contentReference[oaicite:9]{index=9}
+Early palliative care has been shown to improve quality of life and may reduce unnecessary hospital admissions.
 
 ---
 
@@ -355,7 +349,7 @@ Palliative care emphasizes:
 - Dignity
 - Cultural sensitivity
 
-WHO recognizes access to palliative care as part of the human right to health. :contentReference[oaicite:10]{index=10}
+WHO recognizes access to palliative care as part of the human right to health.
 
 ---
 
@@ -371,14 +365,15 @@ Every serious illness affects more than the body.
 
 Palliative care helps people:
 
-- Live more comfortably
-- Reduce suffering
-- Make informed decisions
-- Support families
-- Maintain dignity
-- Improve quality of life
+> [!success]
+> - Live more comfortably
+> - Reduce suffering
+> - Make informed decisions
+> - Support families
+> - Maintain dignity
+> - Improve quality of life
 
-It reminds us that healthcare is about caring for the person—not only treating the disease. :contentReference[oaicite:11]{index=11}
+It reminds us that healthcare is about caring for the person—not only treating the disease.
 
 ---
 
@@ -404,7 +399,7 @@ Palliative care:
 - Improves patient-centered care
 - Addresses the growing needs of aging populations
 
-Worldwide access remains limited despite increasing demand. :contentReference[oaicite:12]{index=12}
+Worldwide access remains limited despite increasing demand.
 
 ---
 
@@ -444,10 +439,6 @@ It connects:
 - [[Critical Care]]
 - [[Rehabilitation]]
 - [[Pharmacology]]
-- [[Mental Health]]
-- [[Pain]]
-- [[Healthcare Systems]]
-- [[Healthy Aging]]
 
 It demonstrates that compassionate, person-centered care is an essential part of medicine and that quality of life remains a central goal throughout illness.
 
@@ -457,37 +448,34 @@ It demonstrates that compassionate, person-centered care is an essential part of
 
 ## Depends On
 
-- [[Healthcare]]
 - [[Pharmacology]]
-- [[Mental Health]]
 - [[Communication]]
 
 ## Enables
 
-- [[Hospice Care]]
-- [[Symptom Management]]
-- [[Pain Medicine]]
-- [[Family-Centered Care]]
+None.
 
 ## Related
 
 - [[Critical Care]]
 - [[Rehabilitation]]
 - [[Cancer]]
-- [[Healthy Aging]]
-
-## Next
-
-→ [[Psychology]]
 
 ---
 
 # HumanOS Principle
 
-Palliative care is an essential component of healthcare that focuses on preventing and relieving suffering associated with serious illness. By integrating physical, psychological, social, and spiritual care with evidence-based medical treatment, palliative care improves quality of life for patients and families at every stage of illness, demonstrating that compassionate care is as important as curative care. :contentReference[oaicite:13]{index=13}
+Palliative care is an essential component of healthcare that focuses on preventing and relieving suffering associated with serious illness. By integrating physical, psychological, social, and spiritual care with evidence-based medical treatment, palliative care improves quality of life for patients and families at every stage of illness, demonstrating that compassionate care is as important as curative care.
 
 ---
 
 # Key Insight
 
-> **Palliative care is the science and practice of relieving suffering. Understanding its principles shows that healthcare is not only about curing disease—it is also about helping people live as comfortably, meaningfully, and with as much dignity as possible throughout serious illness.** :contentReference[oaicite:14]{index=14}
+> **Palliative care is the science and practice of relieving suffering. Understanding its principles shows that healthcare is not only about curing disease—it is also about helping people live as comfortably, meaningfully, and with as much dignity as possible throughout serious illness.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/07-mind/01---psychology" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Psychology</span><span class="os-cta-sub">Psychology is the scientific study of the mind and behavior. It seeks to understand...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,6 +1,6 @@
 # Chronic Diseases
 
-> *Chronic diseases, also called **noncommunicable diseases (NCDs)**, are long-lasting health conditions that usually develop gradually, persist for months or years, and often require ongoing medical care or lifestyle management. They arise from a combination of genetic, physiological, environmental, and behavioral factors rather than being caused by infectious microorganisms. Chronic diseases are the leading cause of death worldwide, accounting for approximately **75% of all non-pandemic-related deaths**, with cardiovascular diseases, cancer, chronic respiratory diseases, and diabetes being the major contributors.* :contentReference[oaicite:0]{index=0}
+> *Chronic diseases, also called **noncommunicable diseases (NCDs)**, are long-lasting health conditions that usually develop gradually, persist for months or years, and often require ongoing medical care or lifestyle management. They arise from a combination of genetic, physiological, environmental, and behavioral factors rather than being caused by infectious microorganisms. Chronic diseases are the leading cause of death worldwide, accounting for approximately **75% of all non-pandemic-related deaths**, with cardiovascular diseases, cancer, chronic respiratory diseases, and diabetes being the major contributors.*
 
 ---
 
@@ -43,7 +43,7 @@ Modern lifestyles often expose people to:
 - Poor sleep
 - Longer life expectancy
 
-These factors gradually disrupt normal physiology until disease develops. :contentReference[oaicite:1]{index=1}
+These factors gradually disrupt normal physiology until disease develops.
 
 ---
 
@@ -65,15 +65,14 @@ Unlike infections, chronic diseases usually develop through years of cumulative 
 
 # Characteristics of Chronic Diseases
 
-```text
-Chronic Disease
-       │
- ┌─────┼──────────────┐
- ▼     ▼              ▼
-Long Duration
-Slow Progression
-Long-Term Management
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Chronic Disease</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Long Duration</div></div>
+<div class="tree-item"><div class="tree-node">Slow Progression</div></div>
+<div class="tree-item"><div class="tree-node">Long-Term Management</div></div>
+</div>
+</div>
 
 Most chronic diseases:
 
@@ -89,15 +88,14 @@ Most chronic diseases:
 
 Chronic diseases rarely have a single cause.
 
-```text
-Complete Causes
-      │
- ┌────┼────────────────────────────┐
- ▼    ▼                            ▼
-Genetics
-Lifestyle
-Environment
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+</div>
+</div>
 
 ### 🧬 Genetic Factors
 
@@ -212,7 +210,7 @@ Health is also influenced by:
 - Access to healthcare
 - Food security
 
-WHO recognizes that chronic diseases result from the interaction of genetic, physiological, environmental, and behavioral factors. :contentReference[oaicite:2]{index=2}
+WHO recognizes that chronic diseases result from the interaction of genetic, physiological, environmental, and behavioral factors.
 
 ---
 
@@ -226,23 +224,23 @@ Many chronic diseases share these underlying biological mechanisms.
 
 # Major Chronic Diseases
 
-```text
-Chronic Diseases
-       │
- ┌─────┼──────────────┬──────────────┐
- ▼     ▼              ▼              ▼
-Heart Disease
-Cancer
-Diabetes
-Chronic Lung Disease
- │
- ├────────────┬──────────────┐
- ▼            ▼
-Kidney Disease
-Brain Disorders
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Chronic Diseases</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Heart Disease</div></div>
+<div class="tree-item"><div class="tree-node">Cancer</div></div>
+<div class="tree-item"><div class="tree-node">Diabetes</div></div>
+<div class="tree-item">
+<div class="tree-node">Chronic Lung Disease</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Kidney Disease</div></div>
+<div class="tree-item"><div class="tree-node">Brain Disorders</div></div>
+</div>
+</div>
+</div>
+</div>
 
-These conditions account for most premature deaths from chronic disease worldwide. :contentReference[oaicite:3]{index=3}
+These conditions account for most premature deaths from chronic disease worldwide.
 
 ---
 
@@ -310,7 +308,7 @@ Evidence-based lifestyle changes include:
 - Healthy body weight
 - Regular medical follow-up
 
-These interventions can substantially reduce disease risk and improve outcomes. :contentReference[oaicite:4]{index=4}
+These interventions can substantially reduce disease risk and improve outcomes.
 
 ---
 
@@ -339,7 +337,7 @@ A dietary pattern rich in the following foods supports long-term health:
 - Excess saturated fat
 - Excess alcohol
 
-Healthy dietary patterns reduce the risk of many chronic diseases. :contentReference[oaicite:5]{index=5}
+Healthy dietary patterns reduce the risk of many chronic diseases.
 
 ---
 
@@ -380,7 +378,7 @@ Common herbs include:
 
 ### Current Scientific Evidence
 
-Some Ayurvedic herbs and practices have shown promising results for selected chronic conditions, particularly regarding inflammation, blood glucose, or stress. However, evidence varies widely in quality, and these approaches should be viewed as **complementary** to evidence-based medical care rather than replacements. Herbal preparations may interact with medicines or vary in quality. :contentReference[oaicite:6]{index=6}
+Some Ayurvedic herbs and practices have shown promising results for selected chronic conditions, particularly regarding inflammation, blood glucose, or stress. However, evidence varies widely in quality, and these approaches should be viewed as **complementary** to evidence-based medical care rather than replacements. Herbal preparations may interact with medicines or vary in quality.
 
 ---
 
@@ -443,14 +441,15 @@ many people live long, productive lives while effectively managing these conditi
 
 Chronic diseases:
 
-- Cause most deaths worldwide.
-- Reduce quality of life.
-- Increase disability.
-- Create major healthcare costs.
-- Often develop silently.
-- Are frequently preventable or delayable.
+> [!success]
+> - Cause most deaths worldwide.
+> - Reduce quality of life.
+> - Increase disability.
+> - Create major healthcare costs.
+> - Often develop silently.
+> - Are frequently preventable or delayable.
 
-WHO identifies tobacco use, unhealthy diet, physical inactivity, harmful alcohol use, and air pollution as major shared risk factors. :contentReference[oaicite:7]{index=7}
+WHO identifies tobacco use, unhealthy diet, physical inactivity, harmful alcohol use, and air pollution as major shared risk factors.
 
 ---
 
@@ -524,7 +523,6 @@ It connects:
 - [[Cardiovascular Diseases]]
 - [[Diabetes & Metabolic Disorders]]
 - [[Cancer]]
-- [[Healthy Aging]]
 
 It demonstrates that many chronic illnesses are not sudden events but the cumulative result of biological processes that often begin years before symptoms appear.
 
@@ -549,21 +547,22 @@ It demonstrates that many chronic illnesses are not sudden events but the cumula
 
 - [[Lifestyle Medicine]]
 - [[Health Promotion]]
-- [[Healthy Aging]]
-- [[Inflammation]]
-
-## Next
-
-→ [[Cardiovascular Diseases]]
 
 ---
 
 # HumanOS Principle
 
-Chronic diseases are long-term disorders that arise from the interaction of genetics, physiology, environment, and behavior over many years. They develop through gradual disruption of normal biological regulation and are now the leading global cause of illness and death. Understanding chronic diseases reveals that health is shaped not only by medical treatment but also by lifelong patterns of nutrition, physical activity, sleep, environmental exposures, and preventive care, making sustained healthy living one of the most powerful tools for extending both lifespan and healthspan. :contentReference[oaicite:8]{index=8}
+Chronic diseases are long-term disorders that arise from the interaction of genetics, physiology, environment, and behavior over many years. They develop through gradual disruption of normal biological regulation and are now the leading global cause of illness and death. Understanding chronic diseases reveals that health is shaped not only by medical treatment but also by lifelong patterns of nutrition, physical activity, sleep, environmental exposures, and preventive care, making sustained healthy living one of the most powerful tools for extending both lifespan and healthspan.
 
 ---
 
 # Key Insight
 
-> **Chronic diseases are long-lasting, noncommunicable conditions that develop gradually through the interaction of genetic, biological, environmental, and lifestyle factors. Although they often cannot be completely cured, many can be prevented, delayed, or effectively managed through evidence-based lifestyle changes, early detection, appropriate medical treatment, and continuous care, allowing people to maintain health and quality of life for many years.** :contentReference[oaicite:9]{index=9}
+> **Chronic diseases are long-lasting, noncommunicable conditions that develop gradually through the interaction of genetic, biological, environmental, and lifestyle factors. Although they often cannot be completely cured, many can be prevented, delayed, or effectively managed through evidence-based lifestyle changes, early detection, appropriate medical treatment, and continuous care, allowing people to maintain health and quality of life for many years.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/03---cardiovascular-diseases" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Cardiovascular Diseases</span><span class="os-cta-sub">Cardiovascular diseases (CVDs) are a group of disorders affecting the heart and blood...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

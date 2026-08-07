@@ -16,7 +16,7 @@ It examines:
 - What makes knowledge reliable.
 - What the limits of human knowledge are.
 
-Unlike the [[Scientific Method]], which investigates the natural world, Epistemology investigates **knowledge itself**—asking how humans know whether something is true or merely believed. :contentReference[oaicite:0]{index=0}
+Unlike the [[Scientific Method]], which investigates the natural world, Epistemology investigates **knowledge itself**—asking how humans know whether something is true or merely believed.
 
 ---
 
@@ -43,7 +43,7 @@ It provides the framework for distinguishing:
 - Justified belief from unsupported belief.
 - Truth from misinformation.
 
-Without epistemology, humans would have no reliable way to evaluate the certainty and reliability of what they believe. :contentReference[oaicite:1]{index=1}
+Without epistemology, humans would have no reliable way to evaluate the certainty and reliability of what they believe.
 
 ---
 
@@ -51,15 +51,14 @@ Without epistemology, humans would have no reliable way to evaluate the certaint
 
 Epistemology evaluates knowledge by examining three fundamental questions.
 
-```text
-Knowledge
-     │
-     ├── Is it true?
-     │
-     ├── Why is it believed?
-     │
-     └── Is there sufficient justification?
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Knowledge</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Is it true?</div></div>
+<div class="tree-item"><div class="tree-node">Why is it believed?</div></div>
+<div class="tree-item"><div class="tree-node">Is there sufficient justification?</div></div>
+</div>
+</div>
 
 It studies:
 
@@ -72,7 +71,7 @@ It studies:
 - Skepticism
 - Limits of human understanding
 
-Rather than producing new scientific discoveries, epistemology evaluates **how those discoveries become accepted as reliable knowledge.** :contentReference[oaicite:2]{index=2}
+Rather than producing new scientific discoveries, epistemology evaluates **how those discoveries become accepted as reliable knowledge.**
 
 ---
 
@@ -98,115 +97,36 @@ Humans constantly ask:
 
 Epistemology provides the principles for evaluating these questions.
 
-Understanding epistemology helps humans:
-
-- Distinguish knowledge from opinion.
-- Evaluate evidence objectively.
-- Recognize uncertainty.
-- Avoid misinformation.
-- Build justified beliefs.
-- Improve lifelong learning.
-- Make more reliable decisions. :contentReference[oaicite:3]{index=3}
+> [!success] Understanding epistemology helps humans
+> - Distinguish knowledge from opinion.
+> - Evaluate evidence objectively.
+> - Recognize uncertainty.
+> - Avoid misinformation.
+> - Build justified beliefs.
+> - Improve lifelong learning.
+> - Make more reliable decisions.
 
 ---
 
 # Human Impact
 
-### Human Body
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/1500-1200_BCE,_Rigveda_manuscript_page_sample_iii,_Sanskrit,_Devanagari.jpg?width=1200" alt="A page from an ancient Rigveda manuscript, handwritten in Sanskrit Devanagari script">
+<p class="domain-figure-caption">A page from the Rigveda, one of humanity's oldest surviving claims to knowledge — via Wikimedia Commons</p>
+</div>
 
-Evidence-based medicine depends on epistemology.
-
-Doctors rely on justified scientific knowledge rather than tradition, anecdote, or personal belief when diagnosing disease and recommending treatments.
-
----
-
-### Human Mind
-
-Epistemology develops:
-
-- Intellectual humility
-- Curiosity
-- Healthy skepticism
-- Reflective thinking
-- Awareness of cognitive limits
-
-It teaches that confidence should match the available evidence.
-
----
-
-### Human Behaviour
-
-People constantly make decisions based on what they believe to be true.
-
-Epistemology helps improve:
-
-- Learning
-- Judgment
-- Risk assessment
-- Problem solving
-- Everyday decision making
-
----
-
-### Society
-
-Education, journalism, science, and public communication all depend upon reliable methods of producing and evaluating knowledge.
-
-Societies that value evidence generally make better long-term decisions.
-
----
-
-### Economics
-
-Economic decisions rely on trustworthy information.
-
-Businesses, investors, and policymakers depend on reliable data rather than speculation or misinformation.
-
----
-
-### Politics & Governance
-
-Healthy democracies require citizens capable of evaluating evidence, questioning unsupported claims, and distinguishing facts from political persuasion.
-
-Epistemology provides the philosophical foundation for informed public decision-making.
-
----
-
-### Technology
-
-Modern technologies—including Artificial Intelligence—depend on reliable data, validated models, and trustworthy methods for evaluating information.
-
-Epistemology influences how machines and humans both acquire and evaluate knowledge.
-
----
-
-### Philosophy
-
-Epistemology is one of the foundational branches of philosophy.
-
-It connects [[Logic]], [[Critical Thinking]], and the [[Scientific Method]] by explaining **why some beliefs deserve to be called knowledge while others do not.** :contentReference[oaicite:4]{index=4}
-
----
-
-### Spirituality
-
-Epistemology encourages thoughtful reflection about different ways humans claim to know—through experience, reason, tradition, intuition, or revelation—while distinguishing philosophical questions from empirical ones.
-
-It provides a framework for discussing these claims without assuming that all kinds of knowledge are evaluated in the same way.
-
----
-
-### Living Well
-
-Understanding epistemology helps humans:
-
-- Learn more effectively.
-- Evaluate information responsibly.
-- Resist misinformation.
-- Make wiser decisions.
-- Accept uncertainty where certainty is not justified.
-
-Better knowledge leads to better judgment, and better judgment leads to a better life.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">&#129472;</span><span class="os-card-title">Human Body</span><span class="os-card-desc">Evidence-based medicine depends on epistemology — doctors rely on justified scientific knowledge rather than tradition, anecdote, or personal belief.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#129504;</span><span class="os-card-title">Human Mind</span><span class="os-card-desc">Develops intellectual humility, curiosity, healthy skepticism, and awareness of cognitive limits — teaching that confidence should match the evidence.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127919;</span><span class="os-card-title">Human Behaviour</span><span class="os-card-desc">People constantly act on what they believe to be true. Epistemology helps improve learning, judgment, risk assessment, and everyday decision making.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127963;</span><span class="os-card-title">Society</span><span class="os-card-desc">Education, journalism, science, and public communication depend on reliable methods of producing and evaluating knowledge — societies that value evidence decide better.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128176;</span><span class="os-card-title">Economics</span><span class="os-card-desc">Economic decisions rely on trustworthy information — businesses, investors, and policymakers depend on reliable data rather than speculation.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128499;</span><span class="os-card-title">Politics & Governance</span><span class="os-card-desc">Healthy democracies require citizens capable of evaluating evidence and distinguishing facts from persuasion — the philosophical foundation for informed civic decisions.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#9881;</span><span class="os-card-title">Technology</span><span class="os-card-desc">Modern technologies — including AI — depend on reliable data, validated models, and trustworthy methods for evaluating information.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128173;</span><span class="os-card-title">Philosophy</span><span class="os-card-desc">One of philosophy's foundational branches — connects Logic, Critical Thinking, and the Scientific Method by explaining why some beliefs deserve to be called knowledge.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#10024;</span><span class="os-card-title">Spirituality</span><span class="os-card-desc">Encourages thoughtful reflection on the different ways humans claim to know — through experience, reason, tradition, intuition, or revelation.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127793;</span><span class="os-card-title">Living Well</span><span class="os-card-desc">Helps humans learn more effectively, evaluate information responsibly, resist misinformation, and accept uncertainty where certainty isn't justified.</span></div>
+</div>
 
 ---
 
@@ -239,7 +159,6 @@ It provides the philosophical foundation that prepares the reader for [[Philosop
 - [[Universe]]
 - [[Natural Sciences]]
 - [[Decision Making]]
-- [[Research]]
 
 ---
 
@@ -251,12 +170,13 @@ It provides the philosophical foundation that prepares the reader for [[Philosop
 
 ---
 
-## Next
-
-→ [[Philosophy of Knowledge]]
-
----
-
 # Key Insight
 
 > **Epistemology helps humans determine not simply what they believe, but whether those beliefs are sufficiently justified to be considered reliable knowledge, forming the foundation for sound decisions, scientific progress, and human understanding.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/01-foundations/07---philosophy-of-knowledge" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Philosophy of Knowledge</span><span class="os-cta-sub">Tying philosophy, science, and learning together</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

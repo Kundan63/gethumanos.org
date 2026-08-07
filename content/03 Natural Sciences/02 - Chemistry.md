@@ -23,7 +23,7 @@ Chemistry investigates:
 - Organic compounds
 - Biomolecules
 
-Because every physical object and every living organism is made of matter, chemistry is often called **the central science**, connecting physics with biology, medicine, Earth science, environmental science, and engineering. :contentReference[oaicite:0]{index=0}
+Because every physical object and every living organism is made of matter, chemistry is often called **the central science**, connecting physics with biology, medicine, Earth science, environmental science, and engineering.
 
 ---
 
@@ -56,7 +56,7 @@ Without chemistry there would be:
 - No modern materials
 - No understanding of life itself
 
-Chemistry transforms the building blocks of nature into the complexity of the world around us. :contentReference[oaicite:1]{index=1}
+Chemistry transforms the building blocks of nature into the complexity of the world around us.
 
 ---
 
@@ -64,24 +64,32 @@ Chemistry transforms the building blocks of nature into the complexity of the wo
 
 Chemistry studies how atoms interact through chemical bonds and reactions.
 
-```text
-Atoms
-   │
-   ▼
-Chemical Bonds
-   │
-   ▼
-Molecules
-   │
-   ▼
-Chemical Reactions
-   │
-   ▼
-New Substances
-   │
-   ▼
-Materials • Life • Technology
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Atoms</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Chemical Bonds</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Molecules</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Chemical Reactions</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">New Substances</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Materials, Life, Technology</span></div>
+</div>
+</div>
 
 During a chemical reaction:
 
@@ -91,7 +99,7 @@ During a chemical reaction:
 - Matter is conserved.
 - Energy is absorbed or released.
 
-Chemistry explains these transformations using observations, experiments, and physical principles. :contentReference[oaicite:2]{index=2}
+Chemistry explains these transformations using observations, experiments, and physical principles.
 
 ---
 
@@ -99,35 +107,59 @@ Chemistry explains these transformations using observations, experiments, and ph
 
 Chemistry is the bridge between simple particles and complex human civilization.
 
-```text
-             Atoms
-               │
-               ▼
-        Chemical Bonds
-               │
-               ▼
-           Molecules
-               │
-               ▼
-      Biomolecules & Materials
-               │
-      ┌────────┴────────┐
-      ▼                 ▼
-     Life         Human Materials
-      │                 │
-      ▼                 ▼
- Human Body      Metals • Glass • Plastics
-      │                 │
-      ▼                 ▼
- Human Brain       Electronics
-      │                 │
-      └────────┬────────┘
-               ▼
-      Medicine • Agriculture
-               │
-               ▼
-     Technology & Civilization
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Atoms</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Chemical Bonds</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Molecules</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Biomolecules &amp; Materials</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Life</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Human Body</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Human Brain</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Human Materials</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Metals • Glass • Plastics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Electronics</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Medicine • Agriculture</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Technology &amp; Civilization</span></div>
+</div>
+</div>
 
 Chemistry explains how a small number of elements give rise to the extraordinary diversity of the natural and human-made world.
 
@@ -149,58 +181,39 @@ Every breath, meal, medicine, battery charge, cleaning product, building materia
 
 Understanding chemistry helps humans:
 
-- Understand nutrition.
-- Develop medicines.
-- Cook food safely.
-- Produce clean water.
-- Design stronger materials.
-- Build batteries and electronics.
-- Protect the environment.
-- Develop sustainable technologies.
+> [!success]
+> - Understand nutrition.
+> - Develop medicines.
+> - Cook food safely.
+> - Produce clean water.
+> - Design stronger materials.
+> - Build batteries and electronics.
+> - Protect the environment.
+> - Develop sustainable technologies.
 
-Without chemistry, modern healthcare, agriculture, manufacturing, and countless everyday products would not exist. :contentReference[oaicite:3]{index=3}
+Without chemistry, modern healthcare, agriculture, manufacturing, and countless everyday products would not exist.
 
 ---
 
 # Daily Life Examples
 
-### 🍳 Cooking
-
-Cooking changes the chemical structure of food, improving flavor, texture, and digestibility.
-
----
-
-### 💊 Medicines
-
-Medicines work because specific molecules interact with receptors, enzymes, and cells inside the body.
-
----
-
-### 🧼 Soap
-
-Soap molecules surround grease and oils, allowing water to wash them away.
-
----
-
-### 🔋 Batteries
-
-Batteries generate electricity through controlled chemical reactions.
-
----
-
-### 🌱 Plants
-
-Plants convert carbon dioxide and water into glucose and oxygen through photosynthesis, storing solar energy in chemical bonds.
-
----
-
-### 🚰 Drinking Water
-
-Water purification removes harmful chemicals and microorganisms, making water safe for human consumption.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🍳</span><span class="os-card-title">Cooking</span><span class="os-card-desc">Cooking changes the chemical structure of food, improving flavor, texture, and digestibility.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">💊</span><span class="os-card-title">Medicines</span><span class="os-card-desc">Medicines work because specific molecules interact with receptors, enzymes, and cells inside the body.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🧼</span><span class="os-card-title">Soap</span><span class="os-card-desc">Soap molecules surround grease and oils, allowing water to wash them away.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🔋</span><span class="os-card-title">Batteries</span><span class="os-card-desc">Batteries generate electricity through controlled chemical reactions.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌱</span><span class="os-card-title">Plants</span><span class="os-card-desc">Plants convert carbon dioxide and water into glucose and oxygen through photosynthesis, storing solar energy in chemical bonds.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🚰</span><span class="os-card-title">Drinking Water</span><span class="os-card-desc">Water purification removes harmful chemicals and microorganisms, making water safe for human consumption.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Photograph_of_Prafulla_Chandra_Ray.jpg?width=1200" alt="Portrait photograph of Acharya Prafulla Chandra Ray, the father of modern Indian chemistry">
+<p class="domain-figure-caption">Acharya Prafulla Chandra Ray, founder of India's first modern chemistry research school — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -385,27 +398,23 @@ Chemistry becomes the bridge between the physical world and the biological world
 
 - [[Earth Science]]
 - [[Origin of Life]]
-- [[Biology]]
 - [[Health & Medicine]]
-- [[Materials Science]]
 
 ---
 
 ## Related
 
-- [[Atoms]]
-- [[Molecules]]
-- [[Chemical Reactions]]
-- [[Periodic Table]]
-
----
-
-## Next
-
-→ [[Earth Science]]
+None.
 
 ---
 
 # Key Insight
 
 > **Chemistry reveals how simple atoms become the extraordinary complexity of our world. Every breath we take, every meal we eat, every medicine we use, every material we build, and every living cell in our bodies depends on chemical interactions. By understanding chemistry, we understand how matter becomes life—and how that knowledge can be used to build healthier people, more sustainable societies, and a better future.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/03-natural-sciences/03---earth-science" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Earth Science</span><span class="os-cta-sub">Earth Science explains how our planet works as one interconnected system. It reveals...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

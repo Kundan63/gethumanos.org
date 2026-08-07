@@ -1,6 +1,6 @@
 # Consciousness
 
-> *Consciousness is the state of being aware of yourself, your thoughts, your body, and the world around you. It enables humans to perceive reality, experience emotions, make decisions, reflect on the past, imagine the future, and develop a sense of self. While neuroscience has identified many brain systems involved in consciousness, exactly how subjective experience arises from physical brain activity remains one of the greatest open questions in science and philosophy.* :contentReference[oaicite:0]{index=0}
+> *Consciousness is the state of being aware of yourself, your thoughts, your body, and the world around you. It enables humans to perceive reality, experience emotions, make decisions, reflect on the past, imagine the future, and develop a sense of self. While neuroscience has identified many brain systems involved in consciousness, exactly how subjective experience arises from physical brain activity remains one of the greatest open questions in science and philosophy.*
 
 ---
 
@@ -32,7 +32,7 @@ you are experiencing consciousness.
 
 Unlike memory or learning, consciousness is **not simply information processing**.
 
-It is **subjective experience**—what it feels like to experience reality. :contentReference[oaicite:1]{index=1}
+It is **subjective experience**—what it feels like to experience reality.
 
 ---
 
@@ -54,7 +54,7 @@ Conscious awareness helps humans:
 
 These abilities increase survival and reproductive success.
 
-Exactly **why subjective experience itself exists**, however, remains an open scientific question. :contentReference[oaicite:2]{index=2}
+Exactly **why subjective experience itself exists**, however, remains an open scientific question.
 
 ---
 
@@ -68,7 +68,7 @@ Neurons communicate through synapses using neurotransmitters.
 
 Large-scale brain networks integrate information from vision, hearing, touch, memory, emotion, and attention into a unified conscious experience.
 
-Researchers agree that widespread communication among brain networks is essential, but they continue to investigate the precise mechanisms that generate consciousness. :contentReference[oaicite:3]{index=3}
+Researchers agree that widespread communication among brain networks is essential, but they continue to investigate the precise mechanisms that generate consciousness.
 
 ---
 
@@ -80,25 +80,30 @@ It exists on a continuum.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:247px"><svg width="100%" viewBox="0 0 247 510" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="210.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="123.3" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Deep Coma</text><rect x="18.0" y="90.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Minimal Consciousness</text><rect x="18.0" y="162.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Sleep</text><rect x="18.0" y="234.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Dreaming</text><rect x="18.0" y="306.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Drowsiness</text><rect x="18.0" y="378.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Relaxed Wakefulness</text><rect x="18.0" y="450.0" width="210.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="123.3" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Focused Awareness</text><line x1="123.3" y1="64.0" x2="123.3" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="136.0" x2="123.3" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="208.0" x2="123.3" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="280.0" x2="123.3" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="352.0" x2="123.3" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="424.0" x2="123.3" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Our level of consciousness naturally changes throughout the day and across different physiological states such as sleep, dreaming, anesthesia, meditation, and full wakefulness. :contentReference[oaicite:4]{index=4}
+Our level of consciousness naturally changes throughout the day and across different physiological states such as sleep, dreaming, anesthesia, meditation, and full wakefulness.
 
 ---
 
 # Components of Consciousness
 
-```text
-              Consciousness
-                     │
- ┌───────────┬───────────┬─────────────┐
- ▼           ▼           ▼
-Awareness  Attention   Self-Awareness
-                     │
-                     ▼
- Perception • Thought • Emotion
-                     │
-                     ▼
- Decision Making
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Consciousness</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Awareness, Attention, Self-Awareness</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Perception, Thought, Emotion</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Decision Making</span></div>
+</div>
+</div>
 
 ---
 
@@ -141,24 +146,28 @@ This reflective ability is one of the defining features of human cognition.
 
 # Consciousness and the Brain
 
-```text
-          Brain
-            │
- ┌──────────┼───────────┐
- ▼          ▼           ▼
-Cortex  Thalamus  Brainstem
- │          │           │
- └──────────┼───────────┘
-            ▼
- Large Neural Networks
-            │
-            ▼
- Conscious Experience
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Brain</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Cortex, Thalamus, Brainstem</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Large Neural Networks</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Conscious Experience</span></div>
+</div>
+</div>
 
 Research suggests that consciousness depends on interactions among the cerebral cortex, thalamus, brainstem, and other interconnected networks.
 
-No single brain region has been shown to produce consciousness independently. :contentReference[oaicite:5]{index=5}
+No single brain region has been shown to produce consciousness independently.
 
 ---
 
@@ -176,15 +185,16 @@ Everything meaningful in human life depends upon consciousness.
 
 Consciousness allows you to:
 
-- Experience love.
-- Appreciate music.
-- Feel pain.
-- Learn.
-- Imagine.
-- Solve problems.
-- Make moral choices.
-- Build relationships.
-- Create civilizations.
+> [!success]
+> - Experience love.
+> - Appreciate music.
+> - Feel pain.
+> - Learn.
+> - Imagine.
+> - Solve problems.
+> - Make moral choices.
+> - Build relationships.
+> - Create civilizations.
 
 Without consciousness, there would be no subjective experience of life.
 
@@ -223,7 +233,7 @@ Experienced drivers often shift between:
 - automatic habits,
 - brief daydreaming,
 
-demonstrating that consciousness varies continuously rather than remaining constant. :contentReference[oaicite:6]{index=6}
+demonstrating that consciousness varies continuously rather than remaining constant.
 
 ---
 
@@ -235,32 +245,28 @@ During sleep:
 - dreams create internally generated conscious experiences,
 - different brain networks become active.
 
-Sleep demonstrates that consciousness can exist even when external awareness is greatly reduced. :contentReference[oaicite:7]{index=7}
+Sleep demonstrates that consciousness can exist even when external awareness is greatly reduced.
 
 ---
 
 # Human Health Connections
 
-```text
-            Consciousness
-                  ▲
-                  │
- ┌────────────────┼────────────────┐
- │                │                │
-Sleep        Brain Health     Attention
- │                │                │
- ├────────────────┼────────────────┤
- │                │                │
-Nutrition    Stress        Social Interaction
- │                │                │
- ├────────────────┼────────────────┤
- │                │                │
-Memory      Learning      Neurological Health
- │                │                │
- └────────────────┼────────────────┘
-                  │
-        Healthy Conscious Function
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Consciousness</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Brain Health</div></div>
+<div class="tree-item"><div class="tree-node">Attention</div></div>
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Social Interaction</div></div>
+<div class="tree-item"><div class="tree-node">Memory</div></div>
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Neurological Health</div></div>
+</div>
+</div>
+
+Healthy Conscious Function
 
 Healthy consciousness depends on healthy brain function, adequate sleep, oxygen, circulation, and intact neural communication.
 
@@ -276,7 +282,7 @@ Healthy consciousness depends on healthy brain function, adequate sleep, oxygen,
 | Delirium | Fluctuating attention and awareness |
 | General Anesthesia | Reversible loss of conscious awareness |
 
-Disorders of consciousness help neuroscientists understand which brain networks are necessary for awareness. :contentReference[oaicite:8]{index=8}
+Disorders of consciousness help neuroscientists understand which brain networks are necessary for awareness.
 
 ---
 
@@ -313,11 +319,16 @@ Some of the biggest unanswered questions in science include:
 - Could non-human animals possess different forms of consciousness?
 - Could an artificial system ever become conscious?
 
-These questions remain active areas of neuroscience and philosophy. :contentReference[oaicite:9]{index=9}
+These questions remain active areas of neuroscience and philosophy.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Adi_shankara.jpg?width=1200" alt="A statue of Adi Shankara at his Samadhi Mandir in Kedarnath, India, the philosopher whose Advaita Vedanta tradition explored the nature of consciousness and the self">
+<p class="domain-figure-caption">Statue of Adi Shankara, whose Advaita Vedanta philosophy explored the nature of consciousness — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -379,7 +390,7 @@ Research into consciousness contributes to:
 - Artificial intelligence research
 - Disorders of consciousness diagnosis
 
-Improved understanding of consciousness may help clinicians detect covert awareness in unresponsive patients. :contentReference[oaicite:10]{index=10}
+Improved understanding of consciousness may help clinicians detect covert awareness in unresponsive patients.
 
 ---
 
@@ -395,7 +406,7 @@ Two related questions remain central:
 
 Modern neuroscience has made enormous progress on the first question.
 
-The second remains unresolved. :contentReference[oaicite:11]{index=11}
+The second remains unresolved.
 
 ---
 
@@ -473,24 +484,14 @@ It forms the bridge from **Biology** to **Psychology**, where HumanOS next explo
 - [[Psychology]]
 - [[Cognition]]
 - [[Decision Making]]
-- [[Emotion]]
-- [[Self-Awareness]]
 
 ---
 
 ## Related
 
-- [[Attention]]
-- [[Perception]]
 - [[Sleep]]
 - [[Mind]]
 - [[Intelligence]]
-
----
-
-## Next
-
-→ [[**Brain Disorders**]]
 
 ---
 
@@ -508,4 +509,11 @@ Understanding consciousness is therefore not only a study of the brain—it is a
 
 # Key Insight
 
-> **Consciousness is the state of subjective awareness through which humans experience themselves and the world. It emerges from the coordinated activity of widespread brain networks, enabling perception, thought, memory, emotion, and self-reflection. Although neuroscience has revealed many of the biological mechanisms that support consciousness, explaining why these processes produce conscious experience remains one of the greatest unsolved questions in science.** :contentReference[oaicite:12]{index=12}
+> **Consciousness is the state of subjective awareness through which humans experience themselves and the world. It emerges from the coordinated activity of widespread brain networks, enabling perception, thought, memory, emotion, and self-reflection. Although neuroscience has revealed many of the biological mechanisms that support consciousness, explaining why these processes produce conscious experience remains one of the greatest unsolved questions in science.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/04-brain--and--neuroscience/10---brain-disorders" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Brain Disorders</span><span class="os-cta-sub">Brain disorders are conditions that disrupt the normal structure or function of the...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

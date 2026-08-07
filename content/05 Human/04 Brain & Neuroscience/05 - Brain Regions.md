@@ -1,6 +1,6 @@
 # Brain Regions
 
-> *Brain regions are specialized anatomical areas that work together to process information, regulate the body, and generate the human mind. Although different regions have characteristic functions, no thought, memory, emotion, or behavior is produced by a single area alone. The brain functions as an integrated network in which specialized regions continuously communicate to produce perception, intelligence, movement, language, and consciousness.* :contentReference[oaicite:0]{index=0}
+> *Brain regions are specialized anatomical areas that work together to process information, regulate the body, and generate the human mind. Although different regions have characteristic functions, no thought, memory, emotion, or behavior is produced by a single area alone. The brain functions as an integrated network in which specialized regions continuously communicate to produce perception, intelligence, movement, language, and consciousness.*
 
 ---
 
@@ -22,7 +22,7 @@ Examples include:
 - Balance
 - Homeostasis
 
-Each region contributes a unique capability, but **complex human behavior emerges from cooperation among many regions**, not isolated "centers." Modern neuroscience emphasizes distributed brain networks rather than strict one-region/one-function models. :contentReference[oaicite:1]{index=1}
+Each region contributes a unique capability, but **complex human behavior emerges from cooperation among many regions**, not isolated "centers." Modern neuroscience emphasizes distributed brain networks rather than strict one-region/one-function models.
 
 ---
 
@@ -57,19 +57,21 @@ Every experience involves multiple regions working together.
 
 The brain operates through **distributed neural networks**.
 
-Even simple activities such as reading or reaching for a cup involve simultaneous activity across sensory, motor, memory, language, and attention networks. :contentReference[oaicite:2]{index=2}
+Even simple activities such as reading or reaching for a cup involve simultaneous activity across sensory, motor, memory, language, and attention networks.
 
 ---
 
 # Major Brain Regions
 
-```text
-                    Brain
-                      │
- ┌───────────┬─────────┼───────────┬────────────┐
- ▼           ▼         ▼           ▼
-Cerebrum  Cerebellum Brainstem Diencephalon
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Brain</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Cerebrum</div></div>
+<div class="tree-item"><div class="tree-node">Cerebellum</div></div>
+<div class="tree-item"><div class="tree-node">Brainstem</div></div>
+<div class="tree-item"><div class="tree-node">Diencephalon</div></div>
+</div>
+</div>
 
 ---
 
@@ -77,13 +79,15 @@ Cerebrum  Cerebellum Brainstem Diencephalon
 
 The cerebral cortex is divided into four major lobes.
 
-```text
-          Cerebral Cortex
-                 │
- ┌─────────┬─────────┬─────────┬─────────┐
- ▼         ▼         ▼         ▼
-Frontal Parietal Temporal Occipital
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Cerebral Cortex</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Frontal</div></div>
+<div class="tree-item"><div class="tree-node">Parietal</div></div>
+<div class="tree-item"><div class="tree-node">Temporal</div></div>
+<div class="tree-item"><div class="tree-node">Occipital</div></div>
+</div>
+</div>
 
 ---
 
@@ -102,7 +106,7 @@ Major functions:
 - Impulse control
 - Speech production (Broca's area)
 
-The **prefrontal cortex** is particularly important for higher-order cognition and executive function. :contentReference[oaicite:3]{index=3}
+The **prefrontal cortex** is particularly important for higher-order cognition and executive function.
 
 ---
 
@@ -119,7 +123,7 @@ Functions include:
 - Body position (proprioception)
 - Spatial awareness
 
-It integrates sensory information to help us understand where our body is in space. :contentReference[oaicite:4]{index=4}
+It integrates sensory information to help us understand where our body is in space.
 
 ---
 
@@ -135,7 +139,7 @@ Major functions:
 - Memory formation
 - Object recognition
 
-Important structures include the hippocampus and regions involved in language processing. :contentReference[oaicite:5]{index=5}
+Important structures include the hippocampus and regions involved in language processing.
 
 ---
 
@@ -150,19 +154,21 @@ Functions:
 - Motion detection
 - Pattern recognition
 
-Nearly everything you see is first processed here before being integrated with other brain regions. :contentReference[oaicite:6]{index=6}
+Nearly everything you see is first processed here before being integrated with other brain regions.
 
 ---
 
 # Important Deep Brain Regions
 
-```text
-             Deep Brain
-                  │
- ┌────────┬────────┬─────────┬──────────┐
- ▼        ▼        ▼         ▼
-Thalamus Hypothalamus Basal Ganglia Limbic System
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Deep Brain</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Thalamus</div></div>
+<div class="tree-item"><div class="tree-node">Hypothalamus</div></div>
+<div class="tree-item"><div class="tree-node">Basal Ganglia</div></div>
+<div class="tree-item"><div class="tree-node">Limbic System</div></div>
+</div>
+</div>
 
 ---
 
@@ -176,7 +182,7 @@ Functions:
 - Routes signals to appropriate cortical regions.
 - Helps regulate attention and consciousness.
 
-Almost all sensory information (except smell) passes through the thalamus before reaching the cerebral cortex. :contentReference[oaicite:7]{index=7}
+Almost all sensory information (except smell) passes through the thalamus before reaching the cerebral cortex.
 
 ---
 
@@ -194,7 +200,7 @@ Controls:
 - Reproduction
 - Autonomic nervous system
 
-It links the nervous system with the endocrine system through control of the pituitary gland. :contentReference[oaicite:8]{index=8}
+It links the nervous system with the endocrine system through control of the pituitary gland.
 
 ---
 
@@ -209,7 +215,7 @@ Functions:
 - Habit formation
 - Reward and motivation
 
-Damage to the basal ganglia contributes to disorders such as Parkinson's disease. :contentReference[oaicite:9]{index=9}
+Damage to the basal ganglia contributes to disorders such as Parkinson's disease.
 
 ---
 
@@ -229,7 +235,7 @@ Important components include:
 - Parts of the thalamus
 - Parts of the hypothalamus
 
-Rather than being a single organ, it is a functional network. :contentReference[oaicite:10]{index=10}
+Rather than being a single organ, it is a functional network.
 
 ---
 
@@ -239,21 +245,20 @@ Rather than being a single organ, it is a functional network. :contentReference[
 
 The cerebellum fine-tunes movement, maintains posture, and helps us learn complex motor skills such as writing, cycling, or playing musical instruments.
 
-Although only about 10% of brain volume, it contains **more neurons than the rest of the brain combined**. :contentReference[oaicite:11]{index=11}
+Although only about 10% of brain volume, it contains **more neurons than the rest of the brain combined**.
 
 ---
 
 # Brainstem
 
-```text
-Brainstem
-     │
- ┌───┼────┐
- ▼   ▼    ▼
-Midbrain
-Pons
-Medulla
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Brainstem</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Midbrain</div></div>
+<div class="tree-item"><div class="tree-node">Pons</div></div>
+<div class="tree-item"><div class="tree-node">Medulla</div></div>
+</div>
+</div>
 
 Functions:
 
@@ -264,7 +269,7 @@ Functions:
 - Sleep-wake regulation
 - Reflexes
 
-The brainstem connects the brain with the spinal cord and is essential for survival. :contentReference[oaicite:12]{index=12}
+The brainstem connects the brain with the spinal cord and is essential for survival.
 
 ---
 
@@ -290,16 +295,17 @@ Brain regions transform simple neural signals into the complex abilities that de
 
 Brain regions allow you to:
 
-- Read books
-- Solve problems
-- Learn languages
-- Recognize faces
-- Navigate cities
-- Play sports
-- Feel emotions
-- Create music
-- Build relationships
-- Develop scientific theories
+> [!success]
+> - Read books
+> - Solve problems
+> - Learn languages
+> - Recognize faces
+> - Navigate cities
+> - Play sports
+> - Feel emotions
+> - Create music
+> - Build relationships
+> - Develop scientific theories
 
 Damage to different regions produces different impairments, helping clinicians diagnose neurological disease.
 
@@ -356,26 +362,22 @@ Many brain regions cooperate at once.
 
 # Human Health Connections
 
-```text
-             Brain Region Health
-                     ▲
-                     │
- ┌───────────────────┼───────────────────┐
- │                   │                   │
-Sleep          Nutrition        Exercise
- │                   │                   │
- ├───────────────────┼───────────────────┤
- │                   │                   │
-Learning       Stress      Blood Circulation
- │                   │                   │
- ├───────────────────┼───────────────────┤
- │                   │                   │
-Social Life    Brain Injury      Aging
- │                   │                   │
- └───────────────────┼───────────────────┘
-                     │
-        Healthy Brain Networks
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Brain Region Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Exercise</div></div>
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Blood Circulation</div></div>
+<div class="tree-item"><div class="tree-node">Social Life</div></div>
+<div class="tree-item"><div class="tree-node">Brain Injury</div></div>
+<div class="tree-item"><div class="tree-node">Aging</div></div>
+</div>
+</div>
+
+Healthy Brain Networks
 
 Different brain regions remain healthy through lifelong learning, adequate sleep, exercise, healthy blood flow, and good nutrition.
 
@@ -403,6 +405,11 @@ Symptoms depend largely on **which brain regions or networks are affected**, not
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/MRI_of_Human_Brain.jpg?width=1200" alt="A magnetic resonance imaging (MRI) scan of the human brain showing its major anatomical regions">
+<p class="domain-figure-caption">MRI scan of the human brain, revealing its major anatomical regions — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -519,7 +526,7 @@ Control blood pressure, avoid head injuries, don't smoke, eat well, and remain m
 
 Avoid thinking of the brain as isolated compartments.
 
-Modern neuroscience shows that **complex behaviors emerge from cooperation among specialized regions connected into dynamic networks**. :contentReference[oaicite:13]{index=13}
+Modern neuroscience shows that **complex behaviors emerge from cooperation among specialized regions connected into dynamic networks**.
 
 ---
 
@@ -553,29 +560,13 @@ This understanding prepares us to study:
 
 - [[Memory]]
 - [[Learning]]
-- [[Language]]
 - [[Consciousness]]
 
 ---
 
 ## Related
 
-- [[Frontal Lobe]]
-- [[Temporal Lobe]]
-- [[Parietal Lobe]]
-- [[Occipital Lobe]]
-- [[Cerebellum]]
-- [[Brainstem]]
-- [[Thalamus]]
-- [[Hypothalamus]]
-- [[Basal Ganglia]]
-- [[Limbic System]]
-
----
-
-## Next
-
-→ [[Neuroplasticity]]
+None.
 
 ---
 
@@ -593,4 +584,11 @@ Understanding brain regions reveals that the extraordinary abilities of the huma
 
 # Key Insight
 
-> **Brain regions are specialized parts of the nervous system that work together as interconnected networks rather than isolated centers. Each region contributes unique functions—such as vision, movement, memory, language, or homeostasis—but human intelligence, behavior, and consciousness emerge only through their continuous cooperation. Understanding brain regions reveals how the brain transforms distributed biological activity into the unified experience of being human.** :contentReference[oaicite:14]{index=14}
+> **Brain regions are specialized parts of the nervous system that work together as interconnected networks rather than isolated centers. Each region contributes unique functions—such as vision, movement, memory, language, or homeostasis—but human intelligence, behavior, and consciousness emerge only through their continuous cooperation. Understanding brain regions reveals how the brain transforms distributed biological activity into the unified experience of being human.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/04-brain--and--neuroscience/06---neuroplasticity" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Neuroplasticity</span><span class="os-cta-sub">Neuroplasticity is the brain's ability to change its structure, function, and...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -8,7 +8,7 @@
 
 The Scientific Method is a systematic process for investigating reality through observation, evidence, hypothesis formation, testing, analysis, and continual refinement.
 
-Rather than being a rigid sequence of steps, it is a way of thinking that allows humans to build knowledge that is **testable, reproducible, self-correcting, and evidence-based**. :contentReference[oaicite:0]{index=0}
+Rather than being a rigid sequence of steps, it is a way of thinking that allows humans to build knowledge that is **testable, reproducible, self-correcting, and evidence-based**.
 
 ---
 
@@ -20,7 +20,7 @@ However, intuition, tradition, authority, and personal experience can all produc
 
 The Scientific Method exists to reduce these errors by requiring that ideas be tested against observable evidence rather than accepted because they seem convincing.
 
-This makes scientific knowledge progressively more reliable over time. :contentReference[oaicite:1]{index=1}
+This makes scientific knowledge progressively more reliable over time.
 
 ---
 
@@ -32,7 +32,7 @@ Scientific investigation is an iterative process.
 
 New evidence can strengthen, modify, or reject previous explanations.
 
-For this reason, scientific knowledge is **continually refined rather than considered permanently complete**. :contentReference[oaicite:2]{index=2}
+For this reason, scientific knowledge is **continually refined rather than considered permanently complete**.
 
 ---
 
@@ -46,137 +46,38 @@ The Scientific Method is the bridge between **curiosity** and **reliable knowled
 
 # Why should humans care?
 
-The Scientific Method enables humans to:
+> [!success] The Scientific Method enables humans to
+> - Discover how nature works.
+> - Separate evidence from opinion.
+> - Test ideas objectively.
+> - Reduce errors caused by bias.
+> - Improve medicine and healthcare.
+> - Develop new technologies.
+> - Solve complex real-world problems.
+> - Continuously improve human knowledge.
 
-- Discover how nature works.
-- Separate evidence from opinion.
-- Test ideas objectively.
-- Reduce errors caused by bias.
-- Improve medicine and healthcare.
-- Develop new technologies.
-- Solve complex real-world problems.
-- Continuously improve human knowledge.
-
-Nearly every modern scientific and technological advancement has been developed using this approach. :contentReference[oaicite:3]{index=3}
+Nearly every modern scientific and technological advancement has been developed using this approach.
 
 ---
 
 # Human Impact
 
-### Human Body
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Jantar_Mantar,_Jaipur_India.jpg?width=1200" alt="Jantar Mantar in Jaipur, an 18th-century Indian astronomical observatory built for precise observation and measurement">
+<p class="domain-figure-caption">Jantar Mantar, Jaipur — instruments built for systematic observation — via Wikimedia Commons</p>
+</div>
 
-The Scientific Method has transformed healthcare through:
-
-- Vaccines
-- Medicines
-- Medical imaging
-- Surgery
-- Nutrition research
-- Public health
-- Disease prevention
-
-Modern medicine depends on evidence gathered through scientific investigation.
-
----
-
-### Human Mind
-
-It encourages:
-
-- Curiosity
-- Rational thinking
-- Skepticism
-- Evidence-based reasoning
-- Intellectual humility
-
-It teaches that beliefs should change when better evidence becomes available.
-
----
-
-### Human Behaviour
-
-Scientific thinking helps people:
-
-- Evaluate claims critically.
-- Avoid misinformation.
-- Solve problems systematically.
-- Make informed personal decisions.
-
----
-
-### Society
-
-The Scientific Method supports:
-
-- Education
-- Scientific research
-- Innovation
-- Environmental protection
-- Public health
-- Evidence-based policymaking
-
-Societies that value scientific inquiry are better equipped to solve complex challenges.
-
----
-
-### Economics
-
-Scientific research drives:
-
-- Industrial innovation
-- Productivity
-- Agriculture
-- Manufacturing
-- Energy production
-- Economic growth
-
----
-
-### Politics & Governance
-
-Evidence-based research improves:
-
-- Public policy
-- Healthcare systems
-- Environmental regulations
-- Disaster preparedness
-- Resource management
-
----
-
-### Technology
-
-Nearly every modern technology is built upon discoveries produced through scientific investigation, including:
-
-- Computers
-- Internet
-- Artificial Intelligence
-- Robotics
-- Biotechnology
-- Space exploration
-- Renewable energy
-
----
-
-### Philosophy
-
-The Scientific Method demonstrates that knowledge should be evaluated through evidence and testing rather than authority or tradition alone.
-
-It complements philosophy by providing a practical framework for investigating the natural world while acknowledging that scientific knowledge remains open to revision. :contentReference[oaicite:4]{index=4}
-
----
-
-### Living Well
-
-Understanding the Scientific Method helps humans:
-
-- Make evidence-based health decisions.
-- Evaluate information critically.
-- Recognize misinformation.
-- Solve everyday problems more effectively.
-- Adapt beliefs when new evidence appears.
-
-It promotes lifelong learning and better decision-making.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">&#129472;</span><span class="os-card-title">Human Body</span><span class="os-card-desc">Vaccines, medicines, medical imaging, surgery, nutrition research, public health, disease prevention — modern medicine depends on evidence gathered through scientific investigation.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#129504;</span><span class="os-card-title">Human Mind</span><span class="os-card-desc">It encourages curiosity, rational thinking, skepticism, evidence-based reasoning, and intellectual humility — teaching that beliefs should change when better evidence becomes available.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127919;</span><span class="os-card-title">Human Behaviour</span><span class="os-card-desc">Scientific thinking helps people evaluate claims critically, avoid misinformation, solve problems systematically, and make informed personal decisions.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127963;</span><span class="os-card-title">Society</span><span class="os-card-desc">Education, scientific research, innovation, environmental protection, public health, and evidence-based policymaking. Societies that value scientific inquiry solve complex challenges better.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128176;</span><span class="os-card-title">Economics</span><span class="os-card-desc">Scientific research drives industrial innovation, productivity, agriculture, manufacturing, energy production, and economic growth.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128499;</span><span class="os-card-title">Politics & Governance</span><span class="os-card-desc">Evidence-based research improves public policy, healthcare systems, environmental regulations, disaster preparedness, and resource management.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#9881;</span><span class="os-card-title">Technology</span><span class="os-card-desc">Nearly every modern technology — computers, internet, AI, robotics, biotechnology, space exploration, renewable energy — is built on scientific discovery.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128173;</span><span class="os-card-title">Philosophy</span><span class="os-card-desc">Demonstrates that knowledge should be evaluated through evidence and testing rather than authority or tradition alone, while remaining open to revision.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127793;</span><span class="os-card-title">Living Well</span><span class="os-card-desc">Helps humans make evidence-based health decisions, evaluate information critically, recognize misinformation, and adapt beliefs when new evidence appears.</span></div>
+</div>
 
 ---
 
@@ -217,12 +118,13 @@ It builds upon [[Logic]] by providing a practical framework for investigating th
 
 ---
 
-## Next
-
-→ [[Systems Thinking]]
-
----
-
 # Key Insight
 
 > **The Scientific Method transforms curiosity into reliable knowledge by requiring ideas to be tested against evidence, allowing humanity to continually improve its understanding of reality and build healthier lives, stronger societies, and more advanced civilizations.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/01-foundations/04---systems-thinking" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Systems Thinking</span><span class="os-cta-sub">Seeing how parts connect to create wholes</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

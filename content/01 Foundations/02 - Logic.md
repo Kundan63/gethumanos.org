@@ -8,7 +8,7 @@
 
 Logic is the study of correct reasoning.
 
-It provides the principles that determine whether conclusions follow validly from evidence, observations, or assumptions. Rather than telling us **what is true**, logic helps determine **whether our reasoning from one idea to another is valid**. It is a foundational discipline in philosophy, mathematics, computer science, and scientific inquiry. :contentReference[oaicite:0]{index=0}
+It provides the principles that determine whether conclusions follow validly from evidence, observations, or assumptions. Rather than telling us **what is true**, logic helps determine **whether our reasoning from one idea to another is valid**. It is a foundational discipline in philosophy, mathematics, computer science, and scientific inquiry.
 
 ---
 
@@ -18,7 +18,7 @@ Humans constantly make decisions, solve problems, and form beliefs.
 
 However, intuition, emotions, cognitive biases, and incomplete information often lead to faulty conclusions.
 
-Logic exists to provide a reliable framework for reasoning, allowing humans to distinguish sound arguments from invalid ones and make decisions that are consistent with evidence and reason rather than assumption or persuasion. :contentReference[oaicite:1]{index=1}
+Logic exists to provide a reliable framework for reasoning, allowing humans to distinguish sound arguments from invalid ones and make decisions that are consistent with evidence and reason rather than assumption or persuasion.
 
 ---
 
@@ -30,7 +30,7 @@ A conclusion is logically valid when it necessarily follows from the premises ac
 
 Logic therefore focuses on the **structure of reasoning**, not merely on whether a statement happens to be true.
 
-This allows humans to evaluate arguments objectively across science, law, philosophy, engineering, mathematics, and everyday life. :contentReference[oaicite:2]{index=2}
+This allows humans to evaluate arguments objectively across science, law, philosophy, engineering, mathematics, and everyday life.
 
 ---
 
@@ -44,96 +44,38 @@ This allows humans to evaluate arguments objectively across science, law, philos
 
 Logic improves nearly every aspect of human life.
 
-It enables humans to:
+> [!success] It enables humans to
+> - Think clearly and consistently.
+> - Distinguish facts from opinions.
+> - Evaluate arguments objectively.
+> - Detect logical fallacies and misinformation.
+> - Solve problems systematically.
+> - Make better personal and professional decisions.
+> - Build reliable scientific and technological knowledge.
+> - Communicate ideas more effectively.
 
-- Think clearly and consistently.
-- Distinguish facts from opinions.
-- Evaluate arguments objectively.
-- Detect logical fallacies and misinformation.
-- Solve problems systematically.
-- Make better personal and professional decisions.
-- Build reliable scientific and technological knowledge.
-- Communicate ideas more effectively.
-
-Every major scientific discovery, engineering breakthrough, legal system, and computer program depends upon logical reasoning. :contentReference[oaicite:3]{index=3}
+Every major scientific discovery, engineering breakthrough, legal system, and computer program depends upon logical reasoning.
 
 ---
 
 # Human Impact
 
-### Human Body
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nalanda_University_ruins.JPG?width=1200" alt="Ruins of Nalanda, the ancient Indian center of learning and philosophical debate">
+<p class="domain-figure-caption">Ruins of Nalanda Mahavihara, an ancient center of reasoned debate and scholarship — via Wikimedia Commons</p>
+</div>
 
-Logic supports medical diagnosis, clinical reasoning, and evidence-based healthcare by helping evaluate symptoms, evidence, and treatment decisions.
-
-### Human Mind
-
-Logic strengthens:
-
-- Rational thinking
-- Problem solving
-- Pattern recognition
-- Analytical reasoning
-- Intellectual discipline
-
-It also helps reduce reasoning errors caused by emotion or bias.
-
-### Human Behaviour
-
-Logical reasoning improves:
-
-- Decision making
-- Planning
-- Risk assessment
-- Conflict resolution
-- Everyday judgment
-
-### Society
-
-Logic supports:
-
-- Education
-- Journalism
-- Legal systems
-- Public discourse
-- Scientific collaboration
-
-Societies that value logical reasoning are generally better equipped to evaluate evidence and solve complex problems.
-
-### Economics
-
-Businesses, finance, and economic planning rely on logical analysis to assess risks, allocate resources, and make strategic decisions.
-
-### Politics & Governance
-
-Logical reasoning helps develop coherent public policies, evaluate competing arguments, interpret evidence, and support fair judicial processes.
-
-### Technology
-
-Logic forms the foundation of:
-
-- Computing
-- Programming
-- Artificial Intelligence
-- Digital electronics
-- Cybersecurity
-
-Modern computers ultimately execute logical operations.
-
-### Philosophy
-
-Logic provides philosophy with the tools to analyze arguments, clarify concepts, and evaluate claims consistently.
-
-### Living Well
-
-Understanding logic helps humans:
-
-- Avoid misinformation.
-- Make wiser decisions.
-- Learn more effectively.
-- Communicate more clearly.
-- Build stronger relationships through reasoned discussion rather than misunderstanding.
-
-Good reasoning improves both individual lives and the societies humans create.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">&#129472;</span><span class="os-card-title">Human Body</span><span class="os-card-desc">Logic supports medical diagnosis, clinical reasoning, and evidence-based healthcare by helping evaluate symptoms, evidence, and treatment decisions.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#129504;</span><span class="os-card-title">Human Mind</span><span class="os-card-desc">Logic strengthens rational thinking, problem solving, pattern recognition, analytical reasoning, and intellectual discipline — and helps reduce reasoning errors caused by emotion or bias.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127919;</span><span class="os-card-title">Human Behaviour</span><span class="os-card-desc">Logical reasoning improves decision making, planning, risk assessment, conflict resolution, and everyday judgment.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127963;</span><span class="os-card-title">Society</span><span class="os-card-desc">Logic supports education, journalism, legal systems, public discourse, and scientific collaboration. Societies that value it are better equipped to evaluate evidence and solve complex problems.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128176;</span><span class="os-card-title">Economics</span><span class="os-card-desc">Businesses, finance, and economic planning rely on logical analysis to assess risks, allocate resources, and make strategic decisions.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128499;</span><span class="os-card-title">Politics & Governance</span><span class="os-card-desc">Logical reasoning helps develop coherent public policies, evaluate competing arguments, interpret evidence, and support fair judicial processes.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#9881;</span><span class="os-card-title">Technology</span><span class="os-card-desc">Logic forms the foundation of computing, programming, artificial intelligence, digital electronics, and cybersecurity — modern computers ultimately execute logical operations.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128173;</span><span class="os-card-title">Philosophy</span><span class="os-card-desc">Logic provides philosophy with the tools to analyze arguments, clarify concepts, and evaluate claims consistently.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127793;</span><span class="os-card-title">Living Well</span><span class="os-card-desc">Understanding logic helps humans avoid misinformation, make wiser decisions, learn more effectively, and build stronger relationships through reasoned discussion rather than misunderstanding.</span></div>
+</div>
 
 ---
 
@@ -175,12 +117,13 @@ Without logic, reliable knowledge cannot be built consistently.
 
 ---
 
-## Next
-
-→ [[Scientific Method]]
-
----
-
 # Key Insight
 
 > **Logic is the framework that transforms information into reliable reasoning, enabling humans to build trustworthy knowledge, make better decisions, and create the scientific, technological, and social systems that shape civilization.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/01-foundations/03---scientific-method" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Scientific Method</span><span class="os-cta-sub">Humanity's most reliable way of finding out what's real</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

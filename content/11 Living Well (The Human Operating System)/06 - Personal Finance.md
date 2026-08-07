@@ -1,6 +1,6 @@
 # Personal Finance
 
-> **Personal Finance is the lifelong process of managing money and financial resources to meet present needs, prepare for future uncertainties, achieve long-term goals, and support a meaningful life.** It includes earning, budgeting, saving, investing, managing debt, protecting against risk, and planning for major life events. The ultimate goal is not simply accumulating wealth, but achieving financial well-being—the ability to meet obligations, withstand shocks, pursue opportunities, and make choices that improve quality of life. :contentReference[oaicite:0]{index=0}
+> **Personal Finance is the lifelong process of managing money and financial resources to meet present needs, prepare for future uncertainties, achieve long-term goals, and support a meaningful life.** It includes earning, budgeting, saving, investing, managing debt, protecting against risk, and planning for major life events. The ultimate goal is not simply accumulating wealth, but achieving financial well-being—the ability to meet obligations, withstand shocks, pursue opportunities, and make choices that improve quality of life.
 
 ---
 
@@ -115,19 +115,20 @@ Financial decisions today influence opportunities decades into the future.
 
 # The Personal Finance System
 
-```text
-Personal Finance
-        │
- ├── Income
- ├── Budgeting
- ├── Saving
- ├── Investing
- ├── Debt Management
- ├── Insurance
- ├── Taxes
- ├── Retirement Planning
- └── Estate & Legacy Planning
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Personal Finance</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Income</div></div>
+<div class="tree-item"><div class="tree-node">Budgeting</div></div>
+<div class="tree-item"><div class="tree-node">Saving</div></div>
+<div class="tree-item"><div class="tree-node">Investing</div></div>
+<div class="tree-item"><div class="tree-node">Debt Management</div></div>
+<div class="tree-item"><div class="tree-node">Insurance</div></div>
+<div class="tree-item"><div class="tree-node">Taxes</div></div>
+<div class="tree-item"><div class="tree-node">Retirement Planning</div></div>
+<div class="tree-item"><div class="tree-node">Estate & Legacy Planning</div></div>
+</div>
+</div>
 
 Every component supports long-term financial well-being.
 
@@ -284,7 +285,7 @@ Good personal finance supports:
 - Opportunity
 - Long-term resilience
 
-Modern financial education increasingly defines success not as wealth alone, but as **financial well-being**—being able to meet obligations, withstand financial shocks, pursue goals, and make meaningful life choices. :contentReference[oaicite:1]{index=1}
+Modern financial education increasingly defines success not as wealth alone, but as **financial well-being**—being able to meet obligations, withstand financial shocks, pursue goals, and make meaningful life choices.
 
 ---
 
@@ -326,7 +327,7 @@ Small financial habits compound over decades.
 
 ✔ Financial literacy supports better financial decisions.
 
-✔ Financial well-being depends on both objective resources and people's ability to manage them. :contentReference[oaicite:2]{index=2}
+✔ Financial well-being depends on both objective resources and people's ability to manage them.
 
 ---
 
@@ -369,7 +370,6 @@ Ask yourself:
 - [[Psychology]]
 - [[Career]]
 - [[Decision Making]]
-- [[Technology]]
 - [[Ethics]]
 
 ## Enables
@@ -377,29 +377,27 @@ Ask yourself:
 - [[Productivity]]
 - [[Career]]
 - [[Family]]
-- [[Retirement]]
 - [[Personal Growth]]
-- [[Contribution]]
 
 ## Related
 
-- [[Budgeting]]
-- [[Saving]]
-- [[Investing]]
-- [[Financial Literacy]]
-
-## Next
-
-→ [[Productivity]]
+None.
 
 ---
 
 # HumanOS Principle
 
-Personal finance is the disciplined management of financial resources throughout life. By understanding income, spending, saving, investing, risk, and long-term planning, individuals increase their financial well-being—the ability to meet present needs, prepare for uncertainty, pursue meaningful goals, and contribute responsibly to others. Money is not the destination; it is one of the tools that enables a flourishing life. :contentReference[oaicite:3]{index=3}
+Personal finance is the disciplined management of financial resources throughout life. By understanding income, spending, saving, investing, risk, and long-term planning, individuals increase their financial well-being—the ability to meet present needs, prepare for uncertainty, pursue meaningful goals, and contribute responsibly to others. Money is not the destination; it is one of the tools that enables a flourishing life.
 
 ---
 
 # Key Insight
 
 > **Money is stored human effort. Every financial decision is ultimately a decision about how you will use your time, skills, opportunities, and future. HumanOS teaches personal finance not to maximize wealth alone, but to maximize freedom, resilience, responsibility, and the ability to live according to your values while contributing positively to the world.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/07---productivity" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Productivity</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

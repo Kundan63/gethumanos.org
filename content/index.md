@@ -24,18 +24,7 @@ description: The operating system for being human.
 
 ---
 
-<p class="section-eyebrow">01 &middot; Begin Here</p>
-
-<div class="cta-row">
-<a class="os-cta" href="/01-foundations" data-no-popover="true">
-<span class="os-cta-text"><span class="os-cta-label">Start Learning</span><span class="os-cta-sub">Begin with 01 &middot; Foundations</span></span>
-<span class="os-cta-arrow">&rarr;</span>
-</a>
-</div>
-
----
-
-<p class="section-eyebrow">02 &middot; The Map</p>
+<p class="section-eyebrow">01 &middot; The Map</p>
 
 # The Human Reality Map
 
@@ -49,7 +38,7 @@ Every node below is a live, growing domain, not a fixed number &mdash; click any
 
 ---
 
-<p class="section-eyebrow">03 &middot; The Chain</p>
+<p class="section-eyebrow">02 &middot; The Chain</p>
 
 ## Why HumanOS?
 
@@ -86,12 +75,23 @@ A few notes, picked from across the domains:
 
 ---
 
-<p class="section-eyebrow">04 &middot; The Offering</p>
+<p class="section-eyebrow">03 &middot; The Offering</p>
 
 <div class="mission-statement">
-The most complete map of reality and the human condition, <span class="accent-text">organized around understanding &mdash; not academic subjects</span> &mdash; so every note connects back to the bigger picture instead of sitting in isolation.
+All of human knowledge &mdash; physics to philosophy, biology to business, medicine to mind &mdash; brought into <span class="accent-text">one connected system</span>, built for one purpose: helping you understand reality clearly enough to redefine how you live, and make it better.
 </div>
 
-<div class="status-pill">
+---
+
+<p class="section-eyebrow">04 &middot; Begin Here</p>
+
+<div class="cta-row">
+<a class="os-cta" href="/01-foundations" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Start Learning</span><span class="os-cta-sub">Begin with 01 &middot; Foundations</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a>
+</div>
+
+<div class="status-pill status-pill-small">
 <span class="status-dot"></span> Actively under development &mdash; new knowledge added continuously.
 </div>

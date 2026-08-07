@@ -1,6 +1,6 @@
 # Personality
 
-> *Personality is the relatively enduring pattern of thoughts, emotions, motivations, and behaviors that makes each individual unique. It influences how people perceive the world, respond to situations, interact with others, and make decisions. Personality develops through the interaction of genetic factors, brain function, life experiences, culture, and environment. Although personality tends to remain relatively stable over time, it can gradually change through development, learning, and significant life experiences.* :contentReference[oaicite:0]{index=0}
+> *Personality is the relatively enduring pattern of thoughts, emotions, motivations, and behaviors that makes each individual unique. It influences how people perceive the world, respond to situations, interact with others, and make decisions. Personality develops through the interaction of genetic factors, brain function, life experiences, culture, and environment. Although personality tends to remain relatively stable over time, it can gradually change through development, learning, and significant life experiences.*
 
 ---
 
@@ -17,7 +17,7 @@ Personality is the characteristic pattern of how a person:
 
 It is what makes every individual psychologically unique.
 
-Unlike temporary moods or emotions, personality describes **long-term patterns** that remain relatively consistent across different situations. :contentReference[oaicite:1]{index=1}
+Unlike temporary moods or emotions, personality describes **long-term patterns** that remain relatively consistent across different situations.
 
 ---
 
@@ -50,7 +50,7 @@ Personality emerges from the interaction of:
 - Culture
 - Environment
 
-These factors shape relatively stable patterns of thinking, feeling, and behaving. :contentReference[oaicite:2]{index=2}
+These factors shape relatively stable patterns of thinking, feeling, and behaving.
 
 ---
 
@@ -62,22 +62,18 @@ These factors shape relatively stable patterns of thinking, feeling, and behavin
 
 # Components of Personality
 
-```text
-Personality
-      │
- ┌────┼──────────────┬──────────────┐
- ▼    ▼              ▼              ▼
-Thoughts
-Emotions
-Behavior
-Motivation
- │
- ├────────────┬──────────────┬──────────────┐
- ▼            ▼              ▼
-Values
-Habits
-Relationships
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Personality</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Thoughts</div></div>
+<div class="tree-item"><div class="tree-node">Emotions</div></div>
+<div class="tree-item"><div class="tree-node">Behavior</div></div>
+<div class="tree-item"><div class="tree-node">Motivation</div></div>
+<div class="tree-item"><div class="tree-node">Values</div></div>
+<div class="tree-item"><div class="tree-node">Habits</div></div>
+<div class="tree-item"><div class="tree-node">Relationships</div></div>
+</div>
+</div>
 
 Personality influences nearly every aspect of human functioning.
 
@@ -85,18 +81,19 @@ Personality influences nearly every aspect of human functioning.
 
 # Major Perspectives on Personality
 
-```text
-Personality Theories
-      │
- ├── Psychodynamic
- ├── Humanistic
- ├── Trait
- ├── Social-Cognitive
- ├── Biological
- └── Evolutionary
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Personality Theories</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Psychodynamic</div></div>
+<div class="tree-item"><div class="tree-node">Humanistic</div></div>
+<div class="tree-item"><div class="tree-node">Trait</div></div>
+<div class="tree-item"><div class="tree-node">Social-Cognitive</div></div>
+<div class="tree-item"><div class="tree-node">Biological</div></div>
+<div class="tree-item"><div class="tree-node">Evolutionary</div></div>
+</div>
+</div>
 
-Modern personality psychology draws on multiple perspectives because no single theory explains all aspects of personality. :contentReference[oaicite:3]{index=3}
+Modern personality psychology draws on multiple perspectives because no single theory explains all aspects of personality.
 
 ---
 
@@ -110,7 +107,7 @@ Emphasizes:
 - Early childhood experiences
 - Internal psychological conflicts
 
-Freud proposed that unconscious processes strongly influence personality development. :contentReference[oaicite:4]{index=4}
+Freud proposed that unconscious processes strongly influence personality development.
 
 ---
 
@@ -144,7 +141,7 @@ Examples include:
 - Openness
 - Neuroticism
 
-Trait psychology is one of the most widely supported approaches in modern personality research. :contentReference[oaicite:5]{index=5}
+Trait psychology is one of the most widely supported approaches in modern personality research.
 
 ---
 
@@ -170,7 +167,7 @@ Examines how personality is influenced by:
 - Hormones
 - Nervous system
 
-Research suggests that heredity contributes to many personality traits, while environmental experiences shape how those traits are expressed. :contentReference[oaicite:6]{index=6}
+Research suggests that heredity contributes to many personality traits, while environmental experiences shape how those traits are expressed.
 
 ---
 
@@ -186,7 +183,7 @@ The **Five-Factor Model (Big Five)** is one of the most widely accepted scientif
 | **Agreeableness** | Compassionate, cooperative | Competitive, skeptical |
 | **Neuroticism** | Emotionally reactive | Emotionally stable |
 
-These traits exist on a continuum rather than as fixed categories. :contentReference[oaicite:7]{index=7}
+These traits exist on a continuum rather than as fixed categories.
 
 ---
 
@@ -239,7 +236,7 @@ Gradual changes can occur through:
 - Major life events
 - Long-term habits
 
-Research suggests that traits can shift over time, especially during young adulthood and in response to significant experiences. :contentReference[oaicite:8]{index=8}
+Research suggests that traits can shift over time, especially during young adulthood and in response to significant experiences.
 
 ---
 
@@ -279,14 +276,16 @@ Assessment helps understand personality patterns but should be interpreted by qu
 
 Understanding personality improves:
 
-- Education
-- Leadership
-- Career planning
-- Mental healthcare
-- Teamwork
-- Relationships
-- Counseling
-- Organizational management
+<div class="tag-grid">
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Leadership</span>
+<span class="tag-pill">Career planning</span>
+<span class="tag-pill">Mental healthcare</span>
+<span class="tag-pill">Teamwork</span>
+<span class="tag-pill">Relationships</span>
+<span class="tag-pill">Counseling</span>
+<span class="tag-pill">Organizational management</span>
+</div>
 
 ---
 
@@ -320,13 +319,14 @@ Introversion refers to preference for lower levels of social stimulation, not ne
 
 Personality influences:
 
-- Relationships
-- Career choices
-- Leadership
-- Mental health
-- Communication
-- Stress management
-- Decision making
+> [!success]
+> - Relationships
+> - Career choices
+> - Leadership
+> - Mental health
+> - Communication
+> - Stress management
+> - Decision making
 
 Understanding personality helps people appreciate individual differences and improve cooperation.
 
@@ -410,7 +410,6 @@ It connects:
 - [[Decision Making]]
 - [[Learning]]
 - [[Habits]]
-- [[Mental Health]]
 - [[Human Development]]
 
 It demonstrates that personality emerges from the interaction of biology, experience, learning, and environment, creating the unique patterns that distinguish every individual.
@@ -432,27 +431,26 @@ It demonstrates that personality emerges from the interaction of biology, experi
 - [[Relationships]]
 - [[Leadership]]
 - [[Decision Making]]
-- [[Behavior]]
 
 ## Related
 
 - [[Habits]]
-- [[Mental Health]]
-- [[Motivation]]
-- [[Character]]
-
-## Next
-
-→ [[Habits]]
 
 ---
 
 # HumanOS Principle
 
-Personality is the relatively enduring pattern of thoughts, emotions, motivations, and behaviors that makes each individual unique. It develops through the interaction of genetic influences, brain function, learning, life experiences, and culture. Understanding personality reveals why people respond differently to similar situations and helps improve self-awareness, relationships, communication, and personal growth. :contentReference[oaicite:9]{index=9}
+Personality is the relatively enduring pattern of thoughts, emotions, motivations, and behaviors that makes each individual unique. It develops through the interaction of genetic influences, brain function, learning, life experiences, and culture. Understanding personality reveals why people respond differently to similar situations and helps improve self-awareness, relationships, communication, and personal growth.
 
 ---
 
 # Key Insight
 
-> **Personality is the long-term pattern through which the mind expresses itself. It is not a fixed destiny, but a dynamic interaction between biology, experience, and choice. By understanding personality, we better understand ourselves, appreciate the diversity of others, and recognize how enduring traits influence behavior throughout life.** :contentReference[oaicite:10]{index=10}
+> **Personality is the long-term pattern through which the mind expresses itself. It is not a fixed destiny, but a dynamic interaction between biology, experience, and choice. By understanding personality, we better understand ourselves, appreciate the diversity of others, and recognize how enduring traits influence behavior throughout life.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/07-mind/09---habits" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Habits</span><span class="os-cta-sub">Habits are learned behaviors that become automatic through repetition in a consistent...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

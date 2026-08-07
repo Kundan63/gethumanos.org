@@ -26,7 +26,7 @@ Understanding the brain is therefore one of the greatest scientific challenges b
 
 > **How does matter become mind?**
 
-Modern neuroscience studies the structure and function of the nervous system—from individual neurons and synapses to large-scale brain networks—to understand how perception, learning, memory, emotion, movement, and consciousness emerge. :contentReference[oaicite:0]{index=0}
+Modern neuroscience studies the structure and function of the nervous system—from individual neurons and synapses to large-scale brain networks—to understand how perception, learning, memory, emotion, movement, and consciousness emerge.
 
 ---
 
@@ -111,34 +111,44 @@ Each note follows the HumanOS framework:
 
 # From Neurons to Consciousness
 
-```text
-        Environment
-              │
-              ▼
-     Sensory Information
-              │
-              ▼
-          Neurons Fire
-              │
-              ▼
-      Synaptic Communication
-              │
-              ▼
-     Brain Networks Activate
-              │
-              ▼
- Perception • Emotion • Memory
-              │
-              ▼
- Thinking • Decisions • Learning
-              │
-              ▼
-     Behaviour & Consciousness
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Environment</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Sensory Information</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Neurons Fire</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Synaptic Communication</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Brain Networks Activate</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Perception • Emotion • Memory</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Thinking • Decisions • Learning</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">8</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Behaviour &amp; Consciousness</span></div>
+</div>
+</div>
 
 No single neuron thinks.
 
-Thought emerges from billions of neurons communicating through trillions of synapses organized into dynamic networks. :contentReference[oaicite:1]{index=1}
+Thought emerges from billions of neurons communicating through trillions of synapses organized into dynamic networks.
 
 ---
 
@@ -186,7 +196,7 @@ Understanding the brain ultimately improves how we learn, work, teach, communica
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:279px"><svg width="100%" viewBox="0 0 279 366" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="243.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="139.5" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Practice</text><rect x="18.0" y="90.0" width="243.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="139.5" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Neurons Activate</text><rect x="18.0" y="162.0" width="243.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="139.5" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Synapses Strengthen</text><rect x="18.0" y="234.0" width="243.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="139.5" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Brain Networks Reorganize</text><rect x="18.0" y="306.0" width="243.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="139.5" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Language Skill Improves</text><line x1="139.5" y1="64.0" x2="139.5" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="139.5" y1="136.0" x2="139.5" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="139.5" y1="208.0" x2="139.5" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="139.5" y1="280.0" x2="139.5" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Learning physically changes the brain through **neuroplasticity**. :contentReference[oaicite:2]{index=2}
+Learning physically changes the brain through **neuroplasticity**.
 
 ---
 
@@ -317,7 +327,7 @@ Brain & Neuroscience explores one of the deepest questions in HumanOS:
 
 Science explains many neural mechanisms.
 
-The subjective nature of consciousness remains one of the greatest open questions in neuroscience and philosophy. :contentReference[oaicite:3]{index=3}
+The subjective nature of consciousness remains one of the greatest open questions in neuroscience and philosophy.
 
 ---
 
@@ -424,12 +434,6 @@ This section prepares the foundation for understanding the human mind, cognition
 
 ---
 
-## Next
-
-→ [[Brain]]
-
----
-
 # HumanOS Principle
 
 The brain is not merely an organ.
@@ -443,3 +447,10 @@ Understanding the brain is therefore essential for understanding what it means t
 # Key Insight
 
 > **Brain & Neuroscience explains how billions of neurons organized into dynamic networks transform physical signals into perception, memory, learning, emotion, intelligence, and consciousness. By understanding how the brain works, humans gain the knowledge to improve learning, protect brain health, advance medicine, develop intelligent technologies, and better understand themselves and the nature of the human mind.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/04-brain--and--neuroscience/01---brain" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Brain</span><span class="os-cta-sub">The Brain is the body's central command center and the biological foundation of the...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,6 +1,6 @@
 # Meditation
 
-> *Meditation is a family of intentional mental practices that train attention, awareness, and emotional regulation in order to cultivate clarity, insight, well-being, or inner transformation. Although meditation originated in many religious and philosophical traditions, it is also practiced in secular contexts for mental health, stress reduction, learning, and personal development. Different meditation techniques have different goals, but most involve deliberately directing and regulating attention.* :contentReference[oaicite:0]{index=0}
+> *Meditation is a family of intentional mental practices that train attention, awareness, and emotional regulation in order to cultivate clarity, insight, well-being, or inner transformation. Although meditation originated in many religious and philosophical traditions, it is also practiced in secular contexts for mental health, stress reduction, learning, and personal development. Different meditation techniques have different goals, but most involve deliberately directing and regulating attention.*
 
 ---
 
@@ -19,7 +19,7 @@ Meditation may involve:
 - Cultivating insight
 - Quieting mental distraction
 
-Meditation is best understood as **mental training**, much like physical exercise is training for the body. :contentReference[oaicite:1]{index=1}
+Meditation is best understood as **mental training**, much like physical exercise is training for the body.
 
 ---
 
@@ -44,7 +44,7 @@ Across many cultures, meditation developed as a practical method for improving:
 - Wisdom
 - Inner peace
 
-Modern psychology and neuroscience also study meditation for its effects on mental well-being. :contentReference[oaicite:2]{index=2}
+Modern psychology and neuroscience also study meditation for its effects on mental well-being.
 
 ---
 
@@ -64,18 +64,19 @@ Meditation answers this through regular practice that cultivates focused attenti
 
 # Components of Meditation
 
-```text
-Meditation
-      │
- ├── Attention
- ├── Awareness
- ├── Observation
- ├── Breath
- ├── Body
- ├── Thoughts
- ├── Emotions
- └── Practice
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Meditation</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Attention</div></div>
+<div class="tree-item"><div class="tree-node">Awareness</div></div>
+<div class="tree-item"><div class="tree-node">Observation</div></div>
+<div class="tree-item"><div class="tree-node">Breath</div></div>
+<div class="tree-item"><div class="tree-node">Body</div></div>
+<div class="tree-item"><div class="tree-node">Thoughts</div></div>
+<div class="tree-item"><div class="tree-node">Emotions</div></div>
+<div class="tree-item"><div class="tree-node">Practice</div></div>
+</div>
+</div>
 
 These components work together to strengthen mental clarity and self-regulation.
 
@@ -159,7 +160,7 @@ Meditation does **not** require eliminating thoughts.
 
 Instead, practitioners learn to recognize thoughts without becoming absorbed in them.
 
-This distinction is central to many meditation traditions. :contentReference[oaicite:3]{index=3}
+This distinction is central to many meditation traditions.
 
 ---
 
@@ -195,18 +196,19 @@ Each return of attention is considered part of the practice rather than a failur
 
 # Major Types of Meditation
 
-```text
-Meditation
-      │
- ├── Focused Attention
- ├── Open Monitoring
- ├── Loving-Kindness
- ├── Body Scan
- ├── Mantra Meditation
- ├── Walking Meditation
- ├── Contemplative Meditation
- └── Movement Meditation
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Meditation</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Focused Attention</div></div>
+<div class="tree-item"><div class="tree-node">Open Monitoring</div></div>
+<div class="tree-item"><div class="tree-node">Loving-Kindness</div></div>
+<div class="tree-item"><div class="tree-node">Body Scan</div></div>
+<div class="tree-item"><div class="tree-node">Mantra Meditation</div></div>
+<div class="tree-item"><div class="tree-node">Walking Meditation</div></div>
+<div class="tree-item"><div class="tree-node">Contemplative Meditation</div></div>
+<div class="tree-item"><div class="tree-node">Movement Meditation</div></div>
+</div>
+</div>
 
 ---
 
@@ -310,7 +312,7 @@ Researchers investigate meditation using:
 - Clinical trials
 - Cognitive testing
 
-Research suggests meditation can improve attention, reduce stress, and support emotional regulation for many people, although effects vary by practice, duration, and individual. It should not be viewed as a cure-all or replacement for appropriate medical care. :contentReference[oaicite:4]{index=4}
+Research suggests meditation can improve attention, reduce stress, and support emotional regulation for many people, although effects vary by practice, duration, and individual. It should not be viewed as a cure-all or replacement for appropriate medical care.
 
 ---
 
@@ -318,14 +320,16 @@ Research suggests meditation can improve attention, reduce stress, and support e
 
 Meditation is used in:
 
-- Mental health
-- Education
-- Healthcare
-- Leadership
-- Sports
-- Military resilience
-- Personal development
-- Pain management
+<div class="tag-grid">
+<span class="tag-pill">Mental health</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Leadership</span>
+<span class="tag-pill">Sports</span>
+<span class="tag-pill">Military resilience</span>
+<span class="tag-pill">Personal development</span>
+<span class="tag-pill">Pain management</span>
+</div>
 
 ---
 
@@ -335,7 +339,7 @@ Meditation is used in:
 
 **Reality:**
 
-Meditation trains awareness of thoughts rather than eliminating them completely. :contentReference[oaicite:5]{index=5}
+Meditation trains awareness of thoughts rather than eliminating them completely.
 
 ---
 
@@ -359,13 +363,14 @@ Meditation often requires consistent practice, and experiences vary from person 
 
 Meditation can support:
 
-- Attention
-- Emotional regulation
-- Stress management
-- Self-awareness
-- Compassion
-- Decision-making
-- Personal growth
+> [!success]
+> - Attention
+> - Emotional regulation
+> - Stress management
+> - Self-awareness
+> - Compassion
+> - Decision-making
+> - Personal growth
 
 It provides practical tools for navigating the demands of modern life.
 
@@ -443,10 +448,7 @@ It connects:
 - [[Consciousness]]
 - [[Mindfulness]]
 - [[Psychology]]
-- [[Neuroscience]]
 - [[Spirituality]]
-- [[Attention]]
-- [[Mental Health]]
 - [[Meaning & Purpose]]
 
 It demonstrates that the mind, like the body, can be trained through consistent practice, improving how humans perceive, understand, and respond to reality.
@@ -459,36 +461,32 @@ It demonstrates that the mind, like the body, can be trained through consistent 
 
 - [[Consciousness]]
 - [[Psychology]]
-- [[Neuroscience]]
 - [[Spirituality]]
 
 ## Enables
 
 - [[Mindfulness]]
-- [[Self-Awareness]]
-- [[Emotional Regulation]]
-- [[Wisdom]]
 - [[Mental Well-being]]
 
 ## Related
 
-- [[Attention]]
-- [[Breath]]
-- [[Compassion]]
 - [[Meaning & Purpose]]
-
-## Next
-
-→ [[Mindfulness]]
 
 ---
 
 # HumanOS Principle
 
-Meditation is a family of intentional practices that train attention, awareness, and emotional regulation. Found across many philosophical, religious, and secular traditions, meditation helps individuals cultivate clarity, resilience, compassion, and insight through systematic mental practice. Scientific research supports benefits for many aspects of psychological well-being, while recognizing that different methods serve different purposes and that meditation is not a universal solution for every problem. :contentReference[oaicite:6]{index=6}
+Meditation is a family of intentional practices that train attention, awareness, and emotional regulation. Found across many philosophical, religious, and secular traditions, meditation helps individuals cultivate clarity, resilience, compassion, and insight through systematic mental practice. Scientific research supports benefits for many aspects of psychological well-being, while recognizing that different methods serve different purposes and that meditation is not a universal solution for every problem.
 
 ---
 
 # Key Insight
 
 > **Meditation is humanity's mental training ground. Just as physical exercise strengthens the body, meditation strengthens attention, awareness, and emotional balance—helping people respond to life with greater clarity, wisdom, and compassion rather than automatic reaction.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/10-philosophy--and--spirituality/08---mindfulness" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Mindfulness</span><span class="os-cta-sub">Mindfulness is the practice of intentionally paying attention to present-moment...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

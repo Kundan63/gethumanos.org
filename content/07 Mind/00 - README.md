@@ -1,26 +1,26 @@
 # Mind
 
-> *The mind is the collection of processes through which humans perceive, think, learn, remember, feel, decide, and behave. While the **brain** is the biological organ, the **mind** is the set of functions that emerge from brain activity interacting with the body, environment, culture, and experience. The scientific study of these mental processes belongs primarily to **psychology**, while neuroscience explains the biological mechanisms that make them possible. Together, these disciplines seek to understand how humans experience reality and why they behave the way they do.* :contentReference[oaicite:0]{index=0}
+> *Your mind is everything that happens between "the world hits your senses" and "you do something about it." The **brain** is the physical organ — three pounds of neurons sitting behind your eyes. The **mind** is what that organ produces: thought, memory, emotion, decision, personality — the whole experience of being you. Psychology studies how the mind works. Neuroscience explains how the brain makes it possible. Put them together, and you get the closest thing we have to an explanation of why you think, feel, and act the way you do.*
 
 ---
 
 # Why does this section exist?
 
-Understanding the body explains **how humans stay alive**.
+Understanding the body tells you **how you stay alive**.
 
-Understanding the mind explains **how humans think, feel, choose, learn, and act.**
+Understanding the mind tells you **how you think, feel, choose, learn, and act** — the part of you that actually makes the decisions.
 
-Nearly every human achievement—from language and science to art, technology, ethics, and civilization—depends upon the mind.
+Nearly everything humans have ever built — language, science, art, technology, ethics, entire civilizations — traces back to something happening inside a mind.
 
-This section explores the major mental processes that transform sensory information into knowledge, decisions, habits, personality, and behavior. :contentReference[oaicite:1]{index=1}
+This section walks through the major mental processes that turn raw sensory input into knowledge, decisions, habits, personality, and behavior: the machinery running underneath every choice you make.
 
 ---
 
 # The Big Question
 
-> **How does the brain produce the mind, and how does the mind shape human life?**
+> **How does a few pounds of neural tissue produce something like you — a thinking, feeling, choosing person? And once it does, how does that mind go on to shape the rest of your life?**
 
-This section follows the journey from neural activity to thought, emotion, learning, personality, and decision making.
+This section traces that journey step by step: from neural activity, to thought, to emotion, to learning, to personality, to the decisions you make every day.
 
 ---
 
@@ -32,194 +32,49 @@ This section follows the journey from neural activity to thought, emotion, learn
 
 # Knowledge Structure
 
-```text
-Mind
-│
-├── Psychology
-│
-├── Cognition
-│
-├── Learning
-│
-├── Memory
-│
-├── Intelligence
-│
-├── Emotions
-│
-├── Behaviour
-│
-├── Personality
-│
-├── Habits
-│
-└── Decision Making
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Mind</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Psychology</div></div>
+<div class="tree-item"><div class="tree-node">Cognition</div></div>
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Memory</div></div>
+<div class="tree-item"><div class="tree-node">Intelligence</div></div>
+<div class="tree-item"><div class="tree-node">Emotions</div></div>
+<div class="tree-item"><div class="tree-node">Behaviour</div></div>
+<div class="tree-item"><div class="tree-node">Personality</div></div>
+<div class="tree-item"><div class="tree-node">Habits</div></div>
+<div class="tree-item"><div class="tree-node">Decision Making</div></div>
+</div>
+</div>
 
-Each topic builds upon the previous one, creating a connected model of how the human mind works.
+Each layer builds on the one before it — together they add up to a working model of how your mind operates.
 
 ---
 
 # Learning Path
 
-## 1. Psychology
+Ten building blocks, stacked in order. Each one leans on the last, until together they explain how your mind actually runs.
 
-Psychology is the scientific study of:
+<div class="card-grid">
+<a class="os-card" href="/07-mind/01---psychology" data-no-popover="true"><span class="os-card-icon">&#129504;</span><span class="os-card-title">Psychology</span><span class="os-card-desc">The scientific framework for understanding mind, behavior, and mental processes.</span></a>
+<a class="os-card" href="/07-mind/02---cognition" data-no-popover="true"><span class="os-card-icon">&#128161;</span><span class="os-card-title">Cognition</span><span class="os-card-desc">The mental processes — attention, perception, reasoning — that turn information into understanding.</span></a>
+<a class="os-card" href="/07-mind/03---learning" data-no-popover="true"><span class="os-card-icon">&#128218;</span><span class="os-card-title">Learning</span><span class="os-card-desc">How experience produces lasting changes in knowledge, skills, or behavior.</span></a>
+<a class="os-card" href="/07-mind/04---memory" data-no-popover="true"><span class="os-card-icon">&#128190;</span><span class="os-card-title">Memory</span><span class="os-card-desc">How the mind encodes, stores, and retrieves information across time.</span></a>
+<a class="os-card" href="/07-mind/05---intelligence" data-no-popover="true"><span class="os-card-icon">&#129504;</span><span class="os-card-title">Intelligence</span><span class="os-card-desc">The ability to learn, reason, solve problems, and adapt to complex ideas.</span></a>
+<a class="os-card" href="/07-mind/06---emotions" data-no-popover="true"><span class="os-card-icon">&#128557;</span><span class="os-card-title">Emotions</span><span class="os-card-desc">How feelings coordinate motivation, survival, relationships, and decisions.</span></a>
+<a class="os-card" href="/07-mind/07---behaviour" data-no-popover="true"><span class="os-card-icon">&#128694;</span><span class="os-card-title">Behaviour</span><span class="os-card-desc">The observable expression of mental processes — how the mind meets the world.</span></a>
+<a class="os-card" href="/07-mind/08---personality" data-no-popover="true"><span class="os-card-icon">&#127917;</span><span class="os-card-title">Personality</span><span class="os-card-desc">The relatively stable traits and differences that make each person who they are.</span></a>
+<a class="os-card" href="/07-mind/09---habits" data-no-popover="true"><span class="os-card-icon">&#128257;</span><span class="os-card-title">Habits</span><span class="os-card-desc">How repeated actions become automatic — and why changing them is so hard.</span></a>
+<a class="os-card" href="/07-mind/10---decision-making" data-no-popover="true"><span class="os-card-icon">&#9878;&#65039;</span><span class="os-card-title">Decision Making</span><span class="os-card-desc">How memory, intelligence, emotion, and values combine every time you choose.</span></a>
+</div>
 
-- Mind
-- Behavior
-- Mental processes
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Adiyogi-8-Isha_yoga_centre-coimbatore-India.jpg?width=1200" alt="A close-up view of the Adiyogi Shiva statue at the Isha Yoga Centre, Coimbatore, representing the ancient Indian tradition of studying the mind through meditation">
+<p class="domain-figure-caption">Adiyogi, Isha Yoga Centre, Coimbatore — via Wikimedia Commons</p>
+</div>
 
-It provides the scientific framework for understanding all topics in this section.
-
-It asks:
-
-- Why do humans think?
-- Why do emotions exist?
-- Why do people behave differently?
-- How does experience change the mind?
-
-:contentReference[oaicite:2]{index=2}
-
----
-
-## 2. Cognition
-
-Cognition refers to the mental processes used to acquire and use knowledge.
-
-It includes:
-
-- Attention
-- Perception
-- Thinking
-- Language
-- Reasoning
-- Problem solving
-
-Cognition transforms sensory information into understanding.
-
-:contentReference[oaicite:3]{index=3}
-
----
-
-## 3. Learning
-
-Learning is the process by which experience produces lasting changes in knowledge, skills, or behavior.
-
-Learning enables adaptation throughout life.
-
-Topics include:
-
-- Classical conditioning
-- Operant conditioning
-- Observational learning
-- Cognitive learning
-
----
-
-## 4. Memory
-
-Memory stores information across time.
-
-It explains:
-
-- Encoding
-- Storage
-- Retrieval
-- Forgetting
-- Working memory
-- Long-term memory
-
-Memory allows learning to persist.
-
----
-
-## 5. Intelligence
-
-Intelligence refers to the ability to:
-
-- Learn
-- Reason
-- Solve problems
-- Adapt
-- Understand complex ideas
-
-It explores both biological and environmental influences on cognitive ability.
-
----
-
-## 6. Emotions
-
-Emotions coordinate:
-
-- Motivation
-- Survival
-- Social relationships
-- Decision making
-
-Topics include:
-
-- Fear
-- Happiness
-- Anger
-- Sadness
-- Emotional regulation
-
----
-
-## 7. Behaviour
-
-Behavior is the observable expression of mental processes.
-
-It studies:
-
-- Actions
-- Motivation
-- Social interaction
-- Reinforcement
-- Behavioral change
-
-Behavior connects the internal mind to the external world.
-
----
-
-## 8. Personality
-
-Personality explains relatively stable differences among individuals.
-
-It explores:
-
-- Traits
-- Temperament
-- Identity
-- Individual differences
-- Personality development
-
----
-
-## 9. Habits
-
-Habits are behaviors that become automatic through repetition.
-
-They explain how repeated actions become efficient routines and why changing behavior can be difficult.
-
----
-
-## 10. Decision Making
-
-Decision making integrates nearly every mental process.
-
-It combines:
-
-- Memory
-- Intelligence
-- Emotion
-- Reasoning
-- Values
-- Goals
-- Experience
-
-The quality of human life depends heavily on the quality of human decisions.
+Decision making sits at the top of the stack. It pulls together memory, intelligence, emotion, reasoning, values, goals, and experience all at once — which is exactly why it's last on the list and why it matters most. The quality of your life depends heavily on the quality of your decisions.
 
 ---
 
@@ -231,29 +86,29 @@ The quality of human life depends heavily on the quality of human decisions.
 
 # Why should humans care?
 
-Everything humans experience passes through the mind.
+Everything you experience gets filtered through your mind first. There's no experiencing reality directly — it all passes through this system before it becomes "your life."
 
-The mind determines:
+> [!note] What the mind shapes
+> - Learning
+> - Relationships
+> - Mental health
+> - Productivity
+> - Creativity
+> - Morality
+> - Happiness
+> - Success
+> - Well-being
 
-- Learning
-- Relationships
-- Mental health
-- Productivity
-- Creativity
-- Morality
-- Happiness
-- Success
-- Well-being
+That's not a small list — it's most of what makes a life feel worth living. Understand how your mind works, and you get real leverage over all of it.
 
-Understanding the mind enables people to:
-
-- Learn more effectively
-- Make better decisions
-- Build healthier habits
-- Regulate emotions
-- Improve relationships
-- Solve problems
-- Live more meaningful lives
+> [!success] What understanding your mind gives you
+> - You learn more effectively.
+> - You make better decisions.
+> - You build healthier habits.
+> - You regulate your emotions instead of being run by them.
+> - You improve your relationships.
+> - You solve problems more capably.
+> - You live a more meaningful life.
 
 ---
 
@@ -261,27 +116,26 @@ Understanding the mind enables people to:
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:176px"><svg width="100%" viewBox="0 0 173 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="137.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="86.7" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Brain</text><rect x="18.0" y="90.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Neuroscience</text><rect x="18.0" y="162.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Mind</text><rect x="18.0" y="234.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Psychology</text><rect x="18.0" y="306.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Behavior</text><rect x="18.0" y="378.0" width="137.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="86.7" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Society</text><line x1="86.7" y1="64.0" x2="86.7" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="136.0" x2="86.7" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="208.0" x2="86.7" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="280.0" x2="86.7" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="352.0" x2="86.7" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-The mind forms the bridge between biological processes in the brain and observable human behavior.
+The mind is the bridge — it's where biological processes inside your brain turn into the behavior other people can actually see.
 
 ---
 
 # Role in HumanOS
 
-The **Mind** section explains how biological activity becomes conscious experience, thought, learning, emotion, personality, and behavior.
+The **Mind** section is where biological activity turns into something you'd recognize as an inner life: conscious experience, thought, learning, emotion, personality, behavior.
 
-It connects:
+> [!info] What it connects
+> - [[Brain]]
+> - [[Neurons]]
+> - [[Synapses]]
+> - [[Neurotransmitters]]
+> - [[Psychology]]
+> - [[Mental Health Disorders]]
+> - [[Learning]]
+> - [[Decision Making]]
+> - [[Society & Civilization]]
 
-- [[Brain]]
-- [[Neurons]]
-- [[Synapses]]
-- [[Neurotransmitters]]
-- [[Psychology]]
-- [[Mental Health Disorders]]
-- [[Learning]]
-- [[Decision Making]]
-- [[Society & Civilization]]
-
-It serves as the bridge between **Human Biology** and **Psychology**, showing how the physical brain gives rise to the mental processes that shape individual lives and human civilization.
+Think of it as the bridge between **Human Biology** and **Psychology** — the section that shows how a physical brain gives rise to the mental processes that shape both individual lives and entire civilizations.
 
 ---
 
@@ -300,7 +154,6 @@ It serves as the bridge between **Human Biology** and **Psychology**, showing ho
 - [[Learning]]
 - [[Decision Making]]
 - [[Education]]
-- [[Mental Health]]
 
 ## Related
 
@@ -309,18 +162,22 @@ It serves as the bridge between **Human Biology** and **Psychology**, showing ho
 - [[Lifestyle Biology]]
 - [[Mental Health Disorders]]
 
-## Next
-
-→ [[Psychology]]
-
 ---
 
 # HumanOS Principle
 
-The mind is the functional expression of the brain, emerging from the interaction of neural activity, the body, and the environment. Through cognition, learning, memory, emotion, personality, habits, and decision making, the mind enables humans to interpret reality, adapt to change, build relationships, create knowledge, and shape civilization. Understanding the mind is therefore essential for understanding human behavior and improving human life. :contentReference[oaicite:4]{index=4}
+> [!tip] The core idea
+> Your mind is what your brain does — it emerges from neural activity interacting with your body and your environment. Through cognition, learning, memory, emotion, personality, habits, and decision making, your mind lets you interpret reality, adapt to change, build relationships, create knowledge, and shape civilization. Understand the mind, and you understand what actually drives human behavior.
 
 ---
 
 # Key Insight
 
-> **The brain is the biological organ, but the mind is what the brain does. Understanding how humans think, learn, remember, feel, decide, and behave reveals the processes through which biology becomes consciousness, knowledge, character, and action—making the study of the mind central to understanding what it means to be human.** :contentReference[oaicite:5]{index=5}
+> **The brain is the organ. The mind is what it does. Once you understand how you think, learn, remember, feel, decide, and act, you're looking directly at the process that turns raw biology into consciousness, character, and action — which makes the mind central to understanding what it actually means to be human.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/07-mind/01---psychology" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Psychology</span><span class="os-cta-sub">The scientific framework behind everything else in this section</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

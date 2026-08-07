@@ -1,6 +1,6 @@
 # Musculoskeletal Disorders
 
-> *Musculoskeletal disorders (MSDs) are conditions that affect the body's locomotor system—bones, muscles, joints, tendons, ligaments, cartilage, and other connective tissues. They impair movement, stability, and physical function, often causing persistent pain, stiffness, weakness, or disability. More than **1.71 billion people worldwide** live with musculoskeletal conditions, making them the **leading cause of disability globally**. Low back pain is the single largest contributor to disability worldwide.* :contentReference[oaicite:0]{index=0}
+> *Musculoskeletal disorders (MSDs) are conditions that affect the body's locomotor system—bones, muscles, joints, tendons, ligaments, cartilage, and other connective tissues. They impair movement, stability, and physical function, often causing persistent pain, stiffness, weakness, or disability. More than **1.71 billion people worldwide** live with musculoskeletal conditions, making them the **leading cause of disability globally**. Low back pain is the single largest contributor to disability worldwide.*
 
 ---
 
@@ -24,7 +24,7 @@ They interfere with the body's ability to:
 - Perform daily activities
 - Protect internal organs
 
-Unlike isolated injuries, many musculoskeletal disorders become chronic and progressively reduce mobility and quality of life. :contentReference[oaicite:1]{index=1}
+Unlike isolated injuries, many musculoskeletal disorders become chronic and progressively reduce mobility and quality of life.
 
 ---
 
@@ -60,29 +60,22 @@ Musculoskeletal disorders arise when injury, degeneration, inflammation, or abno
 
 # Major Musculoskeletal Disorders
 
-```text
-Musculoskeletal Disorders
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Low Back Pain
-Osteoarthritis
-Osteoporosis
-Rheumatoid Arthritis
- │
- ├─────────────┬──────────────┬──────────────┐
- ▼             ▼              ▼
-Fractures
-Tendon Disorders
-Fibromyalgia
- │
- ├─────────────┬──────────────┐
- ▼             ▼
-Neck Pain
-Muscle Injuries
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Musculoskeletal Disorders</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Low Back Pain</div></div>
+<div class="tree-item"><div class="tree-node">Osteoarthritis</div></div>
+<div class="tree-item"><div class="tree-node">Osteoporosis</div></div>
+<div class="tree-item"><div class="tree-node">Rheumatoid Arthritis</div></div>
+<div class="tree-item"><div class="tree-node">Fractures</div></div>
+<div class="tree-item"><div class="tree-node">Tendon Disorders</div></div>
+<div class="tree-item"><div class="tree-node">Fibromyalgia</div></div>
+<div class="tree-item"><div class="tree-node">Neck Pain</div></div>
+<div class="tree-item"><div class="tree-node">Muscle Injuries</div></div>
+</div>
+</div>
 
-WHO identifies low back pain, osteoarthritis, fractures, rheumatoid arthritis, neck pain, and osteoporosis among the major contributors to the global burden of musculoskeletal disease. :contentReference[oaicite:2]{index=2}
+WHO identifies low back pain, osteoarthritis, fractures, rheumatoid arthritis, neck pain, and osteoporosis among the major contributors to the global burden of musculoskeletal disease.
 
 ---
 
@@ -109,7 +102,7 @@ Most commonly affects:
 - Hands
 - Spine
 
-:contentReference[oaicite:3]{index=3}
+
 
 ---
 
@@ -154,15 +147,14 @@ Usually related to repetitive loading or overuse.
 
 # Complete Causes
 
-```text
-Complete Causes
-      │
- ┌────┼──────────────────────────────┐
- ▼    ▼                              ▼
-Genetics
-Lifestyle
-Mechanical Stress
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item"><div class="tree-node">Mechanical Stress</div></div>
+</div>
+</div>
 
 ---
 
@@ -194,7 +186,7 @@ Excess body weight:
 
 - Increases joint loading.
 - Promotes chronic inflammation.
-- Raises the risk of osteoarthritis, particularly in the knees and hips. :contentReference[oaicite:4]{index=4}
+- Raises the risk of osteoarthritis, particularly in the knees and hips.
 
 ---
 
@@ -219,7 +211,7 @@ Risk factors include:
 - Vibration exposure
 - Prolonged sitting or standing
 
-These are major contributors to work-related musculoskeletal disorders. :contentReference[oaicite:5]{index=5}
+These are major contributors to work-related musculoskeletal disorders.
 
 ---
 
@@ -347,7 +339,7 @@ Strong evidence supports:
 - Smoking cessation
 - Fall prevention
 
-Exercise is one of the most effective treatments for many chronic musculoskeletal conditions. :contentReference[oaicite:6]{index=6}
+Exercise is one of the most effective treatments for many chronic musculoskeletal conditions.
 
 ---
 
@@ -433,7 +425,7 @@ Key preventive measures:
 - Improve workplace ergonomics.
 - Prevent falls in older adults.
 
-:contentReference[oaicite:7]{index=7}
+
 
 ---
 
@@ -479,14 +471,15 @@ Movement enables nearly every human activity.
 
 Healthy muscles, bones, and joints allow people to:
 
-- Walk
-- Work
-- Exercise
-- Care for themselves
-- Maintain independence
-- Participate in society
+> [!success]
+> - Walk
+> - Work
+> - Exercise
+> - Care for themselves
+> - Maintain independence
+> - Participate in society
 
-Musculoskeletal disorders are the **leading global cause of disability**, making prevention and rehabilitation essential throughout life. :contentReference[oaicite:8]{index=8}
+Musculoskeletal disorders are the **leading global cause of disability**, making prevention and rehabilitation essential throughout life.
 
 ---
 
@@ -516,7 +509,7 @@ They contribute to:
 - Early retirement
 - Increased rehabilitation needs
 
-:contentReference[oaicite:9]{index=9}
+
 
 ---
 
@@ -561,7 +554,6 @@ It connects:
 - [[Exercise]]
 - [[Nutrition]]
 - [[Autoimmune Diseases]]
-- [[Healthy Aging]]
 - [[Rehabilitation]]
 - [[Lifestyle Medicine]]
 
@@ -580,28 +572,28 @@ It demonstrates that lifelong mobility depends on maintaining healthy musculoske
 ## Enables
 
 - [[Rehabilitation]]
-- [[Orthopedics]]
-- [[Sports Medicine]]
 
 ## Related
 
 - [[Autoimmune Diseases]]
-- [[Healthy Aging]]
 - [[Nutrition]]
 - [[Exercise]]
-
-## Next
-
-→ [[Genetic Disorders]]
 
 ---
 
 # HumanOS Principle
 
-Musculoskeletal disorders arise when diseases, injuries, aging, autoimmune processes, or abnormal mechanical stresses damage the body's movement system. Although they are the leading cause of disability worldwide, many can be prevented or effectively managed through regular physical activity, healthy nutrition, weight management, ergonomic practices, rehabilitation, and timely medical treatment. Protecting musculoskeletal health preserves mobility, independence, and quality of life across the lifespan. :contentReference[oaicite:10]{index=10}
+Musculoskeletal disorders arise when diseases, injuries, aging, autoimmune processes, or abnormal mechanical stresses damage the body's movement system. Although they are the leading cause of disability worldwide, many can be prevented or effectively managed through regular physical activity, healthy nutrition, weight management, ergonomic practices, rehabilitation, and timely medical treatment. Protecting musculoskeletal health preserves mobility, independence, and quality of life across the lifespan.
 
 ---
 
 # Key Insight
 
-> **Musculoskeletal disorders are diseases of the body's movement system. Understanding their causes, mechanisms, prevention, treatment, and rehabilitation shows that lifelong mobility depends on maintaining healthy bones, muscles, joints, and connective tissues through movement, nutrition, injury prevention, and evidence-based care.** :contentReference[oaicite:11]{index=11}
+> **Musculoskeletal disorders are diseases of the body's movement system. Understanding their causes, mechanisms, prevention, treatment, and rehabilitation shows that lifelong mobility depends on maintaining healthy bones, muscles, joints, and connective tissues through movement, nutrition, injury prevention, and evidence-based care.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/14---genetic-disorders" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Genetic Disorders</span><span class="os-cta-sub">Genetic disorders are diseases caused wholly or partly by changes (variants or...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -37,7 +37,7 @@ It studies:
 - Aging
 - Human interaction with the environment
 
-Human Biology therefore connects the science of life directly to everyday human existence. Modern anatomy and physiology describe the body as a hierarchy of organization—from cells to tissues, organs, organ systems, and the complete organism—maintained through homeostasis. :contentReference[oaicite:0]{index=0}
+Human Biology therefore connects the science of life directly to everyday human existence. Modern anatomy and physiology describe the body as a hierarchy of organization—from cells to tissues, organs, organ systems, and the complete organism—maintained through homeostasis.
 
 ---
 
@@ -77,38 +77,53 @@ Nothing inside the human body functions independently.
 
 # The Human System
 
-```text
-                    Human Organism
-                           │
-     ┌─────────────────────┼─────────────────────┐
-     ▼                     ▼                     ▼
- Nervous System     Endocrine System     Immune System
-     │                     │                     │
-     └─────────────────────┼─────────────────────┘
-                           ▼
-                  Cardiovascular System
-                           │
-     ┌─────────────────────┼─────────────────────┐
-     ▼                     ▼                     ▼
- Respiratory          Digestive          Musculoskeletal
-                           │
-                           ▼
-                    Reproductive
-                           │
-                           ▼
-                      Homeostasis
-                           │
-                           ▼
-          Growth • Survival • Adaptation
-                           │
-                           ▼
-                   Human Behaviour
-                           │
-                           ▼
-                 Society & Civilization
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Human Organism</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nervous System</div></div>
+<div class="tree-item"><div class="tree-node">Endocrine System</div></div>
+<div class="tree-item">
+<div class="tree-node">Immune System</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Cardiovascular System</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Respiratory</div></div>
+<div class="tree-item"><div class="tree-node">Digestive</div></div>
+<div class="tree-item">
+<div class="tree-node">Musculoskeletal</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Reproductive</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Homeostasis</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Growth • Survival • Adaptation</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Human Behaviour</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Society &amp; Civilization</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-The body's organ systems continuously communicate to maintain **homeostasis**—a stable internal environment despite constant external change. Homeostasis is a defining principle of human physiology. :contentReference[oaicite:1]{index=1}
+The body's organ systems continuously communicate to maintain **homeostasis**—a stable internal environment despite constant external change. Homeostasis is a defining principle of human physiology.
 
 ---
 
@@ -126,21 +141,23 @@ You live inside this biological system every second.
 
 Every choice you make changes your biology.
 
-- The food you eat becomes your cells.
-- The air you breathe fuels cellular respiration.
-- Exercise reshapes muscles, bones, and the brain.
-- Sleep repairs tissues and strengthens memory.
-- Stress alters hormones and immunity.
-- Relationships influence mental and physical health.
-- Pollution and climate affect disease risk.
+> [!success]
+> - The food you eat becomes your cells.
+> - The air you breathe fuels cellular respiration.
+> - Exercise reshapes muscles, bones, and the brain.
+> - Sleep repairs tissues and strengthens memory.
+> - Stress alters hormones and immunity.
+> - Relationships influence mental and physical health.
+> - Pollution and climate affect disease risk.
 
 Understanding Human Biology helps answer:
 
-- Why diseases develop.
-- Why healthy habits work.
-- Why medicines work.
-- Why prevention is often better than treatment.
-- How everyday choices influence lifespan.
+> [!success]
+> - Why diseases develop.
+> - Why healthy habits work.
+> - Why medicines work.
+> - Why prevention is often better than treatment.
+> - How everyday choices influence lifespan.
 
 Human Biology transforms health from guesswork into informed decision-making.
 
@@ -148,39 +165,14 @@ Human Biology transforms health from guesswork into informed decision-making.
 
 # Daily Life Examples
 
-### 🍎 Nutrition
-
-Food is broken down into nutrients that become energy, hormones, enzymes, muscles, bones, and every new cell in your body.
-
----
-
-### ❤️ Heart
-
-Your heart beats more than 100,000 times each day, delivering oxygen and nutrients to trillions of cells.
-
----
-
-### 🧠 Brain
-
-Every new experience physically changes connections between neurons, allowing learning and memory.
-
----
-
-### 🏃 Exercise
-
-Regular movement strengthens the heart, muscles, bones, immune system, and even improves brain function.
-
----
-
-### 😴 Sleep
-
-During sleep, the body repairs tissues, balances hormones, strengthens immunity, and consolidates memories.
-
----
-
-### 🌳 Environment
-
-Clean air, clean water, sunlight, biodiversity, and healthy ecosystems directly influence human health and longevity.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🍎</span><span class="os-card-title">Nutrition</span><span class="os-card-desc">Food is broken down into nutrients that become energy, hormones, enzymes, muscles, bones, and every new cell in your body.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">❤️</span><span class="os-card-title">Heart</span><span class="os-card-desc">Your heart beats more than 100,000 times each day, delivering oxygen and nutrients to trillions of cells.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🧠</span><span class="os-card-title">Brain</span><span class="os-card-desc">Every new experience physically changes connections between neurons, allowing learning and memory.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🏃</span><span class="os-card-title">Exercise</span><span class="os-card-desc">Regular movement strengthens the heart, muscles, bones, immune system, and even improves brain function.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">😴</span><span class="os-card-title">Sleep</span><span class="os-card-desc">During sleep, the body repairs tissues, balances hormones, strengthens immunity, and consolidates memories.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌳</span><span class="os-card-title">Environment</span><span class="os-card-desc">Clean air, clean water, sunlight, biodiversity, and healthy ecosystems directly influence human health and longevity.</span></div>
+</div>
 
 ---
 
@@ -190,36 +182,35 @@ Health is not determined by one factor.
 
 It emerges from an interconnected network.
 
-```text
-                  Human Health
-                        ▲
-                        │
-      ┌─────────────────┼─────────────────┐
-      │                 │                 │
-   Genetics        Nutrition        Exercise
-      │                 │                 │
-      ├─────────────────┼─────────────────┤
-      │                 │                 │
-    Sleep          Stress         Relationships
-      │                 │                 │
-      ├─────────────────┼─────────────────┤
-      │                 │                 │
- Environment      Climate       Pollution
-      │                 │                 │
-      ├─────────────────┼─────────────────┤
-      │                 │                 │
- Infection      Healthcare     Society
-      │                 │                 │
-      └─────────────────┼─────────────────┘
-                        │
-                 Health or Disease
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Human Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Exercise</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Relationships</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Climate</div></div>
+<div class="tree-item"><div class="tree-node">Pollution</div></div>
+<div class="tree-item"><div class="tree-node">Infection</div></div>
+<div class="tree-item"><div class="tree-node">Healthcare</div></div>
+<div class="tree-item"><div class="tree-node">Society</div></div>
+<div class="tree-item"><div class="tree-node">Health or Disease</div></div>
+</div>
+</div>
 
-Modern medicine increasingly recognizes that health results from the interaction of biological, behavioural, environmental, and social factors rather than any single cause. :contentReference[oaicite:2]{index=2}
+Modern medicine increasingly recognizes that health results from the interaction of biological, behavioural, environmental, and social factors rather than any single cause.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/AIIMS_DELHI_Building.jpg?width=1200" alt="The All India Institute of Medical Sciences (AIIMS) building in New Delhi, India's premier medical education and research institution">
+<p class="domain-figure-caption">All India Institute of Medical Sciences (AIIMS), New Delhi — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -402,9 +393,6 @@ It connects everything learned previously:
 
 It prepares the foundation for:
 
-- [[Anatomy]]
-- [[Physiology]]
-- [[Neuroscience]]
 - [[Nutrition]]
 - [[Health & Medicine]]
 - [[Mind]]
@@ -425,9 +413,6 @@ It prepares the foundation for:
 
 ## Enables
 
-- [[Anatomy]]
-- [[Physiology]]
-- [[Neuroscience]]
 - [[Nutrition]]
 - [[Exercise]]
 - [[Sleep]]
@@ -440,14 +425,7 @@ It prepares the foundation for:
 
 - [[Homeostasis]]
 - [[Organ Systems]]
-- [[Human Evolution]]
 - [[Lifestyle Biology]]
-
----
-
-## Next
-
-→ [[Anatomy]]
 
 ---
 
@@ -480,3 +458,10 @@ Understanding yourself is the foundation for improving yourself.
 # Key Insight
 
 > **Human Biology is the science of understanding ourselves. It reveals how the human body emerges from the laws of the Universe, how trillions of cells cooperate to sustain life, how lifestyle and environment shape health, and how scientific knowledge empowers us to prevent disease, extend healthy lifespan, and live healthier, wiser, and more meaningful lives.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/02-body-architecture/01---cells" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Cells</span><span class="os-cta-sub">Cells are the fundamental units of human life. Every heartbeat, breath, thought,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

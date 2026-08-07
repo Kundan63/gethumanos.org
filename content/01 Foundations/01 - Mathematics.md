@@ -10,7 +10,7 @@ Mathematics is the science of patterns, quantity, structure, relationships, and 
 
 It provides a precise language for describing, measuring, comparing, predicting, and understanding reality.
 
-Unlike natural sciences, mathematics does not study physical objects directly. Instead, it develops abstract principles that allow humans to model and explain the physical world. :contentReference[oaicite:1]{index=1}
+Unlike natural sciences, mathematics does not study physical objects directly. Instead, it develops abstract principles that allow humans to model and explain the physical world.
 
 ---
 
@@ -30,7 +30,7 @@ Change can be quantified.
 
 Mathematics exists because these patterns and relationships are consistent enough to be described using logical structures and symbols.
 
-It allows humans to transform observation into precise understanding and prediction. :contentReference[oaicite:2]{index=2}
+It allows humans to transform observation into precise understanding and prediction.
 
 ---
 
@@ -40,7 +40,7 @@ Mathematics begins with fundamental concepts such as numbers, quantity, space, p
 
 From these foundations, humans build definitions, formulas, proofs, and models that describe increasingly complex systems.
 
-Unlike empirical sciences, mathematical truths are established through logical proof rather than experimentation, although mathematics is continually applied to explain the natural world. :contentReference[oaicite:3]{index=3}
+Unlike empirical sciences, mathematical truths are established through logical proof rather than experimentation, although mathematics is continually applied to explain the natural world.
 
 ---
 
@@ -54,19 +54,18 @@ Unlike empirical sciences, mathematical truths are established through logical p
 
 Mathematics influences almost every aspect of modern life.
 
-It enables humans to:
+> [!success] It enables humans to
+> - Measure and understand the physical world.
+> - Build science and engineering.
+> - Develop computers and artificial intelligence.
+> - Design buildings, bridges, and transportation.
+> - Understand medicine and biology.
+> - Manage money and economies.
+> - Analyze data and make informed decisions.
+> - Predict natural phenomena.
+> - Solve complex problems systematically.
 
-- Measure and understand the physical world.
-- Build science and engineering.
-- Develop computers and artificial intelligence.
-- Design buildings, bridges, and transportation.
-- Understand medicine and biology.
-- Manage money and economies.
-- Analyze data and make informed decisions.
-- Predict natural phenomena.
-- Solve complex problems systematically.
-
-Without mathematics, modern civilization would not exist in its present form. Mathematical skills are also associated with better outcomes in employment, financial decision-making, and broader well-being. :contentReference[oaicite:4]{index=4}
+Without mathematics, modern civilization would not exist in its present form. Mathematical skills are also associated with better outcomes in employment, financial decision-making, and broader well-being.
 
 ---
 
@@ -74,63 +73,22 @@ Without mathematics, modern civilization would not exist in its present form. Ma
 
 Mathematics shapes human existence at every level.
 
-### Human Body
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/2064_aryabhata-crp.jpg?width=1200" alt="A statue of Aryabhata, the ancient Indian mathematician and astronomer, at IUCAA, Pune">
+<p class="domain-figure-caption">Statue of Aryabhata, the 5th-century Indian mathematician-astronomer — via Wikimedia Commons</p>
+</div>
 
-- Medical imaging
-- Drug development
-- Nutrition
-- Genetics
-- Epidemiology
-
-### Human Mind
-
-- Logical reasoning
-- Pattern recognition
-- Problem solving
-- Decision making
-
-### Human Behaviour
-
-- Planning
-- Risk assessment
-- Financial choices
-
-### Society
-
-- Education
-- Infrastructure
-- Communication
-- Transportation
-
-### Economics
-
-- Banking
-- Markets
-- Trade
-- Investment
-
-### Politics & Governance
-
-- Census
-- Elections
-- Public policy
-- Resource allocation
-
-### Technology
-
-- Computing
-- Artificial Intelligence
-- Robotics
-- Internet
-- Space exploration
-
-### Philosophy
-
-Mathematics demonstrates that abstract reasoning can reveal reliable truths about reality, making it one of the foundations of rational inquiry.
-
-### Living Well
-
-Understanding mathematics helps humans think more clearly, make better decisions, interpret information accurately, and navigate an increasingly data-driven world.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">&#129472;</span><span class="os-card-title">Human Body</span><span class="os-card-desc">Medical imaging, drug development, nutrition, genetics, epidemiology.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#129504;</span><span class="os-card-title">Human Mind</span><span class="os-card-desc">Logical reasoning, pattern recognition, problem solving, decision making.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127919;</span><span class="os-card-title">Human Behaviour</span><span class="os-card-desc">Planning, risk assessment, financial choices.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127963;</span><span class="os-card-title">Society</span><span class="os-card-desc">Education, infrastructure, communication, transportation.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128176;</span><span class="os-card-title">Economics</span><span class="os-card-desc">Banking, markets, trade, investment.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128499;</span><span class="os-card-title">Politics & Governance</span><span class="os-card-desc">Census, elections, public policy, resource allocation.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#9881;</span><span class="os-card-title">Technology</span><span class="os-card-desc">Computing, artificial intelligence, robotics, internet, space exploration.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128173;</span><span class="os-card-title">Philosophy</span><span class="os-card-desc">Mathematics demonstrates that abstract reasoning can reveal reliable truths about reality, making it one of the foundations of rational inquiry.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127793;</span><span class="os-card-title">Living Well</span><span class="os-card-desc">Understanding mathematics helps humans think more clearly, make better decisions, interpret information accurately, and navigate an increasingly data-driven world.</span></div>
+</div>
 
 ---
 
@@ -174,12 +132,13 @@ Mathematics is the first foundational discipline in HumanOS.
 
 ---
 
-## Next
-
-→ [[Logic]]
-
----
-
 # Key Insight
 
 > **Mathematics is the universal language of patterns and relationships, allowing humans to transform observation into understanding and understanding into the knowledge that builds civilizations.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/01-foundations/02---logic" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Logic</span><span class="os-cta-sub">The rules of valid reasoning</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

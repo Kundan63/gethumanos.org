@@ -230,35 +230,37 @@ Every observation creates new questions.
 
 # System Architecture
 
-```text
-HumanOS
-
-├── 00 README
-│
-├── 01 Foundations
-├── 02 Universe
-├── 03 Natural Sciences
-├── 04 Life Sciences
-├── 05 Human
-├── 06 Mind
-├── 07 Society & Civilization
-├── 08 Technology & Engineering
-├── 09 Philosophy & Spirituality
-├── 10 Living Well
-│
-└── 11 HumanOS
-     │
-     ├── README
-     ├── HumanOS Architecture
-     ├── HumanOS Principles
-     ├── HumanOS Framework
-     ├── HumanOS Decision Framework
-     ├── HumanOS Capability Framework
-     ├── HumanOS Learning Framework
-     ├── HumanOS Life Architecture
-     ├── HumanOS Manifesto
-     └── The Journey Continues
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">HumanOS</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">00 README</div></div>
+<div class="tree-item"><div class="tree-node">01 Foundations</div></div>
+<div class="tree-item"><div class="tree-node">02 Universe</div></div>
+<div class="tree-item"><div class="tree-node">03 Natural Sciences</div></div>
+<div class="tree-item"><div class="tree-node">04 Life Sciences</div></div>
+<div class="tree-item"><div class="tree-node">05 Human</div></div>
+<div class="tree-item"><div class="tree-node">06 Mind</div></div>
+<div class="tree-item"><div class="tree-node">07 Society & Civilization</div></div>
+<div class="tree-item"><div class="tree-node">08 Technology & Engineering</div></div>
+<div class="tree-item"><div class="tree-node">09 Philosophy & Spirituality</div></div>
+<div class="tree-item"><div class="tree-node">10 Living Well</div></div>
+<div class="tree-item">
+<div class="tree-node">11 HumanOS</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">README</div></div>
+<div class="tree-item"><div class="tree-node">HumanOS Architecture</div></div>
+<div class="tree-item"><div class="tree-node">HumanOS Principles</div></div>
+<div class="tree-item"><div class="tree-node">HumanOS Framework</div></div>
+<div class="tree-item"><div class="tree-node">HumanOS Decision Framework</div></div>
+<div class="tree-item"><div class="tree-node">HumanOS Capability Framework</div></div>
+<div class="tree-item"><div class="tree-node">HumanOS Learning Framework</div></div>
+<div class="tree-item"><div class="tree-node">HumanOS Life Architecture</div></div>
+<div class="tree-item"><div class="tree-node">HumanOS Manifesto</div></div>
+<div class="tree-item"><div class="tree-node">The Journey Continues</div></div>
+</div>
+</div>
+</div>
+</div>
 
 Each section has a single responsibility.
 
@@ -336,6 +338,9 @@ The remaining HumanOS documents build upon this foundation.
 - [[Systems Thinking]]
 - [[HumanOS]]
 
-## Next
+---
 
-→ [[HumanOS Principles]]
+<div class="cta-row"><a class="os-cta" href="/12-humanos/03---humanos-principles" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: HumanOS Principles</span><span class="os-cta-sub">The HumanOS Principles define the fundamental rules that govern every part of HumanOS.</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

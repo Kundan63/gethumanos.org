@@ -1,6 +1,6 @@
 # Digestive Diseases
 
-> *Digestive diseases are disorders that affect the gastrointestinal (GI) tract and associated organs—including the esophagus, stomach, intestines, liver, pancreas, and gallbladder. These diseases interfere with the digestion of food, absorption of nutrients, regulation of metabolism, or elimination of waste. Digestive diseases range from acute infections to chronic inflammatory, autoimmune, metabolic, and malignant conditions. They are among the most common reasons for healthcare visits worldwide and can significantly affect nutrition, quality of life, and overall health.* :contentReference[oaicite:0]{index=0}
+> *Digestive diseases are disorders that affect the gastrointestinal (GI) tract and associated organs—including the esophagus, stomach, intestines, liver, pancreas, and gallbladder. These diseases interfere with the digestion of food, absorption of nutrients, regulation of metabolism, or elimination of waste. Digestive diseases range from acute infections to chronic inflammatory, autoimmune, metabolic, and malignant conditions. They are among the most common reasons for healthcare visits worldwide and can significantly affect nutrition, quality of life, and overall health.*
 
 ---
 
@@ -40,7 +40,7 @@ The digestive tract constantly encounters:
 - Medications
 - Immune challenges
 
-Disease develops when normal digestion, absorption, immune defense, or tissue repair becomes disrupted by infection, inflammation, genetics, lifestyle, or environmental exposures. :contentReference[oaicite:1]{index=1}
+Disease develops when normal digestion, absorption, immune defense, or tissue repair becomes disrupted by infection, inflammation, genetics, lifestyle, or environmental exposures.
 
 ---
 
@@ -60,29 +60,30 @@ Digestive diseases reduce the body's ability to extract nutrients, regulate meta
 
 # Major Digestive Diseases
 
-```text
-Digestive Diseases
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-GERD
-Peptic Ulcer
-IBS
-Inflammatory Bowel Disease
- │
- ├─────────────┬──────────────┬─────────────┐
- ▼             ▼              ▼
-Celiac Disease
-Gallstones
-Pancreatitis
- │
- ├─────────────┬──────────────┐
- ▼             ▼
-Appendicitis
-Colorectal Cancer
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Digestive Diseases</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">GERD</div></div>
+<div class="tree-item"><div class="tree-node">Peptic Ulcer</div></div>
+<div class="tree-item"><div class="tree-node">IBS</div></div>
+<div class="tree-item">
+<div class="tree-node">Inflammatory Bowel Disease</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Celiac Disease</div></div>
+<div class="tree-item"><div class="tree-node">Gallstones</div></div>
+<div class="tree-item">
+<div class="tree-node">Pancreatitis</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Appendicitis</div></div>
+<div class="tree-item"><div class="tree-node">Colorectal Cancer</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-Common digestive disorders also include constipation, diarrhea, diverticular disease, hemorrhoids, and lactose intolerance. :contentReference[oaicite:2]{index=2}
+Common digestive disorders also include constipation, diarrhea, diverticular disease, hemorrhoids, and lactose intolerance.
 
 ---
 
@@ -155,15 +156,14 @@ Can be acute or chronic.
 
 # Complete Causes
 
-```text
-Complete Causes
-      │
- ┌────┼──────────────────────────────┐
- ▼    ▼                              ▼
-Genetics
-Lifestyle
-Environment
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+</div>
+</div>
 
 ### 🧬 Genetics
 
@@ -187,7 +187,7 @@ Examples include:
 - *Campylobacter*
 - *Clostridioides difficile*
 
-Foodborne pathogens cause over 200 diseases worldwide. :contentReference[oaicite:3]{index=3}
+Foodborne pathogens cause over 200 diseases worldwide.
 
 ---
 
@@ -279,7 +279,7 @@ Digestive diseases may cause:
 - Weight loss
 - Loss of appetite
 
-Persistent or alarming symptoms require medical evaluation. :contentReference[oaicite:4]{index=4}
+Persistent or alarming symptoms require medical evaluation.
 
 ---
 
@@ -479,14 +479,15 @@ The digestive system supplies nutrients and water to every cell.
 
 Healthy digestion supports:
 
-- Growth
-- Energy
-- Immunity
-- Brain function
-- Hormone production
-- Overall health
+> [!success]
+> - Growth
+> - Energy
+> - Immunity
+> - Brain function
+> - Hormone production
+> - Overall health
 
-Poor digestive health can affect nearly every organ system. :contentReference[oaicite:5]{index=5}
+Poor digestive health can affect nearly every organ system.
 
 ---
 
@@ -514,7 +515,7 @@ Digestive diseases contribute to:
 - Cancer burden
 - Childhood malnutrition (infectious diarrheal disease)
 
-:contentReference[oaicite:6]{index=6}
+
 
 ---
 
@@ -556,9 +557,7 @@ It connects:
 
 - [[Digestive System]]
 - [[Nutrition]]
-- [[Gut Microbiome]]
 - [[Liver Diseases]]
-- [[Pancreatic Diseases]]
 - [[Lifestyle Medicine]]
 - [[Preventive Medicine]]
 
@@ -577,29 +576,27 @@ It demonstrates that digestive health underpins metabolism, immunity, growth, an
 ## Enables
 
 - [[Liver Diseases]]
-- [[Pancreatic Diseases]]
-- [[Colorectal Cancer]]
 - [[Preventive Medicine]]
 
 ## Related
 
-- [[Gut Microbiome]]
-- [[Foodborne Diseases]]
-- [[Inflammatory Bowel Disease]]
-- [[Celiac Disease]]
-
-## Next
-
-→ [[Kidney Diseases]]
+None.
 
 ---
 
 # HumanOS Principle
 
-Digestive diseases arise when disorders of the gastrointestinal tract or associated organs interfere with digestion, nutrient absorption, immune regulation, or waste elimination. They result from interactions among genetics, infections, lifestyle, nutrition, medications, environmental exposures, and immune function. Maintaining digestive health through healthy eating, safe food and water, regular physical activity, timely diagnosis, and evidence-based treatment supports not only the digestive system but the health of the entire body. :contentReference[oaicite:7]{index=7}
+Digestive diseases arise when disorders of the gastrointestinal tract or associated organs interfere with digestion, nutrient absorption, immune regulation, or waste elimination. They result from interactions among genetics, infections, lifestyle, nutrition, medications, environmental exposures, and immune function. Maintaining digestive health through healthy eating, safe food and water, regular physical activity, timely diagnosis, and evidence-based treatment supports not only the digestive system but the health of the entire body.
 
 ---
 
 # Key Insight
 
-> **Digestive diseases are disorders that impair the body's ability to digest food, absorb nutrients, regulate metabolism, or eliminate waste. Understanding their causes, mechanisms, prevention, and treatment reveals that digestive health is fundamental to energy, immunity, growth, and the proper functioning of every organ system.** :contentReference[oaicite:8]{index=8}
+> **Digestive diseases are disorders that impair the body's ability to digest food, absorb nutrients, regulate metabolism, or eliminate waste. Understanding their causes, mechanisms, prevention, and treatment reveals that digestive health is fundamental to energy, immunity, growth, and the proper functioning of every organ system.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/08---kidney-diseases" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Kidney Diseases</span><span class="os-cta-sub">Kidney diseases are disorders that impair the kidneys' ability to filter blood, remove...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

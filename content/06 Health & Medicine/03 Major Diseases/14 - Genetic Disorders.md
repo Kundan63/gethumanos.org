@@ -1,6 +1,6 @@
 # Genetic Disorders
 
-> *Genetic disorders are diseases caused wholly or partly by changes (variants or mutations) in DNA. These changes may affect a single gene, multiple genes, or entire chromosomes, altering how proteins are made or how cells function. Some genetic disorders are inherited from parents, while others arise from new (de novo) genetic changes during a person's lifetime. Scientists have identified thousands of genetic disorders, ranging from rare conditions such as cystic fibrosis and sickle cell disease to common multifactorial diseases influenced by both genes and environmental factors.* :contentReference[oaicite:0]{index=0}
+> *Genetic disorders are diseases caused wholly or partly by changes (variants or mutations) in DNA. These changes may affect a single gene, multiple genes, or entire chromosomes, altering how proteins are made or how cells function. Some genetic disorders are inherited from parents, while others arise from new (de novo) genetic changes during a person's lifetime. Scientists have identified thousands of genetic disorders, ranging from rare conditions such as cystic fibrosis and sickle cell disease to common multifactorial diseases influenced by both genes and environmental factors.*
 
 ---
 
@@ -20,7 +20,7 @@ These abnormalities may:
 - Affect organ development
 - Increase disease risk
 
-Not every genetic variant causes disease. Many are harmless, while others increase susceptibility rather than directly causing illness. :contentReference[oaicite:1]{index=1}
+Not every genetic variant causes disease. Many are harmless, while others increase susceptibility rather than directly causing illness.
 
 ---
 
@@ -35,7 +35,7 @@ Disease develops when these genetic instructions become altered through:
 - Chromosomal abnormalities
 - Complex interactions between genes and environment
 
-If critical proteins cannot be produced or function normally, disease may result. :contentReference[oaicite:2]{index=2}
+If critical proteins cannot be produced or function normally, disease may result.
 
 ---
 
@@ -55,16 +55,15 @@ Because genes control the production of proteins, even small genetic changes can
 
 # Major Types of Genetic Disorders
 
-```text
-Genetic Disorders
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Single-Gene Disorders
-Chromosomal Disorders
-Multifactorial Disorders
-Mitochondrial Disorders
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Genetic Disorders</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Single-Gene Disorders</div></div>
+<div class="tree-item"><div class="tree-node">Chromosomal Disorders</div></div>
+<div class="tree-item"><div class="tree-node">Multifactorial Disorders</div></div>
+<div class="tree-item"><div class="tree-node">Mitochondrial Disorders</div></div>
+</div>
+</div>
 
 ---
 
@@ -79,7 +78,7 @@ Examples:
 - Huntington disease
 - Marfan syndrome
 
-Often follow Mendelian inheritance patterns. :contentReference[oaicite:3]{index=3}
+Often follow Mendelian inheritance patterns.
 
 ---
 
@@ -93,7 +92,7 @@ Examples:
 - Turner syndrome
 - Klinefelter syndrome
 
-These disorders often affect growth and development. :contentReference[oaicite:4]{index=4}
+These disorders often affect growth and development.
 
 ---
 
@@ -112,7 +111,7 @@ Examples:
 - Many cancers
 - Hypertension
 
-Most common chronic diseases fall into this category. :contentReference[oaicite:5]{index=5}
+Most common chronic diseases fall into this category.
 
 ---
 
@@ -126,21 +125,20 @@ Typically affect organs with high energy demands:
 - Muscles
 - Heart
 
-Usually inherited from the mother. :contentReference[oaicite:6]{index=6}
+Usually inherited from the mother.
 
 ---
 
 # Complete Causes
 
-```text
-Complete Causes
-      │
- ┌────┼──────────────────────────────┐
- ▼    ▼                              ▼
-Inherited Variants
-New Mutations
-Chromosomal Changes
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Inherited Variants</div></div>
+<div class="tree-item"><div class="tree-node">New Mutations</div></div>
+<div class="tree-item"><div class="tree-node">Chromosomal Changes</div></div>
+</div>
+</div>
 
 ### 👨‍👩‍👧 Inherited Variants
 
@@ -153,7 +151,7 @@ Inheritance patterns include:
 - X-linked
 - Mitochondrial
 
-:contentReference[oaicite:7]{index=7}
+
 
 ---
 
@@ -193,7 +191,7 @@ Many common diseases develop through interactions between:
 - Pollution
 - Aging
 
-Genes influence risk but environment influences whether disease develops. :contentReference[oaicite:8]{index=8}
+Genes influence risk but environment influences whether disease develops.
 
 ---
 
@@ -236,7 +234,7 @@ Diagnosis may involve:
 - Prenatal testing
 - Biochemical tests
 
-Modern genomic sequencing has greatly improved diagnostic accuracy. :contentReference[oaicite:9]{index=9}
+Modern genomic sequencing has greatly improved diagnostic accuracy.
 
 ---
 
@@ -282,7 +280,7 @@ Lifestyle cannot eliminate inherited mutations but may improve health outcomes t
 - Managing chronic diseases
 - Following recommended medical care
 
-For multifactorial disorders, healthy lifestyles substantially reduce disease risk. :contentReference[oaicite:10]{index=10}
+For multifactorial disorders, healthy lifestyles substantially reduce disease risk.
 
 ---
 
@@ -362,7 +360,7 @@ While inherited mutations usually cannot be prevented, many complications can be
 - Early diagnosis
 - Appropriate treatment
 
-:contentReference[oaicite:11]{index=11}
+
 
 ---
 
@@ -406,11 +404,12 @@ Many previously fatal disorders are now manageable because of modern medical car
 
 Genetics influences:
 
-- Development
-- Disease risk
-- Drug response
-- Reproduction
-- Personalized medicine
+> [!success]
+> - Development
+> - Disease risk
+> - Drug response
+> - Reproduction
+> - Personalized medicine
 
 Understanding genetics allows earlier diagnosis, better prevention, informed family planning, and increasingly precise treatments.
 
@@ -456,7 +455,7 @@ Modern genomic medicine includes:
 - Gene therapy
 - AI-assisted variant interpretation
 
-:contentReference[oaicite:12]{index=12}
+
 
 ---
 
@@ -482,13 +481,8 @@ Modern genomic medicine includes:
 
 It connects:
 
-- [[DNA]]
-- [[Genes]]
-- [[Chromosomes]]
 - [[Cell Biology]]
 - [[Cancer]]
-- [[Precision Medicine]]
-- [[Genomics]]
 
 It demonstrates that while genes provide the biological blueprint, health results from the interaction of genetics, environment, development, and lifestyle.
 
@@ -498,37 +492,32 @@ It demonstrates that while genes provide the biological blueprint, health result
 
 ## Depends On
 
-- [[DNA]]
-- [[Genes]]
-- [[Chromosomes]]
 - [[Cell Biology]]
 
 ## Enables
 
-- [[Genetic Testing]]
-- [[Genetic Counseling]]
-- [[Precision Medicine]]
-- [[Gene Therapy]]
+None.
 
 ## Related
 
 - [[Cancer]]
-- [[Development]]
 - [[Evolution]]
-- [[Genomics]]
-
-## Next
-
-→ [[04. Diagnosis & Treatment]]
 
 ---
 
 # HumanOS Principle
 
-Genetic disorders arise from changes in DNA that alter how genes and proteins function. They may be inherited, occur spontaneously, or result from complex interactions among multiple genes and environmental factors. While genes influence health throughout life, advances in genomics, genetic testing, precision medicine, and gene therapy are transforming diagnosis and treatment, demonstrating that understanding our genetic blueprint is fundamental to understanding human biology and disease. :contentReference[oaicite:13]{index=13}
+Genetic disorders arise from changes in DNA that alter how genes and proteins function. They may be inherited, occur spontaneously, or result from complex interactions among multiple genes and environmental factors. While genes influence health throughout life, advances in genomics, genetic testing, precision medicine, and gene therapy are transforming diagnosis and treatment, demonstrating that understanding our genetic blueprint is fundamental to understanding human biology and disease.
 
 ---
 
 # Key Insight
 
-> **Genetic disorders are diseases caused by alterations in DNA that disrupt normal biological function. Understanding their causes, inheritance, diagnosis, prevention, and treatment reveals that genes provide the instructions for life, but health ultimately emerges from the interaction between our genetic blueprint, our environment, and modern medical care.** :contentReference[oaicite:14]{index=14}
+> **Genetic disorders are diseases caused by alterations in DNA that disrupt normal biological function. Understanding their causes, inheritance, diagnosis, prevention, and treatment reveals that genes provide the instructions for life, but health ultimately emerges from the interaction between our genetic blueprint, our environment, and modern medical care.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/04-medical-treatment/01---pharmacology" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Pharmacology</span><span class="os-cta-sub">Pharmacology is the scientific study of drugs (medicines) and how they interact with...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

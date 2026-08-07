@@ -1,6 +1,6 @@
 # Biotechnology
 
-> *Biotechnology is the application of biology, living organisms, cells, or biological systems together with science and engineering to develop products, technologies, and processes that improve human health, agriculture, industry, and the environment. Modern biotechnology combines genetics, molecular biology, chemistry, computing, and engineering to solve biological problems and create solutions that benefit society.* :contentReference[oaicite:0]{index=0}
+> *Biotechnology is the application of biology, living organisms, cells, or biological systems together with science and engineering to develop products, technologies, and processes that improve human health, agriculture, industry, and the environment. Modern biotechnology combines genetics, molecular biology, chemistry, computing, and engineering to solve biological problems and create solutions that benefit society.*
 
 ---
 
@@ -17,7 +17,7 @@ Unlike traditional engineering, which primarily works with physical materials, b
 - Enzymes
 - Biological processes
 
-Biotechnology combines biology with technology to create useful products and improve existing processes. :contentReference[oaicite:1]{index=1}
+Biotechnology combines biology with technology to create useful products and improve existing processes.
 
 ---
 
@@ -48,41 +48,46 @@ Biotechnology answers this by combining biological knowledge with engineering an
 
 # The Biotechnology System
 
-```text
-Biology
-    │
-Cells • Genes • Microorganisms
-    │
-Biotechnology
-    │
-Research
-    │
-Engineering
-    │
-Products & Processes
-    │
-Healthcare
-Agriculture
-Industry
-Environment
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Biology</span> — Cells, Genes, Microorganisms</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Biotechnology</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Research</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Engineering</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Products & Processes</span> — Healthcare, Agriculture, Industry, Environment</div>
+</div>
+</div>
 
 ---
 
 # Components of Biotechnology
 
-```text
-Biotechnology
-      │
- ├── Cells
- ├── DNA
- ├── Genes
- ├── Proteins
- ├── Enzymes
- ├── Microorganisms
- ├── Bioprocesses
- └── Bioinformatics
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Biotechnology</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Cells</div></div>
+<div class="tree-item"><div class="tree-node">DNA</div></div>
+<div class="tree-item"><div class="tree-node">Genes</div></div>
+<div class="tree-item"><div class="tree-node">Proteins</div></div>
+<div class="tree-item"><div class="tree-node">Enzymes</div></div>
+<div class="tree-item"><div class="tree-node">Microorganisms</div></div>
+<div class="tree-item"><div class="tree-node">Bioprocesses</div></div>
+<div class="tree-item"><div class="tree-node">Bioinformatics</div></div>
+</div>
+</div>
 
 These biological building blocks enable modern biotechnology.
 
@@ -116,7 +121,7 @@ Modern biotechnology can:
 - Transfer genes
 - Repair genetic defects
 
-Genetic engineering has transformed medicine and agriculture. :contentReference[oaicite:2]{index=2}
+Genetic engineering has transformed medicine and agriculture.
 
 ---
 
@@ -199,18 +204,19 @@ Modern biotechnology integrates scientific research with engineering to create s
 
 # Major Areas of Biotechnology
 
-```text
-Biotechnology
-      │
- ├── Medical Biotechnology
- ├── Agricultural Biotechnology
- ├── Industrial Biotechnology
- ├── Environmental Biotechnology
- ├── Marine Biotechnology
- ├── Synthetic Biology
- ├── Genetic Engineering
- └── Bioinformatics
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Biotechnology</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Medical Biotechnology</div></div>
+<div class="tree-item"><div class="tree-node">Agricultural Biotechnology</div></div>
+<div class="tree-item"><div class="tree-node">Industrial Biotechnology</div></div>
+<div class="tree-item"><div class="tree-node">Environmental Biotechnology</div></div>
+<div class="tree-item"><div class="tree-node">Marine Biotechnology</div></div>
+<div class="tree-item"><div class="tree-node">Synthetic Biology</div></div>
+<div class="tree-item"><div class="tree-node">Genetic Engineering</div></div>
+<div class="tree-item"><div class="tree-node">Bioinformatics</div></div>
+</div>
+</div>
 
 ---
 
@@ -227,7 +233,7 @@ Applications:
 - Diagnostic tests
 - Personalized medicine
 
-Medical biotechnology has transformed disease prevention and treatment. :contentReference[oaicite:3]{index=3}
+Medical biotechnology has transformed disease prevention and treatment.
 
 ---
 
@@ -243,7 +249,7 @@ Applications:
 - Higher crop yields
 - Climate resilience
 
-Agricultural biotechnology helps address global food security. :contentReference[oaicite:4]{index=4}
+Agricultural biotechnology helps address global food security.
 
 ---
 
@@ -343,14 +349,16 @@ Bioinformatics connects biotechnology with modern computing.
 
 Biotechnology contributes to:
 
-- Medicine
-- Agriculture
-- Food production
-- Environmental protection
-- Renewable energy
-- Pharmaceuticals
-- Industrial manufacturing
-- Scientific research
+<div class="tag-grid">
+<span class="tag-pill">Medicine</span>
+<span class="tag-pill">Agriculture</span>
+<span class="tag-pill">Food production</span>
+<span class="tag-pill">Environmental protection</span>
+<span class="tag-pill">Renewable energy</span>
+<span class="tag-pill">Pharmaceuticals</span>
+<span class="tag-pill">Industrial manufacturing</span>
+<span class="tag-pill">Scientific research</span>
+</div>
 
 It is one of the fastest-growing areas of science and technology.
 
@@ -402,14 +410,15 @@ Most biotechnology modifies or applies existing biological systems rather than c
 
 Biotechnology influences:
 
-- Healthcare
-- Food security
-- Environmental sustainability
-- Renewable energy
-- Drug development
-- Agriculture
-- Disease prevention
-- Scientific research
+> [!success]
+> - Healthcare
+> - Food security
+> - Environmental sustainability
+> - Renewable energy
+> - Drug development
+> - Agriculture
+> - Disease prevention
+> - Scientific research
 
 Understanding biotechnology helps people evaluate emerging technologies that increasingly shape everyday life.
 
@@ -487,13 +496,10 @@ It represents one of the most interdisciplinary areas of modern science.
 
 It connects:
 
-- [[Biology]]
 - [[Genetics]]
 - [[Chemistry]]
 - [[Engineering]]
 - [[Artificial Intelligence]]
-- [[Medicine]]
-- [[Agriculture]]
 - [[Environmental Science]]
 
 It demonstrates that biotechnology is the intersection of life and engineering, where understanding biology enables humanity to create solutions that improve both civilization and the natural world.
@@ -504,38 +510,33 @@ It demonstrates that biotechnology is the intersection of life and engineering, 
 
 ## Depends On
 
-- [[Biology]]
 - [[Genetics]]
 - [[Chemistry]]
 - [[Engineering]]
 
 ## Enables
 
-- [[Medicine]]
-- [[Agriculture]]
-- [[Synthetic Biology]]
-- [[Bioinformatics]]
-- [[Environmental Restoration]]
+None.
 
 ## Related
 
-- [[Genetic Engineering]]
 - [[Microbiology]]
-- [[Molecular Biology]]
-- [[Bioinformatics]]
-
-## Next
-
-→ [[Future Technologies]]
 
 ---
 
 # HumanOS Principle
 
-Biotechnology is the application of biological systems, living organisms, cells, and genetic knowledge together with engineering and technology to develop products and processes that improve human health, agriculture, industry, and the environment. By harnessing the capabilities of living systems, biotechnology transforms biology into practical solutions for some of humanity's greatest challenges. :contentReference[oaicite:5]{index=5}
+Biotechnology is the application of biological systems, living organisms, cells, and genetic knowledge together with engineering and technology to develop products and processes that improve human health, agriculture, industry, and the environment. By harnessing the capabilities of living systems, biotechnology transforms biology into practical solutions for some of humanity's greatest challenges.
 
 ---
 
 # Key Insight
 
 > **Biotechnology is humanity's life engineering. Just as engineering reshapes the physical world, biotechnology reshapes the biological world—using the machinery of life itself to heal disease, feed populations, protect ecosystems, and create a more sustainable civilization.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/09-technology--and--engineering/08---future-technologies" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Future Technologies</span><span class="os-cta-sub">Future Technologies are emerging scientific and engineering innovations that are still...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

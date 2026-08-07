@@ -1,6 +1,6 @@
 # Brain & Neurological Diseases
 
-> *Brain and neurological diseases are disorders that affect the brain, spinal cord, peripheral nerves, neuromuscular junctions, or muscles. They disrupt the nervous system's ability to control movement, sensation, cognition, behavior, memory, language, and vital body functions. Neurological disorders include stroke, epilepsy, migraine, Alzheimer's disease, Parkinson's disease, multiple sclerosis, peripheral neuropathy, brain tumors, infections, and traumatic brain injury. Neurological conditions are now the leading cause of ill health and disability worldwide, affecting more than one-third of the global population.* :contentReference[oaicite:0]{index=0}
+> *Brain and neurological diseases are disorders that affect the brain, spinal cord, peripheral nerves, neuromuscular junctions, or muscles. They disrupt the nervous system's ability to control movement, sensation, cognition, behavior, memory, language, and vital body functions. Neurological disorders include stroke, epilepsy, migraine, Alzheimer's disease, Parkinson's disease, multiple sclerosis, peripheral neuropathy, brain tumors, infections, and traumatic brain injury. Neurological conditions are now the leading cause of ill health and disability worldwide, affecting more than one-third of the global population.*
 
 ---
 
@@ -54,7 +54,7 @@ Disease develops when these systems are damaged by:
 - Tumors
 - Metabolic disorders
 
-Neurological disorders often affect multiple brain networks simultaneously. :contentReference[oaicite:1]{index=1}
+Neurological disorders often affect multiple brain networks simultaneously.
 
 ---
 
@@ -74,29 +74,22 @@ Because the nervous system functions as an integrated communication network, dis
 
 # Major Neurological Diseases
 
-```text
-Neurological Diseases
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Stroke
-Epilepsy
-Alzheimer's Disease
-Parkinson's Disease
- │
- ├─────────────┬──────────────┬─────────────┐
- ▼             ▼              ▼
-Multiple Sclerosis
-Peripheral Neuropathy
-Migraine
- │
- ├─────────────┬──────────────┐
- ▼             ▼
-Brain Tumors
-Traumatic Brain Injury
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Neurological Diseases</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Stroke</div></div>
+<div class="tree-item"><div class="tree-node">Epilepsy</div></div>
+<div class="tree-item"><div class="tree-node">Alzheimer's Disease</div></div>
+<div class="tree-item"><div class="tree-node">Parkinson's Disease</div></div>
+<div class="tree-item"><div class="tree-node">Multiple Sclerosis</div></div>
+<div class="tree-item"><div class="tree-node">Peripheral Neuropathy</div></div>
+<div class="tree-item"><div class="tree-node">Migraine</div></div>
+<div class="tree-item"><div class="tree-node">Brain Tumors</div></div>
+<div class="tree-item"><div class="tree-node">Traumatic Brain Injury</div></div>
+</div>
+</div>
 
-The nervous system is affected by more than **600 neurological disorders**. :contentReference[oaicite:2]{index=2}
+The nervous system is affected by more than **600 neurological disorders**.
 
 ---
 
@@ -109,7 +102,7 @@ Two major types:
 - Ischemic stroke
 - Hemorrhagic stroke
 
-Stroke is the largest contributor to the global neurological disease burden. :contentReference[oaicite:3]{index=3}
+Stroke is the largest contributor to the global neurological disease burden.
 
 ---
 
@@ -167,15 +160,14 @@ Common causes:
 
 # Complete Causes
 
-```text
-Complete Causes
-      │
- ┌────┼──────────────────────────────┐
- ▼    ▼                              ▼
-Genetics
-Environment
-Medical Conditions
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Medical Conditions</div></div>
+</div>
+</div>
 
 ---
 
@@ -208,7 +200,7 @@ Reduced blood flow contributes to:
 - Vascular dementia
 - Cognitive decline
 
-High blood pressure is one of the most important modifiable neurological risk factors. :contentReference[oaicite:4]{index=4}
+High blood pressure is one of the most important modifiable neurological risk factors.
 
 ---
 
@@ -337,7 +329,7 @@ Treatment depends on the disease.
 - Tumor removal
 - Mechanical thrombectomy (selected strokes)
 
-Treatment aims to preserve function, reduce symptoms, prevent progression where possible, and improve quality of life. :contentReference[oaicite:5]{index=5}
+Treatment aims to preserve function, reduce symptoms, prevent progression where possible, and improve quality of life.
 
 ---
 
@@ -485,14 +477,15 @@ Some neurological disorders are reversible, while others are chronic or progress
 
 The nervous system governs:
 
-- Thought
-- Memory
-- Emotion
-- Movement
-- Sensation
-- Consciousness
+> [!success]
+> - Thought
+> - Memory
+> - Emotion
+> - Movement
+> - Sensation
+> - Consciousness
 
-Neurological disorders are now among the world's leading causes of disability and death, making prevention, early diagnosis, rehabilitation, and long-term care major public health priorities. :contentReference[oaicite:6]{index=6}
+Neurological disorders are now among the world's leading causes of disability and death, making prevention, early diagnosis, rehabilitation, and long-term care major public health priorities.
 
 ---
 
@@ -563,11 +556,8 @@ It connects:
 - [[Brain]]
 - [[Nervous System]]
 - [[Neurons]]
-- [[Stroke]]
 - [[Neuroplasticity]]
-- [[Mental Health]]
 - [[Rehabilitation]]
-- [[Healthy Aging]]
 
 It demonstrates that protecting the nervous system preserves movement, cognition, memory, communication, independence, and quality of life.
 
@@ -584,10 +574,7 @@ It demonstrates that protecting the nervous system preserves movement, cognition
 
 ## Enables
 
-- [[Stroke]]
-- [[Epilepsy]]
-- [[Neurorehabilitation]]
-- [[Brain Health]]
+None.
 
 ## Related
 
@@ -596,18 +583,21 @@ It demonstrates that protecting the nervous system preserves movement, cognition
 - [[Aging]]
 - [[Neuroplasticity]]
 
-## Next
-
-→ [[Mental Health Disorders]]
-
 ---
 
 # HumanOS Principle
 
-Brain and neurological diseases arise when disorders of the brain, spinal cord, peripheral nerves, or supporting structures disrupt the nervous system's ability to process and transmit information. Their causes include vascular disease, neurodegeneration, autoimmunity, infections, trauma, genetic disorders, and metabolic conditions. Because the nervous system coordinates every aspect of human function, preserving brain health through prevention, early diagnosis, evidence-based treatment, rehabilitation, and healthy living is essential for maintaining cognition, movement, independence, and quality of life. :contentReference[oaicite:7]{index=7}
+Brain and neurological diseases arise when disorders of the brain, spinal cord, peripheral nerves, or supporting structures disrupt the nervous system's ability to process and transmit information. Their causes include vascular disease, neurodegeneration, autoimmunity, infections, trauma, genetic disorders, and metabolic conditions. Because the nervous system coordinates every aspect of human function, preserving brain health through prevention, early diagnosis, evidence-based treatment, rehabilitation, and healthy living is essential for maintaining cognition, movement, independence, and quality of life.
 
 ---
 
 # Key Insight
 
-> **Brain and neurological diseases are disorders that disrupt the nervous system's communication networks. By understanding their causes, mechanisms, prevention, diagnosis, treatment, and rehabilitation, we recognize that protecting brain and nerve health protects every human ability—from movement and sensation to memory, language, emotion, and consciousness.** :contentReference[oaicite:8]{index=8}
+> **Brain and neurological diseases are disorders that disrupt the nervous system's communication networks. By understanding their causes, mechanisms, prevention, diagnosis, treatment, and rehabilitation, we recognize that protecting brain and nerve health protects every human ability—from movement and sensation to memory, language, emotion, and consciousness.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/11---mental-health-disorders" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Mental Health Disorders</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

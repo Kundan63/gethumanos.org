@@ -1,6 +1,6 @@
 # Critical Care
 
-> *Critical care is specialized medical care for people with life-threatening illnesses or injuries that require continuous monitoring, advanced organ support, and rapid intervention. It is typically delivered in Intensive Care Units (ICUs), High Dependency Units (HDUs), or other dedicated critical care areas by multidisciplinary teams using advanced monitoring systems, life-support technologies, and evidence-based treatments. Critical care is an essential component of modern healthcare because timely intervention can prevent death and improve recovery from severe illness or injury.* :contentReference[oaicite:0]{index=0}
+> *Critical care is specialized medical care for people with life-threatening illnesses or injuries that require continuous monitoring, advanced organ support, and rapid intervention. It is typically delivered in Intensive Care Units (ICUs), High Dependency Units (HDUs), or other dedicated critical care areas by multidisciplinary teams using advanced monitoring systems, life-support technologies, and evidence-based treatments. Critical care is an essential component of modern healthcare because timely intervention can prevent death and improve recovery from severe illness or injury.*
 
 ---
 
@@ -16,7 +16,7 @@ These patients require:
 - Specialized equipment
 - Highly trained healthcare professionals
 
-Critical care is not defined by a disease—it is defined by the **severity of illness**. :contentReference[oaicite:1]{index=1}
+Critical care is not defined by a disease—it is defined by the **severity of illness**.
 
 ---
 
@@ -36,7 +36,7 @@ Examples include:
 - Poisoning
 - Multi-organ failure
 
-Critical care provides continuous support while the underlying disease is treated. :contentReference[oaicite:2]{index=2}
+Critical care provides continuous support while the underlying disease is treated.
 
 ---
 
@@ -56,27 +56,20 @@ Critical care temporarily supports failing organs—such as the lungs, heart, ki
 
 # Who Needs Critical Care?
 
-```text
-Critical Illness
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Trauma
-Sepsis
-Heart Attack
-Stroke
- │
- ├─────────────┬──────────────┬──────────────┐
- ▼             ▼              ▼
-Respiratory Failure
-Major Surgery
-Severe Burns
- │
- ├─────────────┬──────────────┐
- ▼             ▼
-Poisoning
-Multi-Organ Failure
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Critical Illness</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Trauma</div></div>
+<div class="tree-item"><div class="tree-node">Sepsis</div></div>
+<div class="tree-item"><div class="tree-node">Heart Attack</div></div>
+<div class="tree-item"><div class="tree-node">Stroke</div></div>
+<div class="tree-item"><div class="tree-node">Respiratory Failure</div></div>
+<div class="tree-item"><div class="tree-node">Major Surgery</div></div>
+<div class="tree-item"><div class="tree-node">Severe Burns</div></div>
+<div class="tree-item"><div class="tree-node">Poisoning</div></div>
+<div class="tree-item"><div class="tree-node">Multi-Organ Failure</div></div>
+</div>
+</div>
 
 Common conditions requiring ICU admission include:
 
@@ -86,7 +79,7 @@ Common conditions requiring ICU admission include:
 - Severe trauma
 - Major postoperative complications
 - Acute kidney injury requiring dialysis
-- Severe neurological emergencies :contentReference[oaicite:3]{index=3}
+- Severe neurological emergencies
 
 ---
 
@@ -100,7 +93,7 @@ Critical care is commonly provided in:
 - Neonatal ICU (NICU)
 - Pediatric ICU (PICU)
 
-Modern healthcare increasingly uses **critical care** as the umbrella term encompassing ICUs and HDUs. :contentReference[oaicite:4]{index=4}
+Modern healthcare increasingly uses **critical care** as the umbrella term encompassing ICUs and HDUs.
 
 ---
 
@@ -192,7 +185,7 @@ Patients are continuously monitored for:
 - Blood gases
 - Laboratory values
 
-Rapid recognition of deterioration is a defining feature of critical care. :contentReference[oaicite:5]{index=5}
+Rapid recognition of deterioration is a defining feature of critical care.
 
 ---
 
@@ -240,7 +233,7 @@ Critical illness and prolonged ICU stays may lead to:
 - Malnutrition
 - ICU-acquired weakness
 
-Early prevention strategies reduce these complications. :contentReference[oaicite:6]{index=6}
+Early prevention strategies reduce these complications.
 
 ---
 
@@ -257,7 +250,7 @@ Patients may experience:
 - Post-traumatic stress symptoms
 - Reduced exercise tolerance
 
-Early rehabilitation improves long-term recovery. :contentReference[oaicite:7]{index=7}
+Early rehabilitation improves long-term recovery.
 
 ---
 
@@ -393,7 +386,7 @@ Many critically ill patients recover fully, while others require long-term suppo
 
 Critical care represents medicine at its most intensive.
 
-It saves lives by supporting the body's essential organs during the most dangerous phase of illness, giving time for recovery or definitive treatment. :contentReference[oaicite:8]{index=8}
+It saves lives by supporting the body's essential organs during the most dangerous phase of illness, giving time for recovery or definitive treatment.
 
 ---
 
@@ -422,7 +415,7 @@ Critical care enables:
 - Pandemic response
 - Emergency medicine
 
-Expanding access to safe critical care is an important global health priority. :contentReference[oaicite:9]{index=9}
+Expanding access to safe critical care is an important global health priority.
 
 ---
 
@@ -477,17 +470,13 @@ It demonstrates that survival from critical illness depends not only on advanced
 
 ## Depends On
 
-- [[Physiology]]
 - [[Emergency Medicine]]
 - [[Pharmacology]]
 - [[Surgery]]
 
 ## Enables
 
-- [[Trauma Care]]
-- [[Organ Transplantation]]
 - [[Rehabilitation]]
-- [[Intensive Care Medicine]]
 
 ## Related
 
@@ -496,18 +485,21 @@ It demonstrates that survival from critical illness depends not only on advanced
 - [[Respiratory Diseases]]
 - [[Cardiovascular Diseases]]
 
-## Next
-
-→ [[**Emergency Medicine**]]
-
 ---
 
 # HumanOS Principle
 
-Critical care is the branch of medicine dedicated to sustaining life during severe illness or injury through continuous monitoring, advanced organ support, and rapid intervention. By combining highly trained professionals, sophisticated technology, evidence-based therapies, and multidisciplinary teamwork, critical care provides patients with the best opportunity to survive life-threatening conditions and recover meaningful function through rehabilitation. :contentReference[oaicite:10]{index=10}
+Critical care is the branch of medicine dedicated to sustaining life during severe illness or injury through continuous monitoring, advanced organ support, and rapid intervention. By combining highly trained professionals, sophisticated technology, evidence-based therapies, and multidisciplinary teamwork, critical care provides patients with the best opportunity to survive life-threatening conditions and recover meaningful function through rehabilitation.
 
 ---
 
 # Key Insight
 
-> **Critical care is the science of supporting life when the body's vital organs can no longer sustain themselves. Understanding its principles reveals that survival from critical illness depends on rapid recognition, advanced technology, skilled multidisciplinary care, and comprehensive rehabilitation that extends well beyond the intensive care unit.** :contentReference[oaicite:11]{index=11}
+> **Critical care is the science of supporting life when the body's vital organs can no longer sustain themselves. Understanding its principles reveals that survival from critical illness depends on rapid recognition, advanced technology, skilled multidisciplinary care, and comprehensive rehabilitation that extends well beyond the intensive care unit.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/04-medical-treatment/05---emergency-medicine" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Emergency Medicine</span><span class="os-cta-sub">Emergency medicine is the medical specialty responsible for the immediate evaluation,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

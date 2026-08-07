@@ -1,6 +1,6 @@
 # Death & Mortality
 
-> *Death is the irreversible end of the biological functions that sustain a living organism, while mortality is the condition that all living organisms eventually die. Death is studied scientifically as a biological process, medically as a clinical event, psychologically as a human experience, philosophically as a question about existence, and culturally and spiritually through diverse traditions that seek to understand its meaning. Awareness of mortality profoundly influences human behavior, values, relationships, and civilization.* :contentReference[oaicite:0]{index=0}
+> *Death is the irreversible end of the biological functions that sustain a living organism, while mortality is the condition that all living organisms eventually die. Death is studied scientifically as a biological process, medically as a clinical event, psychologically as a human experience, philosophically as a question about existence, and culturally and spiritually through diverse traditions that seek to understand its meaning. Awareness of mortality profoundly influences human behavior, values, relationships, and civilization.*
 
 ---
 
@@ -18,7 +18,7 @@ Death is:
 - A philosophical question
 - A cultural and spiritual concern
 
-Although death is universal, human understanding of its meaning varies across science, philosophy, religion, and culture. :contentReference[oaicite:1]{index=1}
+Although death is universal, human understanding of its meaning varies across science, philosophy, religion, and culture.
 
 ---
 
@@ -42,7 +42,7 @@ For humans, awareness of mortality also shapes:
 - Science
 - Personal purpose
 
-Unlike most species, humans know they will die, and this awareness profoundly influences civilization. :contentReference[oaicite:2]{index=2}
+Unlike most species, humans know they will die, and this awareness profoundly influences civilization.
 
 ---
 
@@ -72,18 +72,19 @@ Mortality is part of every biological life cycle.
 
 # Components of Death & Mortality
 
-```text
-Death & Mortality
-        │
- ├── Biology
- ├── Aging
- ├── Dying
- ├── Grief
- ├── Mortality Awareness
- ├── Legacy
- ├── Meaning
- └── Human Flourishing
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Death & Mortality</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Biology</div></div>
+<div class="tree-item"><div class="tree-node">Aging</div></div>
+<div class="tree-item"><div class="tree-node">Dying</div></div>
+<div class="tree-item"><div class="tree-node">Grief</div></div>
+<div class="tree-item"><div class="tree-node">Mortality Awareness</div></div>
+<div class="tree-item"><div class="tree-node">Legacy</div></div>
+<div class="tree-item"><div class="tree-node">Meaning</div></div>
+<div class="tree-item"><div class="tree-node">Human Flourishing</div></div>
+</div>
+</div>
 
 ---
 
@@ -97,7 +98,7 @@ Examples include irreversible failure of:
 - Circulation
 - Respiration
 
-Modern medicine uses specific clinical criteria to determine death. :contentReference[oaicite:3]{index=3}
+Modern medicine uses specific clinical criteria to determine death.
 
 ---
 
@@ -161,7 +162,7 @@ Mortality awareness influences:
 - Creativity
 - Long-term planning
 
-Psychological research suggests that awareness of mortality can shape behavior in both constructive and defensive ways. :contentReference[oaicite:4]{index=4}
+Psychological research suggests that awareness of mortality can shape behavior in both constructive and defensive ways.
 
 ---
 
@@ -190,7 +191,7 @@ Awareness of mortality often encourages reflection on:
 - Relationships
 - Contribution
 
-Many philosophical traditions argue that recognizing life's finitude can deepen appreciation for life itself. :contentReference[oaicite:5]{index=5}
+Many philosophical traditions argue that recognizing life's finitude can deepen appreciation for life itself.
 
 ---
 
@@ -211,17 +212,18 @@ Science does **not** determine whether any form of consciousness continues after
 
 # Philosophical Perspectives
 
-```text
-Death
-   │
- ├── Is death harmful?
- ├── What is personal identity?
- ├── Does mortality give life meaning?
- ├── What is a good death?
- └── How should awareness of death shape life?
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Death</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Is death harmful?</div></div>
+<div class="tree-item"><div class="tree-node">What is personal identity?</div></div>
+<div class="tree-item"><div class="tree-node">Does mortality give life meaning?</div></div>
+<div class="tree-item"><div class="tree-node">What is a good death?</div></div>
+<div class="tree-item"><div class="tree-node">How should awareness of death shape life?</div></div>
+</div>
+</div>
 
-Philosophy explores these questions through reasoned argument rather than empirical experiment. :contentReference[oaicite:6]{index=6}
+Philosophy explores these questions through reasoned argument rather than empirical experiment.
 
 ---
 
@@ -246,14 +248,16 @@ HumanOS presents these as **religious or spiritual beliefs**, not scientific con
 
 Understanding death contributes to:
 
-- Medicine
-- Psychology
-- Palliative care
-- Ethics
-- Law
-- Public health
-- Philosophy
-- End-of-life planning
+<div class="tag-grid">
+<span class="tag-pill">Medicine</span>
+<span class="tag-pill">Psychology</span>
+<span class="tag-pill">Palliative care</span>
+<span class="tag-pill">Ethics</span>
+<span class="tag-pill">Law</span>
+<span class="tag-pill">Public health</span>
+<span class="tag-pill">Philosophy</span>
+<span class="tag-pill">End-of-life planning</span>
+</div>
 
 ---
 
@@ -263,7 +267,7 @@ Understanding death contributes to:
 
 **Reality:**
 
-Science studies the biological process of dying and death but does not establish what, if anything, happens to consciousness afterward. :contentReference[oaicite:7]{index=7}
+Science studies the biological process of dying and death but does not establish what, if anything, happens to consciousness afterward.
 
 ---
 
@@ -271,7 +275,7 @@ Science studies the biological process of dying and death but does not establish
 
 **Reality:**
 
-Research suggests that thoughtful discussion and planning for death can reduce anxiety and improve end-of-life decision-making for many people. :contentReference[oaicite:8]{index=8}
+Research suggests that thoughtful discussion and planning for death can reduce anxiety and improve end-of-life decision-making for many people.
 
 ---
 
@@ -287,13 +291,14 @@ Mortality is a universal feature of life, although risks vary greatly with age a
 
 Understanding mortality helps people:
 
-- Value time
-- Strengthen relationships
-- Make informed medical decisions
-- Plan responsibly
-- Develop resilience
-- Clarify priorities
-- Live intentionally
+> [!success]
+> - Value time
+> - Strengthen relationships
+> - Make informed medical decisions
+> - Plan responsibly
+> - Develop resilience
+> - Clarify priorities
+> - Live intentionally
 
 Awareness of death often encourages greater appreciation of life.
 
@@ -370,9 +375,7 @@ Awareness of death has inspired:
 
 It connects:
 
-- [[Biology]]
 - [[Aging]]
-- [[Medicine]]
 - [[Psychology]]
 - [[Philosophy]]
 - [[Ethics]]
@@ -387,18 +390,13 @@ It demonstrates that mortality is not only a biological fact but also one of the
 
 ## Depends On
 
-- [[Biology]]
-- [[Medicine]]
 - [[Psychology]]
 - [[Philosophy]]
 
 ## Enables
 
 - [[Palliative Care]]
-- [[Medical Ethics]]
-- [[Grief]]
 - [[Meaning & Purpose]]
-- [[Human Flourishing]]
 
 ## Related
 
@@ -407,18 +405,21 @@ It demonstrates that mortality is not only a biological fact but also one of the
 - [[Comparative Religion]]
 - [[Wisdom Traditions]]
 
-## Next
-
-→ [[Living Well]]
-
 ---
 
 # HumanOS Principle
 
-Death is the irreversible end of the biological processes that sustain life, and mortality is the universal condition that living organisms have finite lifespans. While science explains the biological mechanisms of death, philosophy examines its meaning, psychology studies its effects on human behavior, and religions and cultures offer diverse interpretations of what death signifies. Understanding mortality helps humans make wiser decisions about how to live, relate to others, and contribute to the world while life lasts. :contentReference[oaicite:9]{index=9}
+Death is the irreversible end of the biological processes that sustain life, and mortality is the universal condition that living organisms have finite lifespans. While science explains the biological mechanisms of death, philosophy examines its meaning, psychology studies its effects on human behavior, and religions and cultures offer diverse interpretations of what death signifies. Understanding mortality helps humans make wiser decisions about how to live, relate to others, and contribute to the world while life lasts.
 
 ---
 
 # Key Insight
 
 > **Mortality is not merely the end of life—it is one of the forces that gives life urgency, responsibility, and significance. We cannot choose whether life is finite, but we can choose how we use the time that finitude gives us.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/00---readme" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Living Well</span><span class="os-cta-sub">Living Well is where all of it gets put to use.</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

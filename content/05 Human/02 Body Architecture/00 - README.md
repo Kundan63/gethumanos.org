@@ -16,7 +16,7 @@ This organization allows trillions of cells to cooperate as a single living orga
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:190px"><svg width="100%" viewBox="0 0 190 654" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="153.7" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="94.8" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Atoms</text><rect x="18.0" y="90.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Molecules</text><rect x="18.0" y="162.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cells</text><rect x="18.0" y="234.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Tissues</text><rect x="18.0" y="306.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Organs</text><rect x="18.0" y="378.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Organ Systems</text><rect x="18.0" y="450.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Human Organism</text><rect x="18.0" y="522.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Homeostasis</text><rect x="18.0" y="594.0" width="153.7" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="94.8" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Life</text><line x1="94.8" y1="64.0" x2="94.8" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="136.0" x2="94.8" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="208.0" x2="94.8" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="280.0" x2="94.8" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="352.0" x2="94.8" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="424.0" x2="94.8" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="496.0" x2="94.8" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="568.0" x2="94.8" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-This hierarchical organization is one of the defining principles of human biology and anatomy. :contentReference[oaicite:0]{index=0}
+This hierarchical organization is one of the defining principles of human biology and anatomy.
 
 ---
 
@@ -122,7 +122,7 @@ Understanding Body Architecture helps explain:
 - Why organ failure affects the whole body.
 - Why early diagnosis saves lives.
 
-Medicine works because it understands this biological hierarchy. :contentReference[oaicite:1]{index=1}
+Medicine works because it understands this biological hierarchy.
 
 ---
 
@@ -326,10 +326,7 @@ After learning how the body is built, HumanOS will explain **how those structure
 ## Enables
 
 - [[Human Systems]]
-- [[Neuroscience]]
 - [[Lifestyle Biology]]
-- [[Disease & Medicine]]
-- [[Longevity]]
 
 ---
 
@@ -340,12 +337,6 @@ After learning how the body is built, HumanOS will explain **how those structure
 - [[Organs]]
 - [[Organ Systems]]
 - [[Homeostasis]]
-
----
-
-## Next
-
-→ [[Cells]]
 
 ---
 
@@ -372,3 +363,10 @@ Understanding this hierarchy is the foundation of medicine, prevention, and heal
 # Key Insight
 
 > **Body Architecture reveals that the human body is an integrated hierarchy of living systems. From microscopic cells to the complete organism, every level depends on the health of the levels below it. Understanding this architecture explains how life is organized, why disease spreads through the body, how medicine restores function, and why protecting our cells today protects our health for decades to come.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/02-body-architecture/01---cells" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Cells</span><span class="os-cta-sub">Cells are the fundamental units of human life. Every heartbeat, breath, thought,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

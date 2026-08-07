@@ -1,6 +1,6 @@
 # Meaning & Purpose
 
-> *Meaning and purpose are closely related but distinct concepts that help humans understand why life matters and what direction it should take. Meaning refers to the sense that life is coherent, significant, and worthwhile, while purpose refers to long-term aims or goals that guide actions. Philosophy, psychology, spirituality, and many wisdom traditions all study how people discover, create, or experience meaning and purpose, recognizing them as central dimensions of human flourishing.* :contentReference[oaicite:0]{index=0}
+> *Meaning and purpose are closely related but distinct concepts that help humans understand why life matters and what direction it should take. Meaning refers to the sense that life is coherent, significant, and worthwhile, while purpose refers to long-term aims or goals that guide actions. Philosophy, psychology, spirituality, and many wisdom traditions all study how people discover, create, or experience meaning and purpose, recognizing them as central dimensions of human flourishing.*
 
 ---
 
@@ -21,7 +21,7 @@ These questions concern **meaning** and **purpose**.
 Although often used together, they describe different ideas.
 
 - **Meaning** is the sense that life is valuable, coherent, and significant.
-- **Purpose** is the direction or goals that organize one's actions. :contentReference[oaicite:1]{index=1}
+- **Purpose** is the direction or goals that organize one's actions.
 
 ---
 
@@ -51,7 +51,7 @@ The search for meaning and purpose emerges naturally from human consciousness an
 
 > **How can humans build lives that are both meaningful and directed toward worthwhile goals?**
 
-Meaning and purpose arise through reflection, relationships, values, contribution, and continual growth rather than through a single universal formula. :contentReference[oaicite:2]{index=2}
+Meaning and purpose arise through reflection, relationships, values, contribution, and continual growth rather than through a single universal formula.
 
 ---
 
@@ -63,18 +63,19 @@ Meaning and purpose arise through reflection, relationships, values, contributio
 
 # Components of Meaning & Purpose
 
-```text
-Meaning & Purpose
-        │
- ├── Meaning
- ├── Purpose
- ├── Values
- ├── Identity
- ├── Relationships
- ├── Contribution
- ├── Growth
- └── Responsibility
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Meaning & Purpose</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Meaning</div></div>
+<div class="tree-item"><div class="tree-node">Purpose</div></div>
+<div class="tree-item"><div class="tree-node">Values</div></div>
+<div class="tree-item"><div class="tree-node">Identity</div></div>
+<div class="tree-item"><div class="tree-node">Relationships</div></div>
+<div class="tree-item"><div class="tree-node">Contribution</div></div>
+<div class="tree-item"><div class="tree-node">Growth</div></div>
+<div class="tree-item"><div class="tree-node">Responsibility</div></div>
+</div>
+</div>
 
 These components interact throughout life.
 
@@ -220,16 +221,17 @@ Meaning is strengthened when actions consistently express deeply held values.
 
 # Major Perspectives
 
-```text
-Meaning & Purpose
-        │
- ├── Philosophical
- ├── Psychological
- ├── Spiritual
- ├── Religious
- ├── Humanistic
- └── Existential
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Meaning & Purpose</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Philosophical</div></div>
+<div class="tree-item"><div class="tree-node">Psychological</div></div>
+<div class="tree-item"><div class="tree-node">Spiritual</div></div>
+<div class="tree-item"><div class="tree-node">Religious</div></div>
+<div class="tree-item"><div class="tree-node">Humanistic</div></div>
+<div class="tree-item"><div class="tree-node">Existential</div></div>
+</div>
+</div>
 
 ---
 
@@ -255,7 +257,7 @@ Psychology studies how meaning influences:
 - Mental health
 - Relationships
 
-Research generally finds that a strong sense of purpose is associated with better psychological well-being, though purpose can arise from many different life paths. :contentReference[oaicite:3]{index=3}
+Research generally finds that a strong sense of purpose is associated with better psychological well-being, though purpose can arise from many different life paths.
 
 ---
 
@@ -326,13 +328,15 @@ Different people may find meaning through different paths.
 
 Understanding meaning and purpose supports:
 
-- Mental health
-- Education
-- Leadership
-- Career development
-- Personal growth
-- Community engagement
-- Healthy aging
+<div class="tag-grid">
+<span class="tag-pill">Mental health</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Leadership</span>
+<span class="tag-pill">Career development</span>
+<span class="tag-pill">Personal growth</span>
+<span class="tag-pill">Community engagement</span>
+<span class="tag-pill">Healthy aging</span>
+</div>
 
 ---
 
@@ -368,13 +372,14 @@ People find meaning through many sources, including relationships, science, serv
 
 Meaning and purpose influence:
 
-- Motivation
-- Resilience
-- Well-being
-- Relationships
-- Leadership
-- Decision-making
-- Long-term fulfillment
+> [!success]
+> - Motivation
+> - Resilience
+> - Well-being
+> - Relationships
+> - Leadership
+> - Decision-making
+> - Long-term fulfillment
 
 Understanding them helps people align daily actions with deeper values.
 
@@ -449,7 +454,6 @@ It connects:
 - [[Spirituality]]
 - [[Wisdom Traditions]]
 - [[Leadership]]
-- [[Human Flourishing]]
 
 It demonstrates that knowledge explains reality, but meaning and purpose help humans decide how to live within that reality.
 
@@ -466,11 +470,8 @@ It demonstrates that knowledge explains reality, but meaning and purpose help hu
 
 ## Enables
 
-- [[Human Flourishing]]
 - [[Leadership]]
-- [[Resilience]]
 - [[Personal Growth]]
-- [[Wisdom]]
 
 ## Related
 
@@ -479,18 +480,21 @@ It demonstrates that knowledge explains reality, but meaning and purpose help hu
 - [[Mindfulness]]
 - [[Wisdom Traditions]]
 
-## Next
-
-→ [[Death & Mortality]]
-
 ---
 
 # HumanOS Principle
 
-Meaning and purpose are central dimensions of human life. Meaning is the sense that life is coherent, significant, and worthwhile, while purpose provides direction through goals and values that organize action. Together they connect knowledge with responsibility, values with behavior, and individual lives with contributions to families, communities, and civilization. :contentReference[oaicite:4]{index=4}
+Meaning and purpose are central dimensions of human life. Meaning is the sense that life is coherent, significant, and worthwhile, while purpose provides direction through goals and values that organize action. Together they connect knowledge with responsibility, values with behavior, and individual lives with contributions to families, communities, and civilization.
 
 ---
 
 # Key Insight
 
 > **Knowledge tells us how the world works. Wisdom tells us how to live in it. Meaning explains why life matters, and purpose gives that meaning direction through action. A flourishing life is not found by asking only "What can I achieve?" but also "What is worth achieving?"**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/10-philosophy--and--spirituality/11---death--and--mortality" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Death & Mortality</span><span class="os-cta-sub">Death is the irreversible end of the biological functions that sustain a living...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

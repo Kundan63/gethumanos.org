@@ -1,6 +1,6 @@
 # Circadian Rhythm
 
-> *Circadian rhythm is the body's internal biological timing system that generates approximately 24-hour cycles in physiology, behavior, and metabolism. This internal clock synchronizes sleep, hormone release, body temperature, metabolism, digestion, immune function, and many other biological processes with the Earth's daily cycle of light and darkness. Rather than simply controlling sleep, circadian rhythms coordinate nearly every organ system so the body performs the right functions at the right time.* :contentReference[oaicite:0]{index=0}
+> *Circadian rhythm is the body's internal biological timing system that generates approximately 24-hour cycles in physiology, behavior, and metabolism. This internal clock synchronizes sleep, hormone release, body temperature, metabolism, digestion, immune function, and many other biological processes with the Earth's daily cycle of light and darkness. Rather than simply controlling sleep, circadian rhythms coordinate nearly every organ system so the body performs the right functions at the right time.*
 
 ---
 
@@ -26,7 +26,7 @@ These rhythms regulate:
 - Immune activity
 - Cognitive performance
 
-Circadian rhythms allow the body to anticipate predictable daily changes rather than merely reacting to them. :contentReference[oaicite:1]{index=1}
+Circadian rhythms allow the body to anticipate predictable daily changes rather than merely reacting to them.
 
 ---
 
@@ -34,17 +34,28 @@ Circadian rhythms allow the body to anticipate predictable daily changes rather 
 
 Life evolved on Earth under a predictable cycle of:
 
-```text
-Earth Rotation
-       │
-Day ↔ Night
-       │
-Sunlight Changes
-       │
-Biological Adaptation
-       │
-Circadian Rhythm
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Earth Rotation</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Day ↔ Night</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Sunlight Changes</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Biological Adaptation</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Circadian Rhythm</span></div>
+</div>
+</div>
 
 Because Earth rotates every 24 hours, organisms evolved biological clocks that synchronize internal functions with environmental light and darkness.
 
@@ -56,7 +67,7 @@ This allows the body to:
 - Promote sleep at night
 - Conserve energy efficiently
 
-Without this timing system, many body functions would become poorly coordinated. :contentReference[oaicite:2]{index=2}
+Without this timing system, many body functions would become poorly coordinated.
 
 ---
 
@@ -70,33 +81,38 @@ Circadian rhythm answers this by providing a biological clock that coordinates n
 
 # The Circadian System
 
-```text
-☀ Sunlight
-      │
-      ▼
-Eyes (Retina)
-      │
-      ▼
-Suprachiasmatic Nucleus (SCN)
-      │
-      ▼
-Master Biological Clock
-      │
- ┌────┼───────────┬──────────┐
- ▼    ▼           ▼          ▼
-Sleep Hormones Metabolism Temperature
-      │
-      ▼
-Cells
-      │
-      ▼
-Organs
-      │
-      ▼
-Whole Body
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">☀ Sunlight</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Eyes (Retina)</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Suprachiasmatic Nucleus (SCN)</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Master Biological Clock</span></div>
+</div>
+</div>
 
-The **suprachiasmatic nucleus (SCN)** in the hypothalamus acts as the body's master clock, synchronizing other clocks throughout the body. :contentReference[oaicite:3]{index=3}
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Master Biological Clock</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Hormones</div></div>
+<div class="tree-item"><div class="tree-node">Metabolism</div></div>
+<div class="tree-item"><div class="tree-node">Temperature</div></div>
+</div>
+</div>
+
+→ **Cells** → **Organs** → **Whole Body**
+
+The **suprachiasmatic nucleus (SCN)** in the hypothalamus acts as the body's master clock, synchronizing other clocks throughout the body.
 
 ---
 
@@ -113,45 +129,32 @@ Other signals also influence circadian timing:
 - Social routines
 - Temperature
 
-:contentReference[oaicite:4]{index=4}
+
 
 ---
 
 # The Daily Biological Cycle
 
-```text
-Morning
-│
-├─ Cortisol rises
-├─ Alertness increases
-├─ Body temperature rises
-└─ Metabolism becomes active
-        │
-        ▼
-Afternoon
-│
-├─ Peak physical performance
-├─ Fast reaction time
-└─ High mental performance
-        │
-        ▼
-Evening
-│
-├─ Light decreases
-├─ Melatonin begins rising
-├─ Body temperature falls
-└─ Sleepiness increases
-        │
-        ▼
-Night
-│
-├─ Deep sleep
-├─ Tissue repair
-├─ Memory consolidation
-└─ Hormone regulation
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Morning</span> Cortisol rises, Alertness increases, Body temperature rises, Metabolism becomes active</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Afternoon</span> Peak physical performance, Fast reaction time, High mental performance</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Evening</span> Light decreases, Melatonin begins rising, Body temperature falls, Sleepiness increases</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Night</span> Deep sleep, Tissue repair, Memory consolidation, Hormone regulation</div>
+</div>
+</div>
 
-Although individual chronotypes vary ("morning larks" vs. "night owls"), this overall pattern is common in healthy adults. :contentReference[oaicite:5]{index=5}
+Although individual chronotypes vary ("morning larks" vs. "night owls"), this overall pattern is common in healthy adults.
 
 ---
 
@@ -185,30 +188,40 @@ Functions:
 
 Cortisol naturally peaks in the early morning and gradually declines through the day.
 
-:contentReference[oaicite:6]{index=6}
+
 
 ---
 
 # Circadian Rhythm Controls
 
-```text
-Circadian Rhythm
-        │
- ┌──────┼───────────────┐
- ▼      ▼               ▼
-Sleep Hormones Metabolism
- │      │               │
- ├──────┼───────────────┤
- │      │               │
-Body Temperature
-Blood Pressure
-Digestion
-Immune System
-Brain Function
-Mood
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Circadian Rhythm</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Sleep</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Body Temperature</div></div>
+<div class="tree-item"><div class="tree-node">Blood Pressure</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Hormones</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Digestion</div></div>
+<div class="tree-item"><div class="tree-node">Immune System</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Metabolism</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Brain Function</div></div>
+<div class="tree-item"><div class="tree-node">Mood</div></div>
+</div>
+</div>
+</div>
+</div>
 
-Almost every major organ system follows daily biological rhythms. :contentReference[oaicite:7]{index=7}
+Almost every major organ system follows daily biological rhythms.
 
 ---
 
@@ -224,16 +237,17 @@ Circadian rhythm links astronomy, neuroscience, endocrinology, metabolism, sleep
 
 Healthy circadian rhythms help maintain:
 
-- Better sleep
-- Improved learning
-- Stable mood
-- Healthy metabolism
-- Cardiovascular health
-- Immune function
-- Hormonal balance
-- Better athletic performance
+> [!success]
+> - Better sleep
+> - Improved learning
+> - Stable mood
+> - Healthy metabolism
+> - Cardiovascular health
+> - Immune function
+> - Hormonal balance
+> - Better athletic performance
 
-Circadian disruption has been associated with increased risks of sleep disorders, metabolic disease, cardiovascular disease, and impaired mental performance. :contentReference[oaicite:8]{index=8}
+Circadian disruption has been associated with increased risks of sleep disorders, metabolic disease, cardiovascular disease, and impaired mental performance.
 
 ---
 
@@ -265,30 +279,37 @@ Jet lag occurs because the internal clock needs time to adjust to a new light-da
 
 ### 🌙 Shift Work
 
-Working at night while sleeping during the day can misalign circadian rhythms with environmental light, increasing fatigue and long-term health risks. :contentReference[oaicite:9]{index=9}
+Working at night while sleeping during the day can misalign circadian rhythms with environmental light, increasing fatigue and long-term health risks.
 
 ---
 
 # Healthy Circadian Habits
 
-```text
-Healthy Circadian Rhythm
-            ▲
-            │
- ┌──────────┼─────────────┐
- │          │             │
-Morning Sun Regular Sleep Exercise
- │          │             │
- ├──────────┼─────────────┤
- │          │             │
-Regular Meals
-Limit Evening Light
-Manage Stress
- │
- └──────────┐
-            ▼
-Healthy Biological Clock
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Healthy Circadian Rhythm</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Morning Sun</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Regular Meals</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Regular Sleep</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Limit Evening Light</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Exercise</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Manage Stress</div></div>
+</div>
+</div>
+</div>
+</div>
+
+→ **Healthy Biological Clock**
 
 Evidence-based habits include:
 
@@ -297,7 +318,7 @@ Evidence-based habits include:
 - Eat meals at regular times.
 - Exercise regularly.
 - Reduce bright light exposure before bedtime.
-- Avoid unnecessary overnight wakefulness when possible. :contentReference[oaicite:10]{index=10}
+- Avoid unnecessary overnight wakefulness when possible.
 
 ---
 
@@ -305,11 +326,16 @@ Evidence-based habits include:
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:247px"><svg width="100%" viewBox="0 0 247 726" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="210.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="123.3" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Irregular Schedule</text><rect x="18.0" y="90.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Late Night Light</text><rect x="18.0" y="162.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Shift Work</text><rect x="18.0" y="234.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Jet Lag</text><rect x="18.0" y="306.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">──────────────</text><rect x="18.0" y="378.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Body Clock Disruption</text><rect x="18.0" y="450.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Poor Sleep</text><rect x="18.0" y="522.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Fatigue</text><rect x="18.0" y="594.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Reduced Performance</text><rect x="18.0" y="666.0" width="210.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="123.3" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Higher Disease Risk</text><line x1="123.3" y1="64.0" x2="123.3" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="136.0" x2="123.3" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="208.0" x2="123.3" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="280.0" x2="123.3" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="352.0" x2="123.3" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="424.0" x2="123.3" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="496.0" x2="123.3" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="568.0" x2="123.3" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="640.0" x2="123.3" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Circadian rhythm disorders occur when the body's internal clock becomes misaligned with the external environment. :contentReference[oaicite:11]{index=11}
+Circadian rhythm disorders occur when the body's internal clock becomes misaligned with the external environment.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Varanasi_ghats_at_the_sunrise.JPG?width=1200" alt="Sunrise over the ghats of the Ganges River in Varanasi, India">
+<p class="domain-figure-caption">Sunrise over the Ganges at Varanasi — the daily light cycle that synchronizes the body's circadian clock — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -426,8 +452,6 @@ Daily routines aligned with natural light-dark cycles generally support better l
 
 It connects:
 
-- [[Earth]]
-- [[Sun]]
 - [[Sleep]]
 - [[Brain]]
 - [[Endocrine System]]
@@ -444,8 +468,6 @@ It demonstrates that health depends not only on biological processes themselves,
 
 ## Depends On
 
-- [[Earth]]
-- [[Sun]]
 - [[Brain]]
 - [[Endocrine System]]
 - [[Sleep]]
@@ -456,33 +478,29 @@ It demonstrates that health depends not only on biological processes themselves,
 
 - [[Homeostasis]]
 - [[Recovery]]
-- [[Healthy Aging]]
-- [[Longevity]]
 
 ---
 
 ## Related
 
-- [[Melatonin]]
-- [[Cortisol]]
 - [[Sleep]]
 - [[Stress]]
-- [[Chronobiology]]
-
----
-
-## Next
-
-→ [[Habits]]
 
 ---
 
 # HumanOS Principle
 
-Circadian rhythm is the body's connection to the rhythm of the Earth. Every sunrise and sunset helps synchronize a biological timing system that coordinates sleep, metabolism, hormones, immunity, and countless cellular processes. Understanding circadian rhythm reveals that health depends not only on **what** we eat, how we move, or how long we sleep, but also on **when** these activities occur. Living in harmony with our biological clock supports better health, performance, and healthy aging. :contentReference[oaicite:12]{index=12}
+Circadian rhythm is the body's connection to the rhythm of the Earth. Every sunrise and sunset helps synchronize a biological timing system that coordinates sleep, metabolism, hormones, immunity, and countless cellular processes. Understanding circadian rhythm reveals that health depends not only on **what** we eat, how we move, or how long we sleep, but also on **when** these activities occur. Living in harmony with our biological clock supports better health, performance, and healthy aging.
 
 ---
 
 # Key Insight
 
-> **Circadian rhythm is the body's internal 24-hour biological timing system that synchronizes physiology with the Earth's day-night cycle. Governed by the brain's master clock and influenced primarily by light, it coordinates sleep, hormone release, metabolism, body temperature, immune function, and countless cellular processes. Understanding circadian rhythm reveals that timing is a fundamental part of biology, making regular daily routines one of the foundations of lifelong health and well-being.** :contentReference[oaicite:13]{index=13}
+> **Circadian rhythm is the body's internal 24-hour biological timing system that synchronizes physiology with the Earth's day-night cycle. Governed by the brain's master clock and influenced primarily by light, it coordinates sleep, hormone release, metabolism, body temperature, immune function, and countless cellular processes. Understanding circadian rhythm reveals that timing is a fundamental part of biology, making regular daily routines one of the foundations of lifelong health and well-being.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/07-mind/09---habits" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Habits</span><span class="os-cta-sub">Habits are learned behaviors that become automatic through repetition in a consistent...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -8,7 +8,7 @@
 
 Critical Thinking is the disciplined process of objectively analyzing, interpreting, evaluating, and synthesizing information before deciding what to believe or how to act.
 
-It goes beyond simply acquiring knowledge. It requires questioning assumptions, examining evidence, recognizing biases, considering alternative explanations, and reaching conclusions that are supported by reason and evidence. :contentReference[oaicite:0]{index=0}
+It goes beyond simply acquiring knowledge. It requires questioning assumptions, examining evidence, recognizing biases, considering alternative explanations, and reaching conclusions that are supported by reason and evidence.
 
 ---
 
@@ -27,7 +27,7 @@ However, our thinking is influenced by:
 
 Without a disciplined way of evaluating information, these influences can lead to poor judgments and harmful decisions.
 
-Critical Thinking exists to reduce these errors by encouraging careful analysis, objective evaluation, and evidence-based reasoning. :contentReference[oaicite:1]{index=1}
+Critical Thinking exists to reduce these errors by encouraging careful analysis, objective evaluation, and evidence-based reasoning.
 
 ---
 
@@ -37,7 +37,7 @@ Critical Thinking is an ongoing process rather than a fixed procedure.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:247px"><svg width="100%" viewBox="0 0 247 582" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="210.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="123.3" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Information</text><rect x="18.0" y="90.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Question Assumptions</text><rect x="18.0" y="162.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Gather Evidence</text><rect x="18.0" y="234.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Evaluate Sources</text><rect x="18.0" y="306.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Analyze Arguments</text><rect x="18.0" y="378.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Consider Alternatives</text><rect x="18.0" y="450.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Draw Conclusions</text><rect x="18.0" y="522.0" width="210.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="123.3" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Reflect &amp; Revise</text><line x1="123.3" y1="64.0" x2="123.3" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="136.0" x2="123.3" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="208.0" x2="123.3" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="280.0" x2="123.3" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="352.0" x2="123.3" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="424.0" x2="123.3" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="496.0" x2="123.3" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Unlike logic, which asks whether an argument is valid, Critical Thinking asks whether the evidence, assumptions, reasoning, and conclusion are all reliable enough to justify belief or action. :contentReference[oaicite:2]{index=2}
+Unlike logic, which asks whether an argument is valid, Critical Thinking asks whether the evidence, assumptions, reasoning, and conclusion are all reliable enough to justify belief or action.
 
 ---
 
@@ -53,151 +53,39 @@ Critical Thinking transforms information into informed action.
 
 Critical Thinking improves nearly every area of life.
 
-It enables humans to:
+> [!success] It enables humans to
+> - Evaluate information objectively.
+> - Distinguish evidence from opinion.
+> - Detect misinformation and manipulation.
+> - Recognize logical fallacies.
+> - Solve problems systematically.
+> - Make better personal and professional decisions.
+> - Adapt beliefs when new evidence becomes available.
+> - Communicate ideas more effectively.
 
-- Evaluate information objectively.
-- Distinguish evidence from opinion.
-- Detect misinformation and manipulation.
-- Recognize logical fallacies.
-- Solve problems systematically.
-- Make better personal and professional decisions.
-- Adapt beliefs when new evidence becomes available.
-- Communicate ideas more effectively.
-
-In an age of abundant information, the ability to evaluate information critically is as important as access to information itself. :contentReference[oaicite:3]{index=3}
+In an age of abundant information, the ability to evaluate information critically is as important as access to information itself.
 
 ---
 
 # Human Impact
 
-### Human Body
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ashoka_Rock_Edict_at_Junagadh.jpg?width=1200" alt="Ashoka's Rock Edict at Junagadh, an ancient Indian inscription urging self-examination and reasoned conduct">
+<p class="domain-figure-caption">Ashoka's Rock Edict, Junagadh — an ancient call to examine one's own conduct — via Wikimedia Commons</p>
+</div>
 
-Critical Thinking supports healthier decisions by helping people evaluate:
-
-- Medical advice
-- Nutrition claims
-- Fitness recommendations
-- Health risks
-- Scientific evidence
-
-It reduces the likelihood of acting on misinformation that could harm health.
-
----
-
-### Human Mind
-
-Critical Thinking strengthens:
-
-- Rational thinking
-- Reflection
-- Self-awareness
-- Intellectual humility
-- Open-mindedness
-- Independent judgment
-
-It encourages people to revise their beliefs when better evidence becomes available rather than defending beliefs uncritically. :contentReference[oaicite:4]{index=4}
-
----
-
-### Human Behaviour
-
-Critical thinkers are better able to:
-
-- Solve problems.
-- Evaluate risks.
-- Manage uncertainty.
-- Resolve conflicts.
-- Learn from mistakes.
-- Make informed choices.
-
-Critical Thinking encourages thoughtful responses instead of impulsive reactions.
-
----
-
-### Society
-
-Healthy societies depend upon citizens who can:
-
-- Evaluate information.
-- Detect misinformation.
-- Participate in constructive discussions.
-- Respect evidence.
-- Make informed democratic decisions.
-
-Critical Thinking strengthens education, journalism, scientific research, and public discourse.
-
----
-
-### Economics
-
-Businesses rely on Critical Thinking to:
-
-- Analyze risks.
-- Evaluate investments.
-- Solve organizational problems.
-- Improve strategic planning.
-- Make evidence-based decisions.
-
-Better thinking improves productivity and innovation.
-
----
-
-### Politics & Governance
-
-Critical Thinking enables people to:
-
-- Evaluate political claims.
-- Understand public policies.
-- Examine evidence objectively.
-- Resist propaganda and misinformation.
-- Make informed civic decisions.
-
-Strong democracies depend on informed and thoughtful citizens.
-
----
-
-### Technology
-
-Critical Thinking helps humans:
-
-- Evaluate new technologies.
-- Design better systems.
-- Interpret data responsibly.
-- Reduce errors in engineering.
-- Build trustworthy Artificial Intelligence.
-
-Technology advances most effectively when guided by careful reasoning rather than assumption.
-
----
-
-### Philosophy
-
-Critical Thinking applies logical reasoning to real-world questions.
-
-It bridges [[Logic]] and [[Epistemology]] by helping humans determine not only whether reasoning is valid, but whether conclusions are justified by evidence.
-
----
-
-### Spirituality
-
-Critical Thinking encourages thoughtful reflection on beliefs and practices.
-
-It helps distinguish personal experience, philosophical interpretation, and empirical evidence while allowing meaningful exploration without accepting claims uncritically.
-
----
-
-### Living Well
-
-Critical Thinking helps humans:
-
-- Make wiser decisions.
-- Learn continuously.
-- Build healthier relationships.
-- Navigate uncertainty.
-- Resist manipulation.
-- Become lifelong learners.
-
-A better life begins with better thinking.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">&#129472;</span><span class="os-card-title">Human Body</span><span class="os-card-desc">Supports healthier decisions by helping people evaluate medical advice, nutrition claims, fitness recommendations, and health risks — reducing the chance of acting on misinformation.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#129504;</span><span class="os-card-title">Human Mind</span><span class="os-card-desc">Strengthens rational thinking, reflection, self-awareness, intellectual humility, and independent judgment — encouraging revised beliefs rather than uncritical defense.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127919;</span><span class="os-card-title">Human Behaviour</span><span class="os-card-desc">Critical thinkers are better able to solve problems, evaluate risks, manage uncertainty, resolve conflicts, and respond thoughtfully instead of impulsively.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127963;</span><span class="os-card-title">Society</span><span class="os-card-desc">Healthy societies depend on citizens who can evaluate information, detect misinformation, and participate in constructive discussion — strengthening education and journalism.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128176;</span><span class="os-card-title">Economics</span><span class="os-card-desc">Businesses rely on it to analyze risks, evaluate investments, solve organizational problems, and make evidence-based decisions that improve productivity.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128499;</span><span class="os-card-title">Politics & Governance</span><span class="os-card-desc">Enables people to evaluate political claims, examine evidence objectively, and resist propaganda — strong democracies depend on thoughtful citizens.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#9881;</span><span class="os-card-title">Technology</span><span class="os-card-desc">Helps humans evaluate new technologies, design better systems, interpret data responsibly, and build trustworthy artificial intelligence.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128173;</span><span class="os-card-title">Philosophy</span><span class="os-card-desc">Applies logical reasoning to real-world questions, bridging Logic and Epistemology by testing whether conclusions are actually justified by evidence.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#10024;</span><span class="os-card-title">Spirituality</span><span class="os-card-desc">Encourages thoughtful reflection on beliefs and practices, distinguishing personal experience from empirical evidence without accepting claims uncritically.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127793;</span><span class="os-card-title">Living Well</span><span class="os-card-desc">Helps humans make wiser decisions, learn continuously, build healthier relationships, navigate uncertainty, and resist manipulation. A better life begins with better thinking.</span></div>
+</div>
 
 ---
 
@@ -240,12 +128,13 @@ It prepares the foundation for [[Epistemology]], which examines the nature and j
 
 ---
 
-## Next
-
-→ [[Epistemology]]
-
----
-
 # Key Insight
 
 > **Critical Thinking transforms information into sound judgment by helping humans question assumptions, evaluate evidence, recognize bias, and make decisions that improve individual lives, stronger societies, and a more informed civilization.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/01-foundations/06---epistemology" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Epistemology</span><span class="os-cta-sub">What it actually means to "know" something</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

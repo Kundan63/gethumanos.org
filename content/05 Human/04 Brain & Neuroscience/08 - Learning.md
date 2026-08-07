@@ -1,6 +1,6 @@
 # Learning
 
-> *Learning is the process through which experience, study, observation, or practice produces lasting changes in knowledge, skills, behavior, or understanding. In the brain, learning occurs when experience changes neural connections and reorganizes brain networks. It is the biological mechanism through which humans adapt to their environment, accumulate knowledge, develop intelligence, and transmit culture across generations.* :contentReference[oaicite:0]{index=0}
+> *Learning is the process through which experience, study, observation, or practice produces lasting changes in knowledge, skills, behavior, or understanding. In the brain, learning occurs when experience changes neural connections and reorganizes brain networks. It is the biological mechanism through which humans adapt to their environment, accumulate knowledge, develop intelligence, and transmit culture across generations.*
 
 ---
 
@@ -15,7 +15,7 @@
 - Values
 - Strategies
 
-Unlike temporary exposure to information, true learning produces **relatively lasting changes** in the brain and behavior. It is supported by neuroplasticity—the brain's ability to strengthen, weaken, and reorganize neural connections in response to experience. :contentReference[oaicite:1]{index=1}
+Unlike temporary exposure to information, true learning produces **relatively lasting changes** in the brain and behavior. It is supported by neuroplasticity—the brain's ability to strengthen, weaken, and reorganize neural connections in response to experience.
 
 Without learning:
 
@@ -43,7 +43,7 @@ Humans must continually:
 
 Evolution favored organisms that could modify their behavior based on experience rather than relying only on instinct.
 
-Learning therefore became one of humanity's greatest survival advantages. :contentReference[oaicite:2]{index=2}
+Learning therefore became one of humanity's greatest survival advantages.
 
 ---
 
@@ -63,7 +63,7 @@ Whenever we learn something meaningful:
 - Memories become more stable.
 - Future performance improves.
 
-Learning is therefore **physical change inside the brain**, not simply storing information. :contentReference[oaicite:3]{index=3}
+Learning is therefore **physical change inside the brain**, not simply storing information.
 
 ---
 
@@ -77,20 +77,21 @@ Learning becomes stronger when information is:
 - repeatedly practiced,
 - actively retrieved,
 - connected to prior knowledge,
-- applied in real situations. :contentReference[oaicite:4]{index=4}
+- applied in real situations.
 
 ---
 
 # Types of Learning
 
-```text
-                 Learning
-                     │
- ┌──────────┬─────────┼──────────┬──────────┐
- ▼          ▼         ▼          ▼
-Knowledge Skill Associative Observational
-Learning Learning Learning Learning
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Learning</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Knowledge Learning</div></div>
+<div class="tree-item"><div class="tree-node">Skill Learning</div></div>
+<div class="tree-item"><div class="tree-node">Associative Learning</div></div>
+<div class="tree-item"><div class="tree-node">Observational Learning</div></div>
+</div>
+</div>
 
 ---
 
@@ -157,7 +158,7 @@ Learning changes the brain.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:287px"><svg width="100%" viewBox="0 0 287 366" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="251.1" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="143.6" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Experience</text><rect x="18.0" y="90.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Neurons Fire Together</text><rect x="18.0" y="162.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Synapses Strengthen</text><rect x="18.0" y="234.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Neural Networks Reorganize</text><rect x="18.0" y="306.0" width="251.1" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="143.6" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Knowledge &amp; Skill Improve</text><line x1="143.6" y1="64.0" x2="143.6" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="136.0" x2="143.6" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="208.0" x2="143.6" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="280.0" x2="143.6" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Repeated activation strengthens communication between neurons, making future recall and performance more efficient. This process is one of the core mechanisms of neuroplasticity. :contentReference[oaicite:5]{index=5}
+Repeated activation strengthens communication between neurons, making future recall and performance more efficient. This process is one of the core mechanisms of neuroplasticity.
 
 ---
 
@@ -175,14 +176,15 @@ Everything that improves your life depends on learning.
 
 Learning allows you to:
 
-- Read books.
-- Speak languages.
-- Build relationships.
-- Solve problems.
-- Earn a profession.
-- Create technology.
-- Adapt to change.
-- Understand reality.
+> [!success]
+> - Read books.
+> - Speak languages.
+> - Build relationships.
+> - Solve problems.
+> - Earn a profession.
+> - Create technology.
+> - Adapt to change.
+> - Understand reality.
 
 Learning is one of the few human abilities that can continue throughout life.
 
@@ -202,7 +204,7 @@ Each attempt strengthens motor pathways until riding becomes automatic.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:222px"><svg width="100%" viewBox="0 0 222 366" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="186.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="111.1" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Read</text><rect x="18.0" y="90.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Understand</text><rect x="18.0" y="162.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Practice</text><rect x="18.0" y="234.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Recall</text><rect x="18.0" y="306.0" width="186.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="111.1" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Long-Term Learning</text><line x1="111.1" y1="64.0" x2="111.1" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="136.0" x2="111.1" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="208.0" x2="111.1" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="280.0" x2="111.1" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Active recall and spaced practice produce stronger learning than passive rereading. :contentReference[oaicite:6]{index=6}
+Active recall and spaced practice produce stronger learning than passive rereading.
 
 ---
 
@@ -228,7 +230,7 @@ Language learning develops through repeated listening, speaking, reading, and wr
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:238px"><svg width="100%" viewBox="0 0 238 366" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Mistake</text><rect x="18.0" y="90.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Feedback</text><rect x="18.0" y="162.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Correction</text><rect x="18.0" y="234.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Better Strategy</text><rect x="18.0" y="306.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Improved Performance</text><line x1="119.2" y1="64.0" x2="119.2" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="136.0" x2="119.2" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="208.0" x2="119.2" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="280.0" x2="119.2" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Errors are not simply failures—they provide information that helps the brain refine future performance. :contentReference[oaicite:7]{index=7}
+Errors are not simply failures—they provide information that helps the brain refine future performance.
 
 ---
 
@@ -236,28 +238,24 @@ Errors are not simply failures—they provide information that helps the brain r
 
 Modern learning science consistently shows that effective learning depends on more than repetition alone.
 
-```text
-           Effective Learning
-                    ▲
-                    │
- ┌──────────────────┼───────────────────┐
- │                  │                   │
-Attention      Understanding      Practice
- │                  │                   │
- ├──────────────────┼───────────────────┤
- │                  │                   │
-Feedback     Active Recall      Sleep
- │                  │                   │
- ├──────────────────┼───────────────────┤
- │                  │                   │
-Motivation   Spaced Repetition  Meaning
- │                  │                   │
- └──────────────────┼───────────────────┘
-                    │
-             Lasting Learning
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Effective Learning</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Attention</div></div>
+<div class="tree-item"><div class="tree-node">Understanding</div></div>
+<div class="tree-item"><div class="tree-node">Practice</div></div>
+<div class="tree-item"><div class="tree-node">Feedback</div></div>
+<div class="tree-item"><div class="tree-node">Active Recall</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Motivation</div></div>
+<div class="tree-item"><div class="tree-node">Spaced Repetition</div></div>
+<div class="tree-item"><div class="tree-node">Meaning</div></div>
+</div>
+</div>
 
-Learning improves when learners actively retrieve information, connect it to existing knowledge, receive timely feedback, and revisit it over time. :contentReference[oaicite:8]{index=8}
+Lasting Learning
+
+Learning improves when learners actively retrieve information, connect it to existing knowledge, receive timely feedback, and revisit it over time.
 
 ---
 
@@ -265,28 +263,24 @@ Learning improves when learners actively retrieve information, connect it to exi
 
 Learning depends on healthy brain function.
 
-```text
-               Learning Health
-                     ▲
-                     │
- ┌───────────────────┼───────────────────┐
- │                   │                   │
-Sleep          Nutrition        Exercise
- │                   │                   │
- ├───────────────────┼───────────────────┤
- │                   │                   │
-Attention      Stress      Social Learning
- │                   │                   │
- ├───────────────────┼───────────────────┤
- │                   │                   │
-Motivation     Memory      Neuroplasticity
- │                   │                   │
- └───────────────────┼───────────────────┘
-                     │
-             Lifelong Learning
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Learning Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Exercise</div></div>
+<div class="tree-item"><div class="tree-node">Attention</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Social Learning</div></div>
+<div class="tree-item"><div class="tree-node">Motivation</div></div>
+<div class="tree-item"><div class="tree-node">Memory</div></div>
+<div class="tree-item"><div class="tree-node">Neuroplasticity</div></div>
+</div>
+</div>
 
-Healthy learning depends on healthy neurons, healthy synapses, quality sleep, good nutrition, regular exercise, and supportive environments. :contentReference[oaicite:9]{index=9}
+Lifelong Learning
+
+Healthy learning depends on healthy neurons, healthy synapses, quality sleep, good nutrition, regular exercise, and supportive environments.
 
 ---
 
@@ -301,11 +295,16 @@ Healthy learning depends on healthy neurons, healthy synapses, quality sleep, go
 | Passive study | Superficial understanding |
 | Constant distraction | Poor encoding of information |
 
-Most learning difficulties result from multiple interacting biological, psychological, and environmental factors rather than a single cause. :contentReference[oaicite:10]{index=10}
+Most learning difficulties result from multiple interacting biological, psychological, and environmental factors rather than a single cause.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nalanda_University_India_ruins.jpg?width=1200" alt="Ruins of Nalanda University in Bihar, India, one of the world's first major centers of higher learning, active from the 5th century CE">
+<p class="domain-figure-caption">Ruins of Nalanda University, India — one of the world's earliest centers of organized learning, via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -368,7 +367,7 @@ Understanding learning has enabled advances in:
 - Rehabilitation
 - Adaptive learning systems
 
-Modern AI and educational science are both inspired by principles of biological learning, although they operate differently. :contentReference[oaicite:11]{index=11}
+Modern AI and educational science are both inspired by principles of biological learning, although they operate differently.
 
 ---
 
@@ -394,7 +393,7 @@ Explain ideas, solve problems, and teach others rather than only rereading infor
 
 Use **spaced repetition** instead of cramming.
 
-Small, repeated learning sessions produce stronger long-term retention. :contentReference[oaicite:12]{index=12}
+Small, repeated learning sessions produce stronger long-term retention.
 
 ---
 
@@ -402,7 +401,7 @@ Small, repeated learning sessions produce stronger long-term retention. :content
 
 Test yourself regularly.
 
-Actively recalling information strengthens learning more than passive review. :contentReference[oaicite:13]{index=13}
+Actively recalling information strengthens learning more than passive review.
 
 ---
 
@@ -422,7 +421,7 @@ Regular exercise supports brain health and neuroplasticity.
 
 Mistakes provide feedback that helps the brain improve.
 
-Learning is strengthened through correction and refinement rather than perfection. :contentReference[oaicite:14]{index=14}
+Learning is strengthened through correction and refinement rather than perfection.
 
 ---
 
@@ -457,16 +456,13 @@ Learning is the engine through which humans continuously improve themselves and 
 - [[Neuroplasticity]]
 - [[Neurons]]
 - [[Synapses]]
-- [[Attention]]
 
 ---
 
 ## Enables
 
-- [[Knowledge]]
 - [[Intelligence]]
 - [[Education]]
-- [[Skill Acquisition]]
 - [[Decision Making]]
 
 ---
@@ -475,15 +471,7 @@ Learning is the engine through which humans continuously improve themselves and 
 
 - [[Memory]]
 - [[Neuroplasticity]]
-- [[Motivation]]
-- [[Attention]]
 - [[Education]]
-
----
-
-## Next
-
-→ [[Consciousness]]
 
 ---
 
@@ -499,4 +487,11 @@ Through learning, humans transform information into understanding, understanding
 
 # Key Insight
 
-> **Learning is the lifelong biological process through which experience produces lasting changes in knowledge, skills, behavior, and understanding. By continuously reshaping neural connections through neuroplasticity, learning enables humans to adapt, solve problems, create knowledge, and pass wisdom across generations. Understanding learning reveals that the brain is not designed merely to store information—it is designed to change, improve, and grow throughout life.** :contentReference[oaicite:15]{index=15}
+> **Learning is the lifelong biological process through which experience produces lasting changes in knowledge, skills, behavior, and understanding. By continuously reshaping neural connections through neuroplasticity, learning enables humans to adapt, solve problems, create knowledge, and pass wisdom across generations. Understanding learning reveals that the brain is not designed merely to store information—it is designed to change, improve, and grow throughout life.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/10-philosophy--and--spirituality/04---consciousness" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Consciousness</span><span class="os-cta-sub">Consciousness is the state of subjective awareness through which an individual...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

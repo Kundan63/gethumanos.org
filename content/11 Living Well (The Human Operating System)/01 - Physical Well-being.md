@@ -1,6 +1,6 @@
 # Physical Well-being
 
-> **Physical Well-being is the foundation of human capability.** It is the state in which the body's systems function efficiently, enabling people to move, think, work, learn, build relationships, recover from challenges, and pursue meaningful goals. Physical well-being extends beyond the absence of disease; it includes energy, strength, resilience, mobility, recovery, and the capacity to live an active and fulfilling life. :contentReference[oaicite:0]{index=0}
+> **Physical Well-being is the foundation of human capability.** It is the state in which the body's systems function efficiently, enabling people to move, think, work, learn, build relationships, recover from challenges, and pursue meaningful goals. Physical well-being extends beyond the absence of disease; it includes energy, strength, resilience, mobility, recovery, and the capacity to live an active and fulfilling life.
 
 ---
 
@@ -82,25 +82,26 @@ It includes:
 - Functional independence
 - Long-term resilience
 
-It is a dynamic state rather than a fixed condition. :contentReference[oaicite:1]{index=1}
+It is a dynamic state rather than a fixed condition.
 
 ---
 
 # The Physical Well-being System
 
-```text
-Physical Well-being
-        │
- ├── Nutrition
- ├── Movement
- ├── Sleep
- ├── Recovery
- ├── Body Composition
- ├── Preventive Care
- ├── Environment
- ├── Lifestyle
- └── Healthy Aging
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Physical Well-being</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Movement</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Recovery</div></div>
+<div class="tree-item"><div class="tree-node">Body Composition</div></div>
+<div class="tree-item"><div class="tree-node">Preventive Care</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item"><div class="tree-node">Healthy Aging</div></div>
+</div>
+</div>
 
 These systems continuously interact rather than operating independently.
 
@@ -260,7 +261,7 @@ Good physical well-being improves:
 - Relationships
 - Quality of life
 
-Health is best understood as a resource that enables people to pursue meaningful lives, not merely as the absence of illness. :contentReference[oaicite:2]{index=2}
+Health is best understood as a resource that enables people to pursue meaningful lives, not merely as the absence of illness.
 
 ---
 
@@ -304,7 +305,7 @@ Small physical habits often produce wide-ranging effects.
 
 ✔ Smoking significantly increases health risks.
 
-✔ Long-term healthy habits matter more than short-term extremes. :contentReference[oaicite:3]{index=3}
+✔ Long-term healthy habits matter more than short-term extremes.
 
 ---
 
@@ -346,11 +347,7 @@ Ask yourself:
 
 - [[Physics]]
 - [[Chemistry]]
-- [[Biology]]
 - [[Evolution]]
-- [[Human Anatomy]]
-- [[Human Physiology]]
-- [[Medicine]]
 
 ## Enables
 
@@ -358,7 +355,6 @@ Ask yourself:
 - [[Productivity]]
 - [[Career]]
 - [[Relationships]]
-- [[Healthy Aging]]
 - [[Personal Growth]]
 
 ## Related
@@ -368,18 +364,21 @@ Ask yourself:
 - [[Sleep]]
 - [[Preventive Medicine]]
 
-## Next
-
-→ [[Mental Well-being]]
-
 ---
 
 # HumanOS Principle
 
-Physical well-being is the biological foundation of human capability. By understanding how the body functions and by maintaining healthy habits that support its systems, humans increase their ability to learn, create, build relationships, adapt to challenges, and contribute meaningfully to society. Health is not an end in itself—it is the foundation that enables a flourishing life. :contentReference[oaicite:4]{index=4}
+Physical well-being is the biological foundation of human capability. By understanding how the body functions and by maintaining healthy habits that support its systems, humans increase their ability to learn, create, build relationships, adapt to challenges, and contribute meaningfully to society. Health is not an end in itself—it is the foundation that enables a flourishing life.
 
 ---
 
 # Key Insight
 
 > **Your body is the hardware on which your entire life runs. Every thought you think, every decision you make, every relationship you build, and every dream you pursue depends on the health of the biological system you inhabit. Caring for your body is therefore not merely a health choice—it is an investment in every aspect of your future.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/02---mental-well-being" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Mental Well-being</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,6 +1,6 @@
 # Screening
 
-> *Screening is the systematic testing of people who do **not** have symptoms to identify those who are more likely to have, or be at increased risk of developing, a disease or condition. Screening is **not** intended to diagnose disease. Instead, it identifies individuals who require further diagnostic evaluation or early intervention. The goal is to detect disease at an earlier stage, when treatment is often more effective and health outcomes can be improved.* :contentReference[oaicite:0]{index=0}
+> *Screening is the systematic testing of people who do **not** have symptoms to identify those who are more likely to have, or be at increased risk of developing, a disease or condition. Screening is **not** intended to diagnose disease. Instead, it identifies individuals who require further diagnostic evaluation or early intervention. The goal is to detect disease at an earlier stage, when treatment is often more effective and health outcomes can be improved.*
 
 ---
 
@@ -16,7 +16,7 @@ Screening answers the question:
 
 A screening test is **not a diagnosis**.
 
-A positive screening result means **more testing is needed** to confirm whether disease is actually present. :contentReference[oaicite:1]{index=1}
+A positive screening result means **more testing is needed** to confirm whether disease is actually present.
 
 ---
 
@@ -36,7 +36,7 @@ By the time symptoms appear:
 - Treatment may become more difficult.
 - Complications may already exist.
 
-Screening exists to detect disease during this silent stage whenever early detection has been shown to improve outcomes. :contentReference[oaicite:2]{index=2}
+Screening exists to detect disease during this silent stage whenever early detection has been shown to improve outcomes.
 
 ---
 
@@ -44,30 +44,44 @@ Screening exists to detect disease during this silent stage whenever early detec
 
 > **How can medicine find disease before a person knows they are sick?**
 
-Screening answers this by using simple, evidence-based tests to identify apparently healthy people who are more likely to have a disease or condition and who should receive further diagnostic evaluation. :contentReference[oaicite:3]{index=3}
+Screening answers this by using simple, evidence-based tests to identify apparently healthy people who are more likely to have a disease or condition and who should receive further diagnostic evaluation.
 
 ---
 
 # The Screening System
 
-```text
-Apparently Healthy Person
-          │
-          ▼
-Screening Test
-          │
- ┌────────┴────────┐
- ▼                 ▼
-Negative       Positive
- │                 │
-Routine Care   Diagnostic Testing
-                   │
-                   ▼
-Diagnosis
-                   │
-                   ▼
-Treatment
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Apparently Healthy Person</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Screening Test</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Negative</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Routine Care</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Positive</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Diagnostic Testing</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Diagnosis</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Treatment</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 Screening is the **first step**, not the final answer.
 
@@ -86,7 +100,7 @@ Screening is the **first step**, not the final answer.
 | Usually simple and rapid | Often more detailed and specific |
 | Applied to healthy populations | Applied to individuals with suspected disease |
 
-A screening test identifies people who need additional investigation; diagnostic testing determines whether disease is actually present. :contentReference[oaicite:4]{index=4}
+A screening test identifies people who need additional investigation; diagnostic testing determines whether disease is actually present.
 
 ---
 
@@ -101,22 +115,21 @@ A screening program should be used only when:
 - The benefits outweigh the harms.
 - Adequate follow-up and treatment services are available.
 
-These principles help ensure that screening provides more benefit than harm. :contentReference[oaicite:5]{index=5}
+These principles help ensure that screening provides more benefit than harm.
 
 ---
 
 # Common Screening Tests
 
-```text
-Screening
-     │
- ┌───┼───────────────┬──────────────┐
- ▼   ▼               ▼              ▼
-Cancer
-Cardiovascular
-Metabolic
-Infectious Diseases
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Screening</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Cancer</div></div>
+<div class="tree-item"><div class="tree-node">Cardiovascular</div></div>
+<div class="tree-item"><div class="tree-node">Metabolic</div></div>
+<div class="tree-item"><div class="tree-node">Infectious Diseases</div></div>
+</div>
+</div>
 
 ### ❤️ Cardiovascular
 
@@ -142,7 +155,7 @@ Examples include:
 - Colorectal cancer
 - Lung cancer (selected high-risk groups)
 
-Screening recommendations depend on age, sex, personal history, family history, and other risk factors. :contentReference[oaicite:6]{index=6}
+Screening recommendations depend on age, sex, personal history, family history, and other risk factors.
 
 ---
 
@@ -157,15 +170,14 @@ Screening recommendations depend on age, sex, personal history, family history, 
 
 # Types of Screening
 
-```text
-Screening
-     │
- ┌───┼─────────────┐
- ▼   ▼             ▼
-Population
-Selective
-Opportunistic
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Screening</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Population</div></div>
+<div class="tree-item"><div class="tree-node">Selective</div></div>
+<div class="tree-item"><div class="tree-node">Opportunistic</div></div>
+</div>
+</div>
 
 ### Population Screening
 
@@ -210,7 +222,7 @@ Potential benefits include:
 - Reduced complications
 - Improved quality of life
 
-Benefits depend on the disease, the screening test, and the availability of effective treatment. :contentReference[oaicite:7]{index=7}
+Benefits depend on the disease, the screening test, and the availability of effective treatment.
 
 ---
 
@@ -218,15 +230,14 @@ Benefits depend on the disease, the screening test, and the availability of effe
 
 Screening is **not perfect**.
 
-```text
-Screening
-     │
- ┌───┼──────────────┐
- ▼   ▼              ▼
-False Positive
-False Negative
-Overdiagnosis
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Screening</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">False Positive</div></div>
+<div class="tree-item"><div class="tree-node">False Negative</div></div>
+<div class="tree-item"><div class="tree-node">Overdiagnosis</div></div>
+</div>
+</div>
 
 Possible harms include:
 
@@ -237,7 +248,7 @@ Possible harms include:
 - Overdiagnosis
 - Overtreatment
 
-Because of these risks, screening should be evidence-based rather than performed indiscriminately. :contentReference[oaicite:8]{index=8}
+Because of these risks, screening should be evidence-based rather than performed indiscriminately.
 
 ---
 
@@ -253,13 +264,14 @@ Screening connects epidemiology, diagnostics, preventive medicine, oncology, car
 
 Appropriate screening can:
 
-- Detect disease before symptoms appear.
-- Improve treatment success.
-- Reduce complications.
-- Prevent premature death for certain diseases.
-- Improve quality of life.
+> [!success]
+> - Detect disease before symptoms appear.
+> - Improve treatment success.
+> - Reduce complications.
+> - Prevent premature death for certain diseases.
+> - Improve quality of life.
 
-However, unnecessary screening may expose people to harm without clear benefit, so recommendations should be evidence-based and individualized. :contentReference[oaicite:9]{index=9}
+However, unnecessary screening may expose people to harm without clear benefit, so recommendations should be evidence-based and individualized.
 
 ---
 
@@ -291,6 +303,11 @@ However, unnecessary screening may expose people to harm without clear benefit, 
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Aravind_eye_hospital_madurai.JPG?width=1200" alt="The Aravind Eye Hospital in Madurai, India, a pioneer of large-scale, low-cost cataract screening and treatment">
+<p class="domain-figure-caption">Aravind Eye Hospital, Madurai — a pioneer of high-volume, low-cost vision screening and care in India — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Screening helps identify disease before major organ damage develops.
@@ -312,7 +329,7 @@ Evidence-based screening programs can:
 - Lower long-term healthcare costs.
 - Improve population health.
 
-High-quality screening requires careful planning, quality assurance, and follow-up care. :contentReference[oaicite:10]{index=10}
+High-quality screening requires careful planning, quality assurance, and follow-up care.
 
 ---
 
@@ -357,7 +374,6 @@ It connects:
 - [[Diagnosis]]
 - [[Risk Factors]]
 - [[Vaccination]]
-- [[Public Health]]
 - [[Health Promotion]]
 
 It demonstrates that preventing severe disease often begins with finding disease early enough to act.
@@ -376,34 +392,30 @@ It demonstrates that preventing severe disease often begins with finding disease
 
 ## Enables
 
-- [[Early Detection]]
-- [[Treatment]]
-- [[Public Health]]
-- [[Healthy Aging]]
+None.
 
 ---
 
 ## Related
 
 - [[Vaccination]]
-- [[Medical Testing]]
 - [[Cancer]]
-- [[Epidemiology]]
-
----
-
-## Next
-
-→ [[Health Promotion]]
 
 ---
 
 # HumanOS Principle
 
-Screening is the systematic process of identifying disease or increased risk in people who do not yet have symptoms. By detecting conditions at an earlier stage, screening can enable earlier treatment and improve outcomes for selected diseases. Because screening also carries risks such as false-positive results, false-negative results, overdiagnosis, and overtreatment, it should be offered only when high-quality evidence demonstrates that its overall benefits outweigh its harms. :contentReference[oaicite:11]{index=11}
+Screening is the systematic process of identifying disease or increased risk in people who do not yet have symptoms. By detecting conditions at an earlier stage, screening can enable earlier treatment and improve outcomes for selected diseases. Because screening also carries risks such as false-positive results, false-negative results, overdiagnosis, and overtreatment, it should be offered only when high-quality evidence demonstrates that its overall benefits outweigh its harms.
 
 ---
 
 # Key Insight
 
-> **Screening is the evidence-based practice of testing apparently healthy people to identify those who are more likely to have a disease or condition before symptoms develop. It is not a diagnostic tool but an early detection strategy that, when appropriately applied and followed by accurate diagnosis and effective treatment, can reduce illness, disability, and premature death while maximizing benefits and minimizing harm.** :contentReference[oaicite:12]{index=12}
+> **Screening is the evidence-based practice of testing apparently healthy people to identify those who are more likely to have a disease or condition before symptoms develop. It is not a diagnostic tool but an early detection strategy that, when appropriately applied and followed by accurate diagnosis and effective treatment, can reduce illness, disability, and premature death while maximizing benefits and minimizing harm.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/02-prevention/05---health-promotion" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Health Promotion</span><span class="os-cta-sub">Health promotion is the process of enabling people and communities to increase control...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

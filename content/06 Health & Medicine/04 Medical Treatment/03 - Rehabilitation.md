@@ -1,6 +1,6 @@
 # Rehabilitation
 
-> *Rehabilitation is a set of interventions designed to optimize functioning and reduce disability in people with health conditions in interaction with their environment. It helps individuals regain, maintain, or improve physical, mental, cognitive, and social functioning after illness, injury, surgery, disability, or aging. Rehabilitation is considered an essential component of healthcare, alongside prevention, health promotion, treatment, and palliative care. Globally, **1 in 3 people** could benefit from rehabilitation during their lifetime, yet many do not receive the services they need.* :contentReference[oaicite:0]{index=0}
+> *Rehabilitation is a set of interventions designed to optimize functioning and reduce disability in people with health conditions in interaction with their environment. It helps individuals regain, maintain, or improve physical, mental, cognitive, and social functioning after illness, injury, surgery, disability, or aging. Rehabilitation is considered an essential component of healthcare, alongside prevention, health promotion, treatment, and palliative care. Globally, **1 in 3 people** could benefit from rehabilitation during their lifetime, yet many do not receive the services they need.*
 
 ---
 
@@ -15,7 +15,7 @@ Rehabilitation is a healthcare process that helps people:
 - Return to everyday life
 - Improve quality of life
 
-Its goal is **not simply to cure disease**, but to maximize a person's ability to function in daily life. :contentReference[oaicite:1]{index=1}
+Its goal is **not simply to cure disease**, but to maximize a person's ability to function in daily life.
 
 ---
 
@@ -35,7 +35,7 @@ Examples include:
 - Chronic pain
 - Aging
 
-Rehabilitation helps restore function, compensate for limitations, and enable participation in education, work, family life, and society. :contentReference[oaicite:2]{index=2}
+Rehabilitation helps restore function, compensate for limitations, and enable participation in education, work, family life, and society.
 
 ---
 
@@ -55,27 +55,20 @@ Rehabilitation combines exercise, therapy, education, assistive technology, and 
 
 # Major Types of Rehabilitation
 
-```text
-Rehabilitation
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Physical
-Occupational
-Speech & Language
-Psychological
- │
- ├─────────────┬──────────────┬──────────────┐
- ▼             ▼              ▼
-Cardiac
-Pulmonary
-Neurological
- │
- ├─────────────┬──────────────┐
- ▼             ▼
-Pediatric
-Geriatric
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Rehabilitation</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Physical</div></div>
+<div class="tree-item"><div class="tree-node">Occupational</div></div>
+<div class="tree-item"><div class="tree-node">Speech &amp; Language</div></div>
+<div class="tree-item"><div class="tree-node">Psychological</div></div>
+<div class="tree-item"><div class="tree-node">Cardiac</div></div>
+<div class="tree-item"><div class="tree-node">Pulmonary</div></div>
+<div class="tree-item"><div class="tree-node">Neurological</div></div>
+<div class="tree-item"><div class="tree-node">Pediatric</div></div>
+<div class="tree-item"><div class="tree-node">Geriatric</div></div>
+</div>
+</div>
 
 ---
 
@@ -214,7 +207,7 @@ Rehabilitation may benefit people with:
 - Hearing or vision loss
 - Mental health conditions
 
-WHO emphasizes that **rehabilitation is relevant across the lifespan—from childhood to older age.** :contentReference[oaicite:3]{index=3}
+WHO emphasizes that **rehabilitation is relevant across the lifespan—from childhood to older age.**
 
 ---
 
@@ -239,7 +232,7 @@ Rehabilitation often involves multiple professionals working together:
 - Social workers
 - Dietitians
 
-The team depends on the individual's needs. :contentReference[oaicite:4]{index=4}
+The team depends on the individual's needs.
 
 ---
 
@@ -361,7 +354,7 @@ Yoga, breathing exercises, and mindfulness have evidence supporting improvements
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:222px"><svg width="100%" viewBox="0 0 222 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="186.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="111.1" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Healthy Lifestyle</text><rect x="18.0" y="90.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Exercise</text><rect x="18.0" y="162.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Injury Prevention</text><rect x="18.0" y="234.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Early Treatment</text><rect x="18.0" y="306.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Rehabilitation</text><rect x="18.0" y="378.0" width="186.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="111.1" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Reduced Disability</text><line x1="111.1" y1="64.0" x2="111.1" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="136.0" x2="111.1" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="208.0" x2="111.1" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="280.0" x2="111.1" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="352.0" x2="111.1" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Early rehabilitation often improves long-term outcomes and reduces complications such as muscle wasting, contractures, and loss of independence. :contentReference[oaicite:5]{index=5}
+Early rehabilitation often improves long-term outcomes and reduces complications such as muscle wasting, contractures, and loss of independence.
 
 ---
 
@@ -409,14 +402,15 @@ Recovery does not end when disease is treated.
 
 Rehabilitation helps people:
 
-- Walk again
-- Speak again
-- Return to work
-- Live independently
-- Participate in family and society
-- Improve long-term quality of life
+> [!success]
+> - Walk again
+> - Speak again
+> - Return to work
+> - Live independently
+> - Participate in family and society
+> - Improve long-term quality of life
 
-WHO recognizes rehabilitation as an essential health service that should be available to everyone who needs it. :contentReference[oaicite:6]{index=6}
+WHO recognizes rehabilitation as an essential health service that should be available to everyone who needs it.
 
 ---
 
@@ -491,7 +485,6 @@ It connects:
 - [[Brain & Neurological Diseases]]
 - [[Cardiovascular Diseases]]
 - [[Exercise]]
-- [[Healthy Aging]]
 
 It demonstrates that recovery is not only about treating disease but also about restoring function, independence, and participation in everyday life.
 
@@ -501,17 +494,12 @@ It demonstrates that recovery is not only about treating disease but also about 
 
 ## Depends On
 
-- [[Physiology]]
-- [[Anatomy]]
 - [[Exercise]]
 - [[Disease Mechanisms]]
 
 ## Enables
 
-- [[Healthy Aging]]
-- [[Sports Medicine]]
-- [[Physical Therapy]]
-- [[Occupational Therapy]]
+None.
 
 ## Related
 
@@ -520,18 +508,21 @@ It demonstrates that recovery is not only about treating disease but also about 
 - [[Brain & Neurological Diseases]]
 - [[Lifestyle Medicine]]
 
-## Next
-
-→ [[**Critical Care**]]
-
 ---
 
 # HumanOS Principle
 
-Rehabilitation is a core component of healthcare that focuses on restoring or optimizing human functioning after illness, injury, surgery, disability, or age-related decline. Through multidisciplinary care, therapeutic exercise, education, assistive technology, and environmental adaptation, rehabilitation enables people to regain independence, participate fully in society, and achieve the highest possible quality of life. :contentReference[oaicite:7]{index=7}
+Rehabilitation is a core component of healthcare that focuses on restoring or optimizing human functioning after illness, injury, surgery, disability, or age-related decline. Through multidisciplinary care, therapeutic exercise, education, assistive technology, and environmental adaptation, rehabilitation enables people to regain independence, participate fully in society, and achieve the highest possible quality of life.
 
 ---
 
 # Key Insight
 
-> **Rehabilitation is the science and practice of restoring human function. Understanding its principles reveals that true recovery is measured not only by the absence of disease, but by the ability to move, communicate, work, learn, and live independently throughout life.** :contentReference[oaicite:8]{index=8}
+> **Rehabilitation is the science and practice of restoring human function. Understanding its principles reveals that true recovery is measured not only by the absence of disease, but by the ability to move, communicate, work, learn, and live independently throughout life.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/04-medical-treatment/04---critical-care" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Critical Care</span><span class="os-cta-sub">Critical care is specialized medical care for people with life-threatening illnesses...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,6 +1,6 @@
 # Recovery
 
-> *Recovery is the biological process through which the body and mind restore normal function after physical, mental, or emotional stress. During recovery, damaged tissues are repaired, energy stores are replenished, hormones are rebalanced, waste products are removed, and physiological systems adapt to become stronger and more resilient. Recovery is not passive inactivity—it is an active biological process that allows adaptation, health, and long-term performance.* :contentReference[oaicite:0]{index=0}
+> *Recovery is the biological process through which the body and mind restore normal function after physical, mental, or emotional stress. During recovery, damaged tissues are repaired, energy stores are replenished, hormones are rebalanced, waste products are removed, and physiological systems adapt to become stronger and more resilient. Recovery is not passive inactivity—it is an active biological process that allows adaptation, health, and long-term performance.*
 
 ---
 
@@ -20,7 +20,7 @@ That stress may come from:
 
 Recovery restores the body's ability to function, perform, and adapt.
 
-Without recovery, stress accumulates faster than the body can repair itself. :contentReference[oaicite:1]{index=1}
+Without recovery, stress accumulates faster than the body can repair itself.
 
 ---
 
@@ -70,23 +70,22 @@ Recovery produces the improvement.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:230px"><svg width="100%" viewBox="0 0 230 798" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="194.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="115.1" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Exercise</text><rect x="18.0" y="90.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Work</text><rect x="18.0" y="162.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Learning</text><rect x="18.0" y="234.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Stress</text><rect x="18.0" y="306.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Illness</text><rect x="18.0" y="378.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Body Detects Damage</text><rect x="18.0" y="450.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Repair Processes</text><rect x="18.0" y="522.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Adaptation</text><rect x="18.0" y="594.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Better Health</text><rect x="18.0" y="666.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Performance</text><rect x="18.0" y="738.0" width="194.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="115.1" y="764.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Resilience</text><line x1="115.1" y1="64.0" x2="115.1" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="136.0" x2="115.1" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="208.0" x2="115.1" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="280.0" x2="115.1" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="352.0" x2="115.1" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="424.0" x2="115.1" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="496.0" x2="115.1" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="568.0" x2="115.1" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="640.0" x2="115.1" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="712.0" x2="115.1" y2="732.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Recovery restores **homeostasis**, replenishes energy stores, repairs tissues, and prepares the body for future demands. :contentReference[oaicite:2]{index=2}
+Recovery restores **homeostasis**, replenishes energy stores, repairs tissues, and prepares the body for future demands.
 
 ---
 
 # What Happens During Recovery?
 
-```text
-Recovery
-     │
- ┌───┼──────────────┐
- ▼   ▼              ▼
-Repair
-Energy Restoration
-Hormone Balance
-Immune Activity
-Memory Consolidation
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Recovery</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Repair</div></div>
+<div class="tree-item"><div class="tree-node">Energy Restoration</div></div>
+<div class="tree-item"><div class="tree-node">Hormone Balance</div></div>
+<div class="tree-item"><div class="tree-node">Immune Activity</div></div>
+<div class="tree-item"><div class="tree-node">Memory Consolidation</div></div>
+</div>
+</div>
 
 During recovery the body:
 
@@ -98,24 +97,24 @@ During recovery the body:
 - Rebalances hormones.
 - Strengthens neural connections.
 
-These processes allow the body to adapt rather than simply return to its previous state. :contentReference[oaicite:3]{index=3}
+These processes allow the body to adapt rather than simply return to its previous state.
 
 ---
 
 # Recovery Supports Every Human System
 
-```text
-Recovery
-     │
- ┌────┼────┬────┬────┬────┐
- ▼    ▼    ▼    ▼    ▼
-Brain Muscles Heart Hormones Immunity
-      │
-      ▼
-Sleep
-Learning
-Metabolism
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Recovery</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Brain</div></div>
+<div class="tree-item"><div class="tree-node">Muscles</div></div>
+<div class="tree-item"><div class="tree-node">Heart</div></div>
+<div class="tree-item"><div class="tree-node">Hormones</div></div>
+<div class="tree-item"><div class="tree-node">Immunity</div></div>
+</div>
+</div>
+
+→ **Sleep**, **Learning**, **Metabolism**
 
 Recovery affects nearly every organ system.
 
@@ -123,16 +122,16 @@ Recovery affects nearly every organ system.
 
 # Types of Recovery
 
-```text
-Recovery
-    │
- ┌──┼───────────────┐
- ▼  ▼               ▼
-Physical Mental Physiological
-        │
-        ▼
-Social & Emotional
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Recovery</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Physical</div></div>
+<div class="tree-item"><div class="tree-node">Mental</div></div>
+<div class="tree-item"><div class="tree-node">Physiological</div></div>
+</div>
+</div>
+
+→ **Social & Emotional**
 
 ## 💪 Physical Recovery
 
@@ -202,28 +201,46 @@ Examples:
 
 # The Pillars of Recovery
 
-```text
-            Recovery
-                ▲
-                │
- ┌──────────────┼──────────────┐
- │              │              │
-Sleep      Nutrition     Hydration
- │              │              │
- ├──────────────┼──────────────┤
- │              │              │
-Rest       Active Recovery Exercise Programming
- │              │              │
- ├──────────────┼──────────────┤
- │              │              │
-Stress Management
-Social Support
-Time
- │
- └──────────────┐
-                ▼
-Healthy Adaptation
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Recovery</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Sleep</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Rest</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Stress Management</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Nutrition</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Active Recovery</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Social Support</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Hydration</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Exercise Programming</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Time</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+→ **Healthy Adaptation**
 
 The strongest evidence supports recovery strategies centered on:
 
@@ -232,19 +249,19 @@ The strongest evidence supports recovery strategies centered on:
 - Hydration
 - Appropriate rest
 - Progressive exercise
-- Stress management :contentReference[oaicite:4]{index=4}
+- Stress management
 
 ---
 
 # Active vs Passive Recovery
 
-```text
-Recovery
-   │
- ┌─┴─────────────┐
- ▼               ▼
-Active       Passive
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Recovery</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Active</div></div>
+<div class="tree-item"><div class="tree-node">Passive</div></div>
+</div>
+</div>
 
 ### 🚶 Active Recovery
 
@@ -263,7 +280,7 @@ Benefits include:
 - Improved blood flow
 - Better mobility
 
-:contentReference[oaicite:5]{index=5}
+
 
 ---
 
@@ -293,16 +310,17 @@ Recovery connects exercise, sleep, nutrition, stress biology, physiology, and he
 
 Good recovery:
 
-- Improves performance
-- Reduces injury risk
-- Strengthens immunity
-- Supports learning
-- Improves mood
-- Maintains healthy hormones
-- Prevents burnout
-- Promotes healthy aging
+> [!success]
+> - Improves performance
+> - Reduces injury risk
+> - Strengthens immunity
+> - Supports learning
+> - Improves mood
+> - Maintains healthy hormones
+> - Prevents burnout
+> - Promotes healthy aging
 
-Poor recovery increases fatigue, decreases performance, and contributes to overtraining, illness, and chronic health problems. :contentReference[oaicite:6]{index=6}
+Poor recovery increases fatigue, decreases performance, and contributes to overtraining, illness, and chronic health problems.
 
 ---
 
@@ -336,7 +354,7 @@ The body diverts resources toward healing during recovery.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:214px"><svg width="100%" viewBox="0 0 214 294" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="178.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="107.0" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Hard Workout</text><rect x="18.0" y="90.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Easy Walk</text><rect x="18.0" y="162.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Blood Circulation</text><rect x="18.0" y="234.0" width="178.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="107.0" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Less Stiffness</text><line x1="107.0" y1="64.0" x2="107.0" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="136.0" x2="107.0" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="208.0" x2="107.0" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Light movement can assist recovery without imposing excessive additional stress. :contentReference[oaicite:7]{index=7}
+Light movement can assist recovery without imposing excessive additional stress.
 
 ---
 
@@ -349,6 +367,11 @@ When recovery is consistently inadequate, the body cannot fully repair itself.
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ayurweda_kopfmassage.JPG?width=1200" alt="A person receiving a traditional Ayurvedic head massage, an Indian practice supporting rest and recovery">
+<p class="domain-figure-caption">A traditional Ayurvedic head massage, an Indian practice supporting rest and recovery — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -429,7 +452,7 @@ Sleep is the most powerful recovery process for the brain and body.
 
 ### 🥗 Refuel Properly
 
-Consume adequate carbohydrates, protein, fluids, and micronutrients after physical activity to replenish energy stores and support tissue repair. :contentReference[oaicite:8]{index=8}
+Consume adequate carbohydrates, protein, fluids, and micronutrients after physical activity to replenish energy stores and support tissue repair.
 
 ---
 
@@ -468,7 +491,7 @@ It connects:
 - [[Nutrition]] → Refueling
 - [[Stress]] → Adaptation
 - [[Circadian Rhythm]] → Biological Timing
-- [[Longevity]] → Healthy Aging
+- Longevity → Healthy Aging
 
 Recovery demonstrates that health depends not only on effort, but also on giving the body enough time and resources to rebuild.
 
@@ -488,10 +511,7 @@ Recovery demonstrates that health depends not only on effort, but also on giving
 
 ## Enables
 
-- [[Adaptation]]
-- [[Healthspan]]
-- [[Longevity]]
-- [[Healthy Aging]]
+None.
 
 ---
 
@@ -501,22 +521,22 @@ Recovery demonstrates that health depends not only on effort, but also on giving
 - [[Exercise]]
 - [[Stress]]
 - [[Circadian Rhythm]]
-- [[Muscle]]
-
----
-
-## Next
-
-→ [[Disease & Medicine]]
 
 ---
 
 # HumanOS Principle
 
-Recovery is the biological process that transforms stress into growth. Every challenge—whether physical, mental, or emotional—temporarily disrupts the body's balance. During recovery, the body restores homeostasis, repairs damaged tissues, replenishes energy, reorganizes neural connections, and adapts to become more capable. Understanding recovery reveals that lasting health and performance are achieved not by constant effort alone, but by balancing challenge with adequate sleep, nutrition, hydration, rest, and time. :contentReference[oaicite:9]{index=9}
+Recovery is the biological process that transforms stress into growth. Every challenge—whether physical, mental, or emotional—temporarily disrupts the body's balance. During recovery, the body restores homeostasis, repairs damaged tissues, replenishes energy, reorganizes neural connections, and adapts to become more capable. Understanding recovery reveals that lasting health and performance are achieved not by constant effort alone, but by balancing challenge with adequate sleep, nutrition, hydration, rest, and time.
 
 ---
 
 # Key Insight
 
-> **Recovery is the active biological process through which the body and mind restore, repair, and adapt after stress. By replenishing energy stores, repairing tissues, balancing hormones, strengthening immunity, and consolidating learning, recovery transforms temporary strain into long-term resilience. Understanding recovery reveals that adaptation, health, and longevity depend not only on the challenges we face, but also on giving the body sufficient time and resources to rebuild stronger than before.** :contentReference[oaicite:10]{index=10}
+> **Recovery is the active biological process through which the body and mind restore, repair, and adapt after stress. By replenishing energy stores, repairing tissues, balancing hormones, strengthening immunity, and consolidating learning, recovery transforms temporary strain into long-term resilience. Understanding recovery reveals that adaptation, health, and longevity depend not only on the challenges we face, but also on giving the body sufficient time and resources to rebuild stronger than before.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/01-foundations-of-health/01---health" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Health</span><span class="os-cta-sub">Health is a dynamic state of physical, mental, and social well-being in which the body...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

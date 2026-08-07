@@ -1,6 +1,6 @@
 # Career
 
-> **A career is the long-term journey through which people apply their knowledge, skills, values, and abilities to create value for others while earning the resources needed to sustain life.** More than a sequence of jobs, a career is a process of continual learning, contribution, adaptation, and personal development. A fulfilling career supports financial stability, personal growth, social contribution, and well-being. :contentReference[oaicite:0]{index=0}
+> **A career is the long-term journey through which people apply their knowledge, skills, values, and abilities to create value for others while earning the resources needed to sustain life.** More than a sequence of jobs, a career is a process of continual learning, contribution, adaptation, and personal development. A fulfilling career supports financial stability, personal growth, social contribution, and well-being.
 
 ---
 
@@ -99,19 +99,20 @@ while remaining on the same overall career journey.
 
 # The Career System
 
-```text
-Career
-     │
- ├── Purpose
- ├── Skills
- ├── Learning
- ├── Performance
- ├── Relationships
- ├── Leadership
- ├── Financial Value
- ├── Adaptability
- └── Contribution
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Career</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Purpose</div></div>
+<div class="tree-item"><div class="tree-node">Skills</div></div>
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Performance</div></div>
+<div class="tree-item"><div class="tree-node">Relationships</div></div>
+<div class="tree-item"><div class="tree-node">Leadership</div></div>
+<div class="tree-item"><div class="tree-node">Financial Value</div></div>
+<div class="tree-item"><div class="tree-node">Adaptability</div></div>
+<div class="tree-item"><div class="tree-node">Contribution</div></div>
+</div>
+</div>
 
 Each component supports long-term professional success.
 
@@ -127,7 +128,7 @@ Purpose answers:
 
 > **Why does this work matter?**
 
-People who see purpose in their work are often more engaged and resilient. :contentReference[oaicite:1]{index=1}
+People who see purpose in their work are often more engaged and resilient.
 
 ---
 
@@ -275,7 +276,7 @@ A meaningful career provides:
 - Purpose
 - Professional relationships
 
-Healthy work environments and career development also contribute to physical, mental, and social well-being. :contentReference[oaicite:2]{index=2}
+Healthy work environments and career development also contribute to physical, mental, and social well-being.
 
 ---
 
@@ -317,7 +318,7 @@ Career growth is the result of long-term capability building.
 
 ✔ Career development benefits both individuals and organizations.
 
-✔ Healthy workplaces support better performance and long-term success. :contentReference[oaicite:3]{index=3}
+✔ Healthy workplaces support better performance and long-term success.
 
 ---
 
@@ -358,7 +359,6 @@ Ask yourself:
 - [[Education]]
 - [[Psychology]]
 - [[Economics]]
-- [[Technology]]
 - [[Leadership]]
 - [[Decision Making]]
 - [[Relationships]]
@@ -367,30 +367,28 @@ Ask yourself:
 
 - [[Personal Finance]]
 - [[Leadership]]
-- [[Purpose]]
 - [[Productivity]]
 - [[Lifelong Learning]]
-- [[Contribution]]
 
 ## Related
 
-- [[Skills]]
-- [[Work]]
-- [[Professional Development]]
-- [[Entrepreneurship]]
-
-## Next
-
-→ [[Personal Finance]]
+None.
 
 ---
 
 # HumanOS Principle
 
-A career is the long-term process of transforming knowledge into capability, capability into contribution, and contribution into lasting value for both the individual and society. The goal of a career is not merely to earn a living, but to continuously develop, solve meaningful problems, create value, and contribute responsibly to the progress of humanity. :contentReference[oaicite:4]{index=4}
+A career is the long-term process of transforming knowledge into capability, capability into contribution, and contribution into lasting value for both the individual and society. The goal of a career is not merely to earn a living, but to continuously develop, solve meaningful problems, create value, and contribute responsibly to the progress of humanity.
 
 ---
 
 # Key Insight
 
 > **A job pays you for today's work. A career rewards the person you become over decades. Every skill you master, every problem you solve, every relationship you build, and every value you create becomes part of a lifelong journey of contribution. HumanOS sees a career not as climbing a ladder, but as continually expanding your capability to improve both your own life and the lives of others.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/06---personal-finance" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Personal Finance</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

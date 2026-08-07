@@ -19,7 +19,7 @@ The body constantly regulates variables such as:
 - ⚖ Blood pH
 - 🧪 Hormone levels
 
-These values are not fixed—they fluctuate within healthy ranges around a **set point**. Homeostasis keeps them within those ranges through continuous monitoring and adjustment. :contentReference[oaicite:0]{index=0}
+These values are not fixed—they fluctuate within healthy ranges around a **set point**. Homeostasis keeps them within those ranges through continuous monitoring and adjustment.
 
 ---
 
@@ -41,7 +41,7 @@ If the internal environment changes too much:
 - Organs fail.
 - Life cannot continue.
 
-Homeostasis evolved because maintaining internal stability greatly improves survival in a changing environment. :contentReference[oaicite:1]{index=1}
+Homeostasis evolved because maintaining internal stability greatly improves survival in a changing environment.
 
 ---
 
@@ -58,36 +58,55 @@ Examples:
 - High body temperature → sweating.
 - Low body temperature → shivering.
 - High blood glucose → insulin release.
-- Low blood glucose → glucagon release. :contentReference[oaicite:2]{index=2}
+- Low blood glucose → glucagon release.
 
 ---
 
 # The Homeostatic Network
 
-```text
-                 Environment
-                      │
-                      ▼
-              Internal Changes
-                      │
-      ┌───────────────┼────────────────┐
-      ▼               ▼                ▼
- Temperature      Blood Sugar      Blood Pressure
-      │               │                │
-      ├───────────────┼────────────────┤
-      ▼               ▼                ▼
- Nervous System   Endocrine System   Kidneys
-      │               │                │
-      └───────────────┼────────────────┘
-                      ▼
-                 Homeostasis
-                      │
-                      ▼
-              Healthy Cells
-                      │
-                      ▼
-          Healthy Human Organism
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Environment</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Internal Changes</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Temperature</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nervous System</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Blood Sugar</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Endocrine System</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Homeostasis</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Healthy Cells</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Healthy Human Organism</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Blood Pressure</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Kidneys</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 No single organ controls homeostasis.
 
@@ -101,7 +120,7 @@ It emerges from cooperation among multiple organ systems.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:311px"><svg width="100%" viewBox="0 0 311 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="275.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="155.7" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Body Temperature Rises</text><rect x="18.0" y="90.0" width="275.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="155.7" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Temperature Sensors</text><rect x="18.0" y="162.0" width="275.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="155.7" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Brain</text><rect x="18.0" y="234.0" width="275.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="155.7" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Sweat Glands Activated</text><rect x="18.0" y="306.0" width="275.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="155.7" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Heat Lost</text><rect x="18.0" y="378.0" width="275.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="155.7" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Temperature Returns to Normal</text><line x1="155.7" y1="64.0" x2="155.7" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="155.7" y1="136.0" x2="155.7" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="155.7" y1="208.0" x2="155.7" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="155.7" y1="280.0" x2="155.7" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="155.7" y1="352.0" x2="155.7" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-This is the body's most common homeostatic mechanism. :contentReference[oaicite:3]{index=3}
+This is the body's most common homeostatic mechanism.
 
 ---
 
@@ -114,7 +133,7 @@ Examples:
 - Childbirth (oxytocin strengthens contractions until delivery)
 - Blood clotting (clotting factors activate more clotting factors until bleeding stops)
 
-Positive feedback is **not** used to maintain day-to-day homeostasis but to accomplish important biological events. :contentReference[oaicite:4]{index=4}
+Positive feedback is **not** used to maintain day-to-day homeostasis but to accomplish important biological events.
 
 ---
 
@@ -132,18 +151,20 @@ Every aspect of health depends on homeostasis.
 
 When homeostasis is maintained:
 
-- Cells function efficiently.
-- Organs perform normally.
-- Energy production is stable.
-- Immunity works effectively.
-- The brain functions clearly.
+> [!success]
+> - Cells function efficiently.
+> - Organs perform normally.
+> - Energy production is stable.
+> - Immunity works effectively.
+> - The brain functions clearly.
 
 When homeostasis is disrupted:
 
-- Disease develops.
-- Healing slows.
-- Performance declines.
-- Organ damage accumulates.
+> [!success]
+> - Disease develops.
+> - Healing slows.
+> - Performance declines.
+> - Organ damage accumulates.
 
 Nearly every medical condition can be understood as a disturbance of homeostasis.
 
@@ -208,6 +229,11 @@ Blood clotting, inflammation, immune responses, and tissue repair all work toget
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Negative_Feedback_Loop_Diagram_for_Human_Body_Temperature_Regulation.svg?width=1200" alt="A diagram illustrating the negative feedback loop that regulates human body temperature, a core mechanism of homeostasis">
+<p class="domain-figure-caption">Negative feedback loop diagram for human body temperature regulation — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -322,32 +348,25 @@ HumanOS later explores how this principle applies to human life more broadly.
 
 Homeostasis is influenced by many interacting factors.
 
-```text
-                 Homeostasis
-                      ▲
-                      │
-     ┌────────────────┼────────────────┐
-     │                │                │
- Nutrition      Physical Activity    Sleep
-     │                │                │
-     ├────────────────┼────────────────┤
-     │                │                │
- Hydration       Stress          Relationships
-     │                │                │
-     ├────────────────┼────────────────┤
-     │                │                │
- Air Quality     Climate        Environment
-     │                │                │
-     ├────────────────┼────────────────┤
-     │                │                │
- Genetics     Infections     Healthcare
-     │                │                │
-     └────────────────┼────────────────┘
-                      │
-          Stable or Disrupted Homeostasis
-                      │
-                Health or Disease
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Homeostasis</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Physical Activity</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Hydration</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Relationships</div></div>
+<div class="tree-item"><div class="tree-node">Air Quality</div></div>
+<div class="tree-item"><div class="tree-node">Climate</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Infections</div></div>
+<div class="tree-item"><div class="tree-node">Healthcare</div></div>
+<div class="tree-item"><div class="tree-node">Stable or Disrupted Homeostasis</div></div>
+<div class="tree-item"><div class="tree-node">Health or Disease</div></div>
+</div>
+</div>
 
 Examples of homeostatic imbalance:
 
@@ -360,7 +379,7 @@ Examples of homeostatic imbalance:
 | Blood pH | Acidosis / Alkalosis |
 | Electrolytes | Cardiac arrhythmias, seizures |
 
-Many chronic diseases begin as small disturbances that gradually overwhelm the body's ability to maintain homeostasis. :contentReference[oaicite:5]{index=5}
+Many chronic diseases begin as small disturbances that gradually overwhelm the body's ability to maintain homeostasis.
 
 ---
 
@@ -432,9 +451,7 @@ Their common purpose is to maintain the stable internal environment required for
 This principle prepares us for:
 
 - [[Human Systems]]
-- [[Neuroscience]]
 - [[Lifestyle Biology]]
-- [[Disease & Medicine]]
 
 where we explore how homeostasis is maintained, disrupted, and restored.
 
@@ -454,26 +471,14 @@ where we explore how homeostasis is maintained, disrupted, and restored.
 ## Enables
 
 - [[Human Systems]]
-- [[Neuroscience]]
 - [[Lifestyle Biology]]
-- [[Disease & Medicine]]
-- [[Longevity]]
 
 ---
 
 ## Related
 
-- [[Negative Feedback]]
-- [[Positive Feedback]]
 - [[Endocrine System]]
 - [[Nervous System]]
-- [[Metabolism]]
-
----
-
-## Next
-
-→ [[Human Systems]]
 
 ---
 
@@ -498,3 +503,10 @@ When homeostasis is chronically disrupted, disease develops.
 # Key Insight
 
 > **Homeostasis is the body's master survival strategy. By continuously monitoring and adjusting internal conditions through coordinated action among organs and organ systems, it allows trillions of cells to function despite constant changes in the external world. Understanding homeostasis reveals why health is dynamic rather than static, why disease is often a failure of regulation, and why nutrition, exercise, sleep, stress management, and preventive medicine all work by helping the body maintain its natural balance.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/03-human-system/00---readme" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Human Systems</span><span class="os-cta-sub">Human Systems explain how the body's major organ systems work together to maintain...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,6 +1,6 @@
 # Psychology
 
-> *Psychology is the scientific study of the mind and behavior. It seeks to understand how humans and other animals think, feel, learn, remember, perceive, decide, and behave. Psychology uses the scientific method to explain mental processes and behavior, integrating insights from biology, neuroscience, cognition, development, and social interaction. As both a natural and social science, psychology helps explain why people behave as they do and how that knowledge can improve health, education, relationships, work, and society.* :contentReference[oaicite:0]{index=0}
+> *Psychology is the scientific study of the mind and behavior. It seeks to understand how humans and other animals think, feel, learn, remember, perceive, decide, and behave. Psychology uses the scientific method to explain mental processes and behavior, integrating insights from biology, neuroscience, cognition, development, and social interaction. As both a natural and social science, psychology helps explain why people behave as they do and how that knowledge can improve health, education, relationships, work, and society.*
 
 ---
 
@@ -22,7 +22,7 @@ It investigates questions such as:
 - What shapes personality?
 - How do relationships influence behavior?
 
-Unlike philosophy, psychology answers these questions using **observation, experimentation, and scientific evidence**. :contentReference[oaicite:1]{index=1}
+Unlike philosophy, psychology answers these questions using **observation, experimentation, and scientific evidence**.
 
 ---
 
@@ -60,29 +60,22 @@ Psychology seeks scientific explanations for behavior by studying how biological
 
 # The Scope of Psychology
 
-```text
-Psychology
-      │
- ┌────┼──────────────┬──────────────┐
- ▼    ▼              ▼              ▼
-Biological
-Cognitive
-Developmental
-Social
- │
- ├────────────┬──────────────┬──────────────┐
- ▼            ▼              ▼
-Personality
-Clinical
-Behavioral
- │
- ├────────────┬──────────────┐
- ▼            ▼
-Health
-Industrial & Organizational
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Psychology</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Biological</div></div>
+<div class="tree-item"><div class="tree-node">Cognitive</div></div>
+<div class="tree-item"><div class="tree-node">Developmental</div></div>
+<div class="tree-item"><div class="tree-node">Social</div></div>
+<div class="tree-item"><div class="tree-node">Personality</div></div>
+<div class="tree-item"><div class="tree-node">Clinical</div></div>
+<div class="tree-item"><div class="tree-node">Behavioral</div></div>
+<div class="tree-item"><div class="tree-node">Health</div></div>
+<div class="tree-item"><div class="tree-node">Industrial &amp; Organizational</div></div>
+</div>
+</div>
 
-Psychology spans many specialized fields because human behavior is influenced by biological, mental, developmental, and social factors. :contentReference[oaicite:2]{index=2}
+Psychology spans many specialized fields because human behavior is influenced by biological, mental, developmental, and social factors.
 
 ---
 
@@ -197,7 +190,7 @@ Psychologists use:
 - Brain imaging
 - Statistical analysis
 
-Scientific knowledge must be **observable, measurable, and testable**. :contentReference[oaicite:3]{index=3}
+Scientific knowledge must be **observable, measurable, and testable**.
 
 ---
 
@@ -240,7 +233,7 @@ Modern psychology recognizes that behavior emerges from interactions among:
 - Culture
 - Social relationships
 
-Rather than treating nature and nurture as competing explanations, psychologists study how they interact. :contentReference[oaicite:4]{index=4}
+Rather than treating nature and nurture as competing explanations, psychologists study how they interact.
 
 ---
 
@@ -248,16 +241,18 @@ Rather than treating nature and nurture as competing explanations, psychologists
 
 Psychology contributes to:
 
-- Mental healthcare
-- Education
-- Parenting
-- Sports
-- Business
-- Military
-- Marketing
-- Artificial intelligence
-- Public health
-- Human-computer interaction
+<div class="tag-grid">
+<span class="tag-pill">Mental healthcare</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Parenting</span>
+<span class="tag-pill">Sports</span>
+<span class="tag-pill">Business</span>
+<span class="tag-pill">Military</span>
+<span class="tag-pill">Marketing</span>
+<span class="tag-pill">Artificial intelligence</span>
+<span class="tag-pill">Public health</span>
+<span class="tag-pill">Human-computer interaction</span>
+</div>
 
 ---
 
@@ -299,7 +294,7 @@ Psychologists infer mental processes using scientific evidence—they cannot dir
 
 Reality:
 
-Many psychological findings challenge intuition and require rigorous scientific testing. :contentReference[oaicite:5]{index=5}
+Many psychological findings challenge intuition and require rigorous scientific testing.
 
 ---
 
@@ -307,23 +302,26 @@ Many psychological findings challenge intuition and require rigorous scientific 
 
 Every human:
 
-- Thinks
-- Learns
-- Loves
-- Fears
-- Decides
-- Makes mistakes
-- Builds habits
-- Lives with others
+> [!success]
+> - Thinks
+> - Learns
+> - Loves
+> - Fears
+> - Decides
+> - Makes mistakes
+> - Builds habits
+> - Lives with others
 
 Psychology provides evidence-based knowledge that helps people:
 
-- Learn better
-- Improve mental health
-- Build healthier relationships
-- Make better decisions
-- Reduce harmful behaviors
-- Improve well-being
+> [!success]
+> - Learn better
+> - Improve mental health
+> - Build healthier relationships
+> - Make better decisions
+> - Reduce harmful behaviors
+> - Improve well-being
+
 
 ---
 
@@ -427,9 +425,7 @@ It serves as the bridge between the biological brain and the complex behaviors t
 ## Enables
 
 - [[Cognition]]
-- [[Mental Health]]
 - [[Education]]
-- [[Behavior Change]]
 - [[Decision Making]]
 
 ## Related
@@ -439,18 +435,21 @@ It serves as the bridge between the biological brain and the complex behaviors t
 - [[Memory]]
 - [[Emotions]]
 
-## Next
-
-→ [[Cognition]]
-
 ---
 
 # HumanOS Principle
 
-Psychology is the scientific study of the mind and behavior. By applying the scientific method to questions about thinking, feeling, learning, development, personality, and social interaction, psychology explains how biological processes, experience, and environment work together to shape human behavior. Understanding psychology enables people to better understand themselves, improve their relationships, make better decisions, and contribute to healthier individuals and societies. :contentReference[oaicite:6]{index=6}
+Psychology is the scientific study of the mind and behavior. By applying the scientific method to questions about thinking, feeling, learning, development, personality, and social interaction, psychology explains how biological processes, experience, and environment work together to shape human behavior. Understanding psychology enables people to better understand themselves, improve their relationships, make better decisions, and contribute to healthier individuals and societies.
 
 ---
 
 # Key Insight
 
-> **Psychology is the science of understanding the mind through behavior. Studying how humans think, learn, remember, feel, and act reveals the principles that connect the brain to everyday life, helping us understand ourselves, improve our choices, and build healthier individuals and societies.** :contentReference[oaicite:7]{index=7}
+> **Psychology is the science of understanding the mind through behavior. Studying how humans think, learn, remember, feel, and act reveals the principles that connect the brain to everyday life, helping us understand ourselves, improve our choices, and build healthier individuals and societies.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/07-mind/02---cognition" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Cognition</span><span class="os-cta-sub">Cognition is the collection of mental processes involved in acquiring, processing,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

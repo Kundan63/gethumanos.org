@@ -1,6 +1,6 @@
 # Neuroplasticity
 
-> *Neuroplasticity is the brain's ability to change its structure, function, and connections throughout life in response to learning, experience, practice, environment, and injury. Rather than being permanently fixed after childhood, the brain continuously rewires itself by strengthening useful neural connections, weakening unused ones, forming new synapses, and reorganizing neural networks. Neuroplasticity is the biological foundation of learning, memory, recovery, adaptation, and lifelong human development.* :contentReference[oaicite:0]{index=0}
+> *Neuroplasticity is the brain's ability to change its structure, function, and connections throughout life in response to learning, experience, practice, environment, and injury. Rather than being permanently fixed after childhood, the brain continuously rewires itself by strengthening useful neural connections, weakening unused ones, forming new synapses, and reorganizing neural networks. Neuroplasticity is the biological foundation of learning, memory, recovery, adaptation, and lifelong human development.*
 
 ---
 
@@ -20,7 +20,7 @@ The word **plastic** does **not** mean "made of plastic."
 
 It means **moldable** or **adaptable**.
 
-Unlike earlier scientific beliefs that the adult brain was largely fixed, modern neuroscience shows that the brain remains capable of meaningful change throughout life, although plasticity is generally greatest during early development. :contentReference[oaicite:1]{index=1}
+Unlike earlier scientific beliefs that the adult brain was largely fixed, modern neuroscience shows that the brain remains capable of meaningful change throughout life, although plasticity is generally greatest during early development.
 
 ---
 
@@ -53,20 +53,21 @@ Every experience slightly changes the brain.
 
 Repeated activity strengthens frequently used pathways while unused pathways may weaken or be pruned.
 
-This continual remodeling allows the brain to become more efficient at tasks that are practiced repeatedly. :contentReference[oaicite:2]{index=2}
+This continual remodeling allows the brain to become more efficient at tasks that are practiced repeatedly.
 
 ---
 
 # Forms of Neuroplasticity
 
-```text
-            Neuroplasticity
-                    │
- ┌──────────┬────────────┬─────────────┬────────────┐
- ▼          ▼            ▼             ▼
-Synaptic Structural Functional Developmental
-Plasticity Plasticity Plasticity Plasticity
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Neuroplasticity</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Synaptic Plasticity</div></div>
+<div class="tree-item"><div class="tree-node">Structural Plasticity</div></div>
+<div class="tree-item"><div class="tree-node">Functional Plasticity</div></div>
+<div class="tree-item"><div class="tree-node">Developmental Plasticity</div></div>
+</div>
+</div>
 
 ---
 
@@ -83,7 +84,7 @@ Examples:
 - New synapses
 - Synaptic pruning
 
-This is considered one of the primary biological mechanisms underlying learning and memory. :contentReference[oaicite:3]{index=3}
+This is considered one of the primary biological mechanisms underlying learning and memory.
 
 ---
 
@@ -118,7 +119,7 @@ The developing brain undergoes rapid reorganization during infancy, childhood, a
 
 During these **critical periods**, experience strongly shapes brain development.
 
-Plasticity is adaptive but also creates vulnerability to harmful environmental influences during development. :contentReference[oaicite:4]{index=4}
+Plasticity is adaptive but also creates vulnerability to harmful environmental influences during development.
 
 ---
 
@@ -144,12 +145,13 @@ Neuroplasticity connects **experience** with **brain change**, making lifelong l
 
 Neuroplasticity explains:
 
-- Why children learn languages easily.
-- Why practice improves skills.
-- Why habits become automatic.
-- Why rehabilitation works after injury.
-- Why lifelong learning is possible.
-- Why negative habits can also become deeply ingrained.
+> [!success]
+> - Why children learn languages easily.
+> - Why practice improves skills.
+> - Why habits become automatic.
+> - Why rehabilitation works after injury.
+> - Why lifelong learning is possible.
+> - Why negative habits can also become deeply ingrained.
 
 It gives humans one of biology's most hopeful messages:
 
@@ -209,7 +211,7 @@ Every new word, grammar rule, and conversation reshapes neural networks involved
 
 Following a stroke, healthy brain regions can sometimes reorganize to support functions that were impaired.
 
-Rehabilitation takes advantage of neuroplasticity by encouraging repeated practice of affected skills. :contentReference[oaicite:5]{index=5}
+Rehabilitation takes advantage of neuroplasticity by encouraging repeated practice of affected skills.
 
 ---
 
@@ -217,26 +219,22 @@ Rehabilitation takes advantage of neuroplasticity by encouraging repeated practi
 
 Brain plasticity depends on many interacting factors.
 
-```text
-             Neuroplasticity
-                   ▲
-                   │
- ┌─────────────────┼──────────────────┐
- │                 │                  │
-Learning      Physical Activity    Sleep
- │                 │                  │
- ├─────────────────┼──────────────────┤
- │                 │                  │
-Nutrition      Stress          Social Life
- │                 │                  │
- ├─────────────────┼──────────────────┤
- │                 │                  │
-Environment   Brain Injury      Aging
- │                 │                  │
- └─────────────────┼──────────────────┘
-                   │
-          Healthy Brain Adaptation
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Neuroplasticity</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Physical Activity</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Social Life</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Brain Injury</div></div>
+<div class="tree-item"><div class="tree-node">Aging</div></div>
+</div>
+</div>
+
+Healthy Brain Adaptation
 
 Healthy neuroplasticity is supported by sleep, physical activity, learning, nutrition, and meaningful experiences.
 
@@ -260,11 +258,16 @@ Examples include:
 
 Neuroplasticity itself is neither good nor bad.
 
-It simply allows the brain to adapt to repeated experiences. :contentReference[oaicite:6]{index=6}
+It simply allows the brain to adapt to repeated experiences.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Yoga_Teacher_Training_India_-_Shiva_Tattva_Yoga,_Rishikesh_.jpg?width=1200" alt="Yoga practitioners training in Rishikesh, India, a tradition studied by neuroscientists researching how sustained practice reshapes the brain">
+<p class="domain-figure-caption">Yoga training in Rishikesh, India — a practice linked in neuroscience research to brain plasticity, via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -430,24 +433,13 @@ It prepares the foundation for understanding:
 
 - [[Memory]]
 - [[Learning]]
-- [[Skill Acquisition]]
 - [[Recovery]]
-- [[Adaptation]]
 
 ---
 
 ## Related
 
-- [[Synaptic Plasticity]]
-- [[Neurogenesis]]
-- [[Critical Periods]]
-- [[Brain Development]]
-
----
-
-## Next
-
-→ [[Memory]]
+None.
 
 ---
 
@@ -461,10 +453,17 @@ Every lesson learned, every habit repeated, every challenge overcome, and every 
 
 Understanding neuroplasticity reveals one of the most empowering principles in HumanOS:
 
-> **The life you repeatedly live becomes the brain you build.** :contentReference[oaicite:7]{index=7}
+> **The life you repeatedly live becomes the brain you build.**
 
 ---
 
 # Key Insight
 
-> **Neuroplasticity is the brain's lifelong ability to adapt by changing its structure, function, and connections in response to experience, learning, practice, and injury. Through the strengthening, weakening, and reorganization of neural networks, neuroplasticity makes memory, learning, skill development, recovery, and personal growth possible. Understanding neuroplasticity shows that the human brain is not fixed—it is continuously shaped by how we think, learn, practice, and live.** :contentReference[oaicite:8]{index=8}
+> **Neuroplasticity is the brain's lifelong ability to adapt by changing its structure, function, and connections in response to experience, learning, practice, and injury. Through the strengthening, weakening, and reorganization of neural networks, neuroplasticity makes memory, learning, skill development, recovery, and personal growth possible. Understanding neuroplasticity shows that the human brain is not fixed—it is continuously shaped by how we think, learn, practice, and live.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/07-mind/04---memory" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Memory</span><span class="os-cta-sub">Memory is the system of mental processes that enables humans to encode, store, and...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

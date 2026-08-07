@@ -1,6 +1,6 @@
 # Ethics
 
-> *Ethics is the branch of philosophy that studies morality—what people ought to do, what makes actions right or wrong, what constitutes a good life, and what virtues individuals and societies should cultivate. Ethics seeks to develop reasoned principles for evaluating human behavior, character, and institutions rather than relying solely on custom, authority, or personal opinion.* :contentReference[oaicite:0]{index=0}
+> *Ethics is the branch of philosophy that studies morality—what people ought to do, what makes actions right or wrong, what constitutes a good life, and what virtues individuals and societies should cultivate. Ethics seeks to develop reasoned principles for evaluating human behavior, character, and institutions rather than relying solely on custom, authority, or personal opinion.*
 
 ---
 
@@ -16,7 +16,7 @@ It asks questions such as:
 - What responsibilities do we have toward others?
 - How should societies make moral decisions?
 
-Ethics uses reason and critical thinking to examine moral questions rather than accepting answers based only on tradition or emotion. :contentReference[oaicite:1]{index=1}
+Ethics uses reason and critical thinking to examine moral questions rather than accepting answers based only on tradition or emotion.
 
 ---
 
@@ -59,18 +59,19 @@ Ethics answers this by developing principles that help evaluate actions, charact
 
 # Components of Ethics
 
-```text
-Ethics
-   │
- ├── Values
- ├── Duties
- ├── Virtues
- ├── Rights
- ├── Justice
- ├── Responsibility
- ├── Consequences
- └── Moral Reasoning
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Ethics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Values</div></div>
+<div class="tree-item"><div class="tree-node">Duties</div></div>
+<div class="tree-item"><div class="tree-node">Virtues</div></div>
+<div class="tree-item"><div class="tree-node">Rights</div></div>
+<div class="tree-item"><div class="tree-node">Justice</div></div>
+<div class="tree-item"><div class="tree-node">Responsibility</div></div>
+<div class="tree-item"><div class="tree-node">Consequences</div></div>
+<div class="tree-item"><div class="tree-node">Moral Reasoning</div></div>
+</div>
+</div>
 
 These elements help humans evaluate what ought to be done.
 
@@ -208,15 +209,16 @@ Ethical reasoning aims for decisions that are both rational and morally justifia
 
 # Major Branches of Ethics
 
-```text
-Ethics
-   │
- ├── Meta-Ethics
- ├── Normative Ethics
- └── Applied Ethics
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Ethics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Meta-Ethics</div></div>
+<div class="tree-item"><div class="tree-node">Normative Ethics</div></div>
+<div class="tree-item"><div class="tree-node">Applied Ethics</div></div>
+</div>
+</div>
 
-These are the three major divisions recognized in contemporary philosophy. :contentReference[oaicite:2]{index=2}
+These are the three major divisions recognized in contemporary philosophy.
 
 ---
 
@@ -244,7 +246,7 @@ Major approaches include:
 - Deontology
 - Virtue Ethics
 
-Normative ethics provides frameworks for moral decision-making. :contentReference[oaicite:3]{index=3}
+Normative ethics provides frameworks for moral decision-making.
 
 ---
 
@@ -267,13 +269,14 @@ Applied ethics uses philosophical principles to evaluate practical situations.
 
 # Major Ethical Theories
 
-```text
-Normative Ethics
-      │
- ├── Consequentialism
- ├── Deontology
- └── Virtue Ethics
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Normative Ethics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Consequentialism</div></div>
+<div class="tree-item"><div class="tree-node">Deontology</div></div>
+<div class="tree-item"><div class="tree-node">Virtue Ethics</div></div>
+</div>
+</div>
 
 ---
 
@@ -317,15 +320,17 @@ Virtue ethics emphasizes lifelong moral development.
 
 Ethics guides decision-making in:
 
-- Medicine
-- Law
-- Business
-- Government
-- Education
-- Artificial Intelligence
-- Environmental protection
-- Engineering
-- Scientific research
+<div class="tag-grid">
+<span class="tag-pill">Medicine</span>
+<span class="tag-pill">Law</span>
+<span class="tag-pill">Business</span>
+<span class="tag-pill">Government</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Artificial Intelligence</span>
+<span class="tag-pill">Environmental protection</span>
+<span class="tag-pill">Engineering</span>
+<span class="tag-pill">Scientific research</span>
+</div>
 
 Nearly every profession has ethical standards.
 
@@ -363,14 +368,15 @@ Many ethical problems involve genuine conflicts between important values, requir
 
 Ethics influences:
 
-- Personal relationships
-- Leadership
-- Science
-- Technology
-- Healthcare
-- Business
-- Government
-- Environmental stewardship
+> [!success]
+> - Personal relationships
+> - Leadership
+> - Science
+> - Technology
+> - Healthcare
+> - Business
+> - Government
+> - Environmental stewardship
 
 Understanding ethics helps people make responsible decisions that benefit both individuals and society.
 
@@ -448,13 +454,10 @@ As technology grows more powerful, ethical reasoning becomes increasingly import
 It connects:
 
 - [[Philosophy]]
-- [[Justice]]
 - [[Law]]
 - [[Politics]]
 - [[Artificial Intelligence]]
 - [[Business]]
-- [[Medicine]]
-- [[Human Rights]]
 
 It demonstrates that ethical reasoning transforms knowledge into responsible action, ensuring that human progress serves both individuals and society.
 
@@ -466,36 +469,31 @@ It demonstrates that ethical reasoning transforms knowledge into responsible act
 
 - [[Philosophy]]
 - [[Logic]]
-- [[Reason]]
-- [[Human Nature]]
 
 ## Enables
 
-- [[Justice]]
 - [[Law]]
 - [[Leadership]]
-- [[Artificial Intelligence Ethics]]
-- [[Human Rights]]
 
 ## Related
 
-- [[Virtue]]
-- [[Responsibility]]
-- [[Morality]]
 - [[Meaning & Purpose]]
-
-## Next
-
-→ [[Metaphysics]]
 
 ---
 
 # HumanOS Principle
 
-Ethics is the branch of philosophy that studies morality by examining what people ought to do, what makes actions right or wrong, and what kind of character individuals should cultivate. Through reasoned analysis of values, duties, rights, virtues, and consequences, ethics provides the principles that guide responsible decision-making in personal life, society, science, and technology. :contentReference[oaicite:4]{index=4}
+Ethics is the branch of philosophy that studies morality by examining what people ought to do, what makes actions right or wrong, and what kind of character individuals should cultivate. Through reasoned analysis of values, duties, rights, virtues, and consequences, ethics provides the principles that guide responsible decision-making in personal life, society, science, and technology.
 
 ---
 
 # Key Insight
 
 > **Ethics is civilization's moral compass. Science tells us what we can do, engineering shows us how to do it, but ethics asks whether we should. Human progress is measured not only by knowledge and power, but by the wisdom and responsibility with which they are used.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/10-philosophy--and--spirituality/03---metaphysics" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Metaphysics</span><span class="os-cta-sub">Metaphysics is the branch of philosophy that studies the fundamental nature of...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

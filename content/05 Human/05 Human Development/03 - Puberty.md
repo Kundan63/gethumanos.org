@@ -1,6 +1,6 @@
 # Puberty
 
-> *Puberty is the biological transition from childhood to reproductive maturity. During puberty, hormonal changes trigger rapid physical growth, sexual maturation, brain development, and emotional and social changes. Although the sequence of development is highly predictable, the age at which puberty begins varies among individuals due to genetics, nutrition, health, and environmental influences. Puberty prepares the body for adulthood while the brain continues to mature into early adulthood.* :contentReference[oaicite:0]{index=0}
+> *Puberty is the biological transition from childhood to reproductive maturity. During puberty, hormonal changes trigger rapid physical growth, sexual maturation, brain development, and emotional and social changes. Although the sequence of development is highly predictable, the age at which puberty begins varies among individuals due to genetics, nutrition, health, and environmental influences. Puberty prepares the body for adulthood while the brain continues to mature into early adulthood.*
 
 ---
 
@@ -17,7 +17,7 @@ It is marked by:
 - Emotional changes
 - Social and psychological development
 
-Puberty is **not a single event**, but a gradual biological process that usually lasts several years. :contentReference[oaicite:1]{index=1}
+Puberty is **not a single event**, but a gradual biological process that usually lasts several years.
 
 ---
 
@@ -62,7 +62,7 @@ Puberty usually begins:
 | Girls | 8–13 years |
 | Boys | 9–14 years |
 
-Girls generally begin puberty about **1–2 years earlier** than boys, although healthy variation is common. :contentReference[oaicite:2]{index=2}
+Girls generally begin puberty about **1–2 years earlier** than boys, although healthy variation is common.
 
 ---
 
@@ -74,19 +74,21 @@ The process begins in the brain.
 
 This pathway is called the **Hypothalamic–Pituitary–Gonadal (HPG) axis**.
 
-Its activation triggers nearly every physical change associated with puberty. :contentReference[oaicite:3]{index=3}
+Its activation triggers nearly every physical change associated with puberty.
 
 ---
 
 # Major Changes During Puberty
 
-```text
-             Puberty
-                 │
- ┌────────┬────────┬─────────┬─────────┐
- ▼        ▼        ▼         ▼
-Growth Reproductive Brain Emotional
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Puberty</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Growth</div></div>
+<div class="tree-item"><div class="tree-node">Reproductive</div></div>
+<div class="tree-item"><div class="tree-node">Brain</div></div>
+<div class="tree-item"><div class="tree-node">Emotional</div></div>
+</div>
+</div>
 
 ---
 
@@ -100,7 +102,7 @@ During puberty:
 - Body composition changes.
 - Internal organs mature.
 
-This rapid increase in height is known as the **growth spurt**. :contentReference[oaicite:4]{index=4}
+This rapid increase in height is known as the **growth spurt**.
 
 ---
 
@@ -127,7 +129,7 @@ Typical sequence:
 - Facial hair growth
 - Sperm production
 
-Although the sequence is predictable, timing varies between individuals. :contentReference[oaicite:5]{index=5}
+Although the sequence is predictable, timing varies between individuals.
 
 ---
 
@@ -143,7 +145,7 @@ Changes include:
 - Better planning
 - Increased independence
 
-The prefrontal cortex—which supports judgment and long-term planning—continues developing well beyond puberty into early adulthood. :contentReference[oaicite:6]{index=6}
+The prefrontal cortex—which supports judgment and long-term planning—continues developing well beyond puberty into early adulthood.
 
 ---
 
@@ -163,27 +165,38 @@ Emotional changes are influenced by both biology and the social environment.
 
 # Hormones of Puberty
 
-```text
-           Brain
-             │
-     Hypothalamus
-             │
-           GnRH
-             │
-     Pituitary Gland
-      │             │
-     LH            FSH
-      │             │
-      └──────┬──────┘
-             ▼
-   Ovaries / Testes
-             │
-Estrogen • Testosterone
-             │
-Physical & Reproductive Changes
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Brain</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Hypothalamus</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">GnRH</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Pituitary Gland</span> LH, FSH</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Ovaries / Testes</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Estrogen, Testosterone</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Physical & Reproductive Changes</span></div>
+</div>
+</div>
 
-These hormones coordinate growth, fertility, bone development, muscle growth, and secondary sexual characteristics. :contentReference[oaicite:7]{index=7}
+These hormones coordinate growth, fertility, bone development, muscle growth, and secondary sexual characteristics.
 
 ---
 
@@ -222,12 +235,13 @@ Puberty connects endocrinology, neuroscience, reproduction, psychology, and huma
 
 Puberty explains:
 
-- Why adolescents grow rapidly.
-- Why emotions often become more intense.
-- Why reproductive capability develops.
-- Why sleep patterns change.
-- Why nutritional needs increase.
-- Why brain development continues after physical maturity.
+> [!success]
+> - Why adolescents grow rapidly.
+> - Why emotions often become more intense.
+> - Why reproductive capability develops.
+> - Why sleep patterns change.
+> - Why nutritional needs increase.
+> - Why brain development continues after physical maturity.
 
 Understanding puberty helps parents, teachers, healthcare providers, and adolescents navigate this important life stage.
 
@@ -239,7 +253,7 @@ Understanding puberty helps parents, teachers, healthcare providers, and adolesc
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:206px"><svg width="100%" viewBox="0 0 206 294" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="169.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="103.0" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Growth Hormone</text><rect x="18.0" y="90.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Sex Hormones</text><rect x="18.0" y="162.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Bone Growth</text><rect x="18.0" y="234.0" width="169.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="103.0" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Height Increases</text><line x1="103.0" y1="64.0" x2="103.0" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="136.0" x2="103.0" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="208.0" x2="103.0" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Most adolescents experience their fastest period of growth during puberty. :contentReference[oaicite:8]{index=8}
+Most adolescents experience their fastest period of growth during puberty.
 
 ---
 
@@ -269,26 +283,41 @@ Changing hormone levels and ongoing brain development contribute to emotional va
 
 # Healthy Puberty
 
-```text
-            Healthy Puberty
-                  ▲
-                  │
- ┌────────────────┼─────────────────┐
- │                │                 │
-Nutrition     Sleep          Exercise
- │                │                 │
- ├────────────────┼─────────────────┤
- │                │                 │
-Mental Health  Healthcare   Family Support
- │                │                 │
- ├────────────────┼─────────────────┤
- │                │                 │
-Education    Safe Environment
- │                │
- └────────────────┼─────────────────┘
-                  │
-         Healthy Adult Development
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Healthy Puberty</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Nutrition</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Mental Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Education</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Sleep</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Healthcare</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Safe Environment</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Exercise</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Family Support</div></div>
+</div>
+</div>
+</div>
+</div>
+
+→ **Healthy Adult Development**
 
 Healthy puberty depends on adequate nutrition, physical activity, sleep, emotional support, and access to healthcare.
 
@@ -305,7 +334,7 @@ Some children experience:
 - Faster progression
 - Slower progression
 
-These differences often reflect normal biological variation, although markedly early (**precocious puberty**) or delayed puberty may require medical evaluation. :contentReference[oaicite:9]{index=9}
+These differences often reflect normal biological variation, although markedly early (**precocious puberty**) or delayed puberty may require medical evaluation.
 
 ---
 
@@ -313,11 +342,16 @@ These differences often reflect normal biological variation, although markedly e
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:238px"><svg width="100%" viewBox="0 0 238 582" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Genetics</text><rect x="18.0" y="90.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Nutrition</text><rect x="18.0" y="162.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Overall Health</text><rect x="18.0" y="234.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Body Composition</text><rect x="18.0" y="306.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Environment</text><rect x="18.0" y="378.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Chronic Disease</text><rect x="18.0" y="450.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">────────────────────</text><rect x="18.0" y="522.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Timing of Puberty</text><line x1="119.2" y1="64.0" x2="119.2" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="136.0" x2="119.2" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="208.0" x2="119.2" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="280.0" x2="119.2" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="352.0" x2="119.2" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="424.0" x2="119.2" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="496.0" x2="119.2" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-The timing of puberty is influenced by both inherited biology and environmental factors. :contentReference[oaicite:10]{index=10}
+The timing of puberty is influenced by both inherited biology and environmental factors.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Indian_schoolgirls_2.jpg?width=1200" alt="Indian schoolgirls of adolescent age, the life stage during which puberty occurs">
+<p class="domain-figure-caption">Adolescent schoolgirls in India, the age group experiencing puberty — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -381,7 +415,7 @@ Modern medicine supports healthy puberty through:
 - Tanner staging
 - Treatment of early or delayed puberty
 
-These tools help distinguish normal variation from medical conditions. :contentReference[oaicite:11]{index=11}
+These tools help distinguish normal variation from medical conditions.
 
 ---
 
@@ -442,9 +476,9 @@ Very early or very delayed puberty should be evaluated by a healthcare professio
 It connects:
 
 - [[Endocrine System]] → Hormonal Control
-- [[Brain Development]] → Cognitive Maturation
+- Brain Development → Cognitive Maturation
 - [[Reproductive System]] → Fertility
-- [[Growth]] → Adult Body
+- Growth → Adult Body
 - [[Psychology]] → Identity Formation
 
 Understanding puberty reveals how hormones, the brain, and the body work together to prepare humans for adult life.
@@ -466,26 +500,12 @@ Understanding puberty reveals how hormones, the brain, and the body work togethe
 ## Enables
 
 - [[Adulthood]]
-- [[Reproduction]]
-- [[Identity]]
-- [[Healthy Aging]]
 
 ---
 
 ## Related
 
-- [[Hormones]]
-- [[GnRH]]
-- [[Pituitary Gland]]
-- [[Estrogen]]
-- [[Testosterone]]
-- [[Growth]]
-
----
-
-## Next
-
-→ [[Adulthood]]
+None.
 
 ---
 
@@ -499,4 +519,11 @@ Through coordinated hormonal signaling, rapid growth, brain maturation, and repr
 
 # Key Insight
 
-> **Puberty is the biological transition through which a child's body and brain mature toward adulthood. Initiated by the hypothalamic–pituitary–gonadal axis, it coordinates physical growth, reproductive capability, brain development, and emotional change. Although the timing varies naturally among individuals, puberty follows a remarkably organized sequence that prepares humans for adult life while the brain continues developing into early adulthood.** :contentReference[oaicite:12]{index=12}
+> **Puberty is the biological transition through which a child's body and brain mature toward adulthood. Initiated by the hypothalamic–pituitary–gonadal axis, it coordinates physical growth, reproductive capability, brain development, and emotional change. Although the timing varies naturally among individuals, puberty follows a remarkably organized sequence that prepares humans for adult life while the brain continues developing into early adulthood.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/05-human-development/04---adulthood" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Adulthood</span><span class="os-cta-sub">Adulthood is the longest stage of human development, during which physical growth is...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

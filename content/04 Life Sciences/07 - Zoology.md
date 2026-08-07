@@ -20,7 +20,7 @@ It investigates:
 - Animal ecology
 - Animal classification
 
-Zoology seeks to understand every aspect of animal life—from microscopic invertebrates to whales, elephants, birds, insects, and humans. It examines both living and extinct animals and their relationships with one another and with their environments. :contentReference[oaicite:0]{index=0}
+Zoology seeks to understand every aspect of animal life—from microscopic invertebrates to whales, elephants, birds, insects, and humans. It examines both living and extinct animals and their relationships with one another and with their environments.
 
 ---
 
@@ -58,26 +58,34 @@ Without zoology, humanity would understand only a small part of the living world
 
 Zoology studies animals from molecules to ecosystems.
 
-```text
-          Animal Kingdom
-                 │
-                 ▼
-      Evolution & Classification
-                 │
-                 ▼
-   Anatomy • Physiology • Genetics
-                 │
-                 ▼
- Behaviour • Development
-                 │
-                 ▼
- Ecology & Ecosystems
-                 │
-                 ▼
- Humans & Civilization
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Animal Kingdom</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Evolution &amp; Classification</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Anatomy</span> Physiology, Genetics</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Behaviour</span> Development</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Ecology &amp; Ecosystems</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Humans &amp; Civilization</span></div>
+</div>
+</div>
 
-Modern zoology combines genetics, evolution, ecology, physiology, behaviour, molecular biology, and environmental science to understand how animals live and interact with the world. :contentReference[oaicite:1]{index=1}
+Modern zoology combines genetics, evolution, ecology, physiology, behaviour, molecular biology, and environmental science to understand how animals live and interact with the world.
 
 ---
 
@@ -85,28 +93,35 @@ Modern zoology combines genetics, evolution, ecology, physiology, behaviour, mol
 
 Animals occupy an extraordinary range of environments and lifestyles.
 
-```text
-                    Animal Kingdom
-                           │
-        ┌──────────────────┼──────────────────┐
-        ▼                  ▼                  ▼
-   Invertebrates       Fish & Amphibians   Reptiles
-        │                  │                  │
-        └──────────────────┼──────────────────┘
-                           ▼
-                  Birds • Mammals
-                           │
-                           ▼
-                    Primates
-                           │
-                           ▼
-                        Humans
-                           │
-                           ▼
-               Science Studies Itself
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Animal Kingdom</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Invertebrates</div></div>
+<div class="tree-item"><div class="tree-node">Fish &amp; Amphibians</div></div>
+<div class="tree-item"><div class="tree-node">Reptiles</div></div>
+</div>
+</div>
 
-Although animals differ enormously in size, behaviour, and habitat, they share common evolutionary ancestry and many fundamental biological characteristics. :contentReference[oaicite:2]{index=2}
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Birds, Mammals</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Primates</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Humans</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Science Studies Itself</span></div>
+</div>
+</div>
+
+Although animals differ enormously in size, behaviour, and habitat, they share common evolutionary ancestry and many fundamental biological characteristics.
 
 ---
 
@@ -124,67 +139,49 @@ Humans interact with animals every day.
 
 Animals provide:
 
-- Food
-- Pollination
-- Ecosystem balance
-- Medicines
-- Scientific research
-- Companionship
-- Economic livelihoods
+> [!success]
+> - Food
+> - Pollination
+> - Ecosystem balance
+> - Medicines
+> - Scientific research
+> - Companionship
+> - Economic livelihoods
 
 Understanding zoology helps humans:
 
-- Improve animal welfare.
-- Develop medicines.
-- Control diseases.
-- Protect endangered species.
-- Improve agriculture.
-- Preserve biodiversity.
-- Better understand ourselves.
+> [!success]
+> - Improve animal welfare.
+> - Develop medicines.
+> - Control diseases.
+> - Protect endangered species.
+> - Improve agriculture.
+> - Preserve biodiversity.
+> - Better understand ourselves.
 
-Because humans are members of the animal kingdom, zoology is also the study of our own biological heritage. :contentReference[oaicite:3]{index=3}
+Because humans are members of the animal kingdom, zoology is also the study of our own biological heritage.
 
 ---
 
 # Daily Life Examples
 
-### 🐄 Food
-
-Livestock, poultry, fish, and many other animals provide important sources of nutrition for billions of people.
-
----
-
-### 🐝 Pollination
-
-Many crops depend on insects such as bees, butterflies, and other pollinators for successful reproduction.
-
----
-
-### 🐕 Companion Animals
-
-Dogs, cats, and other companion animals improve quality of life and contribute to physical and mental well-being.
-
----
-
-### 🦟 Disease Control
-
-Understanding mosquitoes, ticks, and other animal vectors helps prevent diseases such as malaria and dengue.
-
----
-
-### 🧪 Medical Research
-
-Studies of animals have contributed to advances in vaccines, surgical techniques, physiology, and medicines while increasingly emphasizing ethical research practices.
-
----
-
-### 🌿 Wildlife Conservation
-
-Protecting animal populations helps maintain healthy ecosystems that also support human life.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🐄</span><span class="os-card-title">Food</span><span class="os-card-desc">Livestock, poultry, fish, and many other animals provide important sources of nutrition for billions of people.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🐝</span><span class="os-card-title">Pollination</span><span class="os-card-desc">Many crops depend on insects such as bees, butterflies, and other pollinators for successful reproduction.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🐕</span><span class="os-card-title">Companion Animals</span><span class="os-card-desc">Dogs, cats, and other companion animals improve quality of life and contribute to physical and mental well-being.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🦟</span><span class="os-card-title">Disease Control</span><span class="os-card-desc">Understanding mosquitoes, ticks, and other animal vectors helps prevent diseases such as malaria and dengue.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🧪</span><span class="os-card-title">Medical Research</span><span class="os-card-desc">Studies of animals have contributed to advances in vaccines, surgical techniques, physiology, and medicines while increasingly emphasizing ethical research practices.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌿</span><span class="os-card-title">Wildlife Conservation</span><span class="os-card-desc">Protecting animal populations helps maintain healthy ecosystems that also support human life.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Dr._Salim_Ali_statue.jpg?width=1200" alt="Statue of Dr. Salim Ali, the Indian ornithologist known as the 'Birdman of India'">
+<p class="domain-figure-caption">Statue of Dr. Salim Ali, the "Birdman of India" who pioneered systematic ornithology across the country — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -368,20 +365,17 @@ It prepares the foundation for [[Biodiversity]], where plants, animals, microorg
 
 ## Related
 
-- [[Animal Kingdom]]
-- [[Animal Behaviour]]
-- [[Comparative Anatomy]]
-- [[Wildlife]]
 - [[Evolution]]
-
----
-
-## Next
-
-→ [[Biodiversity]]
 
 ---
 
 # Key Insight
 
 > **Zoology reveals that humans are one branch of an extraordinary animal kingdom shaped by hundreds of millions of years of evolution. By understanding animals—their biology, behaviour, and relationships with ecosystems—we better understand our own bodies, protect biodiversity, improve medicine and agriculture, and recognize that the health of humanity is inseparable from the health of the animal life with which we share Earth.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/04-life-sciences/08---biodiversity" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Biodiversity</span><span class="os-cta-sub">Biodiversity explains the richness of life on Earth. It reveals how the diversity of...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

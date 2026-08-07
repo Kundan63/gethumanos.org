@@ -1,6 +1,6 @@
 # Brain
 
-> *The Brain is the body's central command center and the biological foundation of the human mind. It receives information from the environment, interprets it, makes decisions, controls every organ system, stores memories, enables learning, generates emotions, and produces consciousness. Every thought, movement, feeling, invention, and civilization begins within the activity of the human brain.* :contentReference[oaicite:0]{index=0}
+> *The Brain is the body's central command center and the biological foundation of the human mind. It receives information from the environment, interprets it, makes decisions, controls every organ system, stores memories, enables learning, generates emotions, and produces consciousness. Every thought, movement, feeling, invention, and civilization begins within the activity of the human brain.*
 
 ---
 
@@ -8,7 +8,7 @@
 
 The **Brain** is the central organ of the **Central Nervous System (CNS)**.
 
-It is a highly organized biological information-processing system composed of approximately **86 billion neurons** connected through trillions of synapses. These networks continuously exchange electrical and chemical signals to regulate every function of the body and generate the human mind. :contentReference[oaicite:1]{index=1}
+It is a highly organized biological information-processing system composed of approximately **86 billion neurons** connected through trillions of synapses. These networks continuously exchange electrical and chemical signals to regulate every function of the body and generate the human mind.
 
 The brain controls:
 
@@ -52,49 +52,71 @@ The human brain represents the most advanced known biological information-proces
 
 The brain functions as an information-processing network.
 
-```text
-Environment
-      │
-      ▼
-Sensory Organs
-      │
-      ▼
-Brain Receives Signals
-      │
-      ▼
-Processes Information
-      │
-      ▼
-Decision Making
-      │
-      ▼
-Commands Sent
-      │
-      ▼
-Muscles • Organs • Hormones
-      │
-      ▼
-Behaviour
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Environment</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Sensory Organs</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Brain Receives Signals</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Processes Information</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Decision Making</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Commands Sent</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Muscles, Organs, Hormones</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">8</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Behaviour</span></div>
+</div>
+</div>
 
-Rather than acting as isolated parts, different brain regions cooperate through interconnected neural networks. Complex abilities such as language, memory, planning, and emotion emerge from communication across many regions rather than a single location. :contentReference[oaicite:2]{index=2}
+Rather than acting as isolated parts, different brain regions cooperate through interconnected neural networks. Complex abilities such as language, memory, planning, and emotion emerge from communication across many regions rather than a single location.
 
 ---
 
 # Major Parts of the Brain
 
-```text
-                    Brain
-                      │
-      ┌───────────────┼────────────────┐
-      ▼               ▼                ▼
-   Cerebrum      Cerebellum       Brainstem
-      │                                │
-      ▼                                ▼
-Thought • Memory               Breathing
-Language • Emotion             Heart Rate
-Decision Making                Blood Pressure
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Brain</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Cerebrum</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Thought</div></div>
+<div class="tree-item"><div class="tree-node">Memory</div></div>
+<div class="tree-item"><div class="tree-node">Language</div></div>
+<div class="tree-item"><div class="tree-node">Emotion</div></div>
+<div class="tree-item"><div class="tree-node">Decision Making</div></div>
+</div>
+</div>
+<div class="tree-item"><div class="tree-node">Cerebellum</div></div>
+<div class="tree-item">
+<div class="tree-node">Brainstem</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Breathing</div></div>
+<div class="tree-item"><div class="tree-node">Heart Rate</div></div>
+<div class="tree-item"><div class="tree-node">Blood Pressure</div></div>
+</div>
+</div>
+</div>
+</div>
 
 ### 🧠 Cerebrum
 
@@ -121,7 +143,7 @@ Coordinates:
 - Coordination
 - Motor learning
 
-Although smaller than the cerebrum, it contains the majority of the brain's neurons. :contentReference[oaicite:3]{index=3}
+Although smaller than the cerebrum, it contains the majority of the brain's neurons.
 
 ---
 
@@ -135,33 +157,48 @@ Controls vital functions including:
 - Swallowing
 - Sleep-wake regulation
 
-Damage to the brainstem is often life-threatening because it regulates functions essential for survival. :contentReference[oaicite:4]{index=4}
+Damage to the brainstem is often life-threatening because it regulates functions essential for survival.
 
 ---
 
 # Lobes of the Cerebrum
 
-```text
-           Cerebrum
-               │
- ┌─────────────┼─────────────┐
- ▼             ▼             ▼
-Frontal     Parietal     Occipital
-Lobe         Lobe          Lobe
- │             │             │
-Thinking   Touch       Vision
-Planning   Position
-Movement
- │
- ▼
-Temporal Lobe
- │
-Memory
-Language
-Hearing
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Cerebrum</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Frontal Lobe</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Thinking</div></div>
+<div class="tree-item"><div class="tree-node">Planning</div></div>
+<div class="tree-item"><div class="tree-node">Movement</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Parietal Lobe</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Touch</div></div>
+<div class="tree-item"><div class="tree-node">Position</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Occipital Lobe</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Vision</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Temporal Lobe</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Memory</div></div>
+<div class="tree-item"><div class="tree-node">Language</div></div>
+<div class="tree-item"><div class="tree-node">Hearing</div></div>
+</div>
+</div>
+</div>
+</div>
 
-Each lobe contributes specialized functions, but nearly all complex behaviours involve multiple lobes working together. :contentReference[oaicite:5]{index=5}
+Each lobe contributes specialized functions, but nearly all complex behaviours involve multiple lobes working together.
 
 ---
 
@@ -179,15 +216,16 @@ Everything that makes you uniquely human depends on your brain.
 
 Your brain allows you to:
 
-- Learn new skills.
-- Remember experiences.
-- Recognize loved ones.
-- Solve problems.
-- Communicate.
-- Create music and art.
-- Build technology.
-- Make ethical decisions.
-- Imagine the future.
+> [!success]
+> - Learn new skills.
+> - Remember experiences.
+> - Recognize loved ones.
+> - Solve problems.
+> - Communicate.
+> - Create music and art.
+> - Build technology.
+> - Make ethical decisions.
+> - Imagine the future.
 
 Protecting brain health protects every aspect of life.
 
@@ -222,7 +260,7 @@ Many different brain regions operate together in real time.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:311px"><svg width="100%" viewBox="0 0 311 294" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="275.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="155.7" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Practice</text><rect x="18.0" y="90.0" width="275.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="155.7" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Neural Connections Strengthen</text><rect x="18.0" y="162.0" width="275.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="155.7" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Movement Becomes Accurate</text><rect x="18.0" y="234.0" width="275.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="155.7" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Skill Improves</text><line x1="155.7" y1="64.0" x2="155.7" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="155.7" y1="136.0" x2="155.7" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="155.7" y1="208.0" x2="155.7" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Repeated practice changes the brain through **neuroplasticity**, making performance more efficient. :contentReference[oaicite:6]{index=6}
+Repeated practice changes the brain through **neuroplasticity**, making performance more efficient.
 
 ---
 
@@ -250,30 +288,25 @@ An emotional experience involves cooperation between multiple brain regions, inc
 
 Brain health depends on many interacting factors.
 
-```text
-                 Brain Health
-                      ▲
-                      │
- ┌────────────────────┼────────────────────┐
- │                    │                    │
-Nutrition      Physical Activity      Sleep
- │                    │                    │
- ├────────────────────┼────────────────────┤
- │                    │                    │
-Learning        Stress         Social Interaction
- │                    │                    │
- ├────────────────────┼────────────────────┤
- │                    │                    │
-Blood Flow      Environment      Genetics
- │                    │                    │
- ├────────────────────┼────────────────────┤
- │                    │                    │
-Aging         Disease       Injury
- │                    │                    │
- └────────────────────┼────────────────────┘
-                      │
-            Healthy or Diseased Brain
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Brain Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Physical Activity</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Social Interaction</div></div>
+<div class="tree-item"><div class="tree-node">Blood Flow</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Aging</div></div>
+<div class="tree-item"><div class="tree-node">Disease</div></div>
+<div class="tree-item"><div class="tree-node">Injury</div></div>
+</div>
+</div>
+
+Healthy or Diseased Brain
 
 Healthy brain function depends upon healthy blood circulation, oxygen supply, nutrition, sleep, learning, social interaction, and lifelong adaptation.
 
@@ -301,6 +334,11 @@ Most neurological disorders arise from interactions among genetics, aging, vascu
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bangalore,_NIMHANS_campus._National_Institute_of_Mental_Health_and_Neurosciences.jpg?width=1200" alt="The NIMHANS (National Institute of Mental Health and Neurosciences) campus in Bangalore, India's leading center for brain and mental health research and treatment">
+<p class="domain-figure-caption">NIMHANS, Bangalore — India's national institute for brain and neuroscience research, via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -395,7 +433,7 @@ The brain raises one of HumanOS's deepest questions:
 
 > **How does biological activity become conscious experience?**
 
-Science has explained many neural mechanisms, but the precise origin of subjective consciousness remains an open scientific and philosophical question. :contentReference[oaicite:7]{index=7}
+Science has explained many neural mechanisms, but the precise origin of subjective consciousness remains an open scientific and philosophical question.
 
 ---
 
@@ -483,7 +521,6 @@ Understanding the brain prepares us to explore:
 
 - [[Memory]]
 - [[Learning]]
-- [[Language]]
 - [[Consciousness]]
 - [[Psychology]]
 
@@ -499,12 +536,6 @@ Understanding the brain prepares us to explore:
 
 ---
 
-## Next
-
-→ [[Neurons]]
-
----
-
 # HumanOS Principle
 
 The brain is not simply an organ.
@@ -517,4 +548,11 @@ Every discovery, every invention, every work of art, and every civilization begi
 
 # Key Insight
 
-> **The brain is the body's central information-processing system and the biological foundation of the human mind. Through billions of interconnected neurons working in dynamic networks, it transforms sensory input into perception, memory, learning, emotion, decision-making, and consciousness. Understanding the brain reveals how biology gives rise to human thought and provides the knowledge needed to improve learning, protect brain health, advance medicine, and better understand ourselves and the world around us.** :contentReference[oaicite:8]{index=8}
+> **The brain is the body's central information-processing system and the biological foundation of the human mind. Through billions of interconnected neurons working in dynamic networks, it transforms sensory input into perception, memory, learning, emotion, decision-making, and consciousness. Understanding the brain reveals how biology gives rise to human thought and provides the knowledge needed to improve learning, protect brain health, advance medicine, and better understand ourselves and the world around us.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/04-brain--and--neuroscience/02---neurons" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Neurons</span><span class="os-cta-sub">Neurons are the fundamental information-processing cells of the nervous system. They...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

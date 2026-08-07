@@ -1,6 +1,6 @@
 # Exercise
 
-> *Exercise is planned, structured, and repetitive physical activity performed to improve or maintain physical fitness, health, and performance. By placing controlled stress on the body, exercise stimulates biological adaptations that strengthen muscles, bones, the heart, lungs, brain, metabolism, and immune system. Rather than wearing the body out, appropriate exercise makes the body stronger by activating its natural processes of repair and adaptation.* :contentReference[oaicite:0]{index=0}
+> *Exercise is planned, structured, and repetitive physical activity performed to improve or maintain physical fitness, health, and performance. By placing controlled stress on the body, exercise stimulates biological adaptations that strengthen muscles, bones, the heart, lungs, brain, metabolism, and immune system. Rather than wearing the body out, appropriate exercise makes the body stronger by activating its natural processes of repair and adaptation.*
 
 ---
 
@@ -18,7 +18,7 @@ Unlike general movement during daily life, exercise has a specific purpose, such
 - Improving balance
 - Supporting mental well-being
 
-Exercise is one of the most powerful lifestyle interventions for preventing disease and promoting healthy aging. :contentReference[oaicite:1]{index=1}
+Exercise is one of the most powerful lifestyle interventions for preventing disease and promoting healthy aging.
 
 ---
 
@@ -45,7 +45,7 @@ Without sufficient movement:
 - Metabolism becomes less efficient.
 - Disease risk increases.
 
-Exercise recreates the biological stimulus that the human body evolved to expect. :contentReference[oaicite:2]{index=2}
+Exercise recreates the biological stimulus that the human body evolved to expect.
 
 ---
 
@@ -75,13 +75,15 @@ Exercise affects nearly every organ simultaneously.
 
 # Types of Exercise
 
-```text
-                Exercise
-                    │
- ┌──────────┬──────────┬──────────┬──────────┐
- ▼          ▼          ▼          ▼
-Aerobic  Strength  Flexibility  Balance
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Exercise</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Aerobic</div></div>
+<div class="tree-item"><div class="tree-node">Strength</div></div>
+<div class="tree-item"><div class="tree-node">Flexibility</div></div>
+<div class="tree-item"><div class="tree-node">Balance</div></div>
+</div>
+</div>
 
 ---
 
@@ -153,30 +155,22 @@ Examples:
 - Single-leg standing
 - Balance drills
 
-WHO recommends combining aerobic activity with muscle-strengthening activities for optimal health. :contentReference[oaicite:3]{index=3}
+WHO recommends combining aerobic activity with muscle-strengthening activities for optimal health.
 
 ---
 
 # What Happens During Exercise?
 
-```text
-Exercise
-     │
- ┌───┼──────────────┐
- ▼   ▼              ▼
-Heart Rate ↑   Breathing ↑
-Blood Flow ↑
-     │
-     ▼
-More Oxygen
-More Nutrients
-     │
-     ▼
-ATP Production
-     │
-     ▼
-Movement
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Exercise</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Heart Rate ↑</div></div>
+<div class="tree-item"><div class="tree-node">Breathing ↑</div></div>
+<div class="tree-item"><div class="tree-node">Blood Flow ↑</div></div>
+</div>
+</div>
+
+→ **More Oxygen**, **More Nutrients** → **ATP Production** → **Movement**
 
 Muscles require more oxygen and energy, so multiple organ systems work together.
 
@@ -201,21 +195,20 @@ This process is called **adaptation**.
 
 # Exercise Benefits Every Human System
 
-```text
-Exercise
-     │
- ┌────┼────┬────┬────┬────┐
- ▼    ▼    ▼    ▼    ▼
-Heart Brain Bones Muscles Immunity
-      │
-      ▼
-Hormones
-Metabolism
-Sleep
-Mood
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Exercise</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Heart</div></div>
+<div class="tree-item"><div class="tree-node">Brain</div></div>
+<div class="tree-item"><div class="tree-node">Bones</div></div>
+<div class="tree-item"><div class="tree-node">Muscles</div></div>
+<div class="tree-item"><div class="tree-node">Immunity</div></div>
+</div>
+</div>
 
-Regular exercise supports nearly every physiological system. :contentReference[oaicite:4]{index=4}
+→ **Hormones**, **Metabolism**, **Sleep**, **Mood**
+
+Regular exercise supports nearly every physiological system.
 
 ---
 
@@ -231,19 +224,20 @@ Exercise cannot be separated from nutrition, sleep, or recovery—they function 
 
 Regular exercise:
 
-- Reduces risk of heart disease
-- Lowers risk of stroke
-- Helps prevent type 2 diabetes
-- Reduces risk of several cancers
-- Strengthens bones
-- Preserves muscle
-- Improves mood
-- Improves sleep
-- Supports brain health
-- Helps maintain healthy body weight
-- Increases healthy lifespan
+> [!success]
+> - Reduces risk of heart disease
+> - Lowers risk of stroke
+> - Helps prevent type 2 diabetes
+> - Reduces risk of several cancers
+> - Strengthens bones
+> - Preserves muscle
+> - Improves mood
+> - Improves sleep
+> - Supports brain health
+> - Helps maintain healthy body weight
+> - Increases healthy lifespan
 
-Physical inactivity is one of the leading global risk factors for chronic disease and premature death. :contentReference[oaicite:5]{index=5}
+Physical inactivity is one of the leading global risk factors for chronic disease and premature death.
 
 ---
 
@@ -286,22 +280,31 @@ Improves:
 
 # Healthy Exercise Principles
 
-```text
-Healthy Exercise
-        ▲
-        │
- ┌──────┼────────────┐
- │      │            │
-Regular Variety Progressive
- │      │            │
- ├──────┼────────────┤
- │      │            │
-Recovery Nutrition Sleep
- │      │            │
- └──────┼────────────┘
-        │
-Better Adaptation
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Healthy Exercise</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Regular</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Recovery</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Variety</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Progressive</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+</div>
+</div>
+</div>
+</div>
+
+→ **Better Adaptation**
 
 Healthy exercise is:
 
@@ -329,11 +332,16 @@ For most adults, the World Health Organization recommends:
 - **150–300 minutes** of moderate-intensity aerobic activity each week **or**
 - **75–150 minutes** of vigorous-intensity activity each week,
 
-plus **muscle-strengthening activities on two or more days per week**. Reducing prolonged sitting also provides additional health benefits. :contentReference[oaicite:6]{index=6}
+plus **muscle-strengthening activities on two or more days per week**. Reducing prolonged sitting also provides additional health benefits.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Yoga-vini-teacher-training-rishikesh.jpg?width=1200" alt="Yoga practice during teacher training in Rishikesh, India, a center of traditional yoga practice">
+<p class="domain-figure-caption">Yoga practice in Rishikesh, India, long regarded as a global center of yoga — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -450,11 +458,11 @@ Exercise explains how **movement reshapes biology**.
 It connects:
 
 - [[Nutrition]] → Fuel
-- [[Muscles]] → Movement
+- Muscles → Movement
 - [[Cardiovascular System]] → Oxygen Delivery
 - [[Respiratory System]] → Gas Exchange
 - [[Sleep]] → Recovery
-- [[Longevity]] → Healthy Aging
+- Longevity → Healthy Aging
 
 Exercise demonstrates that the human body is dynamic—it continually adapts to the demands placed upon it.
 
@@ -468,41 +476,34 @@ Exercise demonstrates that the human body is dynamic—it continually adapts to 
 - [[Musculoskeletal System]]
 - [[Cardiovascular System]]
 - [[Respiratory System]]
-- [[Metabolism]]
 
 ---
 
 ## Enables
 
 - [[Recovery]]
-- [[Healthspan]]
-- [[Longevity]]
-- [[Healthy Aging]]
 
 ---
 
 ## Related
 
-- [[ATP]]
-- [[Muscle]]
-- [[Bone]]
-- [[Heart]]
 - [[Sleep]]
-
----
-
-## Next
-
-→ [[Sleep]]
 
 ---
 
 # HumanOS Principle
 
-Exercise is not merely movement—it is a biological signal that tells the body to become stronger, healthier, and more resilient. Every workout challenges cells, muscles, bones, the heart, lungs, and brain to adapt. When combined with proper nutrition, sleep, and recovery, exercise becomes one of the most powerful tools humans possess to improve health, prevent disease, extend healthspan, and maintain independence throughout life. :contentReference[oaicite:7]{index=7}
+Exercise is not merely movement—it is a biological signal that tells the body to become stronger, healthier, and more resilient. Every workout challenges cells, muscles, bones, the heart, lungs, and brain to adapt. When combined with proper nutrition, sleep, and recovery, exercise becomes one of the most powerful tools humans possess to improve health, prevent disease, extend healthspan, and maintain independence throughout life.
 
 ---
 
 # Key Insight
 
-> **Exercise is intentional physical activity that uses controlled biological stress to stimulate adaptation. By strengthening the cardiovascular system, muscles, bones, metabolism, brain, and immune system, regular exercise transforms movement into better health, improved performance, disease prevention, and healthy aging. It demonstrates one of biology's fundamental principles: organisms adapt to the challenges they repeatedly encounter.** :contentReference[oaicite:8]{index=8}
+> **Exercise is intentional physical activity that uses controlled biological stress to stimulate adaptation. By strengthening the cardiovascular system, muscles, bones, metabolism, brain, and immune system, regular exercise transforms movement into better health, improved performance, disease prevention, and healthy aging. It demonstrates one of biology's fundamental principles: organisms adapt to the challenges they repeatedly encounter.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/06-lifestyle-biology/03---sleep" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Sleep</span><span class="os-cta-sub">Sleep is a naturally recurring biological state in which consciousness, movement, and...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

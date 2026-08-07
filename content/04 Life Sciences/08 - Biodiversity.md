@@ -21,7 +21,7 @@ Biodiversity includes every form of life:
 - Animals
 - Humans
 
-It also includes the interactions that connect them into functioning ecosystems. :contentReference[oaicite:0]{index=0}
+It also includes the interactions that connect them into functioning ecosystems.
 
 ---
 
@@ -39,7 +39,7 @@ During this time:
 
 The result is the extraordinary diversity of life that exists today.
 
-Biodiversity is therefore the outcome of **billions of years of evolution interacting with changing environments**. :contentReference[oaicite:1]{index=1}
+Biodiversity is therefore the outcome of **billions of years of evolution interacting with changing environments**.
 
 ---
 
@@ -49,26 +49,34 @@ Every species performs one or more roles within an ecosystem.
 
 Together these roles keep ecosystems functioning.
 
-```text
-                 Genetic Diversity
-                        │
-                        ▼
-                Species Diversity
-                        │
-                        ▼
-               Ecosystem Diversity
-                        │
-                        ▼
-          Stable & Resilient Ecosystems
-                        │
-                        ▼
-      Food • Water • Oxygen • Climate
-                        │
-                        ▼
-             Human Civilization
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Genetic Diversity</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Species Diversity</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Ecosystem Diversity</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Stable &amp; Resilient Ecosystems</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Food</span> Water, Oxygen, Climate</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Civilization</span></div>
+</div>
+</div>
 
-Greater biodiversity generally increases an ecosystem's ability to resist disturbances, recover from change, and continue providing essential ecosystem services. :contentReference[oaicite:2]{index=2}
+Greater biodiversity generally increases an ecosystem's ability to resist disturbances, recover from change, and continue providing essential ecosystem services.
 
 ---
 
@@ -76,29 +84,49 @@ Greater biodiversity generally increases an ecosystem's ability to resist distur
 
 Biodiversity is best understood as a living network rather than a collection of individual species.
 
-```text
-                     ☀ Sun
-                        │
-                        ▼
-                    🌿 Plants
-                        │
-        ┌───────────────┼────────────────┐
-        ▼               ▼                ▼
- Pollinators      Herbivores       Decomposers
-        │               │                │
-        ▼               ▼                ▼
-  Plant Growth     Carnivores     Nutrient Recycling
-        │               │                │
-        └───────────────┼────────────────┘
-                        ▼
-               Healthy Ecosystems
-                        │
-                        ▼
-      Clean Air • Water • Food • Soil
-                        │
-                        ▼
-                Human Civilization
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">☀ Sun</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">🌿 Plants</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Pollinators</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Plant Growth</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Herbivores</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Carnivores</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Decomposers</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nutrient Recycling</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Healthy Ecosystems</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Clean Air, Water, Food, Soil</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Civilization</span></div>
+</div>
+</div>
 
 Removing one important species can trigger changes throughout the entire system because every organism is connected to many others.
 
@@ -118,67 +146,40 @@ Biodiversity is humanity's natural life-support system.
 
 It provides:
 
-- 🌬 Clean air
-- 🚰 Fresh water
-- 🌾 Food
-- 💊 Medicines
-- 🐝 Pollination
-- 🌳 Climate regulation
-- 🌱 Fertile soils
-- 🛡 Disease regulation
-- ♻ Nutrient recycling
+> [!success]
+> - 🌬 Clean air
+> - 🚰 Fresh water
+> - 🌾 Food
+> - 💊 Medicines
+> - 🐝 Pollination
+> - 🌳 Climate regulation
+> - 🌱 Fertile soils
+> - 🛡 Disease regulation
+> - ♻ Nutrient recycling
 
-Without biodiversity, these ecosystem services would weaken or fail, directly affecting human health, food security, economies, and quality of life. :contentReference[oaicite:3]{index=3}
+Without biodiversity, these ecosystem services would weaken or fail, directly affecting human health, food security, economies, and quality of life.
 
 ---
 
 # Daily Life Examples
 
-### 🍎 Food
-
-Every meal depends on biodiversity.
-
-Different crops, pollinators, soil microorganisms, livestock, and aquatic organisms all contribute to global food production.
-
----
-
-### 💊 Medicines
-
-Many medicines originate from plants, fungi, bacteria, and animals.
-
-Protecting biodiversity increases the likelihood of discovering future medicines.
-
----
-
-### 🐝 Pollination
-
-Bees, butterflies, birds, and bats pollinate many fruits, vegetables, and nuts that humans consume.
-
-Without pollinators, crop yields would decline significantly.
-
----
-
-### 🌳 Forests
-
-Forests regulate rainfall, store carbon, stabilize soils, support wildlife, and provide countless resources for humans.
-
----
-
-### 🦠 Healthy Soil
-
-Billions of microorganisms recycle nutrients that plants need to grow.
-
-Healthy agriculture depends on healthy biodiversity beneath our feet.
-
----
-
-### 🌊 Oceans
-
-Marine biodiversity supports fisheries, produces oxygen, stores carbon, and regulates Earth's climate.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🍎</span><span class="os-card-title">Food</span><span class="os-card-desc">Every meal depends on biodiversity. Different crops, pollinators, soil microorganisms, livestock, and aquatic organisms all contribute to global food production.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">💊</span><span class="os-card-title">Medicines</span><span class="os-card-desc">Many medicines originate from plants, fungi, bacteria, and animals. Protecting biodiversity increases the likelihood of discovering future medicines.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🐝</span><span class="os-card-title">Pollination</span><span class="os-card-desc">Bees, butterflies, birds, and bats pollinate many fruits, vegetables, and nuts that humans consume. Without pollinators, crop yields would decline significantly.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌳</span><span class="os-card-title">Forests</span><span class="os-card-desc">Forests regulate rainfall, store carbon, stabilize soils, support wildlife, and provide countless resources for humans.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🦠</span><span class="os-card-title">Healthy Soil</span><span class="os-card-desc">Billions of microorganisms recycle nutrients that plants need to grow. Healthy agriculture depends on healthy biodiversity beneath our feet.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌊</span><span class="os-card-title">Oceans</span><span class="os-card-desc">Marine biodiversity supports fisheries, produces oxygen, stores carbon, and regulates Earth's climate.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Shola_Grasslands_and_forests_in_the_Kudremukh_National_Park,_Western_Ghats,_Karnataka.jpg?width=1200" alt="Shola grasslands and forests in Kudremukh National Park, part of the Western Ghats biodiversity hotspot in India">
+<p class="domain-figure-caption">Shola forests and grasslands, Kudremukh National Park, Western Ghats — one of the world's great biodiversity hotspots — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -252,7 +253,7 @@ Biodiversity supports major sectors including:
 - Pharmaceuticals
 - Renewable natural resources
 
-Healthy ecosystems generate enormous long-term economic value. :contentReference[oaicite:4]{index=4}
+Healthy ecosystems generate enormous long-term economic value.
 
 ---
 
@@ -383,17 +384,7 @@ Biodiversity is the culmination of life's evolutionary journey and prepares the 
 
 ## Related
 
-- [[Ecosystems]]
-- [[Food Web]]
-- [[Natural Selection]]
-- [[Conservation]]
-- [[Sustainability]]
-
----
-
-## Next
-
-→ [[Human]]
+None.
 
 ---
 
@@ -418,3 +409,10 @@ Human survival depends upon preserving that diversity.
 # Key Insight
 
 > **Biodiversity is the living fabric of Earth. It is the result of billions of years of evolution and the foundation of every ecosystem that provides food, water, oxygen, medicine, climate stability, and human well-being. Understanding biodiversity teaches us that protecting nature is not an act of charity toward wildlife—it is an investment in humanity's own future and in the resilience of the only known living planet.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/index" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Human</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

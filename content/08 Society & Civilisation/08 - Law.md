@@ -1,6 +1,6 @@
 # Law
 
-> *Law is the system of rules created, interpreted, and enforced by legitimate political authorities to regulate behavior, protect rights, resolve disputes, maintain social order, and promote justice. Laws define what people may do, must do, and must not do, while legal institutions such as legislatures, courts, police, and correctional systems ensure that these rules are applied consistently. The rule of law is a cornerstone of modern civilization because it makes both citizens and governments accountable to the law rather than to arbitrary power.* :contentReference[oaicite:0]{index=0}
+> *Law is the system of rules created, interpreted, and enforced by legitimate political authorities to regulate behavior, protect rights, resolve disputes, maintain social order, and promote justice. Laws define what people may do, must do, and must not do, while legal institutions such as legislatures, courts, police, and correctional systems ensure that these rules are applied consistently. The rule of law is a cornerstone of modern civilization because it makes both citizens and governments accountable to the law rather than to arbitrary power.*
 
 ---
 
@@ -21,7 +21,7 @@ It regulates:
 
 Law provides predictable rules that allow millions of people to cooperate peacefully.
 
-Unlike customs or traditions, laws are backed by the authority of the state and enforced through legal institutions. :contentReference[oaicite:1]{index=1}
+Unlike customs or traditions, laws are backed by the authority of the state and enforced through legal institutions.
 
 ---
 
@@ -55,18 +55,19 @@ Law answers this by creating common rules, protecting rights, resolving disputes
 
 # Components of Law
 
-```text
-Law
- │
- ├── Rights
- ├── Duties
- ├── Rules
- ├── Justice
- ├── Courts
- ├── Police
- ├── Legislature
- └── Constitution
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Law</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Rights</div></div>
+<div class="tree-item"><div class="tree-node">Duties</div></div>
+<div class="tree-item"><div class="tree-node">Rules</div></div>
+<div class="tree-item"><div class="tree-node">Justice</div></div>
+<div class="tree-item"><div class="tree-node">Courts</div></div>
+<div class="tree-item"><div class="tree-node">Police</div></div>
+<div class="tree-item"><div class="tree-node">Legislature</div></div>
+<div class="tree-item"><div class="tree-node">Constitution</div></div>
+</div>
+</div>
 
 Law functions through institutions as well as written rules.
 
@@ -127,7 +128,7 @@ They:
 - Interpret legislation
 - Determine guilt or liability
 
-Independent courts are a central feature of the rule of law. :contentReference[oaicite:2]{index=2}
+Independent courts are a central feature of the rule of law.
 
 ---
 
@@ -146,35 +147,37 @@ Enforcement gives practical effect to legal rules.
 
 # Functions of Law
 
-```text
-Law
- │
- ├── Maintain Order
- ├── Protect Rights
- ├── Resolve Disputes
- ├── Deliver Justice
- ├── Regulate Government
- └── Support Economic Activity
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Law</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Maintain Order</div></div>
+<div class="tree-item"><div class="tree-node">Protect Rights</div></div>
+<div class="tree-item"><div class="tree-node">Resolve Disputes</div></div>
+<div class="tree-item"><div class="tree-node">Deliver Justice</div></div>
+<div class="tree-item"><div class="tree-node">Regulate Government</div></div>
+<div class="tree-item"><div class="tree-node">Support Economic Activity</div></div>
+</div>
+</div>
 
-Law enables stable societies by providing predictable rules and peaceful dispute resolution. :contentReference[oaicite:3]{index=3}
+Law enables stable societies by providing predictable rules and peaceful dispute resolution.
 
 ---
 
 # Branches of Law
 
-```text
-Law
- │
- ├── Constitutional Law
- ├── Criminal Law
- ├── Civil Law
- ├── Administrative Law
- ├── Commercial Law
- ├── International Law
- ├── Environmental Law
- └── Human Rights Law
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Law</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Constitutional Law</div></div>
+<div class="tree-item"><div class="tree-node">Criminal Law</div></div>
+<div class="tree-item"><div class="tree-node">Civil Law</div></div>
+<div class="tree-item"><div class="tree-node">Administrative Law</div></div>
+<div class="tree-item"><div class="tree-node">Commercial Law</div></div>
+<div class="tree-item"><div class="tree-node">International Law</div></div>
+<div class="tree-item"><div class="tree-node">Environmental Law</div></div>
+<div class="tree-item"><div class="tree-node">Human Rights Law</div></div>
+</div>
+</div>
 
 ---
 
@@ -252,7 +255,7 @@ The **rule of law** means:
 - Government is also bound by the law.
 - Laws are applied fairly.
 - Courts are independent.
-- Justice follows legal procedures rather than arbitrary decisions. :contentReference[oaicite:4]{index=4}
+- Justice follows legal procedures rather than arbitrary decisions.
 
 ---
 
@@ -260,17 +263,18 @@ The **rule of law** means:
 
 The world's major legal traditions include:
 
-```text
-Legal Systems
-      │
- ├── Common Law
- ├── Civil Law
- ├── Religious Law
- ├── Customary Law
- └── Mixed Systems
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Legal Systems</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Common Law</div></div>
+<div class="tree-item"><div class="tree-node">Civil Law</div></div>
+<div class="tree-item"><div class="tree-node">Religious Law</div></div>
+<div class="tree-item"><div class="tree-node">Customary Law</div></div>
+<div class="tree-item"><div class="tree-node">Mixed Systems</div></div>
+</div>
+</div>
 
-Many countries combine more than one legal tradition. :contentReference[oaicite:5]{index=5}
+Many countries combine more than one legal tradition.
 
 ---
 
@@ -317,14 +321,16 @@ Law changes as society changes.
 
 Law is essential for:
 
-- Government
-- Business
-- Healthcare
-- Science
-- Technology
-- Environmental protection
-- Human rights
-- International relations
+<div class="tag-grid">
+<span class="tag-pill">Government</span>
+<span class="tag-pill">Business</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Science</span>
+<span class="tag-pill">Technology</span>
+<span class="tag-pill">Environmental protection</span>
+<span class="tag-pill">Human rights</span>
+<span class="tag-pill">International relations</span>
+</div>
 
 Nearly every organized activity depends on legal rules.
 
@@ -360,14 +366,15 @@ Laws evolve as societies develop new technologies, values, and institutions.
 
 Law influences:
 
-- Personal freedom
-- Property
-- Employment
-- Education
-- Healthcare
-- Business
-- Safety
-- Human rights
+> [!success]
+> - Personal freedom
+> - Property
+> - Employment
+> - Education
+> - Healthcare
+> - Business
+> - Safety
+> - Human rights
 
 Understanding the law helps people protect their rights, fulfill their responsibilities, and participate responsibly in society.
 
@@ -382,6 +389,11 @@ Law transforms political decisions into enforceable rules that organize society.
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Brahmi_script_on_Ashoka_Pillar,_Sarnath.jpg?width=1200" alt="Brahmi script inscription of Emperor Ashoka's edicts on a pillar at Sarnath, India">
+<p class="domain-figure-caption">Emperor Ashoka's edicts inscribed in Brahmi script, among the earliest legal proclamations in ancient India — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -446,10 +458,7 @@ It connects:
 - [[Politics]]
 - [[Economics]]
 - [[Business]]
-- [[Human Rights]]
-- [[Justice]]
 - [[Communication]]
-- [[Society]]
 - [[Ethics]]
 
 It demonstrates that civilization depends not only on power, but on fair, predictable, and accountable legal systems that enable cooperation among millions of people.
@@ -461,36 +470,34 @@ It demonstrates that civilization depends not only on power, but on fair, predic
 ## Depends On
 
 - [[Politics]]
-- [[Society]]
 - [[Culture]]
 - [[Communication]]
 
 ## Enables
 
 - [[Business]]
-- [[Human Rights]]
-- [[Justice]]
-- [[Economic Development]]
 
 ## Related
 
 - [[Economics]]
 - [[Ethics]]
 - [[History]]
-- [[Government]]
-
-## Next
-
-→ [[Business]]
 
 ---
 
 # HumanOS Principle
 
-Law is the formal system of rules through which societies regulate behavior, protect rights, resolve disputes, and maintain justice. Supported by legislatures, courts, and law-enforcement institutions, law enables large populations to cooperate peacefully and limits the arbitrary exercise of power through the rule of law. Understanding law helps individuals protect their freedoms, fulfill their responsibilities, and contribute to a stable and just civilization. :contentReference[oaicite:6]{index=6}
+Law is the formal system of rules through which societies regulate behavior, protect rights, resolve disputes, and maintain justice. Supported by legislatures, courts, and law-enforcement institutions, law enables large populations to cooperate peacefully and limits the arbitrary exercise of power through the rule of law. Understanding law helps individuals protect their freedoms, fulfill their responsibilities, and contribute to a stable and just civilization.
 
 ---
 
 # Key Insight
 
-> **Law is civilization's rulebook. It transforms ideas about justice into enforceable institutions, allowing millions of people—most of whom will never meet—to cooperate, trade, innovate, and resolve conflicts peacefully. A strong civilization depends not only on good people, but on fair laws that apply equally to everyone.** :contentReference[oaicite:7]{index=7}
+> **Law is civilization's rulebook. It transforms ideas about justice into enforceable institutions, allowing millions of people—most of whom will never meet—to cooperate, trade, innovate, and resolve conflicts peacefully. A strong civilization depends not only on good people, but on fair laws that apply equally to everyone.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/08-society--and--civilisation/09---business" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Business</span><span class="os-cta-sub">A business is an organization that creates value by producing and delivering goods or...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

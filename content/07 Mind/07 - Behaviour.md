@@ -1,6 +1,6 @@
 # Behaviour
 
-> *Behaviour is the observable actions and responses of an organism to internal and external stimuli. It includes everything people do—from simple reflexes and habits to complex social interactions and goal-directed actions. Human behaviour emerges from the interaction of biology, cognition, emotions, learning, personality, environment, and culture. Psychology studies behaviour scientifically to understand why people act the way they do and how behaviour can change.* :contentReference[oaicite:0]{index=0}
+> *Behaviour is the observable actions and responses of an organism to internal and external stimuli. It includes everything people do—from simple reflexes and habits to complex social interactions and goal-directed actions. Human behaviour emerges from the interaction of biology, cognition, emotions, learning, personality, environment, and culture. Psychology studies behaviour scientifically to understand why people act the way they do and how behaviour can change.*
 
 ---
 
@@ -20,7 +20,7 @@ Examples include:
 - Solving problems
 - Communicating
 
-Behaviour is the **observable outcome** of mental and biological processes. While thoughts and emotions occur internally, behaviour is how they become visible to others. :contentReference[oaicite:1]{index=1}
+Behaviour is the **observable outcome** of mental and biological processes. While thoughts and emotions occur internally, behaviour is how they become visible to others.
 
 ---
 
@@ -70,24 +70,20 @@ No single factor fully explains human behaviour.
 
 # Determinants of Behaviour
 
-```text
-Behaviour
-      │
- ┌────┼──────────────┬──────────────┐
- ▼    ▼              ▼              ▼
-Biology
-Learning
-Cognition
-Emotions
- │
- ├────────────┬──────────────┬──────────────┐
- ▼            ▼              ▼
-Personality
-Culture
-Environment
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Behaviour</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Biology</div></div>
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Cognition</div></div>
+<div class="tree-item"><div class="tree-node">Emotions</div></div>
+<div class="tree-item"><div class="tree-node">Personality</div></div>
+<div class="tree-item"><div class="tree-node">Culture</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+</div>
+</div>
 
-Human behaviour emerges from the interaction of biological, psychological, and social factors rather than from any single cause. :contentReference[oaicite:2]{index=2}
+Human behaviour emerges from the interaction of biological, psychological, and social factors rather than from any single cause.
 
 ---
 
@@ -145,7 +141,7 @@ Experience changes behaviour through:
 - Observational learning
 - Cognitive learning
 
-Learning allows behaviour to adapt throughout life. :contentReference[oaicite:3]{index=3}
+Learning allows behaviour to adapt throughout life.
 
 ---
 
@@ -181,16 +177,17 @@ Social norms influence which behaviours are encouraged or discouraged.
 
 # Types of Behaviour
 
-```text
-Behaviour
-      │
- ├── Innate
- ├── Learned
- ├── Voluntary
- ├── Involuntary
- ├── Individual
- └── Social
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Behaviour</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Innate</div></div>
+<div class="tree-item"><div class="tree-node">Learned</div></div>
+<div class="tree-item"><div class="tree-node">Voluntary</div></div>
+<div class="tree-item"><div class="tree-node">Involuntary</div></div>
+<div class="tree-item"><div class="tree-node">Individual</div></div>
+<div class="tree-item"><div class="tree-node">Social</div></div>
+</div>
+</div>
 
 ---
 
@@ -273,7 +270,7 @@ Behaviour is influenced by consequences.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:247px"><svg width="100%" viewBox="0 0 247 222" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="210.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="123.3" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Behaviour</text><rect x="18.0" y="90.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Negative Outcome</text><rect x="18.0" y="162.0" width="210.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="123.3" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Less Likely to Repeat</text><line x1="123.3" y1="64.0" x2="123.3" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="136.0" x2="123.3" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-This principle is central to operant conditioning. :contentReference[oaicite:4]{index=4}
+This principle is central to operant conditioning.
 
 ---
 
@@ -326,15 +323,17 @@ Small, repeated changes are generally more sustainable than sudden dramatic chan
 
 Behavioural science contributes to:
 
-- Education
-- Healthcare
-- Parenting
-- Sports
-- Leadership
-- Marketing
-- Public health
-- Artificial intelligence
-- Organizational management
+<div class="tag-grid">
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Parenting</span>
+<span class="tag-pill">Sports</span>
+<span class="tag-pill">Leadership</span>
+<span class="tag-pill">Marketing</span>
+<span class="tag-pill">Public health</span>
+<span class="tag-pill">Artificial intelligence</span>
+<span class="tag-pill">Organizational management</span>
+</div>
 
 ---
 
@@ -370,13 +369,14 @@ Behaviour determines much of human life.
 
 It influences:
 
-- Health
-- Relationships
-- Education
-- Career
-- Financial success
-- Happiness
-- Society
+> [!success]
+> - Health
+> - Relationships
+> - Education
+> - Career
+> - Financial success
+> - Happiness
+> - Society
 
 Improving behaviour often produces better long-term outcomes than relying only on intentions.
 
@@ -466,7 +466,6 @@ It connects:
 - [[Personality]]
 - [[Habits]]
 - [[Decision Making]]
-- [[Mental Health]]
 
 It demonstrates that behaviour is the practical expression of the mind and the primary mechanism through which individuals influence themselves, others, and society.
 
@@ -487,27 +486,27 @@ It demonstrates that behaviour is the practical expression of the mind and the p
 - [[Habits]]
 - [[Decision Making]]
 - [[Relationships]]
-- [[Social Psychology]]
 
 ## Related
 
 - [[Personality]]
-- [[Motivation]]
-- [[Mental Health]]
 - [[Lifestyle Medicine]]
-
-## Next
-
-→ [[Personality]]
 
 ---
 
 # HumanOS Principle
 
-Behaviour is the observable expression of the interaction between biology, cognition, emotions, learning, personality, and environment. Through behaviour, humans adapt to changing conditions, build habits, form relationships, create cultures, and shape civilization. Understanding behaviour enables people to improve their health, relationships, decisions, and long-term life outcomes through evidence-based behaviour change. :contentReference[oaicite:5]{index=5}
+Behaviour is the observable expression of the interaction between biology, cognition, emotions, learning, personality, and environment. Through behaviour, humans adapt to changing conditions, build habits, form relationships, create cultures, and shape civilization. Understanding behaviour enables people to improve their health, relationships, decisions, and long-term life outcomes through evidence-based behaviour change.
 
 ---
 
 # Key Insight
 
-> **Behaviour is where the mind meets the world. Every thought, emotion, memory, and decision ultimately becomes meaningful through action. By understanding why humans behave the way they do, we gain the ability to change ourselves, improve our relationships, and build healthier societies.** :contentReference[oaicite:6]{index=6}
+> **Behaviour is where the mind meets the world. Every thought, emotion, memory, and decision ultimately becomes meaningful through action. By understanding why humans behave the way they do, we gain the ability to change ourselves, improve our relationships, and build healthier societies.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/07-mind/08---personality" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Personality</span><span class="os-cta-sub">Personality is the relatively enduring pattern of thoughts, emotions, motivations, and...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

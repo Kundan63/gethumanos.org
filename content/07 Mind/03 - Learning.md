@@ -1,6 +1,6 @@
 # Learning
 
-> *Learning is a relatively permanent change in knowledge or behavior that results from experience. It enables organisms to adapt to their environment by acquiring new information, skills, habits, and behaviors. Unlike instincts and reflexes, which are innate, learning develops through interaction with the environment. Psychology identifies several major forms of learning, including classical conditioning, operant conditioning, and observational learning, while modern cognitive science also emphasizes the roles of memory, attention, reasoning, and understanding in learning.* :contentReference[oaicite:0]{index=0}
+> *Learning is a relatively permanent change in knowledge or behavior that results from experience. It enables organisms to adapt to their environment by acquiring new information, skills, habits, and behaviors. Unlike instincts and reflexes, which are innate, learning develops through interaction with the environment. Psychology identifies several major forms of learning, including classical conditioning, operant conditioning, and observational learning, while modern cognitive science also emphasizes the roles of memory, attention, reasoning, and understanding in learning.*
 
 ---
 
@@ -21,7 +21,7 @@ Learning allows humans to:
 - Develop expertise
 - Pass knowledge across generations
 
-Unlike reflexes and instincts, learning depends on **experience**. :contentReference[oaicite:1]{index=1}
+Unlike reflexes and instincts, learning depends on **experience**.
 
 ---
 
@@ -39,7 +39,7 @@ Societies change.
 
 Without learning, humans would repeatedly make the same mistakes and fail to adapt.
 
-Learning evolved because organisms that could modify their behavior based on experience had a greater chance of surviving and reproducing. :contentReference[oaicite:2]{index=2}
+Learning evolved because organisms that could modify their behavior based on experience had a greater chance of surviving and reproducing.
 
 ---
 
@@ -59,18 +59,17 @@ Learning occurs when experience changes the brain, creating new or modified neur
 
 # Types of Learning
 
-```text
-Learning
-     │
- ┌───┼──────────────┬──────────────┐
- ▼   ▼              ▼              ▼
-Classical Conditioning
-Operant Conditioning
-Observational Learning
-Cognitive Learning
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Learning</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Classical Conditioning</div></div>
+<div class="tree-item"><div class="tree-node">Operant Conditioning</div></div>
+<div class="tree-item"><div class="tree-node">Observational Learning</div></div>
+<div class="tree-item"><div class="tree-node">Cognitive Learning</div></div>
+</div>
+</div>
 
-These forms often work together rather than independently. :contentReference[oaicite:3]{index=3}
+These forms often work together rather than independently.
 
 ---
 
@@ -85,7 +84,7 @@ Example:
 - Lightning → Thunder
 - Eventually lightning alone causes anticipation.
 
-This form of learning was first systematically studied by **Ivan Pavlov**. :contentReference[oaicite:4]{index=4}
+This form of learning was first systematically studied by **Ivan Pavlov**.
 
 ---
 
@@ -103,7 +102,7 @@ Examples:
 - Praise encourages studying.
 - Touching a hot surface discourages repeating the action.
 
-This approach is closely associated with **B. F. Skinner**. :contentReference[oaicite:5]{index=5}
+This approach is closely associated with **B. F. Skinner**.
 
 ---
 
@@ -124,7 +123,7 @@ Examples:
 - Learning sports techniques from coaches.
 - Children copying social behavior.
 
-Observational learning greatly accelerates learning because people can benefit from others' experiences rather than relying solely on trial and error. :contentReference[oaicite:6]{index=6}
+Observational learning greatly accelerates learning because people can benefit from others' experiences rather than relying solely on trial and error.
 
 ---
 
@@ -140,7 +139,7 @@ Rather than simply forming associations, cognitive learning involves:
 - Mental models
 - Insight
 
-Humans often learn by understanding **why** something works rather than merely repeating behaviors. :contentReference[oaicite:7]{index=7}
+Humans often learn by understanding **why** something works rather than merely repeating behaviors.
 
 ---
 
@@ -161,7 +160,7 @@ Learning strengthens through repeated retrieval and meaningful practice.
 | Genetically programmed | Modified throughout life |
 | Relatively fixed | Flexible and adaptable |
 
-Learning complements instincts by allowing adaptation to changing environments. :contentReference[oaicite:8]{index=8}
+Learning complements instincts by allowing adaptation to changing environments.
 
 ---
 
@@ -228,14 +227,16 @@ Learning may be reduced by:
 
 Understanding learning improves:
 
-- Education
-- Parenting
-- Sports coaching
-- Workplace training
-- Rehabilitation
-- Artificial intelligence
-- Skill acquisition
-- Behavior change
+<div class="tag-grid">
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Parenting</span>
+<span class="tag-pill">Sports coaching</span>
+<span class="tag-pill">Workplace training</span>
+<span class="tag-pill">Rehabilitation</span>
+<span class="tag-pill">Artificial intelligence</span>
+<span class="tag-pill">Skill acquisition</span>
+<span class="tag-pill">Behavior change</span>
+</div>
 
 ---
 
@@ -253,7 +254,7 @@ Learning occurs throughout life through work, relationships, hobbies, and everyd
 
 Reality:
 
-Effective learning requires attention, understanding, retrieval, and feedback—not simply repeating information. :contentReference[oaicite:9]{index=9}
+Effective learning requires attention, understanding, retrieval, and feedback—not simply repeating information.
 
 ---
 
@@ -263,13 +264,14 @@ Learning is the foundation of human progress.
 
 It enables people to:
 
-- Gain knowledge
-- Develop skills
-- Adapt to change
-- Build careers
-- Solve problems
-- Innovate
-- Pass knowledge to future generations
+> [!success]
+> - Gain knowledge
+> - Develop skills
+> - Adapt to change
+> - Build careers
+> - Solve problems
+> - Innovate
+> - Pass knowledge to future generations
 
 Every scientific discovery, technology, language, and culture depends on learning.
 
@@ -373,7 +375,6 @@ It demonstrates that human progress depends on the brain's remarkable ability to
 
 - [[Memory]]
 - [[Intelligence]]
-- [[Skill Acquisition]]
 - [[Education]]
 
 ## Related
@@ -381,20 +382,22 @@ It demonstrates that human progress depends on the brain's remarkable ability to
 - [[Habits]]
 - [[Decision Making]]
 - [[Behaviour]]
-- [[Motivation]]
-
-## Next
-
-→ [[Memory]]
 
 ---
 
 # HumanOS Principle
 
-Learning is the biological and psychological process through which experience produces lasting changes in knowledge, skills, and behavior. Through conditioning, observation, understanding, practice, and neuroplasticity, learning enables humans to adapt to changing environments, accumulate knowledge across generations, and continuously improve throughout life. :contentReference[oaicite:10]{index=10}
+Learning is the biological and psychological process through which experience produces lasting changes in knowledge, skills, and behavior. Through conditioning, observation, understanding, practice, and neuroplasticity, learning enables humans to adapt to changing environments, accumulate knowledge across generations, and continuously improve throughout life.
 
 ---
 
 # Key Insight
 
-> **Learning is how experience reshapes the mind. Every new skill, idea, habit, and discovery begins as an interaction with the world that changes the brain. Understanding learning reveals how humans adapt, grow, and build knowledge across a lifetime—making it one of the fundamental engines of individual development and civilization.** :contentReference[oaicite:11]{index=11}
+> **Learning is how experience reshapes the mind. Every new skill, idea, habit, and discovery begins as an interaction with the world that changes the brain. Understanding learning reveals how humans adapt, grow, and build knowledge across a lifetime—making it one of the fundamental engines of individual development and civilization.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/07-mind/04---memory" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Memory</span><span class="os-cta-sub">Memory is the system of mental processes that enables humans to encode, store, and...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

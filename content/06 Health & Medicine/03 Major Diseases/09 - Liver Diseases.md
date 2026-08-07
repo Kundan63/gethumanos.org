@@ -1,6 +1,6 @@
 # Liver Diseases
 
-> *Liver diseases are disorders that damage the liver and impair its ability to perform essential functions such as metabolism, detoxification, nutrient processing, bile production, protein synthesis, hormone regulation, and blood clotting. Liver diseases include viral hepatitis, fatty liver disease, cirrhosis, autoimmune liver diseases, genetic disorders, drug-induced liver injury, and liver cancer. Many liver diseases develop silently over years before symptoms appear, but early detection and treatment can often prevent irreversible liver damage.* :contentReference[oaicite:0]{index=0}
+> *Liver diseases are disorders that damage the liver and impair its ability to perform essential functions such as metabolism, detoxification, nutrient processing, bile production, protein synthesis, hormone regulation, and blood clotting. Liver diseases include viral hepatitis, fatty liver disease, cirrhosis, autoimmune liver diseases, genetic disorders, drug-induced liver injury, and liver cancer. Many liver diseases develop silently over years before symptoms appear, but early detection and treatment can often prevent irreversible liver damage.*
 
 ---
 
@@ -17,7 +17,7 @@ Liver diseases are conditions that reduce the liver's ability to:
 - Regulate cholesterol
 - Help control blood glucose
 
-Because the liver supports nearly every major body system, liver disease affects the entire body. :contentReference[oaicite:1]{index=1}
+Because the liver supports nearly every major body system, liver disease affects the entire body.
 
 ---
 
@@ -39,7 +39,7 @@ If damage continues:
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:182px"><svg width="100%" viewBox="0 0 182 294" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="145.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="90.8" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Inflammation</text><rect x="18.0" y="90.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Fibrosis</text><rect x="18.0" y="162.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cirrhosis</text><rect x="18.0" y="234.0" width="145.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="90.8" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Liver Failure</text><line x1="90.8" y1="64.0" x2="90.8" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="136.0" x2="90.8" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="208.0" x2="90.8" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Many liver diseases are preventable or treatable when identified early. :contentReference[oaicite:2]{index=2}
+Many liver diseases are preventable or treatable when identified early.
 
 ---
 
@@ -47,7 +47,7 @@ Many liver diseases are preventable or treatable when identified early. :content
 
 > **How can one organ quietly perform hundreds of vital functions yet become severely damaged without causing symptoms?**
 
-The liver has a large functional reserve and remarkable regenerative capacity, allowing disease to progress silently until a substantial amount of liver tissue has been damaged. :contentReference[oaicite:3]{index=3}
+The liver has a large functional reserve and remarkable regenerative capacity, allowing disease to progress silently until a substantial amount of liver tissue has been damaged.
 
 ---
 
@@ -59,21 +59,17 @@ The liver has a large functional reserve and remarkable regenerative capacity, a
 
 # Major Liver Diseases
 
-```text
-Liver Diseases
-      │
- ┌────┼───────────────┬──────────────┐
- ▼    ▼               ▼              ▼
-Fatty Liver Disease
-Hepatitis
-Cirrhosis
-Liver Cancer
- │
- ├─────────────┬──────────────┐
- ▼             ▼
-Autoimmune Liver Disease
-Genetic Liver Disease
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Liver Diseases</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Fatty Liver Disease</div></div>
+<div class="tree-item"><div class="tree-node">Hepatitis</div></div>
+<div class="tree-item"><div class="tree-node">Cirrhosis</div></div>
+<div class="tree-item"><div class="tree-node">Liver Cancer</div></div>
+<div class="tree-item"><div class="tree-node">Autoimmune Liver Disease</div></div>
+<div class="tree-item"><div class="tree-node">Genetic Liver Disease</div></div>
+</div>
+</div>
 
 ---
 
@@ -92,7 +88,7 @@ Closely linked with:
 - Type 2 diabetes
 - Metabolic syndrome
 
-:contentReference[oaicite:4]{index=4}
+
 
 ---
 
@@ -111,7 +107,7 @@ May result from:
 - Alcohol
 - Drugs
 
-Chronic hepatitis B and C are major causes of cirrhosis and liver cancer worldwide. :contentReference[oaicite:5]{index=5}
+Chronic hepatitis B and C are major causes of cirrhosis and liver cancer worldwide.
 
 ---
 
@@ -121,13 +117,13 @@ Permanent scarring of the liver.
 
 Healthy tissue is gradually replaced by scar tissue, reducing liver function.
 
-Advanced cirrhosis may progress to liver failure. :contentReference[oaicite:6]{index=6}
+Advanced cirrhosis may progress to liver failure.
 
 ---
 
 ## 🎗 Liver Cancer
 
-Most primary liver cancers develop after long-term liver injury, particularly cirrhosis caused by hepatitis B, hepatitis C, or fatty liver disease. :contentReference[oaicite:7]{index=7}
+Most primary liver cancers develop after long-term liver injury, particularly cirrhosis caused by hepatitis B, hepatitis C, or fatty liver disease.
 
 ---
 
@@ -151,21 +147,20 @@ Examples:
 - Wilson disease
 - Alpha-1 antitrypsin deficiency
 
-Inherited disorders interfere with normal liver metabolism. :contentReference[oaicite:8]{index=8}
+Inherited disorders interfere with normal liver metabolism.
 
 ---
 
 # Complete Causes
 
-```text
-Complete Causes
-      │
- ┌────┼──────────────────────────────┐
- ▼    ▼                              ▼
-Genetics
-Lifestyle
-Medical Conditions
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item"><div class="tree-node">Medical Conditions</div></div>
+</div>
+</div>
 
 ### 🧬 Genetics
 
@@ -185,7 +180,7 @@ Major contributors to fatty liver disease:
 - Insulin resistance
 - Metabolic syndrome
 
-These are now among the leading causes of chronic liver disease in many countries. :contentReference[oaicite:9]{index=9}
+These are now among the leading causes of chronic liver disease in many countries.
 
 ---
 
@@ -210,7 +205,7 @@ Important viruses include:
 - Hepatitis D
 - Hepatitis E
 
-HBV and HCV are the major causes of chronic viral hepatitis worldwide. :contentReference[oaicite:10]{index=10}
+HBV and HCV are the major causes of chronic viral hepatitis worldwide.
 
 ---
 
@@ -223,7 +218,7 @@ Examples:
 - Herbal supplements
 - Industrial chemicals
 
-Drug-induced liver injury is an important but often preventable cause of liver disease. :contentReference[oaicite:11]{index=11}
+Drug-induced liver injury is an important but often preventable cause of liver disease.
 
 ---
 
@@ -243,7 +238,7 @@ Long-term exposure to metabolic stress, infections, and toxins increases cumulat
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:255px"><svg width="100%" viewBox="0 0 255 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="218.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="127.3" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Repeated Liver Injury</text><rect x="18.0" y="90.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Inflammation</text><rect x="18.0" y="162.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Fibrosis</text><rect x="18.0" y="234.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cirrhosis</text><rect x="18.0" y="306.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Reduced Liver Function</text><rect x="18.0" y="378.0" width="218.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="127.3" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Complications</text><line x1="127.3" y1="64.0" x2="127.3" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="136.0" x2="127.3" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="208.0" x2="127.3" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="280.0" x2="127.3" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="352.0" x2="127.3" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-The liver can regenerate after mild injury, but persistent damage eventually leads to irreversible scarring (cirrhosis). :contentReference[oaicite:12]{index=12}
+The liver can regenerate after mild injury, but persistent damage eventually leads to irreversible scarring (cirrhosis).
 
 ---
 
@@ -265,7 +260,7 @@ Later symptoms may include:
 - Easy bruising
 - Confusion (hepatic encephalopathy)
 
-:contentReference[oaicite:13]{index=13}
+
 
 ---
 
@@ -308,7 +303,7 @@ Treatment depends on the cause.
 - Endoscopy (for portal hypertension complications)
 - Liver transplantation (end-stage disease)
 
-For end-stage liver disease, transplantation remains the only definitive treatment. :contentReference[oaicite:14]{index=14}
+For end-stage liver disease, transplantation remains the only definitive treatment.
 
 ---
 
@@ -405,7 +400,7 @@ Key preventive measures:
 - Practice safe injection and blood safety.
 - Avoid unnecessary hepatotoxic medicines.
 
-:contentReference[oaicite:15]{index=15}
+
 
 ---
 
@@ -435,7 +430,7 @@ Outcomes depend on:
 - Early diagnosis
 - Treatment adherence
 
-Many liver diseases can be slowed, controlled, or even reversed in early stages if the underlying cause is addressed. :contentReference[oaicite:16]{index=16}
+Many liver diseases can be slowed, controlled, or even reversed in early stages if the underlying cause is addressed.
 
 ---
 
@@ -451,14 +446,15 @@ The liver performs **more than 500 essential functions**.
 
 Healthy liver function supports:
 
-- Digestion
-- Energy metabolism
-- Detoxification
-- Blood clotting
-- Hormone regulation
-- Immune function
+> [!success]
+> - Digestion
+> - Energy metabolism
+> - Detoxification
+> - Blood clotting
+> - Hormone regulation
+> - Immune function
 
-Because early liver disease is often silent, prevention and early detection are especially important. :contentReference[oaicite:17]{index=17}
+Because early liver disease is often silent, prevention and early detection are especially important.
 
 ---
 
@@ -526,11 +522,9 @@ Modern hepatology uses:
 
 It connects:
 
-- [[Liver]]
 - [[Digestive System]]
 - [[Diabetes & Metabolic Disorders]]
 - [[Nutrition]]
-- [[Hepatitis]]
 - [[Cancer]]
 - [[Preventive Medicine]]
 
@@ -542,36 +536,33 @@ It demonstrates that liver health is fundamental to metabolism, detoxification, 
 
 ## Depends On
 
-- [[Liver]]
 - [[Digestive System]]
 - [[Disease Mechanisms]]
 
 ## Enables
 
-- [[Hepatitis]]
-- [[Cirrhosis]]
-- [[Liver Cancer]]
-- [[Liver Transplantation]]
+None.
 
 ## Related
 
-- [[Alcohol]]
 - [[Diabetes & Metabolic Disorders]]
-- [[Obesity]]
 - [[Nutrition]]
-
-## Next
-
-→ [[Brain & Neurological Diseases]]
 
 ---
 
 # HumanOS Principle
 
-Liver diseases arise when repeated injury from metabolic dysfunction, alcohol, infections, autoimmune disorders, toxins, or inherited conditions overwhelms the liver's remarkable ability to regenerate. Although many liver diseases remain silent for years, early detection, healthy lifestyle choices, vaccination against viral hepatitis, management of metabolic risk factors, and evidence-based medical treatment can prevent progression to cirrhosis, liver failure, and liver cancer. :contentReference[oaicite:18]{index=18}
+Liver diseases arise when repeated injury from metabolic dysfunction, alcohol, infections, autoimmune disorders, toxins, or inherited conditions overwhelms the liver's remarkable ability to regenerate. Although many liver diseases remain silent for years, early detection, healthy lifestyle choices, vaccination against viral hepatitis, management of metabolic risk factors, and evidence-based medical treatment can prevent progression to cirrhosis, liver failure, and liver cancer.
 
 ---
 
 # Key Insight
 
-> **Liver diseases are disorders that impair one of the body's most versatile organs. By understanding their causes, biological mechanisms, prevention, and treatment, we see that protecting the liver protects metabolism, detoxification, digestion, immunity, and the health of nearly every other organ system.** :contentReference[oaicite:19]{index=19}
+> **Liver diseases are disorders that impair one of the body's most versatile organs. By understanding their causes, biological mechanisms, prevention, and treatment, we see that protecting the liver protects metabolism, detoxification, digestion, immunity, and the health of nearly every other organ system.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/10---brain--and--neurological-diseases" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Brain & Neurological Diseases</span><span class="os-cta-sub">Brain and neurological diseases are disorders that affect the brain, spinal cord,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,6 +1,6 @@
 # Mindfulness
 
-> *Mindfulness is the practice of intentionally paying attention to present-moment experience with openness, acceptance, and without unnecessary judgment. It involves awareness of thoughts, emotions, bodily sensations, and the surrounding environment as they arise, allowing individuals to respond thoughtfully rather than automatically. Although mindfulness has roots in contemplative traditions, it is now widely studied in psychology, neuroscience, healthcare, and education as a secular skill for improving attention, emotional regulation, and well-being.* :contentReference[oaicite:0]{index=0}
+> *Mindfulness is the practice of intentionally paying attention to present-moment experience with openness, acceptance, and without unnecessary judgment. It involves awareness of thoughts, emotions, bodily sensations, and the surrounding environment as they arise, allowing individuals to respond thoughtfully rather than automatically. Although mindfulness has roots in contemplative traditions, it is now widely studied in psychology, neuroscience, healthcare, and education as a secular skill for improving attention, emotional regulation, and well-being.*
 
 ---
 
@@ -19,7 +19,7 @@ without immediately judging, resisting, or reacting to them.
 
 Mindfulness is **not** about emptying the mind.
 
-It is about changing **how we relate to our experiences**. :contentReference[oaicite:1]{index=1}
+It is about changing **how we relate to our experiences**.
 
 ---
 
@@ -41,7 +41,7 @@ Mindfulness developed as a way to help people:
 - Reduce automatic reactions
 - Respond with greater clarity
 
-Modern psychology has adopted mindfulness because many of these skills are useful regardless of religious belief. :contentReference[oaicite:2]{index=2}
+Modern psychology has adopted mindfulness because many of these skills are useful regardless of religious belief.
 
 ---
 
@@ -61,18 +61,19 @@ Mindfulness answers this by training intentional attention, acceptance, and non-
 
 # Components of Mindfulness
 
-```text
-Mindfulness
-      │
- ├── Present Awareness
- ├── Attention
- ├── Acceptance
- ├── Non-Judgment
- ├── Observation
- ├── Emotional Regulation
- ├── Intention
- └── Practice
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Mindfulness</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Present Awareness</div></div>
+<div class="tree-item"><div class="tree-node">Attention</div></div>
+<div class="tree-item"><div class="tree-node">Acceptance</div></div>
+<div class="tree-item"><div class="tree-node">Non-Judgment</div></div>
+<div class="tree-item"><div class="tree-node">Observation</div></div>
+<div class="tree-item"><div class="tree-node">Emotional Regulation</div></div>
+<div class="tree-item"><div class="tree-node">Intention</div></div>
+<div class="tree-item"><div class="tree-node">Practice</div></div>
+</div>
+</div>
 
 ---
 
@@ -178,18 +179,19 @@ Mindfulness replaces automatic reaction with deliberate response.
 
 # Major Forms of Mindfulness
 
-```text
-Mindfulness
-      │
- ├── Breath Awareness
- ├── Body Scan
- ├── Mindful Walking
- ├── Mindful Eating
- ├── Mindful Listening
- ├── Mindful Movement
- ├── Everyday Mindfulness
- └── Mindfulness-Based Therapy
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Mindfulness</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Breath Awareness</div></div>
+<div class="tree-item"><div class="tree-node">Body Scan</div></div>
+<div class="tree-item"><div class="tree-node">Mindful Walking</div></div>
+<div class="tree-item"><div class="tree-node">Mindful Eating</div></div>
+<div class="tree-item"><div class="tree-node">Mindful Listening</div></div>
+<div class="tree-item"><div class="tree-node">Mindful Movement</div></div>
+<div class="tree-item"><div class="tree-node">Everyday Mindfulness</div></div>
+<div class="tree-item"><div class="tree-node">Mindfulness-Based Therapy</div></div>
+</div>
+</div>
 
 ---
 
@@ -271,7 +273,7 @@ Modern psychology incorporates mindfulness into evidence-based approaches such a
 - Mindfulness-Based Stress Reduction (MBSR)
 - Mindfulness-Based Cognitive Therapy (MBCT)
 
-These programs are used to support stress management, emotional regulation, and relapse prevention in some mental health conditions. :contentReference[oaicite:3]{index=3}
+These programs are used to support stress management, emotional regulation, and relapse prevention in some mental health conditions.
 
 ---
 
@@ -285,7 +287,7 @@ Researchers study mindfulness using:
 - Cognitive testing
 - Behavioral research
 
-Research suggests mindfulness training can improve attention and emotional regulation and reduce perceived stress for many individuals, although effects vary and it is not a replacement for appropriate medical or psychological treatment. :contentReference[oaicite:4]{index=4}
+Research suggests mindfulness training can improve attention and emotional regulation and reduce perceived stress for many individuals, although effects vary and it is not a replacement for appropriate medical or psychological treatment.
 
 ---
 
@@ -293,14 +295,16 @@ Research suggests mindfulness training can improve attention and emotional regul
 
 Mindfulness is used in:
 
-- Healthcare
-- Education
-- Psychology
-- Leadership
-- Sports
-- Military training
-- Workplace well-being
-- Personal development
+<div class="tag-grid">
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Psychology</span>
+<span class="tag-pill">Leadership</span>
+<span class="tag-pill">Sports</span>
+<span class="tag-pill">Military training</span>
+<span class="tag-pill">Workplace well-being</span>
+<span class="tag-pill">Personal development</span>
+</div>
 
 ---
 
@@ -310,7 +314,7 @@ Mindfulness is used in:
 
 **Reality:**
 
-Mindfulness means becoming aware of thoughts rather than eliminating them. :contentReference[oaicite:5]{index=5}
+Mindfulness means becoming aware of thoughts rather than eliminating them.
 
 ---
 
@@ -318,7 +322,7 @@ Mindfulness means becoming aware of thoughts rather than eliminating them. :cont
 
 **Reality:**
 
-Although it has contemplative roots, mindfulness is also practiced in secular healthcare, education, and psychology. :contentReference[oaicite:6]{index=6}
+Although it has contemplative roots, mindfulness is also practiced in secular healthcare, education, and psychology.
 
 ---
 
@@ -334,14 +338,15 @@ Mindfulness develops gradually through regular practice and is one tool among ma
 
 Mindfulness supports:
 
-- Better attention
-- Emotional balance
-- Stress management
-- Learning
-- Relationships
-- Leadership
-- Decision-making
-- Personal growth
+> [!success]
+> - Better attention
+> - Emotional balance
+> - Stress management
+> - Learning
+> - Relationships
+> - Leadership
+> - Decision-making
+> - Personal growth
 
 It helps people respond intentionally instead of reacting automatically.
 
@@ -419,11 +424,7 @@ It connects:
 - [[Meditation]]
 - [[Consciousness]]
 - [[Psychology]]
-- [[Neuroscience]]
 - [[Spirituality]]
-- [[Attention]]
-- [[Mental Health]]
-- [[Emotional Regulation]]
 
 It demonstrates that awareness is a trainable human capacity, allowing people to respond to reality with greater clarity, balance, and wisdom.
 
@@ -436,35 +437,32 @@ It demonstrates that awareness is a trainable human capacity, allowing people to
 - [[Meditation]]
 - [[Consciousness]]
 - [[Psychology]]
-- [[Neuroscience]]
 
 ## Enables
 
-- [[Self-Awareness]]
-- [[Emotional Regulation]]
 - [[Decision Making]]
 - [[Mental Well-being]]
-- [[Wisdom]]
 
 ## Related
 
-- [[Attention]]
-- [[Compassion]]
 - [[Stress]]
 - [[Meaning & Purpose]]
-
-## Next
-
-→ [[Wisdom Traditions]]
 
 ---
 
 # HumanOS Principle
 
-Mindfulness is the intentional practice of paying attention to present-moment experience with openness, acceptance, and without unnecessary judgment. By strengthening awareness and reducing automatic reactivity, mindfulness supports clearer thinking, emotional balance, and wiser decision-making. Although rooted in contemplative traditions, it is now widely applied in psychology, healthcare, education, and everyday life as an evidence-informed skill for human flourishing. :contentReference[oaicite:7]{index=7}
+Mindfulness is the intentional practice of paying attention to present-moment experience with openness, acceptance, and without unnecessary judgment. By strengthening awareness and reducing automatic reactivity, mindfulness supports clearer thinking, emotional balance, and wiser decision-making. Although rooted in contemplative traditions, it is now widely applied in psychology, healthcare, education, and everyday life as an evidence-informed skill for human flourishing.
 
 ---
 
 # Key Insight
 
 > **Mindfulness is humanity's attention trainer. We cannot always control what happens around us, but we can learn to notice what is happening within us. In that space between experience and reaction lies the freedom to choose wiser thoughts, wiser actions, and a wiser life.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/10-philosophy--and--spirituality/09---wisdom-traditions" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Wisdom Traditions</span><span class="os-cta-sub">Wisdom traditions are long-standing philosophical, religious, and cultural systems...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -19,7 +19,7 @@ The human body contains **four primary tissue types**:
 - Muscle Tissue
 - Nervous Tissue
 
-Every organ in the human body is built from one or more of these four fundamental tissue types. :contentReference[oaicite:0]{index=0}
+Every organ in the human body is built from one or more of these four fundamental tissue types.
 
 ---
 
@@ -46,7 +46,7 @@ Without tissues there would be:
 - No blood vessels
 - No coordinated human body
 
-Tissues are therefore the bridge between individual cells and complete organs. :contentReference[oaicite:1]{index=1}
+Tissues are therefore the bridge between individual cells and complete organs.
 
 ---
 
@@ -64,26 +64,30 @@ Each tissue type has a unique structure that allows it to perform its specific f
 
 This illustrates one of biology's most important principles:
 
-> **Structure determines function.** :contentReference[oaicite:2]{index=2}
+> **Structure determines function.**
 
 ---
 
 # The Four Fundamental Tissues
 
-```text
-                  Human Body
-                      │
-      ┌───────────────┼────────────────┐
-      ▼               ▼                ▼
- Epithelial      Connective        Muscle
-      │               │                │
-      └───────────────┼────────────────┘
-                      ▼
-                Nervous Tissue
-                      │
-                      ▼
-              Complete Organ
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Human Body</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Epithelial</div></div>
+<div class="tree-item"><div class="tree-node">Connective</div></div>
+<div class="tree-item">
+<div class="tree-node">Muscle</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Nervous Tissue</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Complete Organ</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ### Epithelial Tissue
 
@@ -155,7 +159,7 @@ Found in:
 - Spinal cord
 - Peripheral nerves
 
-These four tissue types form the structural foundation of every organ in the body. :contentReference[oaicite:3]{index=3}
+These four tissue types form the structural foundation of every organ in the body.
 
 ---
 
@@ -173,20 +177,22 @@ Nearly every disease begins with damage to tissues.
 
 Examples include:
 
-- Burns damage epithelial tissue.
-- Osteoporosis weakens bone tissue.
-- Heart attacks damage cardiac muscle tissue.
-- Arthritis damages cartilage.
-- Alzheimer's disease damages nervous tissue.
-- Tendon injuries damage connective tissue.
+> [!success]
+> - Burns damage epithelial tissue.
+> - Osteoporosis weakens bone tissue.
+> - Heart attacks damage cardiac muscle tissue.
+> - Arthritis damages cartilage.
+> - Alzheimer's disease damages nervous tissue.
+> - Tendon injuries damage connective tissue.
 
 Understanding tissues helps explain:
 
-- Why wounds heal.
-- Why organs fail.
-- Why surgery works.
-- Why rehabilitation is necessary.
-- Why healthy habits preserve long-term function.
+> [!success]
+> - Why wounds heal.
+> - Why organs fail.
+> - Why surgery works.
+> - Why rehabilitation is necessary.
+> - Why healthy habits preserve long-term function.
 
 Medicine often focuses on protecting, repairing, or replacing damaged tissues.
 
@@ -231,6 +237,11 @@ The intestinal lining (epithelial tissue) absorbs nutrients while smooth muscle 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Charak.jpg?width=1200" alt="A sculpture of Charaka, the ancient Indian physician whose Charaka Samhita first classified the body's seven fundamental tissues (dhatus)">
+<p class="domain-figure-caption">Sculpture of Charaka, ancient Indian physician and author of the Charaka Samhita — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -347,7 +358,7 @@ Factors that damage tissues include:
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:230px"><svg width="100%" viewBox="0 0 230 942" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="194.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="115.1" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Smoking</text><rect x="18.0" y="90.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Poor Nutrition</text><rect x="18.0" y="162.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Physical Inactivity</text><rect x="18.0" y="234.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Alcohol Misuse</text><rect x="18.0" y="306.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Chronic Stress</text><rect x="18.0" y="378.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Air Pollution</text><rect x="18.0" y="450.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Radiation</text><rect x="18.0" y="522.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Infections</text><rect x="18.0" y="594.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Autoimmune Disease</text><rect x="18.0" y="666.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Trauma</text><rect x="18.0" y="738.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="764.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Tissue Damage</text><rect x="18.0" y="810.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="836.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Organ Dysfunction</text><rect x="18.0" y="882.0" width="194.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="115.1" y="908.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Disease</text><line x1="115.1" y1="64.0" x2="115.1" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="136.0" x2="115.1" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="208.0" x2="115.1" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="280.0" x2="115.1" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="352.0" x2="115.1" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="424.0" x2="115.1" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="496.0" x2="115.1" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="568.0" x2="115.1" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="640.0" x2="115.1" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="712.0" x2="115.1" y2="732.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="784.0" x2="115.1" y2="804.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="856.0" x2="115.1" y2="876.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Different diseases affect different tissue types, but tissue damage is a common pathway through which many illnesses impair organ function. :contentReference[oaicite:4]{index=4}
+Different diseases affect different tissue types, but tissue damage is a common pathway through which many illnesses impair organ function.
 
 ---
 
@@ -426,24 +437,12 @@ This prepares us to study:
 - [[Organs]]
 - [[Organ Systems]]
 - [[Homeostasis]]
-- [[Physiology]]
-- [[Disease & Medicine]]
 
 ---
 
 ## Related
 
-- [[Epithelial Tissue]]
-- [[Connective Tissue]]
-- [[Muscle Tissue]]
-- [[Nervous Tissue]]
-- [[Histology]]
-
----
-
-## Next
-
-→ [[Organs]]
+None.
 
 ---
 
@@ -464,3 +463,10 @@ Healthy tissues are the bridge between healthy cells and a healthy human.
 # Key Insight
 
 > **Tissues are the body's first great example of biological cooperation. Millions of specialized cells work together to create structures that protect, support, move, communicate, and heal the human body. Understanding tissues explains how organs function, why diseases damage the body, how modern medicine restores health, and why protecting our tissues today supports lifelong health and resilience.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/02-body-architecture/03---organs" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Organs</span><span class="os-cta-sub">Organs are the body's specialized functional units. They are built from multiple...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,6 +1,6 @@
 # Business
 
-> *A business is an organization that creates value by producing and delivering goods or services that satisfy customer needs, typically with the goal of earning a profit. Businesses combine natural resources, labor, capital, knowledge, and entrepreneurship to solve problems, create wealth, generate employment, and improve living standards. While many businesses are for-profit, not-for-profit organizations also apply business principles to deliver social value. Business is one of the primary mechanisms through which economies transform resources into products and services that improve human life.* :contentReference[oaicite:0]{index=0}
+> *A business is an organization that creates value by producing and delivering goods or services that satisfy customer needs, typically with the goal of earning a profit. Businesses combine natural resources, labor, capital, knowledge, and entrepreneurship to solve problems, create wealth, generate employment, and improve living standards. While many businesses are for-profit, not-for-profit organizations also apply business principles to deliver social value. Business is one of the primary mechanisms through which economies transform resources into products and services that improve human life.*
 
 ---
 
@@ -35,7 +35,7 @@ Businesses exist in nearly every area of life, including:
 
 Business is **not simply about making money**.
 
-It is about solving problems sustainably while creating value for customers, employees, owners, and society. :contentReference[oaicite:1]{index=1}
+It is about solving problems sustainably while creating value for customers, employees, owners, and society.
 
 ---
 
@@ -53,7 +53,7 @@ Business exists because it allows people to:
 - Increase productivity
 - Improve quality of life
 
-Businesses coordinate people and resources to produce goods and services far more efficiently than individuals acting alone. :contentReference[oaicite:2]{index=2}
+Businesses coordinate people and resources to produce goods and services far more efficiently than individuals acting alone.
 
 ---
 
@@ -73,18 +73,19 @@ Business answers this by organizing people, resources, technology, and capital i
 
 # Components of Business
 
-```text
-Business
-    │
- ├── Customers
- ├── Products & Services
- ├── People
- ├── Capital
- ├── Operations
- ├── Marketing
- ├── Finance
- └── Innovation
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Business</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Customers</div></div>
+<div class="tree-item"><div class="tree-node">Products & Services</div></div>
+<div class="tree-item"><div class="tree-node">People</div></div>
+<div class="tree-item"><div class="tree-node">Capital</div></div>
+<div class="tree-item"><div class="tree-node">Operations</div></div>
+<div class="tree-item"><div class="tree-node">Marketing</div></div>
+<div class="tree-item"><div class="tree-node">Finance</div></div>
+<div class="tree-item"><div class="tree-node">Innovation</div></div>
+</div>
+</div>
 
 Every successful business combines these components into a functioning system.
 
@@ -229,16 +230,17 @@ Every successful business needs a sustainable way to create and capture value.
 
 # Types of Businesses
 
-```text
-Business
-    │
- ├── Sole Proprietorship
- ├── Partnership
- ├── Corporation
- ├── Cooperative
- ├── Social Enterprise
- └── Non-profit Organization
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Business</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Sole Proprietorship</div></div>
+<div class="tree-item"><div class="tree-node">Partnership</div></div>
+<div class="tree-item"><div class="tree-node">Corporation</div></div>
+<div class="tree-item"><div class="tree-node">Cooperative</div></div>
+<div class="tree-item"><div class="tree-node">Social Enterprise</div></div>
+<div class="tree-item"><div class="tree-node">Non-profit Organization</div></div>
+</div>
+</div>
 
 Different structures suit different goals, ownership models, and legal requirements.
 
@@ -259,7 +261,7 @@ They:
 - Pay taxes
 - Support communities
 
-Businesses are major drivers of economic development and living standards. :contentReference[oaicite:3]{index=3}
+Businesses are major drivers of economic development and living standards.
 
 ---
 
@@ -275,17 +277,18 @@ Businesses connect households, governments, and markets through the production a
 
 Businesses affect many groups.
 
-```text
-Business
-    │
- ├── Customers
- ├── Employees
- ├── Owners
- ├── Suppliers
- ├── Investors
- ├── Government
- └── Society
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Business</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Customers</div></div>
+<div class="tree-item"><div class="tree-node">Employees</div></div>
+<div class="tree-item"><div class="tree-node">Owners</div></div>
+<div class="tree-item"><div class="tree-node">Suppliers</div></div>
+<div class="tree-item"><div class="tree-node">Investors</div></div>
+<div class="tree-item"><div class="tree-node">Government</div></div>
+<div class="tree-item"><div class="tree-node">Society</div></div>
+</div>
+</div>
 
 Successful businesses balance the interests of multiple stakeholders.
 
@@ -319,7 +322,7 @@ Entrepreneurs:
 - Build businesses
 - Create innovation
 
-Entrepreneurship transforms ideas into economic and social value. :contentReference[oaicite:4]{index=4}
+Entrepreneurship transforms ideas into economic and social value.
 
 ---
 
@@ -342,14 +345,16 @@ Long-term business success depends on reputation as well as profitability.
 
 Business knowledge contributes to:
 
-- Entrepreneurship
-- Innovation
-- Technology
-- Healthcare
-- Education
-- Manufacturing
-- Sustainability
-- Economic development
+<div class="tag-grid">
+<span class="tag-pill">Entrepreneurship</span>
+<span class="tag-pill">Innovation</span>
+<span class="tag-pill">Technology</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Manufacturing</span>
+<span class="tag-pill">Sustainability</span>
+<span class="tag-pill">Economic development</span>
+</div>
 
 ---
 
@@ -359,7 +364,7 @@ Business knowledge contributes to:
 
 Reality:
 
-Profit is necessary for sustainability, but businesses create value by solving problems and meeting human needs. Profit is a result of creating value, not the sole purpose. :contentReference[oaicite:5]{index=5}
+Profit is necessary for sustainability, but businesses create value by solving problems and meeting human needs. Profit is a result of creating value, not the sole purpose.
 
 ---
 
@@ -383,14 +388,15 @@ Innovation can occur in products, services, operations, healthcare, education, a
 
 Business affects everyday life by providing:
 
-- Food
-- Housing
-- Healthcare
-- Transportation
-- Employment
-- Technology
-- Communication
-- Entertainment
+> [!success]
+> - Food
+> - Housing
+> - Healthcare
+> - Transportation
+> - Employment
+> - Technology
+> - Communication
+> - Entertainment
 
 Almost every product and service people use is created, delivered, or supported by businesses.
 
@@ -407,6 +413,11 @@ Business transforms human needs into practical solutions that improve quality of
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Spices_in_an_Indian_market.jpg?width=1200" alt="Spices displayed for sale in a traditional Indian market">
+<p class="domain-figure-caption">Spices displayed in an Indian market, reflecting trade traditions dating back millennia — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -473,11 +484,8 @@ It connects:
 - [[Economics]]
 - [[Politics]]
 - [[Law]]
-- [[Technology]]
-- [[Innovation]]
 - [[Communication]]
 - [[Leadership]]
-- [[Entrepreneurship]]
 
 It demonstrates that business is the practical engine through which knowledge, innovation, and resources are transformed into solutions that improve human life and advance civilization.
 
@@ -494,30 +502,27 @@ It demonstrates that business is the practical engine through which knowledge, i
 
 ## Enables
 
-- [[Innovation]]
-- [[Employment]]
-- [[Economic Growth]]
-- [[Technology]]
+None.
 
 ## Related
 
-- [[Entrepreneurship]]
-- [[Finance]]
-- [[Marketing]]
-- [[Management]]
-
-## Next
-
-→ [[Communication]]
+None.
 
 ---
 
 # HumanOS Principle
 
-Business is the organized process of creating value by combining resources, knowledge, technology, and human effort to produce goods and services that meet human needs. By coordinating production, innovation, exchange, and investment, businesses create employment, generate wealth, improve living standards, and drive economic development. Understanding business reveals how ideas become practical solutions that shape both individual lives and civilization. :contentReference[oaicite:6]{index=6}
+Business is the organized process of creating value by combining resources, knowledge, technology, and human effort to produce goods and services that meet human needs. By coordinating production, innovation, exchange, and investment, businesses create employment, generate wealth, improve living standards, and drive economic development. Understanding business reveals how ideas become practical solutions that shape both individual lives and civilization.
 
 ---
 
 # Key Insight
 
-> **Business is society's value-creation engine. Every medicine manufactured, bridge constructed, smartphone designed, crop harvested, and service delivered begins with people organizing resources to solve a human problem. Sustainable businesses create prosperity not by extracting value, but by creating it for customers, employees, communities, and future generations.** :contentReference[oaicite:7]{index=7}
+> **Business is society's value-creation engine. Every medicine manufactured, bridge constructed, smartphone designed, crop harvested, and service delivered begins with people organizing resources to solve a human problem. Sustainable businesses create prosperity not by extracting value, but by creating it for customers, employees, communities, and future generations.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/08-society--and--civilisation/10---communication" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Communication</span><span class="os-cta-sub">Communication is the process of creating, sharing, receiving, and interpreting...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

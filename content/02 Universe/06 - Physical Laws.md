@@ -10,7 +10,7 @@ Physical laws are concise descriptions—often expressed mathematically—of reg
 
 They describe **how** physical systems behave under particular conditions and allow scientists to explain, predict, and test natural phenomena.
 
-Unlike human laws, physical laws are **not invented or enforced**. They are descriptions of consistent behavior observed in the Universe through repeated observation and experiment. Scientific laws remain open to refinement if new evidence requires it, although many foundational laws have been confirmed across a vast range of conditions. :contentReference[oaicite:0]{index=0}
+Unlike human laws, physical laws are **not invented or enforced**. They are descriptions of consistent behavior observed in the Universe through repeated observation and experiment. Scientific laws remain open to refinement if new evidence requires it, although many foundational laws have been confirmed across a vast range of conditions.
 
 Examples include:
 
@@ -56,26 +56,32 @@ A physical law does not explain **why** nature behaves that way—it describes *
 
 # Some Fundamental Physical Laws
 
-```text
-                Physical Laws
-                      │
-     ┌────────────────┼────────────────┐
-     │                │                │
-     ▼                ▼                ▼
- Motion          Conservation      Thermodynamics
-(Newton)             Laws                Laws
-     │                │                │
-     ▼                ▼                ▼
-Gravity      Energy • Momentum     Heat • Entropy
-                 Charge
-     │                │                │
-     └────────────────┴────────────────┘
-                      │
-                      ▼
-          Everything in the Physical Universe
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Physical Laws</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Motion (Newton)</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Gravity</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Conservation Laws</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Energy, Momentum, Charge</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Thermodynamics Laws</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Heat, Entropy</div></div>
+</div>
+</div>
+<div class="tree-item"><div class="tree-node">Everything in the Physical Universe</div></div>
+</div>
+</div>
 
-One important family of physical laws is the **conservation laws**, which state that certain measurable quantities—such as energy, momentum, angular momentum, and electric charge—remain constant in isolated systems even though they may change form or be transferred. :contentReference[oaicite:1]{index=1}
+One important family of physical laws is the **conservation laws**, which state that certain measurable quantities—such as energy, momentum, angular momentum, and electric charge—remain constant in isolated systems even though they may change form or be transferred.
 
 ---
 
@@ -91,15 +97,20 @@ Physical laws connect every level of reality—from subatomic particles to human
 
 Every moment of your life depends on physical laws.
 
-They determine:
-
-- Why you stay on the ground.
-- Why your heart pumps blood.
-- Why electricity powers your home.
-- Why medicines interact with your body.
-- Why aircraft fly.
-- Why bridges remain standing.
-- Why satellites orbit Earth.
+> [!success] Physical laws determine
+> Why you stay on the ground.
+>
+> Why your heart pumps blood.
+>
+> Why electricity powers your home.
+>
+> Why medicines interact with your body.
+>
+> Why aircraft fly.
+>
+> Why bridges remain standing.
+>
+> Why satellites orbit Earth.
 
 Understanding physical laws allows humans to predict outcomes, reduce uncertainty, and build technologies that improve life.
 
@@ -109,172 +120,53 @@ Without physical laws there would be no modern medicine, engineering, transporta
 
 # Daily Life Examples
 
-### 🍎 Dropping an Apple
+Physical laws are invisible, but their effects are part of nearly every ordinary moment.
 
-Gravity causes the apple to fall toward Earth.
-
-The same law keeps the Moon in orbit.
-
----
-
-### 🚗 Driving a Car
-
-Motion, friction, momentum, and energy determine how a car accelerates, turns, and stops safely.
-
----
-
-### ❤️ Heartbeat
-
-Blood flows because pressure, fluid dynamics, and energy transfer obey physical laws.
-
----
-
-### ⚡ Switching on a Light
-
-Electricity flows through a circuit according to the laws of electromagnetism.
-
----
-
-### 📱 Smartphone
-
-Every function—processing, communication, battery charging, touchscreens, cameras, and wireless signals—depends on physical laws.
-
----
-
-### 🌦 Weather Forecast
-
-Weather models predict storms by applying physical laws governing fluids, heat transfer, and atmospheric motion.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🍎</span><span class="os-card-title">Dropping an Apple</span><span class="os-card-desc">Gravity causes the apple to fall toward Earth. The same law keeps the Moon in orbit.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🚗</span><span class="os-card-title">Driving a Car</span><span class="os-card-desc">Motion, friction, momentum, and energy determine how a car accelerates, turns, and stops safely.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">❤️</span><span class="os-card-title">Heartbeat</span><span class="os-card-desc">Blood flows because pressure, fluid dynamics, and energy transfer obey physical laws.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">⚡</span><span class="os-card-title">Switching on a Light</span><span class="os-card-desc">Electricity flows through a circuit according to the laws of electromagnetism.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">📱</span><span class="os-card-title">Smartphone</span><span class="os-card-desc">Every function—processing, communication, battery charging, touchscreens, cameras, and wireless signals—depends on physical laws.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌦</span><span class="os-card-title">Weather Forecast</span><span class="os-card-desc">Weather models predict storms by applying physical laws governing fluids, heat transfer, and atmospheric motion.</span></div>
+</div>
 
 ---
 
 # Human Impact
 
-## Human Body
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/CERN_ATLAS_Detector.jpg?width=1200" alt="The ATLAS particle detector at CERN's Large Hadron Collider, a multi-story cylindrical instrument used to test fundamental physical laws">
+<p class="domain-figure-caption">The ATLAS detector at CERN's Large Hadron Collider, built to test physical laws at the smallest scales — via Wikimedia Commons</p>
+</div>
 
-Physical laws govern every biological process.
-
-Examples include:
-
-- Blood circulation
-- Breathing
-- Hearing
-- Vision
-- Muscle movement
-- Body temperature regulation
-
-Biology operates within the constraints of physics.
-
----
-
-## Human Mind
-
-The brain functions through electrical and chemical signals that obey physical laws.
-
-Understanding these principles contributes to neuroscience, medical imaging, and treatments for neurological disorders.
-
----
-
-## Human Behaviour
-
-Knowledge of physical laws helps people:
-
-- Drive safely.
-- Use electricity responsibly.
-- Exercise effectively.
-- Reduce accidents.
-- Make evidence-based decisions.
-
-Understanding cause and effect encourages better judgment.
-
----
-
-## Society
-
-Modern civilization depends on physical laws.
-
-They make possible:
-
-- Buildings
-- Transportation
-- Communication
-- Manufacturing
-- Agriculture
-- Healthcare
-- Space exploration
-
-Nearly every human invention is an application of physical laws.
-
----
-
-## Economics
-
-Industries transform knowledge of physical laws into products and services.
-
-Examples include:
-
-- Power generation
-- Electronics
-- Construction
-- Aviation
-- Telecommunications
-- Renewable energy
-
-Scientific understanding creates economic opportunity and technological innovation.
-
----
-
-## Politics & Governance
-
-Governments use physical laws when developing:
-
-- Building standards
-- Energy policy
-- Environmental regulations
-- Transportation systems
-- Disaster preparedness
-
-Evidence-based policies often depend on reliable scientific understanding.
-
----
-
-## Technology
-
-Every modern technology applies physical laws.
-
-Examples include:
-
-- Artificial Intelligence
-- Internet infrastructure
-- Satellites
-- Medical scanners
-- Electric vehicles
-- Robotics
-- Renewable energy systems
-
-Technology is essentially applied physics.
-
----
-
-## Philosophy & Spirituality
-
-Physical laws demonstrate that nature is orderly enough to be studied scientifically.
-
-Philosophy explores deeper questions about why such regularities exist and what they imply about reality.
-
-HumanOS distinguishes these philosophical questions from the empirical study of physics.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">&#129472;</span><span class="os-card-title">Human Body</span><span class="os-card-desc">Physical laws govern every biological process, including blood circulation, breathing, hearing, vision, muscle movement, and body temperature regulation — biology operates within the constraints of physics.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#129504;</span><span class="os-card-title">Human Mind</span><span class="os-card-desc">The brain functions through electrical and chemical signals that obey physical laws. Understanding these principles contributes to neuroscience, medical imaging, and treatments for neurological disorders.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127919;</span><span class="os-card-title">Human Behaviour</span><span class="os-card-desc">Knowledge of physical laws helps people drive safely, use electricity responsibly, exercise effectively, reduce accidents, and make evidence-based decisions — understanding cause and effect encourages better judgment.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127963;</span><span class="os-card-title">Society</span><span class="os-card-desc">Modern civilization depends on physical laws, which make possible buildings, transportation, communication, manufacturing, agriculture, healthcare, and space exploration. Nearly every human invention is an application of physical laws.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128176;</span><span class="os-card-title">Economics</span><span class="os-card-desc">Industries transform knowledge of physical laws into products and services, including power generation, electronics, construction, aviation, telecommunications, and renewable energy. Scientific understanding creates economic opportunity and technological innovation.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128499;</span><span class="os-card-title">Politics & Governance</span><span class="os-card-desc">Governments use physical laws when developing building standards, energy policy, environmental regulations, transportation systems, and disaster preparedness. Evidence-based policies often depend on reliable scientific understanding.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#9881;</span><span class="os-card-title">Technology</span><span class="os-card-desc">Every modern technology applies physical laws, from artificial intelligence, internet infrastructure, and satellites to medical scanners, electric vehicles, robotics, and renewable energy systems. Technology is essentially applied physics.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#10024;</span><span class="os-card-title">Philosophy & Spirituality</span><span class="os-card-desc">Physical laws demonstrate that nature is orderly enough to be studied scientifically. Philosophy explores deeper questions about why such regularities exist and what they imply about reality — HumanOS distinguishes these philosophical questions from the empirical study of physics.</span></div>
+</div>
 
 ---
 
 # Applying this Knowledge
 
-Understanding physical laws helps us:
-
-- Make safer decisions.
-- Appreciate how technology works.
-- Improve scientific literacy.
-- Solve problems systematically.
-- Respect the limits imposed by nature.
-- Build solutions that work with natural processes rather than against them.
+> [!tip] Understanding physical laws helps us
+> Make safer decisions.
+>
+> Appreciate how technology works.
+>
+> Improve scientific literacy.
+>
+> Solve problems systematically.
+>
+> Respect the limits imposed by nature.
+>
+> Build solutions that work with natural processes rather than against them.
 
 The better we understand nature's rules, the better we can design healthy lives, sustainable societies, and reliable technologies.
 
@@ -305,7 +197,6 @@ Physical laws become the foundation of [[Physics]], which studies these laws in 
 - [[Chemistry]]
 - [[Earth Science]]
 - [[Astronomy]]
-- [[Engineering & Applied Sciences]]
 
 ---
 
@@ -313,17 +204,14 @@ Physical laws become the foundation of [[Physics]], which studies these laws in 
 
 - [[Space]]
 - [[Time]]
-- [[Thermodynamics]]
-- [[Conservation Laws]]
-
----
-
-## Next
-
-→ [[Astronomy]]
 
 ---
 
 # Key Insight
 
 > **Physical laws are the Universe's consistent rules. They make reality predictable, science possible, technology reliable, and human civilization achievable. By understanding these laws, we do not control nature—we learn to work with it, improving our health, our societies, and our future.**
+
+<div class="cta-row"><a class="os-cta" href="/02-universe/07---astronomy" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Astronomy</span><span class="os-cta-sub">Applying these laws to study the stars, planets, and galaxies beyond Earth</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

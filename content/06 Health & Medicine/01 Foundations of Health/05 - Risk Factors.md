@@ -1,6 +1,6 @@
 # Risk Factors
 
-> *A risk factor is any characteristic, behavior, environmental exposure, biological condition, or genetic trait that increases the likelihood of developing a disease or adverse health outcome. Risk factors do not guarantee that disease will occur, but they increase probability. Understanding risk factors allows individuals, healthcare professionals, and societies to prevent disease before it develops by reducing or eliminating modifiable risks while managing non-modifiable ones.* :contentReference[oaicite:0]{index=0}
+> *A risk factor is any characteristic, behavior, environmental exposure, biological condition, or genetic trait that increases the likelihood of developing a disease or adverse health outcome. Risk factors do not guarantee that disease will occur, but they increase probability. Understanding risk factors allows individuals, healthcare professionals, and societies to prevent disease before it develops by reducing or eliminating modifiable risks while managing non-modifiable ones.*
 
 ---
 
@@ -19,7 +19,7 @@ For example:
 
 A person may have many risk factors yet never develop disease, while another person with few risk factors may still become ill.
 
-Risk factors influence **probability**, not certainty. :contentReference[oaicite:1]{index=1}
+Risk factors influence **probability**, not certainty.
 
 ---
 
@@ -72,13 +72,14 @@ Risk factors increase likelihood—they do not determine destiny.
 
 # Types of Risk Factors
 
-```text
-Risk Factors
-      │
- ┌────┼───────────────┐
- ▼    ▼               ▼
-Modifiable Non-Modifiable Environmental
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Risk Factors</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Modifiable</div></div>
+<div class="tree-item"><div class="tree-node">Non-Modifiable</div></div>
+<div class="tree-item"><div class="tree-node">Environmental</div></div>
+</div>
+</div>
 
 ---
 
@@ -98,7 +99,7 @@ Examples:
 - Poor sleep
 - Chronic stress
 
-These account for a large proportion of preventable chronic disease worldwide. :contentReference[oaicite:2]{index=2}
+These account for a large proportion of preventable chronic disease worldwide.
 
 ---
 
@@ -114,7 +115,7 @@ Examples:
 - Family history
 - Some inherited disorders
 
-Although they cannot be removed, they help identify people who may benefit from earlier screening or prevention. :contentReference[oaicite:3]{index=3}
+Although they cannot be removed, they help identify people who may benefit from earlier screening or prevention.
 
 ---
 
@@ -131,23 +132,23 @@ Examples:
 - Occupational hazards
 - Climate extremes
 
-Environmental exposures contribute to both infectious and noncommunicable diseases. :contentReference[oaicite:4]{index=4}
+Environmental exposures contribute to both infectious and noncommunicable diseases.
 
 ---
 
 # Common Lifestyle Risk Factors
 
-```text
-Lifestyle
-    │
- ┌──┼─────────────┐
- ▼  ▼             ▼
-Smoking Poor Diet Inactivity
- │  │             │
- ├──┼─────────────┤
- ▼  ▼             ▼
-Alcohol Poor Sleep Chronic Stress
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Lifestyle</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Smoking</div></div>
+<div class="tree-item"><div class="tree-node">Poor Diet</div></div>
+<div class="tree-item"><div class="tree-node">Inactivity</div></div>
+<div class="tree-item"><div class="tree-node">Alcohol</div></div>
+<div class="tree-item"><div class="tree-node">Poor Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Chronic Stress</div></div>
+</div>
+</div>
 
 These factors interact with one another rather than acting independently.
 
@@ -157,25 +158,24 @@ These factors interact with one another rather than acting independently.
 
 Some risk factors directly damage organs, while others first alter body physiology.
 
-```text
-Lifestyle
-     │
-     ▼
-Intermediate Risk Factors
-     │
- ┌───┼───────────────┐
- ▼   ▼               ▼
-High Blood Pressure
-High Blood Sugar
-High Cholesterol
-Obesity
-Inflammation
-     │
-     ▼
-Disease
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Lifestyle</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Intermediate Risk Factors</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">High Blood Pressure</div></div>
+<div class="tree-item"><div class="tree-node">High Blood Sugar</div></div>
+<div class="tree-item"><div class="tree-node">High Cholesterol</div></div>
+<div class="tree-item"><div class="tree-node">Obesity</div></div>
+<div class="tree-item"><div class="tree-node">Inflammation</div></div>
+<div class="tree-item"><div class="tree-node">Disease</div></div>
+</div>
+</div>
+</div>
+</div>
 
-These measurable conditions often develop years before disease becomes clinically apparent. :contentReference[oaicite:5]{index=5}
+These measurable conditions often develop years before disease becomes clinically apparent.
 
 ---
 
@@ -206,7 +206,7 @@ Disease usually results from **multiple interacting risks**.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:238px"><svg width="100%" viewBox="0 0 238 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Smoking</text><rect x="18.0" y="90.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">High Blood Pressure</text><rect x="18.0" y="162.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">High Cholesterol</text><rect x="18.0" y="234.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Physical Inactivity</text><rect x="18.0" y="306.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">──────────────</text><rect x="18.0" y="378.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Heart Disease Risk ↑</text><line x1="119.2" y1="64.0" x2="119.2" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="136.0" x2="119.2" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="208.0" x2="119.2" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="280.0" x2="119.2" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="352.0" x2="119.2" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-The combined effect of several risk factors is often greater than any single factor alone. :contentReference[oaicite:6]{index=6}
+The combined effect of several risk factors is often greater than any single factor alone.
 
 ---
 
@@ -222,13 +222,14 @@ Risk factors connect biology, behavior, public health, epidemiology, and clinica
 
 Understanding risk factors allows people to:
 
-- Prevent disease before it begins.
-- Make healthier decisions.
-- Recognize personal vulnerabilities.
-- Participate in screening programs.
-- Reduce long-term healthcare needs.
+> [!success]
+> - Prevent disease before it begins.
+> - Make healthier decisions.
+> - Recognize personal vulnerabilities.
+> - Participate in screening programs.
+> - Reduce long-term healthcare needs.
 
-Most premature noncommunicable diseases are linked to a small number of common, modifiable risk factors. :contentReference[oaicite:7]{index=7}
+Most premature noncommunicable diseases are linked to a small number of common, modifiable risk factors.
 
 ---
 
@@ -259,6 +260,11 @@ Most premature noncommunicable diseases are linked to a small number of common, 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Anti_Tobacco_Campaign_at_S_D_P_Y_School_at_Palluruthy,_Ernakulam,_Kochi,_Kerala,_India.jpg?width=1200" alt="An anti-tobacco awareness campaign at a school in Palluruthy, Ernakulam, Kerala, India">
+<p class="domain-figure-caption">An anti-tobacco health campaign at a school in Kerala, India, addressing a major modifiable risk factor — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -292,7 +298,7 @@ Reducing common risk factors lowers:
 - Premature death
 - Economic burden
 
-Public health focuses heavily on identifying and reducing shared risk factors. :contentReference[oaicite:8]{index=8}
+Public health focuses heavily on identifying and reducing shared risk factors.
 
 ---
 
@@ -347,7 +353,6 @@ It connects:
 - [[Disease Mechanisms]]
 - [[Lifestyle Biology]]
 - [[Preventive Medicine]]
-- [[Public Health]]
 
 It forms the scientific basis for disease prevention.
 
@@ -366,7 +371,6 @@ It forms the scientific basis for disease prevention.
 - [[Diagnosis]]
 - [[Preventive Medicine]]
 - [[Lifestyle Medicine]]
-- [[Public Health]]
 
 ## Related
 
@@ -374,20 +378,22 @@ It forms the scientific basis for disease prevention.
 - [[Exercise]]
 - [[Sleep]]
 - [[Stress]]
-- [[Environment]]
-
-## Next
-
-→ [[Diagnosis]]
 
 ---
 
 # HumanOS Principle
 
-Risk factors are the measurable influences that change the probability of disease. They arise from the interaction of genetics, lifestyle, environment, aging, and society. Although some risk factors cannot be changed, many of the most important ones—such as smoking, unhealthy diet, physical inactivity, poor sleep, and harmful environmental exposures—are modifiable. Understanding risk factors reveals that prevention is often more powerful than treatment because reducing risk can stop disease before it begins. :contentReference[oaicite:9]{index=9}
+Risk factors are the measurable influences that change the probability of disease. They arise from the interaction of genetics, lifestyle, environment, aging, and society. Although some risk factors cannot be changed, many of the most important ones—such as smoking, unhealthy diet, physical inactivity, poor sleep, and harmful environmental exposures—are modifiable. Understanding risk factors reveals that prevention is often more powerful than treatment because reducing risk can stop disease before it begins.
 
 ---
 
 # Key Insight
 
-> **Risk factors are characteristics or exposures that increase the likelihood of disease without guaranteeing it. They connect causes to disease mechanisms and provide the scientific foundation for preventive medicine. By identifying and modifying controllable risk factors while managing unavoidable ones, individuals and societies can substantially reduce the burden of disease and improve lifelong health.** :contentReference[oaicite:10]{index=10}
+> **Risk factors are characteristics or exposures that increase the likelihood of disease without guaranteeing it. They connect causes to disease mechanisms and provide the scientific foundation for preventive medicine. By identifying and modifying controllable risk factors while managing unavoidable ones, individuals and societies can substantially reduce the burden of disease and improve lifelong health.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/01-foundations-of-health/06---diagnosis" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Diagnosis</span><span class="os-cta-sub">Diagnosis is the systematic process of identifying the disease, disorder, injury, or...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

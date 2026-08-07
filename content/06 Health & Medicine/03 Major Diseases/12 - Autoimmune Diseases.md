@@ -1,6 +1,6 @@
 # Autoimmune Diseases
 
-> *Autoimmune diseases are disorders in which the immune system mistakenly attacks the body's own healthy cells, tissues, or organs instead of protecting them from harmful microbes. They develop when the immune system loses tolerance to "self" and produces immune cells or autoantibodies that target the body's own tissues. Scientists recognize **more than 80 autoimmune diseases**, affecting virtually every organ system. Together, they are a major cause of chronic illness and disability, with women accounting for approximately **80% of affected individuals**. Although most autoimmune diseases cannot currently be cured, many can be effectively managed with early diagnosis and evidence-based treatment.* :contentReference[oaicite:0]{index=0}
+> *Autoimmune diseases are disorders in which the immune system mistakenly attacks the body's own healthy cells, tissues, or organs instead of protecting them from harmful microbes. They develop when the immune system loses tolerance to "self" and produces immune cells or autoantibodies that target the body's own tissues. Scientists recognize **more than 80 autoimmune diseases**, affecting virtually every organ system. Together, they are a major cause of chronic illness and disability, with women accounting for approximately **80% of affected individuals**. Although most autoimmune diseases cannot currently be cured, many can be effectively managed with early diagnosis and evidence-based treatment.*
 
 ---
 
@@ -29,7 +29,7 @@ A healthy immune system has two essential jobs:
 - Destroy dangerous pathogens.
 - Avoid attacking the body's own tissues (immune tolerance).
 
-Autoimmune diseases develop when **immune tolerance breaks down**, allowing immune cells and autoantibodies to attack normal tissues. The exact trigger differs between diseases and usually involves a combination of genetic susceptibility and environmental exposures. :contentReference[oaicite:1]{index=1}
+Autoimmune diseases develop when **immune tolerance breaks down**, allowing immune cells and autoantibodies to attack normal tissues. The exact trigger differs between diseases and usually involves a combination of genetic susceptibility and environmental exposures.
 
 ---
 
@@ -49,29 +49,22 @@ Autoimmune diseases arise because the immune system becomes dysregulated, causin
 
 # Major Autoimmune Diseases
 
-```text
-Autoimmune Diseases
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Rheumatoid Arthritis
-Systemic Lupus Erythematosus
-Type 1 Diabetes
-Multiple Sclerosis
- │
- ├─────────────┬──────────────┬──────────────┐
- ▼             ▼              ▼
-Hashimoto Thyroiditis
-Graves Disease
-Celiac Disease
- │
- ├─────────────┬──────────────┐
- ▼             ▼
-Psoriasis
-Sjögren's Disease
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Autoimmune Diseases</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Rheumatoid Arthritis</div></div>
+<div class="tree-item"><div class="tree-node">Systemic Lupus Erythematosus</div></div>
+<div class="tree-item"><div class="tree-node">Type 1 Diabetes</div></div>
+<div class="tree-item"><div class="tree-node">Multiple Sclerosis</div></div>
+<div class="tree-item"><div class="tree-node">Hashimoto Thyroiditis</div></div>
+<div class="tree-item"><div class="tree-node">Graves Disease</div></div>
+<div class="tree-item"><div class="tree-node">Celiac Disease</div></div>
+<div class="tree-item"><div class="tree-node">Psoriasis</div></div>
+<div class="tree-item"><div class="tree-node">Sjögren's Disease</div></div>
+</div>
+</div>
 
-Examples also include autoimmune hepatitis, vitiligo, myasthenia gravis, inflammatory bowel disease, and autoimmune vasculitis. :contentReference[oaicite:2]{index=2}
+Examples also include autoimmune hepatitis, vitiligo, myasthenia gravis, inflammatory bowel disease, and autoimmune vasculitis.
 
 ---
 
@@ -139,15 +132,14 @@ Autoimmune response triggered by gluten that damages the small intestine.
 
 # Complete Causes
 
-```text
-Complete Causes
-      │
- ┌────┼──────────────────────────────┐
- ▼    ▼                              ▼
-Genetics
-Environment
-Immune Dysregulation
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Immune Dysregulation</div></div>
+</div>
+</div>
 
 ---
 
@@ -155,7 +147,7 @@ Immune Dysregulation
 
 Genetic susceptibility increases risk but usually does **not** guarantee disease.
 
-Associated genes often involve immune regulation, especially HLA genes. :contentReference[oaicite:3]{index=3}
+Associated genes often involve immune regulation, especially HLA genes.
 
 ---
 
@@ -169,7 +161,7 @@ Possible contributors include:
 - Pregnancy-related immune changes
 - X chromosome biology
 
-Researchers continue to investigate why women are disproportionately affected. :contentReference[oaicite:4]{index=4}
+Researchers continue to investigate why women are disproportionately affected.
 
 ---
 
@@ -182,7 +174,7 @@ Examples under investigation include:
 - Epstein–Barr virus (EBV)
 - Certain bacterial infections
 
-The trigger differs among diseases, and infection alone is usually insufficient to cause autoimmunity. :contentReference[oaicite:5]{index=5}
+The trigger differs among diseases, and infection alone is usually insufficient to cause autoimmunity.
 
 ---
 
@@ -197,7 +189,7 @@ Possible contributors include:
 - Ultraviolet radiation (for lupus)
 - Occupational chemicals
 
-Environmental triggers vary by disease. :contentReference[oaicite:6]{index=6}
+Environmental triggers vary by disease.
 
 ---
 
@@ -223,7 +215,7 @@ Poor sleep, obesity, physical inactivity, and unhealthy dietary patterns may wor
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:271px"><svg width="100%" viewBox="0 0 271 510" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Genetic Susceptibility</text><rect x="18.0" y="90.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Environmental Trigger</text><rect x="18.0" y="162.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Loss of Immune Tolerance</text><rect x="18.0" y="234.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Autoantibodies</text><rect x="18.0" y="306.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Self-Reactive T Cells</text><rect x="18.0" y="378.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Inflammation</text><rect x="18.0" y="450.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Organ Damage</text><line x1="135.4" y1="64.0" x2="135.4" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="136.0" x2="135.4" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="208.0" x2="135.4" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="280.0" x2="135.4" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="352.0" x2="135.4" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="424.0" x2="135.4" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-The adaptive immune system mistakenly recognizes the body's own tissues as foreign and sustains chronic inflammation. :contentReference[oaicite:7]{index=7}
+The adaptive immune system mistakenly recognizes the body's own tissues as foreign and sustains chronic inflammation.
 
 ---
 
@@ -264,7 +256,7 @@ Evaluation may include:
 - Imaging
 - Biopsy (selected diseases)
 
-Diagnosis may take time because symptoms often overlap with other conditions. :contentReference[oaicite:8]{index=8}
+Diagnosis may take time because symptoms often overlap with other conditions.
 
 ---
 
@@ -372,7 +364,7 @@ Traditional approaches may include:
 
 ### Current Scientific Evidence
 
-Some herbs and mind-body practices may help reduce pain, stress, or inflammation in selected autoimmune diseases. However, high-quality evidence is generally limited, and they should be considered complementary rather than alternatives to evidence-based immunotherapy. :contentReference[oaicite:9]{index=9}
+Some herbs and mind-body practices may help reduce pain, stress, or inflammation in selected autoimmune diseases. However, high-quality evidence is generally limited, and they should be considered complementary rather than alternatives to evidence-based immunotherapy.
 
 ### Safety
 
@@ -386,7 +378,7 @@ Some herbs and mind-body practices may help reduce pain, stress, or inflammation
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:255px"><svg width="100%" viewBox="0 0 255 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="218.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="127.3" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Genetic Risk</text><rect x="18.0" y="90.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Healthy Lifestyle</text><rect x="18.0" y="162.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Avoid Smoking</text><rect x="18.0" y="234.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Manage Stress</text><rect x="18.0" y="306.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Early Recognition</text><rect x="18.0" y="378.0" width="218.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="127.3" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Better Disease Control</text><line x1="127.3" y1="64.0" x2="127.3" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="136.0" x2="127.3" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="208.0" x2="127.3" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="280.0" x2="127.3" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="352.0" x2="127.3" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Currently, **most autoimmune diseases cannot be completely prevented** because genetic susceptibility cannot be changed. However, reducing modifiable risk factors and obtaining early diagnosis may reduce disease severity and long-term complications. :contentReference[oaicite:10]{index=10}
+Currently, **most autoimmune diseases cannot be completely prevented** because genetic susceptibility cannot be changed. However, reducing modifiable risk factors and obtaining early diagnosis may reduce disease severity and long-term complications.
 
 ---
 
@@ -430,10 +422,12 @@ The immune system protects life, but when immune regulation fails, it can become
 
 Understanding autoimmune diseases helps people:
 
-- Recognize symptoms early
-- Prevent irreversible organ damage
-- Understand immune biology
-- Support lifelong disease management
+> [!success]
+> - Recognize symptoms early
+> - Prevent irreversible organ damage
+> - Understand immune biology
+> - Support lifelong disease management
+
 
 ---
 
@@ -502,11 +496,7 @@ Modern immunology uses:
 It connects:
 
 - [[Immune System]]
-- [[Inflammation]]
 - [[Disease Mechanisms]]
-- [[Rheumatoid Arthritis]]
-- [[Multiple Sclerosis]]
-- [[Type 1 Diabetes]]
 - [[Lifestyle Medicine]]
 
 It demonstrates that the immune system must balance powerful defense against infection with precise recognition of the body's own tissues, and that disruption of this balance leads to chronic autoimmune disease.
@@ -518,34 +508,33 @@ It demonstrates that the immune system must balance powerful defense against inf
 ## Depends On
 
 - [[Immune System]]
-- [[Inflammation]]
 - [[Disease Mechanisms]]
 
 ## Enables
 
-- [[Rheumatology]]
-- [[Clinical Immunology]]
-- [[Biologic Therapies]]
+None.
 
 ## Related
 
 - [[Chronic Diseases]]
-- [[Type 1 Diabetes]]
 - [[Brain & Neurological Diseases]]
 - [[Mental Health Disorders]]
-
-## Next
-
-→ [[Musculoskeletal Disorders]]
 
 ---
 
 # HumanOS Principle
 
-Autoimmune diseases arise when the adaptive immune system loses tolerance to the body's own tissues and mistakenly attacks them, producing chronic inflammation and organ damage. Their development results from a complex interaction among genetic susceptibility, immune dysregulation, environmental triggers, hormones, and lifestyle factors. Although most autoimmune diseases cannot currently be cured, early diagnosis, evidence-based immunomodulatory therapies, healthy lifestyle practices, and long-term monitoring can greatly reduce disease activity, preserve organ function, and improve quality of life. :contentReference[oaicite:11]{index=11}
+Autoimmune diseases arise when the adaptive immune system loses tolerance to the body's own tissues and mistakenly attacks them, producing chronic inflammation and organ damage. Their development results from a complex interaction among genetic susceptibility, immune dysregulation, environmental triggers, hormones, and lifestyle factors. Although most autoimmune diseases cannot currently be cured, early diagnosis, evidence-based immunomodulatory therapies, healthy lifestyle practices, and long-term monitoring can greatly reduce disease activity, preserve organ function, and improve quality of life.
 
 ---
 
 # Key Insight
 
-> **Autoimmune diseases are disorders in which the immune system mistakenly attacks the body it is designed to protect. Understanding their causes, mechanisms, prevention, diagnosis, and treatment reveals that health depends not only on a strong immune response, but also on the immune system's ability to recognize and tolerate the body's own tissues.** :contentReference[oaicite:12]{index=12}
+> **Autoimmune diseases are disorders in which the immune system mistakenly attacks the body it is designed to protect. Understanding their causes, mechanisms, prevention, diagnosis, and treatment reveals that health depends not only on a strong immune response, but also on the immune system's ability to recognize and tolerate the body's own tissues.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/13---musculoskeletal-disorders" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Musculoskeletal Disorders</span><span class="os-cta-sub">Musculoskeletal disorders (MSDs) are conditions that affect the body's locomotor...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

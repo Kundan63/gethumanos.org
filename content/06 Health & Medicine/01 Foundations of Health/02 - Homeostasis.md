@@ -1,6 +1,6 @@
 # Homeostasis
 
-> *Homeostasis is the dynamic process by which living organisms maintain a relatively stable internal environment despite continuous changes inside and outside the body. Through coordinated regulation by the nervous, endocrine, cardiovascular, respiratory, renal, immune, and other systems, the body continuously adjusts variables such as temperature, blood glucose, blood pressure, pH, oxygen, water, electrolytes, and hormones within ranges compatible with life. Homeostasis is the central organizing principle of physiology because every living cell depends upon a stable internal environment to survive and function.* :contentReference[oaicite:0]{index=0}
+> *Homeostasis is the dynamic process by which living organisms maintain a relatively stable internal environment despite continuous changes inside and outside the body. Through coordinated regulation by the nervous, endocrine, cardiovascular, respiratory, renal, immune, and other systems, the body continuously adjusts variables such as temperature, blood glucose, blood pressure, pH, oxygen, water, electrolytes, and hormones within ranges compatible with life. Homeostasis is the central organizing principle of physiology because every living cell depends upon a stable internal environment to survive and function.*
 
 ---
 
@@ -15,7 +15,7 @@ The word comes from Greek:
 
 Homeostasis does **not** mean the body keeps everything exactly constant.
 
-Instead, it keeps critical variables within **safe physiological ranges** that allow life to continue. :contentReference[oaicite:1]{index=1}
+Instead, it keeps critical variables within **safe physiological ranges** that allow life to continue.
 
 ---
 
@@ -35,7 +35,7 @@ Cells require:
 
 If these conditions move too far outside their normal ranges, cells malfunction and may die.
 
-Homeostasis evolved to continuously protect this internal environment despite constant environmental change. :contentReference[oaicite:2]{index=2}
+Homeostasis evolved to continuously protect this internal environment despite constant environmental change.
 
 ---
 
@@ -57,21 +57,44 @@ Homeostasis allows the body to survive in changing environments without exposing
 
 # What Does Homeostasis Control?
 
-```text
-Homeostasis
-      │
- ┌────┼───────────────┬──────────────┐
- ▼    ▼               ▼              ▼
-Temperature  Blood Glucose   Blood Pressure
- │            │              │
- ├────────────┼──────────────┤
- ▼            ▼              ▼
-Body Fluids   Blood pH    Oxygen & CO₂
- │            │              │
- ├────────────┼──────────────┤
- ▼            ▼              ▼
-Electrolytes Hormones Immune Balance
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Homeostasis</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Temperature</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Body Fluids</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Electrolytes</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Blood Glucose</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Blood pH</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Hormones</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Blood Pressure</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Oxygen &amp; CO₂</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Immune Balance</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 Some of the body's most tightly regulated variables include:
 
@@ -83,7 +106,7 @@ Some of the body's most tightly regulated variables include:
 - Water balance
 - Sodium and potassium
 - Calcium concentration
-- Hormone levels :contentReference[oaicite:3]{index=3}
+- Hormone levels
 
 ---
 
@@ -129,7 +152,7 @@ Examples:
 - Kidneys
 - Liver
 
-Together these components continuously regulate internal conditions. :contentReference[oaicite:4]{index=4}
+Together these components continuously regulate internal conditions.
 
 ---
 
@@ -148,7 +171,7 @@ Examples include:
 - Insulin release when blood glucose rises.
 - Increased breathing when carbon dioxide rises.
 
-Negative feedback is the primary mechanism that maintains homeostasis. :contentReference[oaicite:5]{index=5}
+Negative feedback is the primary mechanism that maintains homeostasis.
 
 ---
 
@@ -163,7 +186,7 @@ Examples:
 - Childbirth
 - Blood clotting
 
-Once the event is complete, normal homeostatic regulation resumes. :contentReference[oaicite:6]{index=6}
+Once the event is complete, normal homeostatic regulation resumes.
 
 ---
 
@@ -199,22 +222,26 @@ These examples demonstrate how different organ systems cooperate to maintain sta
 
 # Homeostasis Supports Every Human System
 
-```text
-Homeostasis
-      │
- ┌────┼────┬────┬────┬────┐
- ▼    ▼    ▼    ▼    ▼
-Brain Heart Lungs Kidneys Hormones
-      │
-      ▼
-Cells
-      │
-Life
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Homeostasis</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Brain</div></div>
+<div class="tree-item"><div class="tree-node">Heart</div></div>
+<div class="tree-item"><div class="tree-node">Lungs</div></div>
+<div class="tree-item"><div class="tree-node">Kidneys</div></div>
+<div class="tree-item"><div class="tree-node">Hormones</div></div>
+<div class="tree-item">
+<div class="tree-node">Cells</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Life</div></div>
+</div>
+</div>
+</div>
+</div>
 
 Every organ system contributes to maintaining homeostasis.
 
-No organ works independently. :contentReference[oaicite:7]{index=7}
+No organ works independently.
 
 ---
 
@@ -230,15 +257,16 @@ Homeostasis links molecular biology, physiology, medicine, neuroscience, endocri
 
 Homeostasis allows humans to:
 
-- Survive environmental change
-- Exercise safely
-- Recover from illness
-- Heal injuries
-- Maintain organ function
-- Resist disease
-- Adapt throughout life
+> [!success]
+> - Survive environmental change
+> - Exercise safely
+> - Recover from illness
+> - Heal injuries
+> - Maintain organ function
+> - Resist disease
+> - Adapt throughout life
 
-Nearly every disease involves disruption of one or more homeostatic systems. :contentReference[oaicite:8]{index=8}
+Nearly every disease involves disruption of one or more homeostatic systems.
 
 ---
 
@@ -270,13 +298,14 @@ Nearly every disease involves disruption of one or more homeostatic systems. :co
 
 # When Homeostasis Fails
 
-```text
-Homeostasis Disrupted
-         │
- ┌───────┼─────────────┐
- ▼       ▼             ▼
-Disease Organ Failure Death
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Homeostasis Disrupted</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Disease</div></div>
+<div class="tree-item"><div class="tree-node">Organ Failure</div></div>
+<div class="tree-item"><div class="tree-node">Death</div></div>
+</div>
+</div>
 
 Examples include:
 
@@ -285,11 +314,16 @@ Examples include:
 - Heat stroke → failed temperature regulation
 - Kidney failure → impaired fluid and electrolyte regulation
 
-Many diseases can be understood as failures of homeostatic control. :contentReference[oaicite:9]{index=9}
+Many diseases can be understood as failures of homeostatic control.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Charak.jpg?width=1200" alt="A memorial statue of Charaka, the ancient Indian physician whose Charaka Samhita described the body's balance of internal forces, at Haridwar">
+<p class="domain-figure-caption">Statue of Charaka, the ancient Indian physician-scholar of Ayurveda — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -411,12 +445,10 @@ Healthy lifestyle choices strengthen the body's ability to maintain internal sta
 It connects:
 
 - [[Cells]]
-- [[Physiology]]
 - [[Human Systems]]
 - [[Health]]
 - [[Disease]]
 - [[Lifestyle Biology]]
-- [[Longevity]]
 
 It is the central principle that links normal physiology to disease and medicine.
 
@@ -427,7 +459,6 @@ It is the central principle that links normal physiology to disease and medicine
 ## Depends On
 
 - [[Cells]]
-- [[Physiology]]
 - [[Nervous System]]
 - [[Endocrine System]]
 
@@ -436,34 +467,29 @@ It is the central principle that links normal physiology to disease and medicine
 ## Enables
 
 - [[Health]]
-- [[Adaptation]]
-- [[Disease Prevention]]
-- [[Longevity]]
 
 ---
 
 ## Related
 
-- [[Negative Feedback]]
-- [[Hormones]]
-- [[Metabolism]]
 - [[Stress]]
 - [[Recovery]]
 
 ---
 
-## Next
-
-→ [[Disease]]
-
----
-
 # HumanOS Principle
 
-Homeostasis is the fundamental organizing principle of human physiology. Every second of life, thousands of biological control systems monitor internal conditions and make continuous adjustments to keep temperature, blood glucose, pH, fluids, hormones, and countless other variables within ranges compatible with life. Health emerges when these systems function effectively, while disease often develops when they fail. Understanding homeostasis reveals that life is sustained not by remaining unchanged, but by continuously adapting while preserving internal stability. :contentReference[oaicite:10]{index=10}
+Homeostasis is the fundamental organizing principle of human physiology. Every second of life, thousands of biological control systems monitor internal conditions and make continuous adjustments to keep temperature, blood glucose, pH, fluids, hormones, and countless other variables within ranges compatible with life. Health emerges when these systems function effectively, while disease often develops when they fail. Understanding homeostasis reveals that life is sustained not by remaining unchanged, but by continuously adapting while preserving internal stability.
 
 ---
 
 # Key Insight
 
-> **Homeostasis is the dynamic self-regulating process that maintains a stable internal environment despite changing external conditions. Through coordinated feedback systems involving the nervous, endocrine, cardiovascular, respiratory, renal, and immune systems, the body continuously regulates temperature, blood glucose, pH, fluids, hormones, and other critical variables. Understanding homeostasis reveals the central principle of physiology: health depends on maintaining internal stability through continuous adaptation.** :contentReference[oaicite:11]{index=11}
+> **Homeostasis is the dynamic self-regulating process that maintains a stable internal environment despite changing external conditions. Through coordinated feedback systems involving the nervous, endocrine, cardiovascular, respiratory, renal, and immune systems, the body continuously regulates temperature, blood glucose, pH, fluids, hormones, and other critical variables. Understanding homeostasis reveals the central principle of physiology: health depends on maintaining internal stability through continuous adaptation.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/01-foundations-of-health/03---disease" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Disease</span><span class="os-cta-sub">A disease is an abnormal condition that disrupts the normal structure or function of...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -18,7 +18,7 @@ It seeks to explain how simple atoms and molecules gradually organized into incr
 - Evolution
 - Cellular life
 
-Unlike **Evolution**, which explains how living organisms change over generations, the Origin of Life investigates **how the very first living system appeared before evolution could begin.** :contentReference[oaicite:0]{index=0}
+Unlike **Evolution**, which explains how living organisms change over generations, the Origin of Life investigates **how the very first living system appeared before evolution could begin.**
 
 ---
 
@@ -35,7 +35,7 @@ Understanding this transition helps answer questions such as:
 - Is life an inevitable consequence of chemistry under the right conditions?
 - Could humans one day create artificial life?
 
-Although major progress has been made, **no single pathway has yet been confirmed**. The origin of life remains one of the greatest open questions in modern science. :contentReference[oaicite:1]{index=1}
+Although major progress has been made, **no single pathway has yet been confirmed**. The origin of life remains one of the greatest open questions in modern science.
 
 ---
 
@@ -47,7 +47,7 @@ Instead, researchers think life emerged through a long sequence of increasingly 
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:336px"><svg width="100%" viewBox="0 0 336 870" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="299.8" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="167.9" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Big Bang</text><rect x="18.0" y="90.0" width="299.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="167.9" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Elements Form</text><rect x="18.0" y="162.0" width="299.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="167.9" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Stars &amp; Supernovae</text><rect x="18.0" y="234.0" width="299.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="167.9" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Earth Forms</text><rect x="18.0" y="306.0" width="299.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="167.9" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Water + Energy + Chemistry</text><rect x="18.0" y="378.0" width="299.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="167.9" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Simple Organic Molecules</text><rect x="18.0" y="450.0" width="299.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="167.9" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Complex Organic Molecules</text><rect x="18.0" y="522.0" width="299.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="167.9" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Self-Organizing Chemical Systems</text><rect x="18.0" y="594.0" width="299.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="167.9" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Self-Replicating Molecules</text><rect x="18.0" y="666.0" width="299.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="167.9" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Primitive Cell-like Structures</text><rect x="18.0" y="738.0" width="299.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="167.9" y="764.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">First Living Cells</text><rect x="18.0" y="810.0" width="299.8" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="167.9" y="836.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Evolution Begins</text><line x1="167.9" y1="64.0" x2="167.9" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="167.9" y1="136.0" x2="167.9" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="167.9" y1="208.0" x2="167.9" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="167.9" y1="280.0" x2="167.9" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="167.9" y1="352.0" x2="167.9" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="167.9" y1="424.0" x2="167.9" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="167.9" y1="496.0" x2="167.9" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="167.9" y1="568.0" x2="167.9" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="167.9" y1="640.0" x2="167.9" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="167.9" y1="712.0" x2="167.9" y2="732.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="167.9" y1="784.0" x2="167.9" y2="804.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Rather than one miraculous event, life is thought to have emerged through many small steps over millions of years. :contentReference[oaicite:2]{index=2}
+Rather than one miraculous event, life is thought to have emerged through many small steps over millions of years.
 
 ---
 
@@ -55,26 +55,31 @@ Rather than one miraculous event, life is thought to have emerged through many s
 
 Several hypotheses attempt to explain different stages of abiogenesis.
 
-```text
-              Origin of Life
-                     │
-     ┌───────────────┼─────────────────┐
-     │               │                 │
-Primordial      Hydrothermal       RNA World
-    Soup            Vents              │
-     │               │                 │
-     └───────────────┼─────────────────┘
-                     ▼
-          Chemical Evolution
-                     │
-                     ▼
-         Self-Replicating Systems
-                     │
-                     ▼
-             First Living Cells
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Origin of Life</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Primordial Soup</div></div>
+<div class="tree-item"><div class="tree-node">Hydrothermal Vents</div></div>
+<div class="tree-item"><div class="tree-node">RNA World</div></div>
+</div>
+</div>
 
-Current research suggests these ideas **may complement one another rather than compete**, with different environments and processes contributing to life's emergence. :contentReference[oaicite:3]{index=3}
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Chemical Evolution</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Self-Replicating Systems</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div></div>
+<div class="flow-step-content"><span class="flow-step-title">First Living Cells</span></div>
+</div>
+</div>
+
+Current research suggests these ideas **may complement one another rather than compete**, with different environments and processes contributing to life's emergence.
 
 ---
 
@@ -92,11 +97,12 @@ Understanding the origin of life helps answer some of humanity's deepest questio
 
 It helps us understand:
 
-- Why life exists.
-- Whether life may exist elsewhere.
-- How biology emerged from chemistry.
-- How diseases, genetics, and cells ultimately began.
-- Whether humans might one day create synthetic life.
+> [!success]
+> - Why life exists.
+> - Whether life may exist elsewhere.
+> - How biology emerged from chemistry.
+> - How diseases, genetics, and cells ultimately began.
+> - Whether humans might one day create synthetic life.
 
 It also changes our perspective.
 
@@ -106,37 +112,22 @@ Every organism alive today—including humans—descends from a common ancestral
 
 # Daily Life Examples
 
-### 🧬 Modern Cells
-
-Every cell in your body carries molecular machinery inherited from the earliest living organisms.
-
----
-
-### 💊 Medicine
-
-Understanding how life began improves research into genetics, microbiology, molecular biology, and biotechnology.
-
----
-
-### 🔬 Laboratory Research
-
-Scientists attempt to recreate parts of early-Earth chemistry to understand how biological molecules could have formed naturally.
-
----
-
-### 🚀 Searching for Life
-
-Mars, Europa, Enceladus, and distant exoplanets are studied because understanding Earth's origin of life helps scientists recognize environments where life might also emerge.
-
----
-
-### 🧪 Synthetic Biology
-
-Researchers study the minimum requirements for life, helping develop artificial cells, new medicines, and biotechnology.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🧬</span><span class="os-card-title">Modern Cells</span><span class="os-card-desc">Every cell in your body carries molecular machinery inherited from the earliest living organisms.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">💊</span><span class="os-card-title">Medicine</span><span class="os-card-desc">Understanding how life began improves research into genetics, microbiology, molecular biology, and biotechnology.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🔬</span><span class="os-card-title">Laboratory Research</span><span class="os-card-desc">Scientists attempt to recreate parts of early-Earth chemistry to understand how biological molecules could have formed naturally.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🚀</span><span class="os-card-title">Searching for Life</span><span class="os-card-desc">Mars, Europa, Enceladus, and distant exoplanets are studied because understanding Earth's origin of life helps scientists recognize environments where life might also emerge.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🧪</span><span class="os-card-title">Synthetic Biology</span><span class="os-card-desc">Researchers study the minimum requirements for life, helping develop artificial cells, new medicines, and biotechnology.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Main_Endeavour_black_smoker.jpg?width=1200" alt="A black smoker hydrothermal vent releasing mineral-rich superheated water on the seafloor of the Main Endeavour Field">
+<p class="domain-figure-caption">A black smoker hydrothermal vent — one of the environments proposed for life's chemical origins — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -324,19 +315,17 @@ This topic prepares the foundation for [[Evolution]], which explains how the fir
 
 ## Related
 
-- [[Abiogenesis]]
-- [[Early Earth]]
 - [[Evolution]]
-- [[Astrobiology]]
-
----
-
-## Next
-
-→ [[Evolution]]
 
 ---
 
 # Key Insight
 
 > **The Origin of Life marks one of the greatest transitions in the history of the Universe: the transformation of non-living chemistry into living systems capable of growth, reproduction, and evolution. Although the exact pathway remains unknown, studying this transition helps humanity understand where we came from, guides the search for life beyond Earth, and reminds us that every living organism—including ourselves—is part of a single, continuous story stretching back nearly four billion years.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/04-life-sciences/02---evolution" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Evolution</span><span class="os-cta-sub">Evolution explains how life changes over generations. It reveals how every species on...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -17,7 +17,7 @@ It explains:
 - Why every individual is genetically unique.
 - How mutations create biological diversity.
 
-Genes, carried on chromosomes, are the basic units of heredity and contain instructions for building and maintaining living organisms. :contentReference[oaicite:0]{index=0}
+Genes, carried on chromosomes, are the basic units of heredity and contain instructions for building and maintaining living organisms.
 
 ---
 
@@ -43,7 +43,7 @@ Without genetics there would be:
 - No reproduction.
 - No continuity of life.
 
-Genetics is therefore the information system that allows life to continue across generations. :contentReference[oaicite:1]{index=1}
+Genetics is therefore the information system that allows life to continue across generations.
 
 ---
 
@@ -51,39 +51,50 @@ Genetics is therefore the information system that allows life to continue across
 
 Genetic information flows through several biological stages.
 
-```text
-          DNA
-           │
-           ▼
-        Genes
-           │
-           ▼
-   Gene Expression
-           │
-           ▼
-      Proteins
-           │
-           ▼
- Cell Structure & Function
-           │
-           ▼
- Body Structure & Traits
-           │
-           ▼
- Growth • Health • Behaviour
-           │
-           ▼
- Reproduction
-           │
-           ▼
- Next Generation
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">DNA</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Genes</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Gene Expression</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Proteins</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Cell Structure &amp; Function</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Body Structure &amp; Traits</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Growth</span> Health, Behaviour</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">8</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Reproduction</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">9</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Next Generation</span></div>
+</div>
+</div>
 
 Genes do not directly create traits.
 
 Instead, they provide instructions for making proteins, and proteins perform most of the work inside cells.
 
-The interaction of genes, proteins, cells, and the environment ultimately produces an organism's observable characteristics. :contentReference[oaicite:2]{index=2}
+The interaction of genes, proteins, cells, and the environment ultimately produces an organism's observable characteristics.
 
 ---
 
@@ -111,56 +122,37 @@ Every human characteristic has a genetic component.
 
 Genetics helps explain:
 
-- Why families resemble one another.
-- Why inherited diseases occur.
-- Why medicines work differently for different people.
-- Why some individuals have greater disease risks.
-- How crops become more productive.
-- How modern biotechnology works.
+> [!success]
+> - Why families resemble one another.
+> - Why inherited diseases occur.
+> - Why medicines work differently for different people.
+> - Why some individuals have greater disease risks.
+> - How crops become more productive.
+> - How modern biotechnology works.
 
-Understanding genetics improves healthcare, agriculture, forensic science, conservation, and personalized medicine. :contentReference[oaicite:3]{index=3}
+Understanding genetics improves healthcare, agriculture, forensic science, conservation, and personalized medicine.
 
 ---
 
 # Daily Life Examples
 
-### 👨‍👩‍👧 Family Resemblance
-
-Children inherit genes from both parents, explaining similarities such as eye colour, height, blood type, and many physical characteristics.
-
----
-
-### 🧬 Genetic Disorders
-
-Conditions such as cystic fibrosis and sickle-cell disease result from changes (mutations) in specific genes.
-
----
-
-### 💊 Personalized Medicine
-
-Doctors increasingly use genetic information to select medicines and treatments that are more effective for individual patients.
-
----
-
-### 🌾 Agriculture
-
-Plant and animal breeding use genetic principles to improve food production, disease resistance, and crop quality.
-
----
-
-### 🧪 DNA Testing
-
-DNA analysis helps identify biological relationships, solve crimes, identify disaster victims, and study human ancestry.
-
----
-
-### 🦠 Disease Research
-
-Genetics helps scientists understand viruses, bacteria, cancer, inherited disorders, and many complex diseases.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">👨‍👩‍👧</span><span class="os-card-title">Family Resemblance</span><span class="os-card-desc">Children inherit genes from both parents, explaining similarities such as eye colour, height, blood type, and many physical characteristics.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🧬</span><span class="os-card-title">Genetic Disorders</span><span class="os-card-desc">Conditions such as cystic fibrosis and sickle-cell disease result from changes (mutations) in specific genes.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">💊</span><span class="os-card-title">Personalized Medicine</span><span class="os-card-desc">Doctors increasingly use genetic information to select medicines and treatments that are more effective for individual patients.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌾</span><span class="os-card-title">Agriculture</span><span class="os-card-desc">Plant and animal breeding use genetic principles to improve food production, disease resistance, and crop quality.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🧪</span><span class="os-card-title">DNA Testing</span><span class="os-card-desc">DNA analysis helps identify biological relationships, solve crimes, identify disaster victims, and study human ancestry.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🦠</span><span class="os-card-title">Disease Research</span><span class="os-card-desc">Genetics helps scientists understand viruses, bacteria, cancer, inherited disorders, and many complex diseases.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Har_Gobind_Khorana.jpg?width=1200" alt="Portrait of Har Gobind Khorana, the Indian-American biochemist who won the Nobel Prize for deciphering the genetic code">
+<p class="domain-figure-caption">Har Gobind Khorana, Indian-American biochemist and Nobel laureate for cracking the genetic code — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -193,7 +185,7 @@ However, human intelligence, personality, behaviour, and mental health arise thr
 - Culture
 - Life experiences
 
-HumanOS emphasizes that **genes influence but do not fully determine who we become.** :contentReference[oaicite:4]{index=4}
+HumanOS emphasizes that **genes influence but do not fully determine who we become.**
 
 ---
 
@@ -362,20 +354,17 @@ It prepares the foundation for [[Microbiology]], where we begin studying the sma
 
 ## Related
 
-- [[DNA]]
-- [[Genes]]
-- [[Chromosomes]]
-- [[Gene Expression]]
-- [[Inheritance]]
-
----
-
-## Next
-
-→ [[Microbiology]]
+None.
 
 ---
 
 # Key Insight
 
 > **Genetics is the information system of life. DNA stores the instructions, genes transmit them across generations, and cells use them to build every living organism. Understanding genetics helps humanity improve medicine, agriculture, biotechnology, and our understanding of ourselves, while reminding us that our future is shaped not only by the genes we inherit, but also by the choices we make.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/04-life-sciences/05---microbiology" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Microbiology</span><span class="os-cta-sub">Microbiology reveals the invisible world of life. It explains how microscopic...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

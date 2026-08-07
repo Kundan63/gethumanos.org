@@ -25,7 +25,7 @@ Yet every system continuously exchanges:
 - Immune signals
 - Waste products
 
-Together they maintain **homeostasis**, allowing trillions of cells to survive in a constantly changing environment. :contentReference[oaicite:0]{index=0}
+Together they maintain **homeostasis**, allowing trillions of cells to survive in a constantly changing environment.
 
 ---
 
@@ -93,34 +93,42 @@ Each system will be explored using the same HumanOS framework:
 
 The human body functions as one connected network.
 
-```text
-                 🍎 Food
-                    │
-                    ▼
-          Digestive System
-                    │
-                    ▼
-          Nutrients in Blood
-                    │
-                    ▼
-      Cardiovascular System
-                    │
-      ┌─────────────┼─────────────┐
-      ▼             ▼             ▼
-   Brain         Muscles      Immune System
-      │             │             │
-      └─────────────┼─────────────┘
-                    ▼
-          Endocrine System
-                    │
-                    ▼
-           Homeostasis
-                    │
-                    ▼
-            Healthy Human
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">🍎 Food</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Digestive System</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Nutrients in Blood</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Cardiovascular System</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Brain, Muscles, Immune System</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Endocrine System</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Homeostasis</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">8</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Healthy Human</span></div>
+</div>
+</div>
 
-Every organ system exchanges information and resources with multiple other systems every second. Human physiology is increasingly understood as a network of interacting systems rather than isolated organs. :contentReference[oaicite:1]{index=1}
+Every organ system exchanges information and resources with multiple other systems every second. Human physiology is increasingly understood as a network of interacting systems rather than isolated organs.
 
 ---
 
@@ -214,30 +222,34 @@ No injury heals through one system alone.
 
 Health is an emergent property of many interacting systems.
 
-```text
-                 Human Health
-                       ▲
-                       │
-    ┌──────────────────┼──────────────────┐
-    │                  │                  │
- Nutrition        Physical Activity    Sleep
-    │                  │                  │
-    ├──────────────────┼──────────────────┤
-    │                  │                  │
- Stress         Environment      Relationships
-    │                  │                  │
-    ├──────────────────┼──────────────────┤
-    │                  │                  │
- Genetics      Infections        Healthcare
-    │                  │                  │
-    └──────────────────┼──────────────────┘
-                       │
-              Human Systems
-                       │
-          Homeostasis or Disease
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Health</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Nutrition, Physical Activity, Sleep</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Stress, Environment, Relationships</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Genetics, Infections, Healthcare</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Systems</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Homeostasis or Disease</span></div>
+</div>
+</div>
 
-Most chronic diseases develop when multiple systems gradually lose their ability to maintain homeostasis, rather than from failure of a single organ alone. :contentReference[oaicite:2]{index=2}
+Most chronic diseases develop when multiple systems gradually lose their ability to maintain homeostasis, rather than from failure of a single organ alone.
 
 ---
 
@@ -397,7 +409,6 @@ This prepares us for:
 
 - [[Brain & Neuroscience]]
 - [[Lifestyle Biology]]
-- [[Disease & Medicine]]
 
 where we explore how these systems are controlled, influenced by daily habits, and affected by disease.
 
@@ -433,14 +444,6 @@ where we explore how these systems are controlled, influenced by daily habits, a
 
 - [[Brain & Neuroscience]]
 - [[Lifestyle Biology]]
-- [[Disease & Medicine]]
-- [[Longevity]]
-
----
-
-## Next
-
-→ [[Nervous System]]
 
 ---
 
@@ -461,3 +464,10 @@ Understanding the human body therefore requires understanding **relationships**,
 # Key Insight
 
 > **Human Systems reveal that life is sustained not by individual organs, but by networks of organs working together. Every breath, heartbeat, movement, thought, immune response, and moment of health depends on continuous communication among the body's major systems. Understanding these relationships allows us to prevent disease, appreciate the body's remarkable design, and make choices that support lifelong health, resilience, and well-being.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/03-human-system/01---nervous-system" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Nervous System</span><span class="os-cta-sub">The Nervous System is the body's master communication and control network. It...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

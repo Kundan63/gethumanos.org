@@ -230,7 +230,7 @@ Learning by examining experience.
 
 Continually adapting as reality changes.
 
-Learning spans all ages, all learning settings, and all modes of learning rather than being confined to formal education. :contentReference[oaicite:1]{index=1}
+Learning spans all ages, all learning settings, and all modes of learning rather than being confined to formal education.
 
 ---
 
@@ -349,10 +349,6 @@ If you can teach it clearly, you understand it more deeply.
 - [[Career]]
 - [[Personal Growth]]
 
-## Next
-
-→ [[HumanOS Life Architecture]]
-
 **Supports** every section of HumanOS.
 
 ---
@@ -360,3 +356,10 @@ If you can teach it clearly, you understand it more deeply.
 # HumanOS Principle
 
 > **Learning is the engine of the Human Operating System. HumanOS defines learning as the continuous process of transforming reality into understanding, understanding into capability, capability into wisdom, and wisdom into responsible contribution. The goal of learning is not simply to know more, but to become more capable of understanding reality, solving meaningful problems, adapting to change, and improving humanity.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/12-humanos/07---humanos-life-architecture" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: HumanOS Life Architecture</span><span class="os-cta-sub">The HumanOS Life Architecture defines how a human life should be organized as one...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

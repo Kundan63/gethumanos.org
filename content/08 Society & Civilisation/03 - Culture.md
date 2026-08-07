@@ -1,6 +1,6 @@
 # Culture
 
-> *Culture is the shared system of values, beliefs, knowledge, language, customs, behaviors, symbols, traditions, and material objects that people learn and transmit from one generation to the next. Unlike biological traits, culture is learned rather than inherited. It shapes how people think, communicate, solve problems, build societies, and understand the world. Culture is one of humanity's greatest adaptations because it allows knowledge to accumulate across generations instead of being rediscovered repeatedly.* :contentReference[oaicite:0]{index=0}
+> *Culture is the shared system of values, beliefs, knowledge, language, customs, behaviors, symbols, traditions, and material objects that people learn and transmit from one generation to the next. Unlike biological traits, culture is learned rather than inherited. It shapes how people think, communicate, solve problems, build societies, and understand the world. Culture is one of humanity's greatest adaptations because it allows knowledge to accumulate across generations instead of being rediscovered repeatedly.*
 
 ---
 
@@ -30,7 +30,7 @@ Culture influences:
 - How they solve problems
 - How they organize society
 
-Unlike genes, culture is **learned through interaction** with other people. :contentReference[oaicite:1]{index=1}
+Unlike genes, culture is **learned through interaction** with other people.
 
 ---
 
@@ -49,7 +49,7 @@ Every generation must learn:
 
 Culture exists because it allows knowledge to be transmitted from one generation to the next.
 
-Instead of every child starting from zero, each generation inherits thousands of years of accumulated knowledge. :contentReference[oaicite:2]{index=2}
+Instead of every child starting from zero, each generation inherits thousands of years of accumulated knowledge.
 
 ---
 
@@ -69,24 +69,24 @@ Culture provides shared rules, meanings, and practices that allow individuals to
 
 # Elements of Culture
 
-```text
-Culture
-     │
- ┌───┼──────────────┬──────────────┐
- ▼   ▼              ▼              ▼
-Values
-Beliefs
-Norms
-Language
- │
- ├────────────┬──────────────┬──────────────┐
- ▼            ▼              ▼
-Symbols
-Traditions
-Material Culture
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Culture</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Values</div></div>
+<div class="tree-item"><div class="tree-node">Beliefs</div></div>
+<div class="tree-item"><div class="tree-node">Norms</div></div>
+<div class="tree-item">
+<div class="tree-node">Language</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Symbols</div></div>
+<div class="tree-item"><div class="tree-node">Traditions</div></div>
+<div class="tree-item"><div class="tree-node">Material Culture</div></div>
+</div>
+</div>
+</div>
+</div>
 
-Anthropologists commonly describe culture through what people **think, do, and make**. :contentReference[oaicite:3]{index=3}
+Anthropologists commonly describe culture through what people **think, do, and make**.
 
 ---
 
@@ -194,7 +194,7 @@ Examples:
 - Art
 - Books
 
-Material culture reflects underlying ideas and values. :contentReference[oaicite:4]{index=4}
+Material culture reflects underlying ideas and values.
 
 ---
 
@@ -208,7 +208,7 @@ Material culture reflects underlying ideas and values. :contentReference[oaicite
 | Artifacts | Traditions |
 | Tools | Norms |
 
-Both forms interact continuously to shape society. :contentReference[oaicite:5]{index=5}
+Both forms interact continuously to shape society.
 
 ---
 
@@ -245,7 +245,7 @@ Examples include:
 - Rules
 - Play
 
-These are called **cultural universals** because they address common human needs. :contentReference[oaicite:6]{index=6}
+These are called **cultural universals** because they address common human needs.
 
 ---
 
@@ -273,7 +273,7 @@ Culture provides the shared framework that allows societies to function.
 
 Society is the group of people.
 
-Culture is the shared way they live. :contentReference[oaicite:7]{index=7}
+Culture is the shared way they live.
 
 ---
 
@@ -317,7 +317,7 @@ Example:
 
 Understanding another culture within its own context before making judgments.
 
-Cultural relativism promotes understanding while recognizing cultural differences. :contentReference[oaicite:8]{index=8}
+Cultural relativism promotes understanding while recognizing cultural differences.
 
 ---
 
@@ -342,14 +342,16 @@ These influences continually reshape societies.
 
 Understanding culture improves:
 
-- International cooperation
-- Business
-- Healthcare
-- Education
-- Public policy
-- Diplomacy
-- Artificial intelligence
-- User experience design
+<div class="tag-grid">
+<span class="tag-pill">International cooperation</span>
+<span class="tag-pill">Business</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Public policy</span>
+<span class="tag-pill">Diplomacy</span>
+<span class="tag-pill">Artificial intelligence</span>
+<span class="tag-pill">User experience design</span>
+</div>
 
 Cultural awareness helps people work effectively across diverse communities.
 
@@ -361,7 +363,7 @@ Cultural awareness helps people work effectively across diverse communities.
 
 Reality:
 
-Culture includes values, beliefs, language, laws, traditions, social norms, and institutions—not just visible customs. :contentReference[oaicite:9]{index=9}
+Culture includes values, beliefs, language, laws, traditions, social norms, and institutions—not just visible customs.
 
 ---
 
@@ -385,14 +387,15 @@ Cultures constantly adapt in response to new technologies, environments, and his
 
 Culture shapes nearly every aspect of life:
 
-- Identity
-- Communication
-- Education
-- Relationships
-- Ethics
-- Politics
-- Business
-- Science
+> [!success]
+> - Identity
+> - Communication
+> - Education
+> - Relationships
+> - Ethics
+> - Politics
+> - Business
+> - Science
 
 Understanding culture helps people appreciate diversity, reduce misunderstandings, and cooperate more effectively.
 
@@ -407,6 +410,11 @@ Culture transforms biological humans into social beings capable of creating civi
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bharatanatyam_is_a_major_form_of_Indian_classical_dance_that_originated_in_the_state_of_Tamil_Nadu.jpg?width=1200" alt="A performer of Bharatanatyam, a classical Indian dance form originating in Tamil Nadu">
+<p class="domain-figure-caption">A Bharatanatyam dancer performing a classical Indian dance tradition passed down through generations — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -486,12 +494,10 @@ It demonstrates that civilization is built not only through biology, but through
 
 - [[Anthropology]]
 - [[Communication]]
-- [[Language]]
 - [[Learning]]
 
 ## Enables
 
-- [[Society]]
 - [[Education]]
 - [[Politics]]
 - [[Law]]
@@ -502,20 +508,22 @@ It demonstrates that civilization is built not only through biology, but through
 - [[History]]
 - [[Family]]
 - [[Communication]]
-- [[Religion]]
-
-## Next
-
-→ [[Family]]
 
 ---
 
 # HumanOS Principle
 
-Culture is the shared system of knowledge, values, beliefs, language, traditions, norms, and material creations that humans learn and transmit across generations. Unlike biological inheritance, culture allows information to accumulate, adapt, and spread, enabling societies to cooperate, solve problems, and build civilizations. Understanding culture reveals how humans transform individual experience into collective knowledge and continuous progress. :contentReference[oaicite:10]{index=10}
+Culture is the shared system of knowledge, values, beliefs, language, traditions, norms, and material creations that humans learn and transmit across generations. Unlike biological inheritance, culture allows information to accumulate, adapt, and spread, enabling societies to cooperate, solve problems, and build civilizations. Understanding culture reveals how humans transform individual experience into collective knowledge and continuous progress.
 
 ---
 
 # Key Insight
 
-> **Culture is humanity's greatest inheritance. Every language spoken, meal prepared, law obeyed, scientific discovery taught, and tradition celebrated exists because previous generations passed their knowledge to the next. Culture allows humanity to remember, adapt, and progress together.** :contentReference[oaicite:11]{index=11}
+> **Culture is humanity's greatest inheritance. Every language spoken, meal prepared, law obeyed, scientific discovery taught, and tradition celebrated exists because previous generations passed their knowledge to the next. Culture allows humanity to remember, adapt, and progress together.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/08-society--and--civilisation/04---family" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Family</span><span class="os-cta-sub">A family is a socially recognized group of people connected through kinship, blood,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

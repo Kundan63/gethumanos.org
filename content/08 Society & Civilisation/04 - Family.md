@@ -1,6 +1,6 @@
 # Family
 
-> *A family is a socially recognized group of people connected through kinship, blood, marriage, adoption, cohabitation, or long-term emotional commitment. Families provide care, protection, socialization, emotional support, and economic cooperation. Although family structures differ across cultures and throughout history, the family remains the primary institution through which humans reproduce, raise children, transmit culture, and build society.* :contentReference[oaicite:0]{index=0}
+> *A family is a socially recognized group of people connected through kinship, blood, marriage, adoption, cohabitation, or long-term emotional commitment. Families provide care, protection, socialization, emotional support, and economic cooperation. Although family structures differ across cultures and throughout history, the family remains the primary institution through which humans reproduce, raise children, transmit culture, and build society.*
 
 ---
 
@@ -27,7 +27,7 @@ Family is often a person's first experience of:
 - Learning
 - Social interaction
 
-Unlike many social groups, families usually involve long-term emotional bonds and mutual responsibility. :contentReference[oaicite:1]{index=1}
+Unlike many social groups, families usually involve long-term emotional bonds and mutual responsibility.
 
 ---
 
@@ -66,24 +66,24 @@ Families transform biological reproduction into social development by raising ch
 
 # Functions of Family
 
-```text
-Family
-    │
- ┌──┼──────────────┬──────────────┐
- ▼  ▼              ▼              ▼
-Care
-Socialization
-Protection
-Economic Support
- │
- ├────────────┬──────────────┬──────────────┐
- ▼            ▼              ▼
-Education
-Culture
-Identity
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Family</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Care</div></div>
+<div class="tree-item"><div class="tree-node">Socialization</div></div>
+<div class="tree-item"><div class="tree-node">Protection</div></div>
+<div class="tree-item">
+<div class="tree-node">Economic Support</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Education</div></div>
+<div class="tree-item"><div class="tree-node">Culture</div></div>
+<div class="tree-item"><div class="tree-node">Identity</div></div>
+</div>
+</div>
+</div>
+</div>
 
-Families perform multiple biological, psychological, social, and economic functions simultaneously. :contentReference[oaicite:2]{index=2}
+Families perform multiple biological, psychological, social, and economic functions simultaneously.
 
 ---
 
@@ -170,18 +170,19 @@ Culture survives because families teach it to children.
 
 # Types of Families
 
-```text
-Family
-    │
- ├── Nuclear
- ├── Extended
- ├── Single-Parent
- ├── Blended
- ├── Joint
- └── Adoptive
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Family</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nuclear</div></div>
+<div class="tree-item"><div class="tree-node">Extended</div></div>
+<div class="tree-item"><div class="tree-node">Single-Parent</div></div>
+<div class="tree-item"><div class="tree-node">Blended</div></div>
+<div class="tree-item"><div class="tree-node">Joint</div></div>
+<div class="tree-item"><div class="tree-node">Adoptive</div></div>
+</div>
+</div>
 
-Family structures vary across cultures, societies, and historical periods. :contentReference[oaicite:3]{index=3}
+Family structures vary across cultures, societies, and historical periods.
 
 ---
 
@@ -245,7 +246,7 @@ Emotional and social relationships define the family regardless of biological co
 | Connected by kinship or long-term bonds | People sharing a residence |
 | May live separately | May include unrelated people |
 
-A household is not always a family, and a family does not always live in one household. :contentReference[oaicite:4]{index=4}
+A household is not always a family, and a family does not always live in one household.
 
 ---
 
@@ -302,14 +303,16 @@ While family structures change, the need for care, belonging, and social support
 
 Understanding families improves:
 
-- Education
-- Healthcare
-- Public policy
-- Psychology
-- Child development
-- Social work
-- Economics
-- Community development
+<div class="tag-grid">
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Public policy</span>
+<span class="tag-pill">Psychology</span>
+<span class="tag-pill">Child development</span>
+<span class="tag-pill">Social work</span>
+<span class="tag-pill">Economics</span>
+<span class="tag-pill">Community development</span>
+</div>
 
 ---
 
@@ -319,7 +322,7 @@ Understanding families improves:
 
 Reality:
 
-Family structures vary widely across cultures and societies. :contentReference[oaicite:5]{index=5}
+Family structures vary widely across cultures and societies.
 
 ---
 
@@ -327,7 +330,7 @@ Family structures vary widely across cultures and societies. :contentReference[o
 
 Reality:
 
-Families may be formed through blood, marriage, adoption, or enduring social and emotional relationships. :contentReference[oaicite:6]{index=6}
+Families may be formed through blood, marriage, adoption, or enduring social and emotional relationships.
 
 ---
 
@@ -343,14 +346,15 @@ Families evolve throughout life as members are born, grow, marry, migrate, and a
 
 Family influences nearly every aspect of life:
 
-- Physical health
-- Mental health
-- Education
-- Personality
-- Values
-- Relationships
-- Financial security
-- Well-being
+> [!success]
+> - Physical health
+> - Mental health
+> - Education
+> - Personality
+> - Values
+> - Relationships
+> - Financial security
+> - Well-being
 
 Many lifelong outcomes begin with early family experiences.
 
@@ -365,6 +369,11 @@ Family connects biological reproduction with social and cultural development.
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nehru_family.jpg?width=1200" alt="A historic photograph of an Indian family group">
+<p class="domain-figure-caption">A multigenerational Indian family, reflecting the extended-family tradition common across the subcontinent — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -434,7 +443,6 @@ It connects:
 - [[Human Development]]
 - [[Communication]]
 - [[Economics]]
-- [[Society]]
 
 It demonstrates that civilization begins not with governments or cities, but with families that nurture individuals and pass knowledge across generations.
 
@@ -452,29 +460,30 @@ It demonstrates that civilization begins not with governments or cities, but wit
 ## Enables
 
 - [[Education]]
-- [[Society]]
 - [[Economics]]
 - [[Culture]]
 
 ## Related
 
 - [[History]]
-- [[Marriage]]
 - [[Childhood]]
 - [[Parenting]]
-
-## Next
-
-→ [[Education]]
 
 ---
 
 # HumanOS Principle
 
-Family is the foundational social institution through which humans care for one another, raise children, transmit culture, and build society. Although family structures differ across cultures and time, families consistently provide protection, emotional support, socialization, and economic cooperation. Understanding the family reveals how biological reproduction becomes cultural continuity and how individual lives become part of the larger story of civilization. :contentReference[oaicite:7]{index=7}
+Family is the foundational social institution through which humans care for one another, raise children, transmit culture, and build society. Although family structures differ across cultures and time, families consistently provide protection, emotional support, socialization, and economic cooperation. Understanding the family reveals how biological reproduction becomes cultural continuity and how individual lives become part of the larger story of civilization.
 
 ---
 
 # Key Insight
 
-> **Every civilization begins with a family. Before there are schools, governments, businesses, or nations, there are families teaching language, values, cooperation, and care. The strength of civilization ultimately depends on the strength of the families that raise each new generation.** :contentReference[oaicite:8]{index=8}
+> **Every civilization begins with a family. Before there are schools, governments, businesses, or nations, there are families teaching language, values, cooperation, and care. The strength of civilization ultimately depends on the strength of the families that raise each new generation.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/08-society--and--civilisation/05---education" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Education</span><span class="os-cta-sub">Education is the lifelong process through which people acquire knowledge, skills,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

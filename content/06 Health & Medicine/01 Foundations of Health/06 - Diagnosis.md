@@ -1,6 +1,6 @@
 # Diagnosis
 
-> *Diagnosis is the systematic process of identifying the disease, disorder, injury, or health condition that best explains a person's signs, symptoms, examination findings, and test results. It combines clinical reasoning with evidence from the patient's history, physical examination, laboratory tests, imaging, and other investigations to determine the most likely explanation for the patient's health problem. Diagnosis is both a **process** and a **clinical conclusion**, and it guides treatment, prognosis, prevention, and follow-up.* :contentReference[oaicite:0]{index=0}
+> *Diagnosis is the systematic process of identifying the disease, disorder, injury, or health condition that best explains a person's signs, symptoms, examination findings, and test results. It combines clinical reasoning with evidence from the patient's history, physical examination, laboratory tests, imaging, and other investigations to determine the most likely explanation for the patient's health problem. Diagnosis is both a **process** and a **clinical conclusion**, and it guides treatment, prognosis, prevention, and follow-up.*
 
 ---
 
@@ -16,7 +16,7 @@ It answers questions such as:
 - What treatment is needed?
 - What is likely to happen next?
 
-Diagnosis is one of the most important tasks in medicine because correct treatment depends upon correctly identifying the underlying condition. :contentReference[oaicite:1]{index=1}
+Diagnosis is one of the most important tasks in medicine because correct treatment depends upon correctly identifying the underlying condition.
 
 ---
 
@@ -47,7 +47,7 @@ Diagnosis exists to determine **which explanation is most consistent with the av
 
 > **How does medicine determine what disease a person actually has?**
 
-Diagnosis answers this by collecting evidence, forming possible explanations, testing those explanations, and identifying the one that best fits the patient's condition. :contentReference[oaicite:2]{index=2}
+Diagnosis answers this by collecting evidence, forming possible explanations, testing those explanations, and identifying the one that best fits the patient's condition.
 
 ---
 
@@ -55,7 +55,7 @@ Diagnosis answers this by collecting evidence, forming possible explanations, te
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:271px"><svg width="100%" viewBox="0 0 271 798" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Patient</text><rect x="18.0" y="90.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Symptoms</text><rect x="18.0" y="162.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Signs</text><rect x="18.0" y="234.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">History</text><rect x="18.0" y="306.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Clinical Examination</text><rect x="18.0" y="378.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Possible Diagnoses</text><rect x="18.0" y="450.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">(Differential Diagnosis)</text><rect x="18.0" y="522.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Medical Tests</text><rect x="18.0" y="594.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Evidence</text><rect x="18.0" y="666.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Final Diagnosis</text><rect x="18.0" y="738.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="764.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Treatment</text><line x1="135.4" y1="64.0" x2="135.4" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="136.0" x2="135.4" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="208.0" x2="135.4" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="280.0" x2="135.4" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="352.0" x2="135.4" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="424.0" x2="135.4" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="496.0" x2="135.4" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="568.0" x2="135.4" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="640.0" x2="135.4" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="712.0" x2="135.4" y2="732.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Diagnosis is an iterative process rather than a single event. New information may change the diagnosis. :contentReference[oaicite:3]{index=3}
+Diagnosis is an iterative process rather than a single event. New information may change the diagnosis.
 
 ---
 
@@ -63,7 +63,7 @@ Diagnosis is an iterative process rather than a single event. New information ma
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:263px"><svg width="100%" viewBox="0 0 263 582" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="226.8" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="131.4" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Patient Problem</text><rect x="18.0" y="90.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Medical History</text><rect x="18.0" y="162.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Physical Examination</text><rect x="18.0" y="234.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Differential Diagnosis</text><rect x="18.0" y="306.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Diagnostic Tests</text><rect x="18.0" y="378.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Clinical Interpretation</text><rect x="18.0" y="450.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Working Diagnosis</text><rect x="18.0" y="522.0" width="226.8" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="131.4" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Treatment &amp; Follow-up</text><line x1="131.4" y1="64.0" x2="131.4" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="136.0" x2="131.4" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="208.0" x2="131.4" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="280.0" x2="131.4" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="352.0" x2="131.4" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="424.0" x2="131.4" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="496.0" x2="131.4" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-The diagnostic process combines information gathering with clinical reasoning. :contentReference[oaicite:4]{index=4}
+The diagnostic process combines information gathering with clinical reasoning.
 
 ---
 
@@ -126,15 +126,19 @@ Examples:
 
 ## 4. Differential Diagnosis
 
-```text
-Symptom
-   │
-Possible Causes
-   │
- ┌──┼─────────────┐
- ▼  ▼             ▼
-Disease A Disease B Disease C
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Symptom</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Possible Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Disease A</div></div>
+<div class="tree-item"><div class="tree-node">Disease B</div></div>
+<div class="tree-item"><div class="tree-node">Disease C</div></div>
+</div>
+</div>
+</div>
+</div>
 
 A **differential diagnosis** is a list of possible explanations ranked according to probability.
 
@@ -177,7 +181,7 @@ Additional evidence may come from:
 
 Used when inherited conditions are suspected.
 
-Diagnostic testing helps reduce uncertainty but must be interpreted within the patient's clinical context. :contentReference[oaicite:5]{index=5}
+Diagnostic testing helps reduce uncertainty but must be interpreted within the patient's clinical context.
 
 ---
 
@@ -194,7 +198,7 @@ Clinicians continuously compare:
 - Test results
 - Disease probability
 
-to determine the most likely explanation. :contentReference[oaicite:6]{index=6}
+to determine the most likely explanation.
 
 ---
 
@@ -204,19 +208,20 @@ Sometimes certainty is impossible immediately.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:214px"><svg width="100%" viewBox="0 0 214 366" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="178.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="107.0" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Evidence</text><rect x="18.0" y="90.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Working Diagnosis</text><rect x="18.0" y="162.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Treatment</text><rect x="18.0" y="234.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">More Evidence</text><rect x="18.0" y="306.0" width="178.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="107.0" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Diagnosis Updated</text><line x1="107.0" y1="64.0" x2="107.0" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="136.0" x2="107.0" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="208.0" x2="107.0" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="280.0" x2="107.0" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Diagnosis often evolves as new information becomes available. :contentReference[oaicite:7]{index=7}
+Diagnosis often evolves as new information becomes available.
 
 ---
 
 # Types of Diagnosis
 
-```text
-Diagnosis
-      │
- ┌────┼───────────────┐
- ▼    ▼               ▼
-Clinical Differential Definitive
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Diagnosis</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Clinical</div></div>
+<div class="tree-item"><div class="tree-node">Differential</div></div>
+<div class="tree-item"><div class="tree-node">Definitive</div></div>
+</div>
+</div>
 
 ### Clinical Diagnosis
 
@@ -242,7 +247,7 @@ Medicine rarely begins with complete certainty.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:222px"><svg width="100%" viewBox="0 0 222 294" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="186.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="111.1" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Limited Evidence</text><rect x="18.0" y="90.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Probability</text><rect x="18.0" y="162.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">More Evidence</text><rect x="18.0" y="234.0" width="186.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="111.1" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Greater Confidence</text><line x1="111.1" y1="64.0" x2="111.1" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="136.0" x2="111.1" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="208.0" x2="111.1" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Good diagnosis reduces uncertainty enough to make appropriate treatment decisions. Absolute certainty is not always possible. :contentReference[oaicite:8]{index=8}
+Good diagnosis reduces uncertainty enough to make appropriate treatment decisions. Absolute certainty is not always possible.
 
 ---
 
@@ -258,14 +263,15 @@ Diagnosis connects pathology, physiology, laboratory medicine, imaging, pharmaco
 
 Accurate diagnosis:
 
-- Enables correct treatment.
-- Prevents unnecessary treatment.
-- Improves recovery.
-- Reduces complications.
-- Supports disease prevention.
-- Improves long-term outcomes.
+> [!success]
+> - Enables correct treatment.
+> - Prevents unnecessary treatment.
+> - Improves recovery.
+> - Reduces complications.
+> - Supports disease prevention.
+> - Improves long-term outcomes.
 
-Diagnostic errors can delay treatment or lead to inappropriate care, making timely and accurate diagnosis a critical component of quality healthcare. :contentReference[oaicite:9]{index=9}
+Diagnostic errors can delay treatment or lead to inappropriate care, making timely and accurate diagnosis a critical component of quality healthcare.
 
 ---
 
@@ -298,6 +304,11 @@ Diagnosis determines the true cause before treatment begins.
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Doppler_Ultrasound_and_Vascular_Sonography_Examination_in_Navi_Mumbai,_Maharashtra,_India.jpg?width=1200" alt="A vascular sonographer performing a Doppler ultrasound examination in Navi Mumbai, Maharashtra, India">
+<p class="domain-figure-caption">Doppler ultrasound examination in progress at a diagnostic centre in Navi Mumbai, India — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -338,7 +349,7 @@ Modern diagnosis uses:
 - Artificial intelligence
 - Digital pathology
 
-WHO recognizes diagnostics as essential tools for prevention, diagnosis, treatment, and disease surveillance. :contentReference[oaicite:10]{index=10}
+WHO recognizes diagnostics as essential tools for prevention, diagnosis, treatment, and disease surveillance.
 
 ---
 
@@ -372,7 +383,6 @@ It connects:
 - [[Disease]]
 - [[Disease Mechanisms]]
 - [[Risk Factors]]
-- [[Treatment]]
 - [[Pharmacology]]
 - [[Surgery]]
 - [[Preventive Medicine]]
@@ -388,11 +398,9 @@ Diagnosis is the bridge between understanding illness and selecting the most app
 - [[Disease]]
 - [[Disease Mechanisms]]
 - [[Risk Factors]]
-- [[Human Physiology]]
 
 ## Enables
 
-- [[Treatment]]
 - [[Pharmacology]]
 - [[Surgery]]
 - [[Preventive Medicine]]
@@ -400,24 +408,23 @@ Diagnosis is the bridge between understanding illness and selecting the most app
 
 ## Related
 
-- [[Medical History]]
-- [[Physical Examination]]
-- [[Laboratory Testing]]
-- [[Medical Imaging]]
-- [[Differential Diagnosis]]
-
-## Next
-
-→ **02. Lifestyle Medicine**
+None.
 
 ---
 
 # HumanOS Principle
 
-Diagnosis is the scientific process of explaining a patient's health problem through evidence and clinical reasoning. By integrating symptoms, medical history, physical examination, and diagnostic testing, clinicians identify the disease or condition most likely responsible for abnormal function. Understanding diagnosis reveals that effective medicine depends not on guessing, but on systematically reducing uncertainty so that prevention, treatment, and long-term care can be tailored to the individual's true condition. :contentReference[oaicite:11]{index=11}
+Diagnosis is the scientific process of explaining a patient's health problem through evidence and clinical reasoning. By integrating symptoms, medical history, physical examination, and diagnostic testing, clinicians identify the disease or condition most likely responsible for abnormal function. Understanding diagnosis reveals that effective medicine depends not on guessing, but on systematically reducing uncertainty so that prevention, treatment, and long-term care can be tailored to the individual's true condition.
 
 ---
 
 # Key Insight
 
-> **Diagnosis is the evidence-based process of identifying the disease or condition responsible for a person's signs and symptoms. Through systematic information gathering, clinical reasoning, and appropriate testing, diagnosis transforms uncertainty into understanding, providing the essential foundation for treatment, prognosis, prevention, and high-quality medical care.** :contentReference[oaicite:12]{index=12}
+> **Diagnosis is the evidence-based process of identifying the disease or condition responsible for a person's signs and symptoms. Through systematic information gathering, clinical reasoning, and appropriate testing, diagnosis transforms uncertainty into understanding, providing the essential foundation for treatment, prognosis, prevention, and high-quality medical care.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/02-prevention/01---lifestyle-medicine" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Lifestyle Medicine</span><span class="os-cta-sub">Lifestyle Medicine is an evidence-based medical specialty that uses therapeutic...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

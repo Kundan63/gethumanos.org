@@ -8,7 +8,7 @@
 
 A **cell** is the **smallest unit of life** capable of carrying out all the processes necessary for survival.
 
-Every human body is built from approximately **30–40 trillion living cells**, each performing specialized functions while working together as one organism. Although cells differ in structure and function, they all share the same basic organization and contain the same DNA (with a few exceptions such as mature red blood cells). :contentReference[oaicite:0]{index=0}
+Every human body is built from approximately **30–40 trillion living cells**, each performing specialized functions while working together as one organism. Although cells differ in structure and function, they all share the same basic organization and contain the same DNA (with a few exceptions such as mature red blood cells).
 
 Cells are the building blocks of:
 
@@ -34,7 +34,7 @@ Life must perform certain essential tasks:
 
 A cell is the smallest structure capable of performing all these functions.
 
-Instead of one enormous cell, evolution produced **billions of specialized cells** working together. This specialization allows humans to develop complex organs such as the brain, heart, lungs, liver, and kidneys. :contentReference[oaicite:1]{index=1}
+Instead of one enormous cell, evolution produced **billions of specialized cells** working together. This specialization allows humans to develop complex organs such as the brain, heart, lungs, liver, and kidneys.
 
 ---
 
@@ -42,29 +42,49 @@ Instead of one enormous cell, evolution produced **billions of specialized cells
 
 A cell functions like a miniature living city.
 
-```text
-            Nutrients
-                │
-                ▼
-         Cell Membrane
-                │
-                ▼
-          Cytoplasm
-                │
-      ┌─────────┼─────────┐
-      ▼         ▼         ▼
-   Nucleus  Mitochondria Ribosomes
-      │         │         │
-      ▼         ▼         ▼
- DNA Control  Energy   Proteins
-      │         │         │
-      └─────────┼─────────┘
-                ▼
-          Healthy Cell
-                │
-                ▼
-      Tissue → Organ → Human
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Nutrients</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Cell Membrane</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Cytoplasm</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Nucleus</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">DNA Control</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Mitochondria</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Energy</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Ribosomes</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Proteins</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Healthy Cell</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Tissue → Organ → Human</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 Every second, each cell:
 
@@ -82,25 +102,43 @@ A healthy human depends on healthy cells.
 
 # Anatomy of a Human Cell
 
-```text
-               Human Cell
-                   │
-     ┌─────────────┼──────────────┐
-     ▼             ▼              ▼
- Cell Membrane  Cytoplasm      Nucleus
-     │             │              │
- Controls      Organelles       DNA
- Entry/Exit         │              │
-     │              ▼              │
-     │      Mitochondria           │
-     │      Ribosomes              │
-     │      ER                     │
-     │      Golgi                  │
-     │      Lysosomes              │
-     └─────────────┼──────────────┘
-                   ▼
-            Cell Function
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Human Cell</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Cell Membrane</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Controls Entry/Exit</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Cytoplasm</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Organelles</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Mitochondria</div></div>
+<div class="tree-item"><div class="tree-node">Ribosomes</div></div>
+<div class="tree-item"><div class="tree-node">ER</div></div>
+<div class="tree-item"><div class="tree-node">Golgi</div></div>
+<div class="tree-item"><div class="tree-node">Lysosomes</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Nucleus</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">DNA</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Cell Function</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 Major organelles perform specialized jobs:
 
@@ -111,7 +149,7 @@ Major organelles perform specialized jobs:
 - **Endoplasmic reticulum** – synthesizes proteins and lipids.
 - **Golgi apparatus** – modifies, packages, and ships molecules.
 - **Lysosomes** – digest waste and damaged components.
-- **Cytoskeleton** – provides shape, movement, and internal support. :contentReference[oaicite:2]{index=2}
+- **Cytoskeleton** – provides shape, movement, and internal support.
 
 ---
 
@@ -141,10 +179,11 @@ Aging gradually reduces cellular repair.
 
 Understanding cells helps explain:
 
-- Why healthy habits matter.
-- Why diseases occur.
-- Why medicines work.
-- Why prevention is more effective than waiting for damage.
+> [!success]
+> - Why healthy habits matter.
+> - Why diseases occur.
+> - Why medicines work.
+> - Why prevention is more effective than waiting for damage.
 
 Modern medicine is largely the science of protecting, repairing, or replacing cells.
 
@@ -189,6 +228,11 @@ Learning strengthens connections between neurons by changing individual brain ce
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Har_Gobind_Khorana.jpg?width=1200" alt="Portrait photograph of Har Gobind Khorana, the Indian-American biochemist who won the Nobel Prize for deciphering the genetic code">
+<p class="domain-figure-caption">Har Gobind Khorana, Nobel laureate who helped decipher the genetic code within cells — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -296,7 +340,7 @@ Damaged cells create disease.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:206px"><svg width="100%" viewBox="0 0 206 1014" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="169.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="103.0" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Smoking</text><rect x="18.0" y="90.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Poor Nutrition</text><rect x="18.0" y="162.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Sleep Loss</text><rect x="18.0" y="234.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Chronic Stress</text><rect x="18.0" y="306.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Pollution</text><rect x="18.0" y="378.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Alcohol</text><rect x="18.0" y="450.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Radiation</text><rect x="18.0" y="522.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Infections</text><rect x="18.0" y="594.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Toxins</text><rect x="18.0" y="666.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cell Damage</text><rect x="18.0" y="738.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="764.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Inflammation</text><rect x="18.0" y="810.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="836.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">DNA Damage</text><rect x="18.0" y="882.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="908.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Oxidative Stress</text><rect x="18.0" y="954.0" width="169.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="103.0" y="980.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Disease</text><line x1="103.0" y1="64.0" x2="103.0" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="136.0" x2="103.0" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="208.0" x2="103.0" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="280.0" x2="103.0" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="352.0" x2="103.0" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="424.0" x2="103.0" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="496.0" x2="103.0" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="568.0" x2="103.0" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="640.0" x2="103.0" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="712.0" x2="103.0" y2="732.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="784.0" x2="103.0" y2="804.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="856.0" x2="103.0" y2="876.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="928.0" x2="103.0" y2="948.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Many chronic diseases begin with cellular damage or dysfunction, although the exact mechanisms differ among diseases. :contentReference[oaicite:3]{index=3}
+Many chronic diseases begin with cellular damage or dysfunction, although the exact mechanisms differ among diseases.
 
 ---
 
@@ -377,24 +421,12 @@ Every higher level of the human body depends on the health and coordination of i
 - [[Organs]]
 - [[Organ Systems]]
 - [[Homeostasis]]
-- [[Physiology]]
-- [[Disease & Medicine]]
 
 ---
 
 ## Related
 
-- [[DNA]]
-- [[Cell Membrane]]
-- [[Mitochondria]]
-- [[Protein Synthesis]]
-- [[Cell Division]]
-
----
-
-## Next
-
-→ [[Tissues]]
+None.
 
 ---
 
@@ -419,3 +451,10 @@ Protecting your cells is the first step toward protecting your future.
 # Key Insight
 
 > **Cells are the foundation of human life. Every organ, every thought, every movement, and every moment of health begins inside trillions of microscopic cells. Understanding how cells function—and how nutrition, exercise, sleep, environment, and disease affect them—provides the scientific foundation for medicine, healthy aging, and living well.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/02-body-architecture/02---tissues" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Tissues</span><span class="os-cta-sub">Tissues are the body's first level of cooperation. They demonstrate how millions of...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

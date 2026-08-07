@@ -20,7 +20,7 @@ Geology investigates:
 - Geological time
 - Natural resources
 
-Unlike [[Geography]], which describes Earth's surface and how humans interact with places, geology explains **why Earth's surface looks the way it does and how it has changed over billions of years**. :contentReference[oaicite:0]{index=0}
+Unlike Geography, which describes Earth's surface and how humans interact with places, geology explains **why Earth's surface looks the way it does and how it has changed over billions of years**.
 
 ---
 
@@ -51,7 +51,7 @@ Without geology, humanity would not understand:
 - How volcanoes form.
 - Where groundwater exists.
 - How fossils record life's history.
-- Where many natural resources are found. :contentReference[oaicite:1]{index=1}
+- Where many natural resources are found.
 
 ---
 
@@ -61,7 +61,7 @@ Geology reconstructs Earth's history by studying rocks, minerals, fossils, and t
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:287px"><svg width="100%" viewBox="0 0 287 654" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="251.1" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="143.6" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Earth&#x27;s Interior</text><rect x="18.0" y="90.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Plate Tectonics</text><rect x="18.0" y="162.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Mountain Building</text><rect x="18.0" y="234.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Volcanoes</text><rect x="18.0" y="306.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Earthquakes</text><rect x="18.0" y="378.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Weathering &amp; Erosion</text><rect x="18.0" y="450.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Sediments</text><rect x="18.0" y="522.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Rock Formation</text><rect x="18.0" y="594.0" width="251.1" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="143.6" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Earth&#x27;s Geological History</text><line x1="143.6" y1="64.0" x2="143.6" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="136.0" x2="143.6" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="208.0" x2="143.6" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="280.0" x2="143.6" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="352.0" x2="143.6" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="424.0" x2="143.6" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="496.0" x2="143.6" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="568.0" x2="143.6" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Unlike many sciences that observe events directly, geology often reconstructs events that occurred millions or even billions of years ago by interpreting evidence preserved in rocks. This perspective of **deep time** is one of geology's defining features. :contentReference[oaicite:2]{index=2}
+Unlike many sciences that observe events directly, geology often reconstructs events that occurred millions or even billions of years ago by interpreting evidence preserved in rocks. This perspective of **deep time** is one of geology's defining features.
 
 ---
 
@@ -69,28 +69,40 @@ Unlike many sciences that observe events directly, geology often reconstructs ev
 
 Earth is constantly reshaping itself.
 
-```text
-                 Earth's Internal Heat
-                          │
-                          ▼
-                  Plate Tectonics
-          ┌───────────────┼───────────────┐
-          ▼               ▼               ▼
-    Earthquakes      Volcanoes      Mountain Building
-          │               │               │
-          └───────────────┼───────────────┘
-                          ▼
-              Weathering & Erosion
-                          │
-                          ▼
-                 Rivers • Sediments
-                          │
-                          ▼
-                  New Rocks Form
-                          │
-                          ▼
-              Landscapes Continue Changing
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Earth's Internal Heat</span></div>
+</div>
+</div>
+
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Plate Tectonics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Earthquakes</div></div>
+<div class="tree-item"><div class="tree-node">Volcanoes</div></div>
+<div class="tree-item"><div class="tree-node">Mountain Building</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Weathering &amp; Erosion</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Rivers • Sediments</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">New Rocks Form</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Landscapes Continue Changing</span></div>
+</div>
+</div>
 
 Earth's surface is continuously renewed through interactions between internal geological forces and external processes such as wind, water, and ice.
 
@@ -110,68 +122,47 @@ Everything humans build depends on geology.
 
 Geology determines:
 
-- Where cities can safely grow.
-- Where fresh water is stored.
-- Where metals and minerals are found.
-- Where earthquakes are likely.
-- Where volcanoes may erupt.
-- Where fertile soils develop.
-- Where energy resources occur.
+> [!success]
+> - Where cities can safely grow.
+> - Where fresh water is stored.
+> - Where metals and minerals are found.
+> - Where earthquakes are likely.
+> - Where volcanoes may erupt.
+> - Where fertile soils develop.
+> - Where energy resources occur.
 
 Understanding geology helps humans:
 
-- Build safer infrastructure.
-- Find groundwater.
-- Reduce disaster risks.
-- Use Earth's resources responsibly.
-- Understand Earth's history.
-- Protect future generations. :contentReference[oaicite:3]{index=3}
+> [!success]
+> - Build safer infrastructure.
+> - Find groundwater.
+> - Reduce disaster risks.
+> - Use Earth's resources responsibly.
+> - Understand Earth's history.
+> - Protect future generations.
+
 
 ---
 
 # Daily Life Examples
 
-### 🏠 Building a House
-
-Before constructing buildings, engineers study the ground to ensure it is stable and suitable for foundations.
-
----
-
-### 🚰 Drinking Water
-
-Much of the world's freshwater is stored underground in rocks called aquifers.
-
-Geology helps locate and protect these water resources.
-
----
-
-### 📱 Smartphones
-
-Copper, lithium, silicon, rare-earth elements, gold, and many other minerals inside smartphones originate from geological processes.
-
----
-
-### 🌾 Farming
-
-Healthy soils develop from weathered rocks over long periods.
-
-Different rock types produce different soils, influencing agriculture.
-
----
-
-### 🌋 Natural Hazards
-
-Monitoring geological activity helps predict volcanic eruptions, identify earthquake-prone regions, and reduce disaster impacts.
-
----
-
-### 🛣 Roads and Bridges
-
-Engineers evaluate rock strength, slope stability, and soil conditions before constructing major infrastructure.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🏠</span><span class="os-card-title">Building a House</span><span class="os-card-desc">Before constructing buildings, engineers study the ground to ensure it is stable and suitable for foundations.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🚰</span><span class="os-card-title">Drinking Water</span><span class="os-card-desc">Much of the world's freshwater is stored underground in rocks called aquifers. Geology helps locate and protect these water resources.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">📱</span><span class="os-card-title">Smartphones</span><span class="os-card-desc">Copper, lithium, silicon, rare-earth elements, gold, and many other minerals inside smartphones originate from geological processes.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌾</span><span class="os-card-title">Farming</span><span class="os-card-desc">Healthy soils develop from weathered rocks over long periods. Different rock types produce different soils, influencing agriculture.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌋</span><span class="os-card-title">Natural Hazards</span><span class="os-card-desc">Monitoring geological activity helps predict volcanic eruptions, identify earthquake-prone regions, and reduce disaster impacts.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🛣</span><span class="os-card-title">Roads and Bridges</span><span class="os-card-desc">Engineers evaluate rock strength, slope stability, and soil conditions before constructing major infrastructure.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Deccan_Traps_volcano.jpg?width=1200" alt="Layered basalt rock formations of the Deccan Traps, one of the largest volcanic provinces on Earth, located in India">
+<p class="domain-figure-caption">The Deccan Traps — layered basalt flows from one of Earth's largest volcanic eruptions — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -356,19 +347,17 @@ It provides the foundation for understanding [[Oceanography]], [[Climate]], [[Ec
 
 ## Related
 
-- [[Plate Tectonics]]
-- [[Rock Cycle]]
-- [[Minerals]]
-- [[Earth]]
-
----
-
-## Next
-
-→ [[Oceanography]]
+None.
 
 ---
 
 # Key Insight
 
 > **Geology reveals that Earth is not a static world but a living planet that has been reshaping itself for billions of years. The rocks beneath our feet record the story of continents, oceans, mountains, climate, and life itself. Understanding geology helps humanity build safer communities, use Earth's resources responsibly, prepare for natural hazards, and appreciate the deep history that made our civilization possible.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/03-natural-sciences/07---oceanography" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Oceanography</span><span class="os-cta-sub">Oceanography explains how Earth's oceans work as one interconnected system. It reveals...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

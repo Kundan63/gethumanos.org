@@ -16,7 +16,7 @@ While [[Epistemology]] examines **how knowledge is acquired, justified, and eval
 - What is the relationship between knowledge, understanding, wisdom, and action?
 - How should knowledge be used to improve human life?
 
-It moves beyond the mechanics of knowing to examine **the significance of knowing**. :contentReference[oaicite:0]{index=0}
+It moves beyond the mechanics of knowing to examine **the significance of knowing**.
 
 ---
 
@@ -37,7 +37,7 @@ Technology can connect humanity or divide it.
 
 Knowledge therefore requires direction, responsibility, and purpose.
 
-The Philosophy of Knowledge exists to understand how knowledge should be valued and applied so that it benefits humanity rather than merely increasing information. :contentReference[oaicite:1]{index=1}
+The Philosophy of Knowledge exists to understand how knowledge should be valued and applied so that it benefits humanity rather than merely increasing information.
 
 ---
 
@@ -55,7 +55,7 @@ It studies questions such as:
 - The responsibilities that accompany knowledge.
 - The relationship between truth, wisdom, ethics, and human progress.
 
-Unlike science, which explains reality, the Philosophy of Knowledge explains **how knowledge should serve humanity.** :contentReference[oaicite:2]{index=2}
+Unlike science, which explains reality, the Philosophy of Knowledge explains **how knowledge should serve humanity.**
 
 ---
 
@@ -73,127 +73,37 @@ Modern society has more information than any previous civilization.
 
 However, information alone does not produce wisdom.
 
-The Philosophy of Knowledge helps humans:
+> [!success] The Philosophy of Knowledge helps humans
+> - Understand the purpose of learning.
+> - Use knowledge responsibly.
+> - Connect facts into understanding.
+> - Transform understanding into wisdom.
+> - Recognize that knowledge carries ethical responsibility.
+> - Continue learning throughout life.
 
-- Understand the purpose of learning.
-- Use knowledge responsibly.
-- Connect facts into understanding.
-- Transform understanding into wisdom.
-- Recognize that knowledge carries ethical responsibility.
-- Continue learning throughout life.
-
-It reminds us that **knowing more is not enough—living better is the ultimate goal.** :contentReference[oaicite:3]{index=3}
+It reminds us that **knowing more is not enough—living better is the ultimate goal.**
 
 ---
 
 # Human Impact
 
-### Human Body
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Prashna_Upanishad_sample_manuscript_page,_Sanskrit,_Devanagari_script.jpg?width=1200" alt="A page from the Prashna Upanishad, an ancient Indian text structured around fundamental questions">
+<p class="domain-figure-caption">The Prashna Upanishad — literally "the Upanishad of questions" — via Wikimedia Commons</p>
+</div>
 
-Knowledge has transformed human health through medicine, nutrition, public health, and biotechnology.
-
-The Philosophy of Knowledge reminds us that scientific progress should improve human well-being while considering ethical responsibilities.
-
----
-
-### Human Mind
-
-It encourages:
-
-- Lifelong learning
-- Intellectual curiosity
-- Reflection
-- Wisdom
-- Intellectual humility
-
-It shifts the goal from accumulating facts to developing genuine understanding.
-
----
-
-### Human Behaviour
-
-Knowledge shapes behaviour.
-
-Understanding why knowledge matters helps people:
-
-- Make wiser choices.
-- Learn from experience.
-- Accept uncertainty.
-- Act responsibly.
-- Continue improving throughout life.
-
----
-
-### Society
-
-Civilizations are built upon shared knowledge.
-
-Education, science, law, culture, and innovation all depend on how societies create, preserve, and apply knowledge.
-
-The Philosophy of Knowledge asks whether those systems ultimately improve human life.
-
----
-
-### Economics
-
-Modern economies increasingly depend on knowledge.
-
-Innovation, research, education, and skilled work all create economic value.
-
-The Philosophy of Knowledge reminds us that economic progress should ultimately serve human well-being rather than becoming an end in itself.
-
----
-
-### Politics & Governance
-
-Governments make decisions using knowledge.
-
-Reliable evidence, transparent reasoning, and informed citizens contribute to better public policy and stronger institutions.
-
-Knowledge also creates responsibility for ethical governance.
-
----
-
-### Technology
-
-Technology is the practical application of knowledge.
-
-Artificial Intelligence, biotechnology, computing, and engineering demonstrate the power of knowledge to reshape civilization.
-
-The Philosophy of Knowledge asks how these advances should be directed to benefit humanity.
-
----
-
-### Philosophy
-
-The Philosophy of Knowledge connects epistemology with ethics, metaphysics, and the philosophy of science.
-
-It explores not only **whether knowledge is reliable**, but **why knowledge deserves to be pursued and how it should influence human life.** :contentReference[oaicite:4]{index=4}
-
----
-
-### Spirituality
-
-Many wisdom traditions distinguish between information and wisdom.
-
-Although they differ in beliefs and practices, many emphasize that genuine knowledge should cultivate humility, compassion, self-understanding, and responsible living.
-
-The Philosophy of Knowledge provides a space to examine these ideas philosophically without assuming any particular religious tradition.
-
----
-
-### Living Well
-
-Knowledge reaches its greatest value when it helps humans:
-
-- Live healthier lives.
-- Build stronger relationships.
-- Make wiser decisions.
-- Contribute positively to society.
-- Find meaning and purpose.
-- Continue learning throughout life.
-
-HumanOS is built upon this principle.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">&#129472;</span><span class="os-card-title">Human Body</span><span class="os-card-desc">Knowledge has transformed human health through medicine, nutrition, public health, and biotechnology — while asking that progress consider ethical responsibilities.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#129504;</span><span class="os-card-title">Human Mind</span><span class="os-card-desc">Encourages lifelong learning, intellectual curiosity, reflection, and humility — shifting the goal from accumulating facts to developing genuine understanding.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127919;</span><span class="os-card-title">Human Behaviour</span><span class="os-card-desc">Understanding why knowledge matters helps people make wiser choices, learn from experience, accept uncertainty, and act responsibly.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127963;</span><span class="os-card-title">Society</span><span class="os-card-desc">Civilizations are built on shared knowledge — education, science, law, and culture all depend on how societies create and apply it responsibly.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128176;</span><span class="os-card-title">Economics</span><span class="os-card-desc">Modern economies increasingly depend on knowledge, but economic progress should ultimately serve human well-being rather than become an end in itself.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128499;</span><span class="os-card-title">Politics & Governance</span><span class="os-card-desc">Reliable evidence, transparent reasoning, and informed citizens contribute to better public policy — knowledge also creates responsibility for ethical governance.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#9881;</span><span class="os-card-title">Technology</span><span class="os-card-desc">Technology is knowledge in practice — AI, biotechnology, and engineering show its power, and raise the question of how it should be directed to benefit humanity.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128173;</span><span class="os-card-title">Philosophy</span><span class="os-card-desc">Connects epistemology with ethics, metaphysics, and philosophy of science — exploring not just whether knowledge is reliable, but why it deserves to be pursued.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#10024;</span><span class="os-card-title">Spirituality</span><span class="os-card-desc">Many wisdom traditions distinguish information from wisdom, emphasizing that genuine knowledge should cultivate humility, compassion, and responsible living.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127793;</span><span class="os-card-title">Living Well</span><span class="os-card-desc">Knowledge reaches its greatest value when it helps humans live healthier lives, build stronger relationships, find meaning, and keep learning. HumanOS is built on this principle.</span></div>
+</div>
 
 ---
 
@@ -247,17 +157,17 @@ It provides the philosophical bridge between **understanding reality** and **liv
 
 - [[Learning]]
 - [[Decision Making]]
-- [[Wisdom]]
 - [[Meaning & Purpose]]
-
----
-
-## Next
-
-→ [[Cosmology]]
 
 ---
 
 # Key Insight
 
-> **Knowledge becomes truly valuable only when it develops understanding, guides wise decisions, serves humanity responsibly, and helps people live healthier, more meaningful, and more fulfilling lives.** :contentReference[oaicite:5]{index=5}
+> **Knowledge becomes truly valuable only when it develops understanding, guides wise decisions, serves humanity responsibly, and helps people live healthier, more meaningful, and more fulfilling lives.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/02-universe/01---cosmology" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Cosmology</span><span class="os-cta-sub">Foundations complete — begin Universe with the origin of everything</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,6 +1,6 @@
 # Aging
 
-> *Aging is the natural, lifelong biological process in which the structure and function of cells, tissues, organs, and body systems gradually change over time. These changes increase the risk of disease, reduce the body's ability to repair damage, and eventually limit lifespan. Aging is universal, but the **rate of aging varies greatly between individuals**, influenced by genetics, lifestyle, environment, and healthcare. Although aging cannot currently be stopped, healthy habits can significantly improve healthspan—the years of life spent in good health.* :contentReference[oaicite:0]{index=0}
+> *Aging is the natural, lifelong biological process in which the structure and function of cells, tissues, organs, and body systems gradually change over time. These changes increase the risk of disease, reduce the body's ability to repair damage, and eventually limit lifespan. Aging is universal, but the **rate of aging varies greatly between individuals**, influenced by genetics, lifestyle, environment, and healthcare. Although aging cannot currently be stopped, healthy habits can significantly improve healthspan—the years of life spent in good health.*
 
 ---
 
@@ -21,7 +21,7 @@ It affects:
 
 Unlike disease, **aging itself is a normal biological process**.
 
-However, aging is the **largest risk factor** for many chronic diseases including heart disease, cancer, diabetes, and neurodegenerative disorders. :contentReference[oaicite:1]{index=1}
+However, aging is the **largest risk factor** for many chronic diseases including heart disease, cancer, diabetes, and neurodegenerative disorders.
 
 ---
 
@@ -40,7 +40,7 @@ Throughout life:
 
 Over decades these small changes accumulate, leading to the gradual decline in biological function.
 
-Scientists understand many mechanisms involved in aging, but **there is no single accepted explanation that fully accounts for why aging occurs**. Aging is an active area of biomedical research. :contentReference[oaicite:2]{index=2}
+Scientists understand many mechanisms involved in aging, but **there is no single accepted explanation that fully accounts for why aging occurs**. Aging is an active area of biomedical research.
 
 ---
 
@@ -58,7 +58,7 @@ Aging answers one of biology's most profound questions:
 
 Aging begins long before old age.
 
-Growth dominates early life, while gradual biological decline becomes increasingly noticeable in adulthood. :contentReference[oaicite:3]{index=3}
+Growth dominates early life, while gradual biological decline becomes increasingly noticeable in adulthood.
 
 ---
 
@@ -74,13 +74,15 @@ With increasing age, repair becomes less efficient than accumulated damage.
 
 # Biological Changes During Aging
 
-```text
-              Aging
-                │
- ┌─────────┬─────────┬─────────┬─────────┐
- ▼         ▼         ▼         ▼
-Cells    Organs    Brain   Immune System
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Aging</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Cells</div></div>
+<div class="tree-item"><div class="tree-node">Organs</div></div>
+<div class="tree-item"><div class="tree-node">Brain</div></div>
+<div class="tree-item"><div class="tree-node">Immune System</div></div>
+</div>
+</div>
 
 ---
 
@@ -95,7 +97,7 @@ Cells gradually experience:
 - Cellular senescence
 - Stem cell decline
 
-These cellular changes influence the health of every organ. :contentReference[oaicite:4]{index=4}
+These cellular changes influence the health of every organ.
 
 ---
 
@@ -132,7 +134,7 @@ However:
 
 often remain stable or improve well into later adulthood.
 
-Normal aging is **not the same as dementia**. :contentReference[oaicite:5]{index=5}
+Normal aging is **not the same as dementia**.
 
 ---
 
@@ -145,7 +147,7 @@ With aging:
 - Balance may worsen.
 - Recovery becomes slower.
 
-Regular strength training and physical activity can substantially slow these changes. :contentReference[oaicite:6]{index=6}
+Regular strength training and physical activity can substantially slow these changes.
 
 ---
 
@@ -160,7 +162,7 @@ This can lead to:
 - Slower healing
 - Higher chronic inflammation
 
-This process is often called **immunosenescence**. :contentReference[oaicite:7]{index=7}
+This process is often called **immunosenescence**.
 
 ---
 
@@ -168,19 +170,19 @@ This process is often called **immunosenescence**. :contentReference[oaicite:7]{
 
 Modern aging research identifies several recurring biological processes involved in aging.
 
-```text
-        Aging Biology
-              │
- ┌────────────┼─────────────┐
- ▼            ▼             ▼
-DNA Damage  Cell Senescence
-Mitochondrial Changes
-Stem Cell Decline
-Protein Damage
-Inflammation
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Aging Biology</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">DNA Damage</div></div>
+<div class="tree-item"><div class="tree-node">Cell Senescence</div></div>
+<div class="tree-item"><div class="tree-node">Mitochondrial Changes</div></div>
+<div class="tree-item"><div class="tree-node">Stem Cell Decline</div></div>
+<div class="tree-item"><div class="tree-node">Protein Damage</div></div>
+<div class="tree-item"><div class="tree-node">Inflammation</div></div>
+</div>
+</div>
 
-These mechanisms interact rather than acting independently. They are active areas of research aimed at improving healthy aging. :contentReference[oaicite:8]{index=8}
+These mechanisms interact rather than acting independently. They are active areas of research aimed at improving healthy aging.
 
 ---
 
@@ -198,15 +200,16 @@ Everyone ages.
 
 Understanding aging helps us:
 
-- Stay healthier longer.
-- Prevent chronic disease.
-- Maintain independence.
-- Improve quality of life.
-- Support healthy families.
-- Reduce healthcare burden.
-- Extend **healthspan**, not merely lifespan.
+> [!success]
+> - Stay healthier longer.
+> - Prevent chronic disease.
+> - Maintain independence.
+> - Improve quality of life.
+> - Support healthy families.
+> - Reduce healthcare burden.
+> - Extend **healthspan**, not merely lifespan.
 
-The goal of modern aging science is increasingly **healthy aging**, rather than simply living longer. :contentReference[oaicite:9]{index=9}
+The goal of modern aging science is increasingly **healthy aging**, rather than simply living longer.
 
 ---
 
@@ -252,28 +255,48 @@ Prevention often produces greater health benefits than late treatment.
 
 # Healthy Aging
 
-```text
-            Healthy Aging
-                  ▲
-                  │
- ┌────────────────┼─────────────────┐
- │                │                 │
-Nutrition     Exercise        Sleep
- │                │                 │
- ├────────────────┼─────────────────┤
- │                │                 │
-Mental Health Preventive Care Relationships
- │                │                 │
- ├────────────────┼─────────────────┤
- │                │                 │
-Learning     Vaccination   Avoid Smoking
- │                │                 │
- └────────────────┼─────────────────┘
-                  │
-        Better Healthspan
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Healthy Aging</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Nutrition</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Mental Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Exercise</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Preventive Care</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Vaccination</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Sleep</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Relationships</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Avoid Smoking</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-Healthy aging begins early in life and is influenced by lifelong habits. It is never too late to adopt healthier behaviors. :contentReference[oaicite:10]{index=10}
+→ **Better Healthspan**
+
+Healthy aging begins early in life and is influenced by lifelong habits. It is never too late to adopt healthier behaviors.
 
 ---
 
@@ -296,11 +319,16 @@ Many older adults remain healthy, active, and independent for many years.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:238px"><svg width="100%" viewBox="0 0 238 798" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Genetics</text><rect x="18.0" y="90.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Nutrition</text><rect x="18.0" y="162.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Exercise</text><rect x="18.0" y="234.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Sleep</text><rect x="18.0" y="306.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Smoking</text><rect x="18.0" y="378.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Alcohol</text><rect x="18.0" y="450.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Stress</text><rect x="18.0" y="522.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Environment</text><rect x="18.0" y="594.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Healthcare</text><rect x="18.0" y="666.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">────────────────────</text><rect x="18.0" y="738.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="764.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Rate of Aging</text><line x1="119.2" y1="64.0" x2="119.2" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="136.0" x2="119.2" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="208.0" x2="119.2" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="280.0" x2="119.2" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="352.0" x2="119.2" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="424.0" x2="119.2" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="496.0" x2="119.2" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="568.0" x2="119.2" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="640.0" x2="119.2" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="712.0" x2="119.2" y2="732.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Lifestyle cannot eliminate aging, but it can significantly influence how people age. :contentReference[oaicite:11]{index=11}
+Lifestyle cannot eliminate aging, but it can significantly influence how people age.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Old_man,_Bihar,_India.jpg?width=1200" alt="Portrait of an elderly man in Bihar, India">
+<p class="domain-figure-caption">An elderly man in Bihar, India — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -352,7 +380,7 @@ Population aging influences:
 - Public health
 - Urban planning
 
-Healthy aging is becoming one of the most important public health challenges worldwide. :contentReference[oaicite:12]{index=12}
+Healthy aging is becoming one of the most important public health challenges worldwide.
 
 ---
 
@@ -368,7 +396,7 @@ Modern science supports healthy aging through:
 - Rehabilitation
 - Geroscience research
 
-Research is exploring ways to slow biological aging, but **no therapy has yet been proven to stop or reverse normal human aging**. :contentReference[oaicite:13]{index=13}
+Research is exploring ways to slow biological aging, but **no therapy has yet been proven to stop or reverse normal human aging**.
 
 ---
 
@@ -435,8 +463,8 @@ It connects:
 - [[Human Biology]] → Lifelong Change
 - [[Lifestyle Biology]] → Healthy Habits
 - [[Health & Medicine]] → Disease Prevention
-- [[Longevity]] → Healthspan
-- [[Society]] → Population Aging
+- Longevity → Healthspan
+- Society → Population Aging
 
 Understanding aging reveals that human development never truly stops. Throughout life, biology, environment, and personal choices interact to shape how well we age.
 
@@ -456,27 +484,15 @@ Understanding aging reveals that human development never truly stops. Throughout
 
 ## Enables
 
-- [[Longevity]]
-- [[Healthy Aging]]
 - [[Preventive Medicine]]
-- [[Geriatrics]]
 
 ---
 
 ## Related
 
-- [[Healthspan]]
-- [[Lifespan]]
-- [[Cellular Aging]]
 - [[Exercise]]
 - [[Nutrition]]
 - [[Sleep]]
-
----
-
-## Next
-
-→ [[Lifestyle Biology]]
 
 ---
 
@@ -486,10 +502,17 @@ Aging is not simply the passage of time.
 
 It is the gradual interaction between biology, environment, and lifestyle that shapes how cells, organs, and the entire body change across life.
 
-Although aging cannot currently be prevented, scientific evidence consistently shows that healthy habits, preventive healthcare, lifelong learning, and strong social relationships can greatly increase the number of years spent healthy, independent, and capable. HumanOS therefore views successful aging not as living the longest possible life, but as maximizing **healthspan**—the years in which life remains active, meaningful, and fulfilling. :contentReference[oaicite:14]{index=14}
+Although aging cannot currently be prevented, scientific evidence consistently shows that healthy habits, preventive healthcare, lifelong learning, and strong social relationships can greatly increase the number of years spent healthy, independent, and capable. HumanOS therefore views successful aging not as living the longest possible life, but as maximizing **healthspan**—the years in which life remains active, meaningful, and fulfilling.
 
 ---
 
 # Key Insight
 
-> **Aging is the natural biological process through which cells, tissues, organs, and body systems gradually lose function over time. While it increases the risk of disease, aging itself is distinct from disease, and its rate is influenced by genetics, environment, and lifelong habits. Understanding aging reveals that although time cannot be stopped, healthy nutrition, exercise, sleep, preventive medicine, lifelong learning, and social connection can greatly improve healthspan, allowing people to remain healthy, independent, and productive for as long as possible.** :contentReference[oaicite:15]{index=15}
+> **Aging is the natural biological process through which cells, tissues, organs, and body systems gradually lose function over time. While it increases the risk of disease, aging itself is distinct from disease, and its rate is influenced by genetics, environment, and lifelong habits. Understanding aging reveals that although time cannot be stopped, healthy nutrition, exercise, sleep, preventive medicine, lifelong learning, and social connection can greatly improve healthspan, allowing people to remain healthy, independent, and productive for as long as possible.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/06-lifestyle-biology/00---readme" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Lifestyle Biology</span><span class="os-cta-sub">Lifestyle Biology is the study of how everyday behaviors influence the structure,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

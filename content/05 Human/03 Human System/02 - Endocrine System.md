@@ -10,7 +10,7 @@ The **Endocrine System** is a network of glands and hormone-producing cells that
 
 Hormones are **chemical messengers**.
 
-Unlike the nervous system, which sends rapid electrical signals, the endocrine system sends slower but longer-lasting chemical signals that coordinate the activities of organs throughout the body. Together, the nervous and endocrine systems are the body's primary communication systems and work together to maintain homeostasis. :contentReference[oaicite:0]{index=0}
+Unlike the nervous system, which sends rapid electrical signals, the endocrine system sends slower but longer-lasting chemical signals that coordinate the activities of organs throughout the body. Together, the nervous and endocrine systems are the body's primary communication systems and work together to maintain homeostasis.
 
 The endocrine system regulates:
 
@@ -68,23 +68,26 @@ Hormones only affect cells that possess the appropriate receptors.
 
 Once the hormone binds to its receptor, it changes how the target cell functions.
 
-Unlike nervous signals that last milliseconds, hormonal effects may last minutes, hours, days, or even years. :contentReference[oaicite:1]{index=1}
+Unlike nervous signals that last milliseconds, hormonal effects may last minutes, hours, days, or even years.
 
 ---
 
 # Major Endocrine Glands
 
-```text
-                 Endocrine System
-                        │
- ┌──────────────────────┼──────────────────────┐
- ▼                      ▼                      ▼
-Hypothalamus       Pituitary Gland       Pineal Gland
- ▼                      ▼                      ▼
-Thyroid         Parathyroid Glands      Adrenal Glands
- ▼                      ▼                      ▼
-Pancreas             Ovaries              Testes
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Endocrine System</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Hypothalamus</div></div>
+<div class="tree-item"><div class="tree-node">Pituitary Gland</div></div>
+<div class="tree-item"><div class="tree-node">Pineal Gland</div></div>
+<div class="tree-item"><div class="tree-node">Thyroid</div></div>
+<div class="tree-item"><div class="tree-node">Parathyroid Glands</div></div>
+<div class="tree-item"><div class="tree-node">Adrenal Glands</div></div>
+<div class="tree-item"><div class="tree-node">Pancreas</div></div>
+<div class="tree-item"><div class="tree-node">Ovaries</div></div>
+<div class="tree-item"><div class="tree-node">Testes</div></div>
+</div>
+</div>
 
 | Gland | Primary Function |
 |--------|------------------|
@@ -98,23 +101,58 @@ Pancreas             Ovaries              Testes
 | ♀️ Ovaries | Estrogen and progesterone; reproduction |
 | ♂️ Testes | Testosterone; reproduction and male development |
 
-Many other organs, including the heart, kidneys, and digestive tract, also produce hormones even though they are not considered primary endocrine glands. :contentReference[oaicite:2]{index=2}
+Many other organs, including the heart, kidneys, and digestive tract, also produce hormones even though they are not considered primary endocrine glands.
 
 ---
 
 # Nervous System vs Endocrine System
 
-```text
-          Nervous System                Endocrine System
-                 │                              │
-      Electrical Signals             Chemical Hormones
-                 │                              │
-           Very Fast                     Slower
-                 │                              │
-      Short-lasting Effects        Long-lasting Effects
-                 │                              │
-     Immediate Responses        Long-term Regulation
-```
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;">
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Nervous System</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Electrical Signals</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Very Fast</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Short-lasting Effects</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Immediate Responses</span></div>
+</div>
+</div>
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Endocrine System</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Chemical Hormones</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Slower</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Long-lasting Effects</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Long-term Regulation</span></div>
+</div>
+</div>
+</div>
 
 Both systems work together continuously.
 
@@ -122,7 +160,7 @@ For example:
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:287px"><svg width="100%" viewBox="0 0 287 510" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="251.1" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="143.6" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Danger</text><rect x="18.0" y="90.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Brain Detects Threat</text><rect x="18.0" y="162.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Nervous System</text><rect x="18.0" y="234.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Adrenal Glands</text><rect x="18.0" y="306.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Adrenaline Released</text><rect x="18.0" y="378.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Heart Beats Faster</text><rect x="18.0" y="450.0" width="251.1" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="143.6" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Muscles Receive More Blood</text><line x1="143.6" y1="64.0" x2="143.6" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="136.0" x2="143.6" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="208.0" x2="143.6" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="280.0" x2="143.6" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="352.0" x2="143.6" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="424.0" x2="143.6" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-The nervous system initiates the response, while endocrine hormones help sustain it. :contentReference[oaicite:3]{index=3}
+The nervous system initiates the response, while endocrine hormones help sustain it.
 
 ---
 
@@ -140,16 +178,17 @@ Hormones influence almost every aspect of life.
 
 They regulate:
 
-- Height during childhood
-- Puberty
-- Energy levels
-- Hunger
-- Blood sugar
-- Sleep quality
-- Fertility
-- Pregnancy
-- Mood
-- Stress adaptation
+> [!success]
+> - Height during childhood
+> - Puberty
+> - Energy levels
+> - Hunger
+> - Blood sugar
+> - Sleep quality
+> - Fertility
+> - Pregnancy
+> - Mood
+> - Stress adaptation
 
 Hormonal imbalance can affect both physical and mental health.
 
@@ -200,28 +239,31 @@ These changes prepare the body for short-term challenges but can become harmful 
 
 The endocrine system responds to many influences.
 
-```text
-                Endocrine System
-                      ▲
-                      │
- ┌────────────────────┼────────────────────┐
- │                    │                    │
-Nutrition        Physical Activity      Sleep
- │                    │                    │
- ├────────────────────┼────────────────────┤
- │                    │                    │
-Stress          Circadian Rhythm      Aging
- │                    │                    │
- ├────────────────────┼────────────────────┤
- │                    │                    │
-Environment      Genetics         Body Weight
- │                    │                    │
- └────────────────────┼────────────────────┘
-                      │
-             Hormonal Balance
-                      │
-              Health or Disease
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Endocrine System</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Physical Activity</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Circadian Rhythm</div></div>
+<div class="tree-item"><div class="tree-node">Aging</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Body Weight</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Hormonal Balance</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Health or Disease</span></div>
+</div>
+</div>
 
 Hormonal balance depends on the interaction of biology, behaviour, and environment.
 
@@ -239,7 +281,7 @@ Hormonal balance depends on the interaction of biology, behaviour, and environme
 | PCOS | Complex hormonal imbalance | Irregular periods, infertility, metabolic changes |
 | Growth Hormone Disorders | Too much or too little GH | Abnormal growth |
 
-Many endocrine disorders are chronic but can often be managed effectively with lifestyle measures, medication, hormone replacement, or surgery depending on the underlying cause. :contentReference[oaicite:4]{index=4}
+Many endocrine disorders are chronic but can often be managed effectively with lifestyle measures, medication, hormone replacement, or surgery depending on the underlying cause.
 
 ---
 
@@ -252,6 +294,11 @@ Most endocrine disorders develop through interactions among genetic, biological,
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Thyroid_gland_microscope.jpg?width=1200" alt="A photomicrograph of human thyroid gland tissue showing hormone-producing follicular cells">
+<p class="domain-figure-caption">Microscopic view of thyroid tissue, one of the endocrine system's key hormone-producing glands — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -312,7 +359,7 @@ Understanding hormones has enabled:
 - Endocrine surgery
 - Sports endocrinology
 
-Endocrinology is a major medical specialty because hormonal disorders affect millions of people worldwide. :contentReference[oaicite:5]{index=5}
+Endocrinology is a major medical specialty because hormonal disorders affect millions of people worldwide.
 
 ---
 
@@ -405,8 +452,6 @@ Together they maintain homeostasis and prepare the foundation for:
 
 - [[Brain & Neuroscience]]
 - [[Lifestyle Biology]]
-- [[Disease & Medicine]]
-- [[Longevity]]
 
 ---
 
@@ -422,28 +467,13 @@ Together they maintain homeostasis and prepare the foundation for:
 
 ## Enables
 
-- [[Growth]]
-- [[Metabolism]]
-- [[Reproduction]]
 - [[Stress]]
-- [[Disease & Medicine]]
 
 ---
 
 ## Related
 
-- [[Hormones]]
-- [[Hypothalamus]]
-- [[Pituitary Gland]]
-- [[Thyroid Gland]]
-- [[Pancreas]]
-- [[Adrenal Glands]]
-
----
-
-## Next
-
-→ [[Cardiovascular System]]
+None.
 
 ---
 
@@ -460,3 +490,10 @@ Together they coordinate every stage of human life—from growth and puberty to 
 # Key Insight
 
 > **The endocrine system is the body's chemical communication network. Through hormones released into the bloodstream, it coordinates growth, metabolism, reproduction, stress adaptation, sleep, and countless other functions that keep the body in balance. Understanding hormones explains not only how the body works, but also how daily choices, environment, and lifestyle shape health across an entire lifetime.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/03-human-system/03---cardiovascular-system" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Cardiovascular System</span><span class="os-cta-sub">The Cardiovascular System is the body's transportation network. It continuously...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

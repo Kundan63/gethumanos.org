@@ -1,6 +1,6 @@
 # Health Promotion
 
-> *Health promotion is the process of enabling people and communities to increase control over the factors that determine their health and thereby improve their health. It is a comprehensive social, environmental, political, and educational process that goes beyond preventing disease or encouraging healthy lifestyles. Health promotion seeks to create the conditions in which people can achieve their highest possible level of health by strengthening individual capabilities while also improving the environments, policies, and social systems that influence health.* :contentReference[oaicite:0]{index=0}
+> *Health promotion is the process of enabling people and communities to increase control over the factors that determine their health and thereby improve their health. It is a comprehensive social, environmental, political, and educational process that goes beyond preventing disease or encouraging healthy lifestyles. Health promotion seeks to create the conditions in which people can achieve their highest possible level of health by strengthening individual capabilities while also improving the environments, policies, and social systems that influence health.*
 
 ---
 
@@ -28,7 +28,7 @@ It includes:
 - Health literacy
 - Economic and environmental conditions
 
-Health is viewed as a resource for everyday life rather than simply the absence of disease. :contentReference[oaicite:1]{index=1}
+Health is viewed as a resource for everyday life rather than simply the absence of disease.
 
 ---
 
@@ -50,7 +50,7 @@ People's health is affected by:
 
 Medical care alone cannot create a healthy society.
 
-Health Promotion exists because improving these broader determinants often prevents disease more effectively than treatment alone. :contentReference[oaicite:2]{index=2}
+Health Promotion exists because improving these broader determinants often prevents disease more effectively than treatment alone.
 
 ---
 
@@ -64,31 +64,32 @@ Health Promotion answers this by combining education, supportive environments, h
 
 # The Health Promotion System
 
-```text
-Knowledge
-Environment
-Community
-Government
-Healthcare
-        │
-        ▼
-Health Promotion
-        │
- ┌──────┼──────────────┐
- ▼      ▼              ▼
-Healthy Choices
-Healthy Communities
-Healthy Policies
-        │
-        ▼
-Better Health
-        │
-Disease Prevention
-        │
-Healthy Society
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Health Promotion</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Knowledge</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Community</div></div>
+<div class="tree-item"><div class="tree-node">Government</div></div>
+<div class="tree-item"><div class="tree-node">Healthcare</div></div>
+<div class="tree-item"><div class="tree-node">Healthy Choices</div></div>
+<div class="tree-item"><div class="tree-node">Healthy Communities</div></div>
+<div class="tree-item"><div class="tree-node">Healthy Policies</div></div>
+<div class="tree-item">
+<div class="tree-node">Better Health</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Disease Prevention</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Healthy Society</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-Health promotion strengthens both individual capabilities and the environments in which people live. :contentReference[oaicite:3]{index=3}
+Health promotion strengthens both individual capabilities and the environments in which people live.
 
 ---
 
@@ -104,23 +105,22 @@ The Charter introduced three core strategies:
 
 - **Advocate** – create conditions that support health.
 - **Enable** – provide equal opportunities and resources for health.
-- **Mediate** – coordinate action across governments, healthcare, education, business, and communities. :contentReference[oaicite:4]{index=4}
+- **Mediate** – coordinate action across governments, healthcare, education, business, and communities.
 
 ---
 
 # Five Action Areas
 
-```text
-Health Promotion
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Healthy Policy
-Supportive Environments
-Community Action
-Personal Skills
-Health Services
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Health Promotion</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Healthy Policy</div></div>
+<div class="tree-item"><div class="tree-node">Supportive Environments</div></div>
+<div class="tree-item"><div class="tree-node">Community Action</div></div>
+<div class="tree-item"><div class="tree-node">Personal Skills</div></div>
+<div class="tree-item"><div class="tree-node">Health Services</div></div>
+</div>
+</div>
 
 ---
 
@@ -185,29 +185,31 @@ Healthcare should focus on:
 - Health education
 - Long-term well-being
 
-rather than only treating disease after it occurs. :contentReference[oaicite:5]{index=5}
+rather than only treating disease after it occurs.
 
 ---
 
 # Determinants of Health
 
-```text
-Health
-   │
- ┌──┼───────────────┐
- ▼  ▼               ▼
-Biology Lifestyle Environment
- │                  │
- ├──────────┬───────┤
- ▼          ▼
-Education
-Income
-Housing
-Culture
-Healthcare
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Biology</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item">
+<div class="tree-node">Environment</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Education</div></div>
+<div class="tree-item"><div class="tree-node">Income</div></div>
+<div class="tree-item"><div class="tree-node">Housing</div></div>
+<div class="tree-item"><div class="tree-node">Culture</div></div>
+<div class="tree-item"><div class="tree-node">Healthcare</div></div>
+</div>
+</div>
+</div>
+</div>
 
-Health Promotion addresses these **determinants of health**, recognizing that social and environmental conditions strongly influence health outcomes. :contentReference[oaicite:6]{index=6}
+Health Promotion addresses these **determinants of health**, recognizing that social and environmental conditions strongly influence health outcomes.
 
 ---
 
@@ -227,21 +229,17 @@ Health Promotion focuses on improving overall well-being and creating conditions
 
 # Examples of Health Promotion
 
-```text
-Health Promotion
-      │
- ┌────┼──────────────┐
- ▼    ▼              ▼
-Health Education
-Healthy Cities
-School Nutrition
- │    │              │
- ├────┼──────────────┤
- ▼    ▼              ▼
-Workplace Wellness
-Mental Health Campaigns
-Road Safety Programs
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Health Promotion</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Health Education</div></div>
+<div class="tree-item"><div class="tree-node">Healthy Cities</div></div>
+<div class="tree-item"><div class="tree-node">School Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Workplace Wellness</div></div>
+<div class="tree-item"><div class="tree-node">Mental Health Campaigns</div></div>
+<div class="tree-item"><div class="tree-node">Road Safety Programs</div></div>
+</div>
+</div>
 
 Examples include:
 
@@ -266,14 +264,15 @@ Health Promotion connects medicine, education, psychology, sociology, economics,
 
 Health Promotion helps:
 
-- Prevent disease.
-- Improve quality of life.
-- Increase health literacy.
-- Reduce health inequalities.
-- Extend healthy lifespan.
-- Strengthen communities.
+> [!success]
+> - Prevent disease.
+> - Improve quality of life.
+> - Increase health literacy.
+> - Reduce health inequalities.
+> - Extend healthy lifespan.
+> - Strengthen communities.
 
-By improving the conditions in which people are born, grow, live, work, and age, health promotion can improve both individual and population health. :contentReference[oaicite:7]{index=7}
+By improving the conditions in which people are born, grow, live, work, and age, health promotion can improve both individual and population health.
 
 ---
 
@@ -304,6 +303,11 @@ By improving the conditions in which people are born, grow, live, work, and age,
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/PM_Modi_launches_the_Swachh_Bharat_Abhiyaan_(1).jpg?width=1200" alt="Prime Minister Narendra Modi launching the Swachh Bharat Abhiyan, a national public health and sanitation promotion campaign">
+<p class="domain-figure-caption">Launch of Swachh Bharat Abhiyan (Clean India Mission), a nationwide health promotion campaign — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -337,7 +341,7 @@ Health Promotion contributes to:
 - Longer life expectancy
 - Stronger communities
 
-It requires collaboration across many sectors, not only healthcare. :contentReference[oaicite:8]{index=8}
+It requires collaboration across many sectors, not only healthcare.
 
 ---
 
@@ -381,10 +385,8 @@ It connects:
 
 - [[Lifestyle Medicine]]
 - [[Preventive Medicine]]
-- [[Public Health]]
 - [[Screening]]
 - [[Vaccination]]
-- [[Healthy Aging]]
 
 It demonstrates that improving health requires action by individuals, communities, governments, healthcare systems, and society as a whole.
 
@@ -396,16 +398,12 @@ It demonstrates that improving health requires action by individuals, communitie
 
 - [[Preventive Medicine]]
 - [[Lifestyle Medicine]]
-- [[Public Health]]
 
 ---
 
 ## Enables
 
-- [[Healthy Communities]]
-- [[Disease Prevention]]
-- [[Health Equity]]
-- [[Healthy Aging]]
+None.
 
 ---
 
@@ -414,23 +412,22 @@ It demonstrates that improving health requires action by individuals, communitie
 - [[Education]]
 - [[Nutrition]]
 - [[Exercise]]
-- [[Public Health]]
-- [[Environment]]
-
----
-
-## Next
-
-→ [[Public Health]]
 
 ---
 
 # HumanOS Principle
 
-Health Promotion is the process of enabling individuals and communities to gain greater control over the determinants of their health. It extends beyond medical care to include education, supportive environments, healthy public policies, community participation, and equitable access to resources. By addressing the biological, social, economic, and environmental conditions that shape health, Health Promotion helps create healthier people, healthier communities, and healthier societies. :contentReference[oaicite:9]{index=9}
+Health Promotion is the process of enabling individuals and communities to gain greater control over the determinants of their health. It extends beyond medical care to include education, supportive environments, healthy public policies, community participation, and equitable access to resources. By addressing the biological, social, economic, and environmental conditions that shape health, Health Promotion helps create healthier people, healthier communities, and healthier societies.
 
 ---
 
 # Key Insight
 
-> **Health Promotion is the science and practice of creating the conditions that allow people to achieve better health. By combining education, supportive environments, healthy public policy, community participation, and equitable access to resources, it empowers individuals and societies to improve health, reduce inequalities, prevent disease, and enhance well-being throughout life.** :contentReference[oaicite:10]{index=10}
+> **Health Promotion is the science and practice of creating the conditions that allow people to achieve better health. By combining education, supportive environments, healthy public policy, community participation, and equitable access to resources, it empowers individuals and societies to improve health, reduce inequalities, prevent disease, and enhance well-being throughout life.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/01---infectious-diseases" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Infectious Diseases</span><span class="os-cta-sub">Infectious diseases are illnesses caused by pathogenic microorganisms—including...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

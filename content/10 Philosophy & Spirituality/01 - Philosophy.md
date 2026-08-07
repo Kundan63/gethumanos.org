@@ -1,6 +1,6 @@
 # Philosophy
 
-> *Philosophy is the systematic study of the most fundamental questions about reality, knowledge, reason, existence, values, mind, language, and human life. Rather than relying solely on observation or tradition, philosophy uses critical thinking, logical reasoning, conceptual analysis, and careful argument to understand the world and humanity's place within it. Historically, philosophy gave rise to many sciences and continues to provide the conceptual foundations for scientific inquiry, ethics, politics, mathematics, and other fields of knowledge.* :contentReference[oaicite:0]{index=0}
+> *Philosophy is the systematic study of the most fundamental questions about reality, knowledge, reason, existence, values, mind, language, and human life. Rather than relying solely on observation or tradition, philosophy uses critical thinking, logical reasoning, conceptual analysis, and careful argument to understand the world and humanity's place within it. Historically, philosophy gave rise to many sciences and continues to provide the conceptual foundations for scientific inquiry, ethics, politics, mathematics, and other fields of knowledge.*
 
 ---
 
@@ -13,7 +13,7 @@ The word **philosophy** comes from the Greek words:
 - **Philo** — love
 - **Sophia** — wisdom
 
-Literally, philosophy means **"love of wisdom."** :contentReference[oaicite:1]{index=1}
+Literally, philosophy means **"love of wisdom."**
 
 Unlike science, which primarily asks **how** the natural world works through observation and experimentation, philosophy often asks deeper conceptual questions such as:
 
@@ -63,18 +63,19 @@ Philosophy answers this through critical thinking, logical argument, conceptual 
 
 # Components of Philosophy
 
-```text
-Philosophy
-      │
- ├── Questions
- ├── Reason
- ├── Logic
- ├── Arguments
- ├── Concepts
- ├── Reflection
- ├── Dialogue
- └── Wisdom
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Philosophy</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Questions</div></div>
+<div class="tree-item"><div class="tree-node">Reason</div></div>
+<div class="tree-item"><div class="tree-node">Logic</div></div>
+<div class="tree-item"><div class="tree-node">Arguments</div></div>
+<div class="tree-item"><div class="tree-node">Concepts</div></div>
+<div class="tree-item"><div class="tree-node">Reflection</div></div>
+<div class="tree-item"><div class="tree-node">Dialogue</div></div>
+<div class="tree-item"><div class="tree-node">Wisdom</div></div>
+</div>
+</div>
 
 These elements work together to investigate fundamental questions.
 
@@ -172,28 +173,29 @@ It involves applying understanding with sound judgment, humility, and ethical co
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:263px"><svg width="100%" viewBox="0 0 263 510" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="226.8" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="131.4" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Question</text><rect x="18.0" y="90.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Clarify Concepts</text><rect x="18.0" y="162.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Gather Reasons</text><rect x="18.0" y="234.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Evaluate Arguments</text><rect x="18.0" y="306.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Identify Assumptions</text><rect x="18.0" y="378.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Reach Conclusions</text><rect x="18.0" y="450.0" width="226.8" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="131.4" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Remain Open to Revision</text><line x1="131.4" y1="64.0" x2="131.4" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="136.0" x2="131.4" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="208.0" x2="131.4" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="280.0" x2="131.4" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="352.0" x2="131.4" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="424.0" x2="131.4" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Philosophy rarely produces final answers; instead, it refines understanding through ongoing inquiry. :contentReference[oaicite:2]{index=2}
+Philosophy rarely produces final answers; instead, it refines understanding through ongoing inquiry.
 
 ---
 
 # Major Branches of Philosophy
 
-```text
-Philosophy
-      │
- ├── Metaphysics
- ├── Epistemology
- ├── Ethics
- ├── Logic
- ├── Aesthetics
- ├── Philosophy of Mind
- ├── Philosophy of Science
- ├── Political Philosophy
- ├── Philosophy of Language
- └── Philosophy of Religion
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Philosophy</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Metaphysics</div></div>
+<div class="tree-item"><div class="tree-node">Epistemology</div></div>
+<div class="tree-item"><div class="tree-node">Ethics</div></div>
+<div class="tree-item"><div class="tree-node">Logic</div></div>
+<div class="tree-item"><div class="tree-node">Aesthetics</div></div>
+<div class="tree-item"><div class="tree-node">Philosophy of Mind</div></div>
+<div class="tree-item"><div class="tree-node">Philosophy of Science</div></div>
+<div class="tree-item"><div class="tree-node">Political Philosophy</div></div>
+<div class="tree-item"><div class="tree-node">Philosophy of Language</div></div>
+<div class="tree-item"><div class="tree-node">Philosophy of Religion</div></div>
+</div>
+</div>
 
-The traditional core branches are **Metaphysics, Epistemology, Ethics, Logic, and Aesthetics**, with many specialized subfields built upon them. :contentReference[oaicite:3]{index=3}
+The traditional core branches are **Metaphysics, Epistemology, Ethics, Logic, and Aesthetics**, with many specialized subfields built upon them.
 
 ---
 
@@ -333,17 +335,19 @@ Philosophy of religion analyzes arguments rather than promoting particular belie
 
 Philosophy contributes to:
 
-- Science
-- Law
-- Politics
-- Artificial Intelligence
-- Ethics
-- Education
-- Medicine
-- Leadership
-- Critical Thinking
+<div class="tag-grid">
+<span class="tag-pill">Science</span>
+<span class="tag-pill">Law</span>
+<span class="tag-pill">Politics</span>
+<span class="tag-pill">Artificial Intelligence</span>
+<span class="tag-pill">Ethics</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Medicine</span>
+<span class="tag-pill">Leadership</span>
+<span class="tag-pill">Critical Thinking</span>
+</div>
 
-Many modern academic disciplines developed from philosophical inquiry. :contentReference[oaicite:4]{index=4}
+Many modern academic disciplines developed from philosophical inquiry.
 
 ---
 
@@ -377,14 +381,15 @@ Many philosophical questions remain open, with multiple competing positions eval
 
 Philosophy influences:
 
-- Decision-making
-- Ethics
-- Scientific reasoning
-- Leadership
-- Education
-- Politics
-- Artificial Intelligence
-- Personal values
+> [!success]
+> - Decision-making
+> - Ethics
+> - Scientific reasoning
+> - Leadership
+> - Education
+> - Politics
+> - Artificial Intelligence
+> - Personal values
 
 Understanding philosophy helps people think more clearly, evaluate claims critically, and make more informed decisions.
 
@@ -462,7 +467,6 @@ It connects:
 - [[Ethics]]
 - [[Metaphysics]]
 - [[Consciousness]]
-- [[Science]]
 - [[Politics]]
 - [[Psychology]]
 - [[Meaning & Purpose]]
@@ -475,18 +479,13 @@ It demonstrates that philosophy is the foundation of disciplined thinking, helpi
 
 ## Depends On
 
-- [[Reason]]
 - [[Logic]]
-- [[Language]]
 - [[Critical Thinking]]
 
 ## Enables
 
 - [[Ethics]]
-- [[Science]]
 - [[Politics]]
-- [[Artificial Intelligence Ethics]]
-- [[Wisdom]]
 
 ## Related
 
@@ -495,18 +494,21 @@ It demonstrates that philosophy is the foundation of disciplined thinking, helpi
 - [[Consciousness]]
 - [[Meaning & Purpose]]
 
-## Next
-
-→ [[Ethics]]
-
 ---
 
 # HumanOS Principle
 
-Philosophy is the systematic pursuit of wisdom through reasoned inquiry into the deepest questions about reality, knowledge, values, mind, and existence. By using logic, conceptual analysis, and critical reflection, philosophy provides the intellectual foundations for science, ethics, politics, and many other disciplines while helping individuals think clearly and live thoughtfully. :contentReference[oaicite:5]{index=5}
+Philosophy is the systematic pursuit of wisdom through reasoned inquiry into the deepest questions about reality, knowledge, values, mind, and existence. By using logic, conceptual analysis, and critical reflection, philosophy provides the intellectual foundations for science, ethics, politics, and many other disciplines while helping individuals think clearly and live thoughtfully.
 
 ---
 
 # Key Insight
 
 > **Philosophy is humanity's operating system for thinking. Science discovers facts about reality, but philosophy examines the assumptions, meanings, values, and reasoning behind those facts. It teaches us that wisdom begins not with certainty, but with the courage to ask better questions.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/10-philosophy--and--spirituality/02---ethics" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Ethics</span><span class="os-cta-sub">Ethics is the branch of philosophy that studies morality—what people ought to do, what...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

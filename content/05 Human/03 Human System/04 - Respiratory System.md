@@ -16,7 +16,7 @@ The **Respiratory System** is the organ system responsible for:
 
 Although we often think breathing is simply "taking in air," the true purpose of the respiratory system is **gas exchange**.
 
-Every cell needs oxygen to produce ATP (cellular energy), while carbon dioxide must be removed to prevent harmful changes in blood chemistry. The respiratory system includes the airways, lungs, respiratory muscles, and microscopic alveoli where gas exchange occurs. :contentReference[oaicite:0]{index=0}
+Every cell needs oxygen to produce ATP (cellular energy), while carbon dioxide must be removed to prevent harmful changes in blood chemistry. The respiratory system includes the airways, lungs, respiratory muscles, and microscopic alveoli where gas exchange occurs.
 
 ---
 
@@ -47,23 +47,40 @@ Oxygen moves from the air into the blood.
 
 Carbon dioxide moves from the blood into the air.
 
-The cardiovascular system then transports these gases throughout the body, making the respiratory and cardiovascular systems inseparable partners. :contentReference[oaicite:1]{index=1}
+The cardiovascular system then transports these gases throughout the body, making the respiratory and cardiovascular systems inseparable partners.
 
 ---
 
 # Components of the Respiratory System
 
-```text
-              Respiratory System
-                      │
-      ┌───────────────┼────────────────┐
-      ▼               ▼                ▼
- Upper Airways    Lower Airways      Lungs
-      │               │                │
- Nose          Trachea            Bronchi
- Pharynx        Bronchi           Bronchioles
- Larynx                          Alveoli
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Respiratory System</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Upper Airways</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nose</div></div>
+<div class="tree-item"><div class="tree-node">Pharynx</div></div>
+<div class="tree-item"><div class="tree-node">Larynx</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Lower Airways</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Trachea</div></div>
+<div class="tree-item"><div class="tree-node">Bronchi</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Lungs</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Bronchi</div></div>
+<div class="tree-item"><div class="tree-node">Bronchioles</div></div>
+<div class="tree-item"><div class="tree-node">Alveoli</div></div>
+</div>
+</div>
+</div>
+</div>
 
 ### 👃 Upper Airways
 
@@ -98,7 +115,7 @@ Functions:
 
 ### 🫁 Lungs
 
-Contain millions of **alveoli**—tiny air sacs surrounded by capillaries where oxygen enters the blood and carbon dioxide leaves it. Functionally, the respiratory system is divided into a conducting zone (air transport) and a respiratory zone (gas exchange). :contentReference[oaicite:2]{index=2}
+Contain millions of **alveoli**—tiny air sacs surrounded by capillaries where oxygen enters the blood and carbon dioxide leaves it. Functionally, the respiratory system is divided into a conducting zone (air transport) and a respiratory zone (gas exchange).
 
 ---
 
@@ -106,7 +123,7 @@ Contain millions of **alveoli**—tiny air sacs surrounded by capillaries where 
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:263px"><svg width="100%" viewBox="0 0 263 582" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="226.8" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="131.4" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Inhale</text><rect x="18.0" y="90.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Air Enters Lungs</text><rect x="18.0" y="162.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Alveoli Fill</text><rect x="18.0" y="234.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Oxygen Enters Blood</text><rect x="18.0" y="306.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cells Use Oxygen</text><rect x="18.0" y="378.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Carbon Dioxide Produced</text><rect x="18.0" y="450.0" width="226.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="131.4" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Blood Returns CO₂</text><rect x="18.0" y="522.0" width="226.8" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="131.4" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Exhale</text><line x1="131.4" y1="64.0" x2="131.4" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="136.0" x2="131.4" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="208.0" x2="131.4" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="280.0" x2="131.4" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="352.0" x2="131.4" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="424.0" x2="131.4" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="131.4" y1="496.0" x2="131.4" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Breathing (pulmonary ventilation) is driven by pressure differences created mainly by the diaphragm and other respiratory muscles. :contentReference[oaicite:3]{index=3}
+Breathing (pulmonary ventilation) is driven by pressure differences created mainly by the diaphragm and other respiratory muscles.
 
 ---
 
@@ -124,19 +141,21 @@ A typical adult breathes around **20,000 times every day**.
 
 Every breath:
 
-- Supplies oxygen to the brain.
-- Supports ATP production.
-- Removes carbon dioxide.
-- Helps regulate blood pH.
-- Enables speech.
-- Supports physical activity.
+> [!success]
+> - Supplies oxygen to the brain.
+> - Supports ATP production.
+> - Removes carbon dioxide.
+> - Helps regulate blood pH.
+> - Enables speech.
+> - Supports physical activity.
 
 Without effective respiration:
 
-- Mental performance declines.
-- Exercise becomes impossible.
-- Organs fail.
-- Life ends within minutes.
+> [!success]
+> - Mental performance declines.
+> - Exercise becomes impossible.
+> - Organs fail.
+> - Life ends within minutes.
 
 Understanding the respiratory system explains why breathing is central to health.
 
@@ -148,7 +167,7 @@ Understanding the respiratory system explains why breathing is central to health
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:271px"><svg width="100%" viewBox="0 0 271 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Exercise</text><rect x="18.0" y="90.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Muscles Need More Oxygen</text><rect x="18.0" y="162.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Breathing Rate Increases</text><rect x="18.0" y="234.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Heart Pumps Faster</text><rect x="18.0" y="306.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">More Oxygen Delivered</text><rect x="18.0" y="378.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">More ATP Produced</text><line x1="135.4" y1="64.0" x2="135.4" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="136.0" x2="135.4" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="208.0" x2="135.4" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="280.0" x2="135.4" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="352.0" x2="135.4" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-During exercise, both breathing and circulation increase to meet the body's higher oxygen demands. :contentReference[oaicite:4]{index=4}
+During exercise, both breathing and circulation increase to meet the body's higher oxygen demands.
 
 ---
 
@@ -169,7 +188,7 @@ At high altitude:
 
 - Air pressure is lower.
 - Less oxygen enters the lungs with each breath.
-- The body responds by breathing faster and gradually adapting over time. :contentReference[oaicite:5]{index=5}
+- The body responds by breathing faster and gradually adapting over time.
 
 ---
 
@@ -189,30 +208,30 @@ Air entering the nose stimulates smell receptors, allowing the brain to recogniz
 
 The respiratory system is influenced by many factors.
 
-```text
-               Respiratory Health
-                      ▲
-                      │
- ┌────────────────────┼────────────────────┐
- │                    │                    │
-Air Quality      Physical Activity     Nutrition
- │                    │                    │
- ├────────────────────┼────────────────────┤
- │                    │                    │
-Smoking          Sleep            Environment
- │                    │                    │
- ├────────────────────┼────────────────────┤
- │                    │                    │
-Infections     Allergens          Occupation
- │                    │                    │
- ├────────────────────┼────────────────────┤
- │                    │                    │
-Genetics      Climate        Healthcare Access
- │                    │                    │
- └────────────────────┼────────────────────┘
-                      │
-          Healthy or Diseased Lungs
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Respiratory Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Air Quality</div></div>
+<div class="tree-item"><div class="tree-node">Physical Activity</div></div>
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Smoking</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Infections</div></div>
+<div class="tree-item"><div class="tree-node">Allergens</div></div>
+<div class="tree-item"><div class="tree-node">Occupation</div></div>
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Climate</div></div>
+<div class="tree-item"><div class="tree-node">Healthcare Access</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Healthy or Diseased Lungs</span></div>
+</div>
+</div>
 
 Respiratory health depends on biological, environmental, occupational, and lifestyle factors.
 
@@ -230,7 +249,7 @@ Respiratory health depends on biological, environmental, occupational, and lifes
 | Pulmonary Fibrosis | Lung scarring | Reduced oxygen transfer |
 | COVID-19 (severe cases) | Lung inflammation | Impaired gas exchange |
 
-Most respiratory diseases reduce the efficiency of oxygen delivery or carbon dioxide removal. :contentReference[oaicite:6]{index=6}
+Most respiratory diseases reduce the efficiency of oxygen delivery or carbon dioxide removal.
 
 ---
 
@@ -243,6 +262,11 @@ Many respiratory diseases result from interactions between genetics, infections,
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Yoga-vini-teacher-training-rishikesh.jpg?width=1200" alt="Yoga practitioners during a yoga teacher training session in Rishikesh, India">
+<p class="domain-figure-caption">Yoga training in Rishikesh, India, home to the ancient pranayama tradition of controlled breathing — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -394,10 +418,7 @@ It connects the external atmosphere with internal cellular respiration, enabling
 It prepares the foundation for:
 
 - [[Digestive System]]
-- [[Cellular Respiration]]
 - [[Exercise]]
-- [[Disease & Medicine]]
-- [[Longevity]]
 
 ---
 
@@ -413,26 +434,14 @@ It prepares the foundation for:
 
 ## Enables
 
-- [[Cellular Respiration]]
 - [[Exercise]]
 - [[Brain & Neuroscience]]
-- [[Disease & Medicine]]
 
 ---
 
 ## Related
 
-- [[Lungs]]
-- [[Alveoli]]
-- [[Diaphragm]]
-- [[Cellular Respiration]]
-- [[Blood]]
-
----
-
-## Next
-
-→ [[Digestive System]]
+None.
 
 ---
 
@@ -453,3 +462,10 @@ Breathing is therefore not merely an action—it is the continuous biological br
 # Key Insight
 
 > **The respiratory system is the body's gateway to the atmosphere. Through every breath it delivers oxygen for cellular energy production, removes carbon dioxide, maintains acid-base balance, and supports every organ in the body. Understanding respiration reveals that human life depends not only on healthy lungs, but also on clean air, physical activity, healthy environments, and the seamless cooperation of the respiratory and cardiovascular systems.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/03-human-system/05---digestive-system" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Digestive System</span><span class="os-cta-sub">The Digestive System is the body's nutrient processing and energy acquisition network....</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

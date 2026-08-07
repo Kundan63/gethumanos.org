@@ -1,6 +1,6 @@
 # Preventive Medicine
 
-> *Preventive Medicine is the medical specialty devoted to preventing disease, promoting health, prolonging life, and reducing disability through evidence-based interventions applied to individuals and populations. It combines clinical medicine, epidemiology, public health, behavioral science, and environmental health to prevent illness before it occurs, detect disease early, reduce complications, and improve overall health outcomes.* :contentReference[oaicite:1]{index=1}
+> *Preventive Medicine is the medical specialty devoted to preventing disease, promoting health, prolonging life, and reducing disability through evidence-based interventions applied to individuals and populations. It combines clinical medicine, epidemiology, public health, behavioral science, and environmental health to prevent illness before it occurs, detect disease early, reduce complications, and improve overall health outcomes.*
 
 ---
 
@@ -41,7 +41,7 @@ Examples include:
 
 By the time symptoms appear, biological damage may already be significant.
 
-Preventive Medicine aims to interrupt disease **before irreversible damage occurs**. :contentReference[oaicite:2]{index=2}
+Preventive Medicine aims to interrupt disease **before irreversible damage occurs**.
 
 ---
 
@@ -55,41 +55,46 @@ Preventive Medicine answers this by identifying risk factors, applying evidence-
 
 # The Prevention System
 
-```text
-Healthy Person
-      │
-Risk Assessment
-      │
-Preventive Interventions
-      │
- ┌────┼──────────────┐
- ▼    ▼              ▼
-Lifestyle
-Vaccination
-Screening
-Counseling
-Preventive Medication
-      │
-      ▼
-Reduced Disease Risk
-      │
-Healthy Population
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Healthy Person</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Risk Assessment</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Preventive Interventions</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item"><div class="tree-node">Vaccination</div></div>
+<div class="tree-item"><div class="tree-node">Screening</div></div>
+<div class="tree-item"><div class="tree-node">Counseling</div></div>
+<div class="tree-item"><div class="tree-node">Preventive Medication</div></div>
+<div class="tree-item">
+<div class="tree-node">Reduced Disease Risk</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Healthy Population</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ---
 
 # Levels of Prevention
 
-```text
-Preventive Medicine
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Primordial
-Primary
-Secondary
-Tertiary
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Preventive Medicine</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Primordial</div></div>
+<div class="tree-item"><div class="tree-node">Primary</div></div>
+<div class="tree-item"><div class="tree-node">Secondary</div></div>
+<div class="tree-item"><div class="tree-node">Tertiary</div></div>
+</div>
+</div>
 
 ---
 
@@ -154,21 +159,17 @@ The goal is to preserve function and quality of life.
 
 # Major Preventive Strategies
 
-```text
-Preventive Medicine
-        │
- ┌──────┼──────────────┐
- ▼      ▼              ▼
-Lifestyle
-Vaccination
-Screening
- │      │              │
- ├──────┼──────────────┤
- ▼      ▼              ▼
-Counseling
-Preventive Medication
-Public Health
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Preventive Medicine</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item"><div class="tree-node">Vaccination</div></div>
+<div class="tree-item"><div class="tree-node">Screening</div></div>
+<div class="tree-item"><div class="tree-node">Counseling</div></div>
+<div class="tree-item"><div class="tree-node">Preventive Medication</div></div>
+<div class="tree-item"><div class="tree-node">Public Health</div></div>
+</div>
+</div>
 
 These strategies work together rather than independently.
 
@@ -212,14 +213,15 @@ Preventive Medicine connects clinical medicine with public health.
 
 Preventive Medicine helps:
 
-- Reduce disease risk
-- Detect illness early
-- Prevent disability
-- Improve life expectancy
-- Increase healthspan
-- Reduce healthcare costs
+> [!success]
+> - Reduce disease risk
+> - Detect illness early
+> - Prevent disability
+> - Improve life expectancy
+> - Increase healthspan
+> - Reduce healthcare costs
 
-Many leading causes of death are strongly influenced by preventable risk factors. :contentReference[oaicite:3]{index=3}
+Many leading causes of death are strongly influenced by preventable risk factors.
 
 ---
 
@@ -250,6 +252,11 @@ Many leading causes of death are strongly influenced by preventable risk factors
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/A_Free_Health_Check-up_Camp_in_progress_at_the_Bharat_Nirman_Public_Information_Campaign,_at_Medavakkam,_Tamil_Nadu_on_October_26,_2013.jpg?width=1200" alt="A free health check-up camp in progress as part of a public health information campaign in Medavakkam, Tamil Nadu, India">
+<p class="domain-figure-caption">A free preventive health check-up camp in Medavakkam, Tamil Nadu, India — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -283,7 +290,7 @@ Preventive Medicine reduces:
 - Disability
 - Premature mortality
 
-It is one of the foundations of sustainable healthcare systems. :contentReference[oaicite:4]{index=4}
+It is one of the foundations of sustainable healthcare systems.
 
 ---
 
@@ -330,7 +337,6 @@ It connects:
 - [[Vaccination]]
 - [[Screening]]
 - [[Health Promotion]]
-- [[Public Health]]
 - [[Risk Factors]]
 
 It demonstrates that healthcare is not only about treating illness—it is also about preserving health.
@@ -350,27 +356,28 @@ It demonstrates that healthcare is not only about treating illness—it is also 
 - [[Vaccination]]
 - [[Screening]]
 - [[Health Promotion]]
-- [[Public Health]]
 
 ## Related
 
 - [[Diagnosis]]
 - [[Disease]]
 - [[Homeostasis]]
-- [[Healthy Aging]]
-
-## Next
-
-→ [[Vaccination]]
 
 ---
 
 # HumanOS Principle
 
-Preventive Medicine recognizes that maintaining health is more effective than treating advanced disease. By combining lifestyle interventions, vaccination, screening, counseling, preventive therapies, and public health measures, it reduces disease before symptoms appear, minimizes complications, and improves both lifespan and healthspan. It demonstrates that the greatest success of medicine is often the disease that never occurs. :contentReference[oaicite:5]{index=5}
+Preventive Medicine recognizes that maintaining health is more effective than treating advanced disease. By combining lifestyle interventions, vaccination, screening, counseling, preventive therapies, and public health measures, it reduces disease before symptoms appear, minimizes complications, and improves both lifespan and healthspan. It demonstrates that the greatest success of medicine is often the disease that never occurs.
 
 ---
 
 # Key Insight
 
-> **Preventive Medicine is the scientific practice of protecting health before disease develops. Through risk assessment, early detection, vaccination, screening, healthy lifestyles, and evidence-based interventions, it reduces illness, disability, and premature death while improving the quality and length of human life.** :contentReference[oaicite:6]{index=6}
+> **Preventive Medicine is the scientific practice of protecting health before disease develops. Through risk assessment, early detection, vaccination, screening, healthy lifestyles, and evidence-based interventions, it reduces illness, disability, and premature death while improving the quality and length of human life.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/02-prevention/03---vaccination" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Vaccination</span><span class="os-cta-sub">Vaccination is the process of administering a vaccine to stimulate the immune system...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

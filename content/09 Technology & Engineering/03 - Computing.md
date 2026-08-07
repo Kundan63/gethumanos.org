@@ -1,6 +1,6 @@
 # Computing
 
-> *Computing is the systematic process of representing, storing, processing, transmitting, and interpreting information using algorithms and computational systems. It encompasses the design, development, and application of computer hardware, software, data, and networks to solve problems, automate tasks, and generate knowledge. Computing forms the foundation of the modern digital world, enabling everything from smartphones and cloud computing to artificial intelligence and scientific research.* :contentReference[oaicite:0]{index=0}
+> *Computing is the systematic process of representing, storing, processing, transmitting, and interpreting information using algorithms and computational systems. It encompasses the design, development, and application of computer hardware, software, data, and networks to solve problems, automate tasks, and generate knowledge. Computing forms the foundation of the modern digital world, enabling everything from smartphones and cloud computing to artificial intelligence and scientific research.*
 
 ---
 
@@ -22,7 +22,7 @@ Computing involves:
 - Automating tasks
 - Supporting decision-making
 
-Modern computing combines hardware, software, mathematics, engineering, and human-computer interaction. :contentReference[oaicite:1]{index=1}
+Modern computing combines hardware, software, mathematics, engineering, and human-computer interaction.
 
 ---
 
@@ -42,7 +42,7 @@ Computing exists because it enables humans to:
 - Simulate complex systems
 - Support scientific discovery
 
-Computing extends human intelligence by allowing machines to perform billions of operations every second. :contentReference[oaicite:2]{index=2}
+Computing extends human intelligence by allowing machines to perform billions of operations every second.
 
 ---
 
@@ -62,18 +62,19 @@ Computing answers this through algorithms, software, hardware, and data working 
 
 # Components of Computing
 
-```text
-Computing
-      │
- ├── Data
- ├── Algorithms
- ├── Hardware
- ├── Software
- ├── Memory
- ├── Networks
- ├── Users
- └── Security
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Computing</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Data</div></div>
+<div class="tree-item"><div class="tree-node">Algorithms</div></div>
+<div class="tree-item"><div class="tree-node">Hardware</div></div>
+<div class="tree-item"><div class="tree-node">Software</div></div>
+<div class="tree-item"><div class="tree-node">Memory</div></div>
+<div class="tree-item"><div class="tree-node">Networks</div></div>
+<div class="tree-item"><div class="tree-node">Users</div></div>
+<div class="tree-item"><div class="tree-node">Security</div></div>
+</div>
+</div>
 
 Every computing system combines these components to process information.
 
@@ -219,20 +220,21 @@ Computing continuously transforms inputs into useful outputs.
 
 # Major Areas of Computing
 
-```text
-Computing
-      │
- ├── Computer Science
- ├── Software Engineering
- ├── Computer Engineering
- ├── Information Technology
- ├── Information Systems
- ├── Cybersecurity
- ├── Data Science
- └── Cloud Computing
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Computing</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Computer Science</div></div>
+<div class="tree-item"><div class="tree-node">Software Engineering</div></div>
+<div class="tree-item"><div class="tree-node">Computer Engineering</div></div>
+<div class="tree-item"><div class="tree-node">Information Technology</div></div>
+<div class="tree-item"><div class="tree-node">Information Systems</div></div>
+<div class="tree-item"><div class="tree-node">Cybersecurity</div></div>
+<div class="tree-item"><div class="tree-node">Data Science</div></div>
+<div class="tree-item"><div class="tree-node">Cloud Computing</div></div>
+</div>
+</div>
 
-These disciplines work together to create, operate, and improve modern computing systems. :contentReference[oaicite:3]{index=3}
+These disciplines work together to create, operate, and improve modern computing systems.
 
 ---
 
@@ -346,16 +348,18 @@ Cloud computing enables scalable computing services worldwide.
 
 Computing enables:
 
-- Artificial Intelligence
-- Scientific simulation
-- Weather prediction
-- Financial systems
-- Healthcare
-- Space exploration
-- Communication
-- Education
-- Manufacturing
-- Entertainment
+<div class="tag-grid">
+<span class="tag-pill">Artificial Intelligence</span>
+<span class="tag-pill">Scientific simulation</span>
+<span class="tag-pill">Weather prediction</span>
+<span class="tag-pill">Financial systems</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Space exploration</span>
+<span class="tag-pill">Communication</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Manufacturing</span>
+<span class="tag-pill">Entertainment</span>
+</div>
 
 Nearly every modern industry depends on computing.
 
@@ -393,15 +397,16 @@ Efficient algorithms, good software design, and appropriate system architecture 
 
 Computing affects:
 
-- Communication
-- Education
-- Healthcare
-- Banking
-- Transportation
-- Scientific research
-- Entertainment
-- Government
-- Artificial intelligence
+> [!success]
+> - Communication
+> - Education
+> - Healthcare
+> - Banking
+> - Transportation
+> - Scientific research
+> - Entertainment
+> - Government
+> - Artificial intelligence
 
 Modern society depends on computing to manage information and solve increasingly complex problems.
 
@@ -481,11 +486,8 @@ It connects:
 
 - [[Mathematics]]
 - [[Electronics]]
-- [[Algorithms]]
-- [[Software]]
 - [[Artificial Intelligence]]
 - [[Internet]]
-- [[Cybersecurity]]
 - [[Engineering]]
 
 It demonstrates that computing is the information-processing foundation of modern digital civilization.
@@ -499,35 +501,32 @@ It demonstrates that computing is the information-processing foundation of moder
 - [[Mathematics]]
 - [[Electronics]]
 - [[Engineering]]
-- [[Algorithms]]
 
 ## Enables
 
 - [[Artificial Intelligence]]
 - [[Internet]]
 - [[Robotics]]
-- [[Cybersecurity]]
-- [[Data Science]]
 
 ## Related
 
-- [[Software]]
-- [[Computer Science]]
-- [[Cloud Computing]]
-- [[Operating Systems]]
-
-## Next
-
-→ [[Artificial Intelligence]]
+None.
 
 ---
 
 # HumanOS Principle
 
-Computing is the systematic representation, processing, storage, and communication of information through algorithms executed by hardware and software. By transforming raw data into useful knowledge and intelligent action, computing enables modern communication, science, engineering, medicine, commerce, and artificial intelligence, making it one of the foundational technologies of digital civilization. :contentReference[oaicite:4]{index=4}
+Computing is the systematic representation, processing, storage, and communication of information through algorithms executed by hardware and software. By transforming raw data into useful knowledge and intelligent action, computing enables modern communication, science, engineering, medicine, commerce, and artificial intelligence, making it one of the foundational technologies of digital civilization.
 
 ---
 
 # Key Insight
 
 > **Computing is civilization's information processor. Just as machines amplify human physical strength, computing amplifies human intellectual capability—allowing us to solve problems, discover knowledge, automate decisions, and coordinate billions of people across the globe through the power of information.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/09-technology--and--engineering/04---artificial-intelligence" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Artificial Intelligence</span><span class="os-cta-sub">Artificial Intelligence (AI) is the field of computing that develops systems capable...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

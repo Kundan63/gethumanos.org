@@ -1,6 +1,6 @@
 # Economics
 
-> *Economics is the social science that studies how individuals, businesses, governments, and societies make choices when resources are limited but human wants are unlimited. It examines how goods and services are produced, distributed, exchanged, and consumed, and how these choices influence individual well-being, economic growth, and society as a whole. Rather than simply studying money, economics studies decision making under scarcity.* :contentReference[oaicite:0]{index=0}
+> *Economics is the social science that studies how individuals, businesses, governments, and societies make choices when resources are limited but human wants are unlimited. It examines how goods and services are produced, distributed, exchanged, and consumed, and how these choices influence individual well-being, economic growth, and society as a whole. Rather than simply studying money, economics studies decision making under scarcity.*
 
 ---
 
@@ -17,7 +17,7 @@ It seeks to answer questions such as:
 - How do markets work?
 - Why do poverty and inequality exist?
 
-Economics is fundamentally the science of **choice**. :contentReference[oaicite:1]{index=1}
+Economics is fundamentally the science of **choice**.
 
 ---
 
@@ -38,7 +38,7 @@ Human wants, however, are effectively unlimited.
 
 Because scarcity exists, people, businesses, and governments must constantly make choices and accept trade-offs.
 
-Economics provides the principles for making those choices more effectively. :contentReference[oaicite:2]{index=2}
+Economics provides the principles for making those choices more effectively.
 
 ---
 
@@ -58,20 +58,24 @@ Economics answers this by studying incentives, production, exchange, consumption
 
 # The Core Economic Problem
 
-```text
-Unlimited Wants
-        ▲
-        │
-        │
-Scarcity
-        │
-        ▼
-Limited Resources
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Unlimited Wants</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Scarcity</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Limited Resources</span></div>
+</div>
+</div>
 
 Scarcity is the central problem that economics seeks to solve.
 
-Every economic decision is ultimately a response to scarcity. :contentReference[oaicite:3]{index=3}
+Every economic decision is ultimately a response to scarcity.
 
 ---
 
@@ -116,18 +120,19 @@ Possible mechanisms:
 - Governments
 - Mixed systems
 
-Every society develops systems to allocate resources. :contentReference[oaicite:4]{index=4}
+Every society develops systems to allocate resources.
 
 ---
 
 # Branches of Economics
 
-```text
-Economics
-      │
- ├── Microeconomics
- └── Macroeconomics
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Economics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Microeconomics</div></div>
+<div class="tree-item"><div class="tree-node">Macroeconomics</div></div>
+</div>
+</div>
 
 ---
 
@@ -163,7 +168,7 @@ Topics include:
 - Government policy
 - International trade
 
-Macroeconomics explains large-scale economic performance. :contentReference[oaicite:5]{index=5}
+Macroeconomics explains large-scale economic performance.
 
 ---
 
@@ -223,14 +228,15 @@ This continuous exchange allows economies to function.
 
 Everything produced requires productive resources.
 
-```text
-Production
-     │
- ├── Land
- ├── Labor
- ├── Capital
- └── Entrepreneurship
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Production</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Land</div></div>
+<div class="tree-item"><div class="tree-node">Labor</div></div>
+<div class="tree-item"><div class="tree-node">Capital</div></div>
+<div class="tree-item"><div class="tree-node">Entrepreneurship</div></div>
+</div>
+</div>
 
 ### Land
 
@@ -285,20 +291,21 @@ Markets coordinate:
 - Demand
 - Competition
 
-Markets help allocate resources efficiently in many situations. :contentReference[oaicite:6]{index=6}
+Markets help allocate resources efficiently in many situations.
 
 ---
 
 # Economic Systems
 
-```text
-Economic Systems
-      │
- ├── Market Economy
- ├── Command Economy
- ├── Mixed Economy
- └── Traditional Economy
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Economic Systems</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Market Economy</div></div>
+<div class="tree-item"><div class="tree-node">Command Economy</div></div>
+<div class="tree-item"><div class="tree-node">Mixed Economy</div></div>
+<div class="tree-item"><div class="tree-node">Traditional Economy</div></div>
+</div>
+</div>
 
 Most modern countries operate mixed economies, combining markets with government involvement.
 
@@ -334,7 +341,7 @@ Economics influences:
 - Technology
 - Environment
 
-Almost every major public issue has an economic dimension. :contentReference[oaicite:7]{index=7}
+Almost every major public issue has an economic dimension.
 
 ---
 
@@ -342,14 +349,16 @@ Almost every major public issue has an economic dimension. :contentReference[oai
 
 Economics contributes to:
 
-- Public policy
-- Business strategy
-- Healthcare
-- Environmental management
-- International trade
-- Finance
-- Artificial intelligence
-- Sustainable development
+<div class="tag-grid">
+<span class="tag-pill">Public policy</span>
+<span class="tag-pill">Business strategy</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Environmental management</span>
+<span class="tag-pill">International trade</span>
+<span class="tag-pill">Finance</span>
+<span class="tag-pill">Artificial intelligence</span>
+<span class="tag-pill">Sustainable development</span>
+</div>
 
 ---
 
@@ -359,7 +368,7 @@ Economics contributes to:
 
 Reality:
 
-Economics studies choices, incentives, scarcity, and resource allocation—not just money. :contentReference[oaicite:8]{index=8}
+Economics studies choices, incentives, scarcity, and resource allocation—not just money.
 
 ---
 
@@ -385,12 +394,13 @@ Every human makes economic decisions.
 
 Examples include:
 
-- Choosing a career
-- Buying food
-- Saving money
-- Investing
-- Starting a business
-- Voting on public policies
+> [!success]
+> - Choosing a career
+> - Buying food
+> - Saving money
+> - Investing
+> - Starting a business
+> - Voting on public policies
 
 Understanding economics helps people make better decisions with limited resources.
 
@@ -405,6 +415,11 @@ Economics explains how societies organize resources to meet human needs.
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/India_Mauryan_emperor_Ashoka_Punch-marked_Coin.jpg?width=1200" alt="An ancient Mauryan-era punch-marked silver coin from India">
+<p class="domain-figure-caption">A Mauryan-era punch-marked coin, among the earliest forms of currency used in ancient India — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -471,10 +486,7 @@ It connects:
 - [[Business]]
 - [[Politics]]
 - [[Law]]
-- [[Technology]]
-- [[Environment]]
 - [[Decision Making]]
-- [[Society]]
 
 It demonstrates that prosperity depends not only on available resources but also on how wisely those resources are organized, exchanged, and used.
 
@@ -485,36 +497,32 @@ It demonstrates that prosperity depends not only on available resources but also
 ## Depends On
 
 - [[Decision Making]]
-- [[Society]]
 - [[Business]]
 - [[Politics]]
 
 ## Enables
 
-- [[Trade]]
 - [[Business]]
-- [[Innovation]]
-- [[Economic Growth]]
 
 ## Related
 
 - [[Law]]
-- [[Technology]]
-- [[Environment]]
-- [[Public Policy]]
-
-## Next
-
-→ [[Politics]]
 
 ---
 
 # HumanOS Principle
 
-Economics is the science of how humans make choices under conditions of scarcity. By studying production, exchange, consumption, incentives, and resource allocation, economics explains how societies organize limited resources to improve well-being and create prosperity. Understanding economics enables individuals and nations to make better decisions, balance competing priorities, and build more resilient and sustainable civilizations. :contentReference[oaicite:9]{index=9}
+Economics is the science of how humans make choices under conditions of scarcity. By studying production, exchange, consumption, incentives, and resource allocation, economics explains how societies organize limited resources to improve well-being and create prosperity. Understanding economics enables individuals and nations to make better decisions, balance competing priorities, and build more resilient and sustainable civilizations.
 
 ---
 
 # Key Insight
 
-> **Economics is not primarily about money—it is about choices. Every person, family, business, and nation faces limited resources and unlimited wants. Economics provides the principles for making those choices wisely, helping humanity transform scarcity into opportunity and resources into lasting well-being.** :contentReference[oaicite:10]{index=10}
+> **Economics is not primarily about money—it is about choices. Every person, family, business, and nation faces limited resources and unlimited wants. Economics provides the principles for making those choices wisely, helping humanity transform scarcity into opportunity and resources into lasting well-being.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/08-society--and--civilisation/07---politics" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Politics</span><span class="os-cta-sub">Politics is the process through which individuals, groups, and governments make...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

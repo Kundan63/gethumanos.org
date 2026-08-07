@@ -1,6 +1,6 @@
 # Leadership
 
-> **Leadership is the ability to influence, guide, and enable individuals or groups to achieve shared goals while creating conditions in which people, organizations, and communities can grow and succeed.** Leadership is not limited to positions of authority—it is a process of responsibility, influence, service, decision-making, and coordination that can be exercised in families, teams, organizations, and societies. Effective leadership develops people, aligns purpose, builds trust, and creates environments where others can perform at their best. :contentReference[oaicite:0]{index=0}
+> **Leadership is the ability to influence, guide, and enable individuals or groups to achieve shared goals while creating conditions in which people, organizations, and communities can grow and succeed.** Leadership is not limited to positions of authority—it is a process of responsibility, influence, service, decision-making, and coordination that can be exercised in families, teams, organizations, and societies. Effective leadership develops people, aligns purpose, builds trust, and creates environments where others can perform at their best.
 
 ---
 
@@ -96,19 +96,20 @@ Leadership is a capability that can be learned and improved throughout life.
 
 # The Leadership System
 
-```text
-Leadership
-      │
- ├── Self-Leadership
- ├── Vision
- ├── Character
- ├── Communication
- ├── Decision Making
- ├── Team Development
- ├── Responsibility
- ├── Adaptability
- └── Service
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Leadership</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Self-Leadership</div></div>
+<div class="tree-item"><div class="tree-node">Vision</div></div>
+<div class="tree-item"><div class="tree-node">Character</div></div>
+<div class="tree-item"><div class="tree-node">Communication</div></div>
+<div class="tree-item"><div class="tree-node">Decision Making</div></div>
+<div class="tree-item"><div class="tree-node">Team Development</div></div>
+<div class="tree-item"><div class="tree-node">Responsibility</div></div>
+<div class="tree-item"><div class="tree-node">Adaptability</div></div>
+<div class="tree-item"><div class="tree-node">Service</div></div>
+</div>
+</div>
 
 Every component strengthens long-term leadership effectiveness.
 
@@ -267,7 +268,7 @@ Effective leadership improves:
 - Organizational resilience
 - Community well-being
 
-Leadership quality also influences workplace well-being, communication, and organizational culture. :contentReference[oaicite:1]{index=1}
+Leadership quality also influences workplace well-being, communication, and organizational culture.
 
 ---
 
@@ -309,7 +310,7 @@ Leadership multiplies the impact of individual capability.
 
 ✔ Leadership skills can be developed through learning and experience.
 
-✔ Ethical leadership strengthens long-term cooperation and resilience. :contentReference[oaicite:2]{index=2}
+✔ Ethical leadership strengthens long-term cooperation and resilience.
 
 ---
 
@@ -357,31 +358,26 @@ Ask yourself:
 ## Enables
 
 - [[Creativity]]
-- [[Teamwork]]
-- [[Innovation]]
-- [[Healthy Organizations]]
-- [[Contribution]]
-- [[Human Flourishing]]
 
 ## Related
 
 - [[Communication]]
-- [[Influence]]
-- [[Trust]]
-- [[Responsibility]]
-
-## Next
-
-→ [[Creativity]]
 
 ---
 
 # HumanOS Principle
 
-Leadership is the responsible use of influence to help people achieve shared goals while developing their capabilities, strengthening trust, and improving the systems in which they live and work. HumanOS views leadership not as a title to be earned, but as a lifelong practice of character, service, learning, and responsibility. Effective leadership begins with leading oneself and expands outward to benefit families, organizations, communities, and ultimately civilization. :contentReference[oaicite:3]{index=3}
+Leadership is the responsible use of influence to help people achieve shared goals while developing their capabilities, strengthening trust, and improving the systems in which they live and work. HumanOS views leadership not as a title to be earned, but as a lifelong practice of character, service, learning, and responsibility. Effective leadership begins with leading oneself and expands outward to benefit families, organizations, communities, and ultimately civilization.
 
 ---
 
 # Key Insight
 
 > **Leadership is not measured by how many people follow you, but by how many people become more capable because of your influence. HumanOS teaches leadership as the transformation of character into trust, trust into cooperation, and cooperation into meaningful progress for individuals, organizations, and humanity.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/09---creativity" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Creativity</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

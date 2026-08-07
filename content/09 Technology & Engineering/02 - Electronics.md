@@ -1,6 +1,6 @@
 # Electronics
 
-> *Electronics is the branch of engineering and applied physics concerned with the controlled movement of electrons through semiconductor devices and electronic circuits to process information, amplify signals, control power, and perform computation. By combining components such as resistors, capacitors, diodes, transistors, and integrated circuits, electronics enables modern technologies ranging from smartphones and medical devices to satellites, industrial automation, and artificial intelligence.* :contentReference[oaicite:0]{index=0}
+> *Electronics is the branch of engineering and applied physics concerned with the controlled movement of electrons through semiconductor devices and electronic circuits to process information, amplify signals, control power, and perform computation. By combining components such as resistors, capacitors, diodes, transistors, and integrated circuits, electronics enables modern technologies ranging from smartphones and medical devices to satellites, industrial automation, and artificial intelligence.*
 
 ---
 
@@ -20,7 +20,7 @@ Electronics enables devices to:
 - Process signals
 - Automate systems
 
-Nearly every modern technology depends on electronic systems. :contentReference[oaicite:1]{index=1}
+Nearly every modern technology depends on electronic systems.
 
 ---
 
@@ -59,18 +59,19 @@ Electronics answers this by using electronic components and circuits to manipula
 
 # Components of Electronics
 
-```text
-Electronics
-      │
- ├── Voltage
- ├── Current
- ├── Resistance
- ├── Components
- ├── Circuits
- ├── Signals
- ├── Semiconductors
- └── Integrated Circuits
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Electronics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Voltage</div></div>
+<div class="tree-item"><div class="tree-node">Current</div></div>
+<div class="tree-item"><div class="tree-node">Resistance</div></div>
+<div class="tree-item"><div class="tree-node">Components</div></div>
+<div class="tree-item"><div class="tree-node">Circuits</div></div>
+<div class="tree-item"><div class="tree-node">Signals</div></div>
+<div class="tree-item"><div class="tree-node">Semiconductors</div></div>
+<div class="tree-item"><div class="tree-node">Integrated Circuits</div></div>
+</div>
+</div>
 
 These elements work together to create every electronic device.
 
@@ -128,7 +129,7 @@ Passive components store, transfer, or dissipate energy but do not amplify signa
 - Transistors
 - Integrated Circuits
 
-Active components require power and can amplify, switch, or control electrical signals. :contentReference[oaicite:2]{index=2}
+Active components require power and can amplify, switch, or control electrical signals.
 
 ---
 
@@ -192,7 +193,7 @@ Semiconductors make possible:
 - Solar cells
 - Integrated circuits
 
-Semiconductor technology is the foundation of modern electronics. :contentReference[oaicite:3]{index=3}
+Semiconductor technology is the foundation of modern electronics.
 
 ---
 
@@ -222,18 +223,19 @@ Electronic systems are refined through repeated testing and optimization.
 
 # Major Areas of Electronics
 
-```text
-Electronics
-      │
- ├── Analog Electronics
- ├── Digital Electronics
- ├── Power Electronics
- ├── Embedded Electronics
- ├── Communication Electronics
- ├── Microelectronics
- ├── Optoelectronics
- └── RF & Microwave Electronics
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Electronics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Analog Electronics</div></div>
+<div class="tree-item"><div class="tree-node">Digital Electronics</div></div>
+<div class="tree-item"><div class="tree-node">Power Electronics</div></div>
+<div class="tree-item"><div class="tree-node">Embedded Electronics</div></div>
+<div class="tree-item"><div class="tree-node">Communication Electronics</div></div>
+<div class="tree-item"><div class="tree-node">Microelectronics</div></div>
+<div class="tree-item"><div class="tree-node">Optoelectronics</div></div>
+<div class="tree-item"><div class="tree-node">RF & Microwave Electronics</div></div>
+</div>
+</div>
 
 ---
 
@@ -344,15 +346,17 @@ Applications:
 
 Electronics powers nearly every modern technology:
 
-- Smartphones
-- Computers
-- Medical equipment
-- Industrial automation
-- Consumer electronics
-- Renewable energy systems
-- Spacecraft
-- Telecommunications
-- Artificial intelligence hardware
+<div class="tag-grid">
+<span class="tag-pill">Smartphones</span>
+<span class="tag-pill">Computers</span>
+<span class="tag-pill">Medical equipment</span>
+<span class="tag-pill">Industrial automation</span>
+<span class="tag-pill">Consumer electronics</span>
+<span class="tag-pill">Renewable energy systems</span>
+<span class="tag-pill">Spacecraft</span>
+<span class="tag-pill">Telecommunications</span>
+<span class="tag-pill">Artificial intelligence hardware</span>
+</div>
 
 ---
 
@@ -388,14 +392,15 @@ Many electronic systems combine analog and digital circuits to achieve their fun
 
 Electronics influences:
 
-- Communication
-- Healthcare
-- Transportation
-- Manufacturing
-- Education
-- Entertainment
-- Scientific research
-- National infrastructure
+> [!success]
+> - Communication
+> - Healthcare
+> - Transportation
+> - Manufacturing
+> - Education
+> - Entertainment
+> - Scientific research
+> - National infrastructure
 
 Modern civilization depends on reliable electronic systems operating continuously.
 
@@ -474,8 +479,6 @@ Nearly all modern technologies rely on electronic circuits.
 It connects:
 
 - [[Physics]]
-- [[Electricity]]
-- [[Semiconductors]]
 - [[Computing]]
 - [[Artificial Intelligence]]
 - [[Internet]]
@@ -491,8 +494,6 @@ It demonstrates that electronics is the foundation upon which modern digital civ
 ## Depends On
 
 - [[Physics]]
-- [[Electricity]]
-- [[Materials]]
 - [[Engineering]]
 
 ## Enables
@@ -505,23 +506,23 @@ It demonstrates that electronics is the foundation upon which modern digital civ
 
 ## Related
 
-- [[Semiconductors]]
-- [[Embedded Systems]]
-- [[Digital Systems]]
-- [[Signal Processing]]
-
-## Next
-
-→ [[Computing]]
+None.
 
 ---
 
 # HumanOS Principle
 
-Electronics is the science and engineering of controlling the flow of electrons through components and circuits to process information, control systems, and perform computation. By combining semiconductor devices into increasingly complex integrated circuits, electronics powers nearly every modern technology, from communication and medicine to artificial intelligence and space exploration. :contentReference[oaicite:4]{index=4}
+Electronics is the science and engineering of controlling the flow of electrons through components and circuits to process information, control systems, and perform computation. By combining semiconductor devices into increasingly complex integrated circuits, electronics powers nearly every modern technology, from communication and medicine to artificial intelligence and space exploration.
 
 ---
 
 # Key Insight
 
 > **Electronics is civilization's information engine. Electricity provides energy, but electronics gives that energy purpose—allowing machines to sense, compute, communicate, remember, and make decisions. Every smartphone, satellite, medical scanner, robot, and AI system exists because humans learned to control electrons with extraordinary precision.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/09-technology--and--engineering/03---computing" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Computing</span><span class="os-cta-sub">Computing is the systematic process of representing, storing, processing,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

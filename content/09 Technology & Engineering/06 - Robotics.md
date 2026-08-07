@@ -1,6 +1,6 @@
 # Robotics
 
-> *Robotics is the interdisciplinary field of engineering, computer science, electronics, and artificial intelligence that focuses on designing, building, programming, operating, and improving robots—machines capable of sensing their environment, processing information, making decisions, and performing physical actions autonomously or under human control. Robotics extends human physical capabilities by automating tasks that are dangerous, repetitive, highly precise, or beyond normal human ability.* :contentReference[oaicite:0]{index=0}
+> *Robotics is the interdisciplinary field of engineering, computer science, electronics, and artificial intelligence that focuses on designing, building, programming, operating, and improving robots—machines capable of sensing their environment, processing information, making decisions, and performing physical actions autonomously or under human control. Robotics extends human physical capabilities by automating tasks that are dangerous, repetitive, highly precise, or beyond normal human ability.*
 
 ---
 
@@ -18,7 +18,7 @@ Unlike traditional computers, which process information only, robots can:
 - Interact with people
 - Perform physical tasks
 
-A robot combines **mechanics, electronics, computing, control systems, and artificial intelligence** into one integrated system. :contentReference[oaicite:1]{index=1}
+A robot combines **mechanics, electronics, computing, control systems, and artificial intelligence** into one integrated system.
 
 ---
 
@@ -57,18 +57,19 @@ Robotics answers this by combining sensing, computation, planning, and mechanica
 
 # Components of Robotics
 
-```text
-Robotics
-      │
- ├── Sensors
- ├── Controllers
- ├── Software
- ├── Artificial Intelligence
- ├── Actuators
- ├── Mechanical Structure
- ├── Power System
- └── Communication
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Robotics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Sensors</div></div>
+<div class="tree-item"><div class="tree-node">Controllers</div></div>
+<div class="tree-item"><div class="tree-node">Software</div></div>
+<div class="tree-item"><div class="tree-node">Artificial Intelligence</div></div>
+<div class="tree-item"><div class="tree-node">Actuators</div></div>
+<div class="tree-item"><div class="tree-node">Mechanical Structure</div></div>
+<div class="tree-item"><div class="tree-node">Power System</div></div>
+<div class="tree-item"><div class="tree-node">Communication</div></div>
+</div>
+</div>
 
 Every robot combines these systems into one coordinated machine.
 
@@ -134,7 +135,7 @@ AI enables robots to:
 - Adapt to changing environments
 - Improve performance
 
-Not every robot uses AI, but modern autonomous robots increasingly do. :contentReference[oaicite:2]{index=2}
+Not every robot uses AI, but modern autonomous robots increasingly do.
 
 ---
 
@@ -204,24 +205,25 @@ Communication enables coordinated and remote operation.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:176px"><svg width="100%" viewBox="0 0 141 510" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="105.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="70.5" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Sense</text><rect x="18.0" y="90.0" width="105.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="70.5" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Perceive</text><rect x="18.0" y="162.0" width="105.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="70.5" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Plan</text><rect x="18.0" y="234.0" width="105.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="70.5" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Decide</text><rect x="18.0" y="306.0" width="105.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="70.5" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Move</text><rect x="18.0" y="378.0" width="105.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="70.5" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Act</text><rect x="18.0" y="450.0" width="105.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="70.5" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Repeat</text><line x1="70.5" y1="64.0" x2="70.5" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="70.5" y1="136.0" x2="70.5" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="70.5" y1="208.0" x2="70.5" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="70.5" y1="280.0" x2="70.5" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="70.5" y1="352.0" x2="70.5" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="70.5" y1="424.0" x2="70.5" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Robots operate continuously by sensing, deciding, and acting in a feedback loop. :contentReference[oaicite:3]{index=3}
+Robots operate continuously by sensing, deciding, and acting in a feedback loop.
 
 ---
 
 # Major Areas of Robotics
 
-```text
-Robotics
-      │
- ├── Industrial Robotics
- ├── Service Robotics
- ├── Mobile Robotics
- ├── Medical Robotics
- ├── Autonomous Vehicles
- ├── Humanoid Robotics
- ├── Space Robotics
- └── Swarm Robotics
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Robotics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Industrial Robotics</div></div>
+<div class="tree-item"><div class="tree-node">Service Robotics</div></div>
+<div class="tree-item"><div class="tree-node">Mobile Robotics</div></div>
+<div class="tree-item"><div class="tree-node">Medical Robotics</div></div>
+<div class="tree-item"><div class="tree-node">Autonomous Vehicles</div></div>
+<div class="tree-item"><div class="tree-node">Humanoid Robotics</div></div>
+<div class="tree-item"><div class="tree-node">Space Robotics</div></div>
+<div class="tree-item"><div class="tree-node">Swarm Robotics</div></div>
+</div>
+</div>
 
 ---
 
@@ -237,7 +239,7 @@ Applications:
 - Packaging
 - Material handling
 
-Industrial robots are the most widely deployed robots today. :contentReference[oaicite:4]{index=4}
+Industrial robots are the most widely deployed robots today.
 
 ---
 
@@ -341,16 +343,18 @@ Robotics integrates several engineering disciplines into one system.
 
 Robotics is transforming:
 
-- Manufacturing
-- Healthcare
-- Agriculture
-- Logistics
-- Construction
-- Mining
-- Defense
-- Space exploration
-- Disaster response
-- Scientific research
+<div class="tag-grid">
+<span class="tag-pill">Manufacturing</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Agriculture</span>
+<span class="tag-pill">Logistics</span>
+<span class="tag-pill">Construction</span>
+<span class="tag-pill">Mining</span>
+<span class="tag-pill">Defense</span>
+<span class="tag-pill">Space exploration</span>
+<span class="tag-pill">Disaster response</span>
+<span class="tag-pill">Scientific research</span>
+</div>
 
 ---
 
@@ -401,14 +405,15 @@ Many robotic systems are designed to collaborate with humans by improving safety
 
 Robotics influences:
 
-- Manufacturing
-- Healthcare
-- Agriculture
-- Transportation
-- Scientific discovery
-- Elder care
-- Disaster response
-- Space exploration
+> [!success]
+> - Manufacturing
+> - Healthcare
+> - Agriculture
+> - Transportation
+> - Scientific discovery
+> - Elder care
+> - Disaster response
+> - Space exploration
 
 Understanding robotics helps people prepare for a future where humans increasingly work alongside intelligent machines.
 
@@ -490,10 +495,6 @@ It connects:
 - [[Electronics]]
 - [[Computing]]
 - [[Artificial Intelligence]]
-- [[Control Systems]]
-- [[Sensors]]
-- [[Automation]]
-- [[Human-Computer Interaction]]
 
 It demonstrates that robotics is where digital intelligence becomes physical capability, enabling machines to interact with the real world in ways that expand human potential.
 
@@ -510,31 +511,27 @@ It demonstrates that robotics is where digital intelligence becomes physical cap
 
 ## Enables
 
-- [[Automation]]
-- [[Autonomous Systems]]
-- [[Space Exploration]]
-- [[Smart Manufacturing]]
-- [[Medical Technology]]
+None.
 
 ## Related
 
-- [[Control Systems]]
-- [[Computer Vision]]
-- [[Mechatronics]]
-- [[Human-Computer Interaction]]
-
-## Next
-
-→ [[Biotechnology]]
+None.
 
 ---
 
 # HumanOS Principle
 
-Robotics is the interdisciplinary field that combines mechanical engineering, electronics, computing, control systems, and artificial intelligence to build machines capable of sensing their environment, processing information, and performing physical actions. By extending human physical capabilities into environments that are dangerous, repetitive, or beyond human reach, robotics is becoming a key technology shaping the future of industry, healthcare, exploration, and everyday life. :contentReference[oaicite:5]{index=5}
+Robotics is the interdisciplinary field that combines mechanical engineering, electronics, computing, control systems, and artificial intelligence to build machines capable of sensing their environment, processing information, and performing physical actions. By extending human physical capabilities into environments that are dangerous, repetitive, or beyond human reach, robotics is becoming a key technology shaping the future of industry, healthcare, exploration, and everyday life.
 
 ---
 
 # Key Insight
 
 > **Robotics is humanity's physical amplifier. Just as computing amplifies thought and the Internet amplifies communication, robotics amplifies action—allowing intelligence to move beyond screens and interact directly with the physical world.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/09-technology--and--engineering/07---biotechnology" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Biotechnology</span><span class="os-cta-sub">Biotechnology is the application of biology, living organisms, cells, or biological...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

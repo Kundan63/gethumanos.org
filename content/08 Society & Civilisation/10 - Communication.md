@@ -1,6 +1,6 @@
 # Communication
 
-> *Communication is the process of creating, sharing, receiving, and interpreting information, ideas, emotions, and meaning between individuals or groups through verbal, nonverbal, written, visual, or digital forms. Effective communication is not merely transmitting information—it is achieving shared understanding. Communication is fundamental to human relationships, learning, cooperation, culture, science, business, and civilization because it allows knowledge to be exchanged across individuals and generations.* :contentReference[oaicite:0]{index=0}
+> *Communication is the process of creating, sharing, receiving, and interpreting information, ideas, emotions, and meaning between individuals or groups through verbal, nonverbal, written, visual, or digital forms. Effective communication is not merely transmitting information—it is achieving shared understanding. Communication is fundamental to human relationships, learning, cooperation, culture, science, business, and civilization because it allows knowledge to be exchanged across individuals and generations.*
 
 ---
 
@@ -27,7 +27,7 @@ Communication can occur through:
 - Facial expressions
 - Digital media
 
-Communication is more than talking—it is the foundation of human cooperation. :contentReference[oaicite:1]{index=1}
+Communication is more than talking—it is the foundation of human cooperation.
 
 ---
 
@@ -52,7 +52,7 @@ Without communication:
 - Businesses could not operate.
 - Civilizations could not develop.
 
-Communication allows knowledge to accumulate across generations instead of being repeatedly rediscovered. :contentReference[oaicite:2]{index=2}
+Communication allows knowledge to accumulate across generations instead of being repeatedly rediscovered.
 
 ---
 
@@ -60,7 +60,7 @@ Communication allows knowledge to accumulate across generations instead of being
 
 > **How do humans share ideas and build civilizations together?**
 
-Communication enables people to exchange information, create shared understanding, coordinate behavior, and preserve knowledge across time and cultures. :contentReference[oaicite:3]{index=3}
+Communication enables people to exchange information, create shared understanding, coordinate behavior, and preserve knowledge across time and cultures.
 
 ---
 
@@ -72,18 +72,19 @@ Communication enables people to exchange information, create shared understandin
 
 # Components of Communication
 
-```text
-Communication
-      │
- ├── Sender
- ├── Message
- ├── Channel
- ├── Receiver
- ├── Feedback
- └── Noise
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Communication</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Sender</div></div>
+<div class="tree-item"><div class="tree-node">Message</div></div>
+<div class="tree-item"><div class="tree-node">Channel</div></div>
+<div class="tree-item"><div class="tree-node">Receiver</div></div>
+<div class="tree-item"><div class="tree-node">Feedback</div></div>
+<div class="tree-item"><div class="tree-node">Noise</div></div>
+</div>
+</div>
 
-Most communication models include these core elements. :contentReference[oaicite:4]{index=4}
+Most communication models include these core elements.
 
 ---
 
@@ -139,7 +140,7 @@ Examples:
 - Books
 - Television
 
-Different channels are appropriate for different situations. :contentReference[oaicite:5]{index=5}
+Different channels are appropriate for different situations.
 
 ---
 
@@ -171,7 +172,7 @@ Examples:
 - Action
 - Silence
 
-Feedback makes communication a two-way process. :contentReference[oaicite:6]{index=6}
+Feedback makes communication a two-way process.
 
 ---
 
@@ -188,7 +189,7 @@ Examples:
 - Cultural misunderstandings
 - Emotional stress
 
-Reducing noise improves communication quality. :contentReference[oaicite:7]{index=7}
+Reducing noise improves communication quality.
 
 ---
 
@@ -196,21 +197,22 @@ Reducing noise improves communication quality. :contentReference[oaicite:7]{inde
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:176px"><svg width="100%" viewBox="0 0 141 510" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="105.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="70.5" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Sender</text><rect x="18.0" y="90.0" width="105.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="70.5" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Encode</text><rect x="18.0" y="162.0" width="105.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="70.5" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Message</text><rect x="18.0" y="234.0" width="105.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="70.5" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Channel</text><rect x="18.0" y="306.0" width="105.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="70.5" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Receiver</text><rect x="18.0" y="378.0" width="105.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="70.5" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Decode</text><rect x="18.0" y="450.0" width="105.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="70.5" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Feedback</text><line x1="70.5" y1="64.0" x2="70.5" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="70.5" y1="136.0" x2="70.5" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="70.5" y1="208.0" x2="70.5" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="70.5" y1="280.0" x2="70.5" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="70.5" y1="352.0" x2="70.5" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="70.5" y1="424.0" x2="70.5" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Communication succeeds when both parties arrive at sufficiently similar understanding of the message. :contentReference[oaicite:8]{index=8}
+Communication succeeds when both parties arrive at sufficiently similar understanding of the message.
 
 ---
 
 # Types of Communication
 
-```text
-Communication
-      │
- ├── Verbal
- ├── Nonverbal
- ├── Written
- ├── Visual
- └── Digital
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Communication</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Verbal</div></div>
+<div class="tree-item"><div class="tree-node">Nonverbal</div></div>
+<div class="tree-item"><div class="tree-node">Written</div></div>
+<div class="tree-item"><div class="tree-node">Visual</div></div>
+<div class="tree-item"><div class="tree-node">Digital</div></div>
+</div>
+</div>
 
 ---
 
@@ -239,7 +241,7 @@ Examples:
 - Posture
 - Tone of voice
 
-Nonverbal signals often reinforce—or sometimes contradict—spoken words. :contentReference[oaicite:9]{index=9}
+Nonverbal signals often reinforce—or sometimes contradict—spoken words.
 
 ---
 
@@ -303,7 +305,7 @@ Effective communication is:
 - Complete
 - Audience-centered
 
-Understanding the audience improves communication success. :contentReference[oaicite:10]{index=10}
+Understanding the audience improves communication success.
 
 ---
 
@@ -346,15 +348,17 @@ Each technological advance increased the speed, scale, and reach of human commun
 
 Communication is essential for:
 
-- Education
-- Healthcare
-- Business
-- Science
-- Government
-- Leadership
-- Relationships
-- Technology
-- Diplomacy
+<div class="tag-grid">
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Business</span>
+<span class="tag-pill">Science</span>
+<span class="tag-pill">Government</span>
+<span class="tag-pill">Leadership</span>
+<span class="tag-pill">Relationships</span>
+<span class="tag-pill">Technology</span>
+<span class="tag-pill">Diplomacy</span>
+</div>
 
 No complex human activity functions without communication.
 
@@ -366,7 +370,7 @@ No complex human activity functions without communication.
 
 Reality:
 
-Communication includes listening, writing, reading, gestures, symbols, images, and digital media. :contentReference[oaicite:11]{index=11}
+Communication includes listening, writing, reading, gestures, symbols, images, and digital media.
 
 ---
 
@@ -374,7 +378,7 @@ Communication includes listening, writing, reading, gestures, symbols, images, a
 
 Reality:
 
-Communication is successful only when the receiver understands the intended meaning. :contentReference[oaicite:12]{index=12}
+Communication is successful only when the receiver understands the intended meaning.
 
 ---
 
@@ -382,7 +386,7 @@ Communication is successful only when the receiver understands the intended mean
 
 Reality:
 
-Much human communication occurs through nonverbal cues such as facial expressions, posture, and tone of voice. :contentReference[oaicite:13]{index=13}
+Much human communication occurs through nonverbal cues such as facial expressions, posture, and tone of voice.
 
 ---
 
@@ -390,14 +394,15 @@ Much human communication occurs through nonverbal cues such as facial expression
 
 Communication influences:
 
-- Relationships
-- Learning
-- Leadership
-- Mental health
-- Business
-- Politics
-- Science
-- Innovation
+> [!success]
+> - Relationships
+> - Learning
+> - Leadership
+> - Mental health
+> - Business
+> - Politics
+> - Science
+> - Innovation
 
 Nearly every human achievement depends upon effective communication.
 
@@ -412,6 +417,11 @@ Communication transforms individual knowledge into collective intelligence.
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/IndusValleySeals.JPG?width=1200" alt="Indus Valley Civilization seals bearing the undeciphered Indus script">
+<p class="domain-figure-caption">Indus Valley seals bearing one of humanity's earliest and still-undeciphered writing systems — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -478,14 +488,12 @@ Technology continues to reshape how humans communicate while communication drive
 
 It connects:
 
-- [[Language]]
 - [[Culture]]
 - [[Education]]
 - [[Psychology]]
 - [[Business]]
 - [[Politics]]
 - [[Leadership]]
-- [[Technology]]
 
 It demonstrates that communication is the fundamental process that transforms individual minds into connected societies capable of creating science, technology, culture, and civilization.
 
@@ -495,7 +503,6 @@ It demonstrates that communication is the fundamental process that transforms in
 
 ## Depends On
 
-- [[Language]]
 - [[Psychology]]
 - [[Culture]]
 - [[Cognition]]
@@ -505,28 +512,27 @@ It demonstrates that communication is the fundamental process that transforms in
 - [[Education]]
 - [[Business]]
 - [[Politics]]
-- [[Science]]
-- [[Technology]]
 
 ## Related
 
 - [[Leadership]]
-- [[Media]]
 - [[Learning]]
-- [[Society]]
-
-## Next
-
-→ [[Technology]]
 
 ---
 
 # HumanOS Principle
 
-Communication is the process of creating, exchanging, and interpreting meaning through verbal, nonverbal, written, visual, and digital forms. It enables humans to share knowledge, coordinate actions, solve problems, preserve culture, and build civilizations. By transforming individual ideas into shared understanding, communication becomes the foundation of learning, cooperation, innovation, and human progress. :contentReference[oaicite:14]{index=14}
+Communication is the process of creating, exchanging, and interpreting meaning through verbal, nonverbal, written, visual, and digital forms. It enables humans to share knowledge, coordinate actions, solve problems, preserve culture, and build civilizations. By transforming individual ideas into shared understanding, communication becomes the foundation of learning, cooperation, innovation, and human progress.
 
 ---
 
 # Key Insight
 
-> **Communication is civilization's nervous system. Every scientific discovery, law, business, family, culture, and technology depends on the ability of humans to share ideas and build shared understanding. Knowledge only becomes civilization when it can be communicated.** :contentReference[oaicite:15]{index=15}
+> **Communication is civilization's nervous system. Every scientific discovery, law, business, family, culture, and technology depends on the ability of humans to share ideas and build shared understanding. Knowledge only becomes civilization when it can be communicated.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/09-technology--and--engineering/01---engineering" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Engineering</span><span class="os-cta-sub">Engineering is the systematic application of scientific knowledge, mathematics,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

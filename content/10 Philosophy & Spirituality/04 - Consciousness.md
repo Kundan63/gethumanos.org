@@ -1,6 +1,6 @@
 # Consciousness
 
-> *Consciousness is the state of subjective awareness through which an individual experiences the world, the body, and the self. It includes perception, thoughts, emotions, sensations, intentions, and the feeling of being aware. Consciousness is studied across philosophy, neuroscience, psychology, cognitive science, and artificial intelligence, yet its precise nature and origin remain among the greatest unsolved questions in science and philosophy.* :contentReference[oaicite:0]{index=0}
+> *Consciousness is the state of subjective awareness through which an individual experiences the world, the body, and the self. It includes perception, thoughts, emotions, sensations, intentions, and the feeling of being aware. Consciousness is studied across philosophy, neuroscience, psychology, cognitive science, and artificial intelligence, yet its precise nature and origin remain among the greatest unsolved questions in science and philosophy.*
 
 ---
 
@@ -19,7 +19,7 @@ It is what makes it possible to:
 - Make decisions
 - Recognize yourself as existing
 
-Without consciousness, information might still be processed, but there would be **no subjective experience** of that processing. :contentReference[oaicite:1]{index=1}
+Without consciousness, information might still be processed, but there would be **no subjective experience** of that processing.
 
 ---
 
@@ -37,7 +37,7 @@ Consciousness appears to help organisms:
 
 Exactly **why subjective experience exists** remains an open scientific and philosophical question.
 
-Neuroscience has identified many brain processes associated with consciousness, but no consensus yet explains why those processes produce conscious experience. :contentReference[oaicite:2]{index=2}
+Neuroscience has identified many brain processes associated with consciousness, but no consensus yet explains why those processes produce conscious experience.
 
 ---
 
@@ -45,7 +45,7 @@ Neuroscience has identified many brain processes associated with consciousness, 
 
 > **How does physical brain activity produce subjective experience?**
 
-This is often called **the hard problem of consciousness**, distinguishing the challenge of explaining experience itself from explaining behavior or information processing. :contentReference[oaicite:3]{index=3}
+This is often called **the hard problem of consciousness**, distinguishing the challenge of explaining experience itself from explaining behavior or information processing.
 
 ---
 
@@ -57,18 +57,19 @@ This is often called **the hard problem of consciousness**, distinguishing the c
 
 # Components of Consciousness
 
-```text
-Consciousness
-       │
- ├── Awareness
- ├── Perception
- ├── Attention
- ├── Memory
- ├── Thought
- ├── Emotion
- ├── Self
- └── Volition
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Consciousness</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Awareness</div></div>
+<div class="tree-item"><div class="tree-node">Perception</div></div>
+<div class="tree-item"><div class="tree-node">Attention</div></div>
+<div class="tree-item"><div class="tree-node">Memory</div></div>
+<div class="tree-item"><div class="tree-node">Thought</div></div>
+<div class="tree-item"><div class="tree-node">Emotion</div></div>
+<div class="tree-item"><div class="tree-node">Self</div></div>
+<div class="tree-item"><div class="tree-node">Volition</div></div>
+</div>
+</div>
 
 These components interact continuously to produce conscious experience.
 
@@ -199,20 +200,21 @@ Conscious experience continuously integrates information from many brain systems
 
 # States of Consciousness
 
-```text
-Consciousness
-       │
- ├── Wakefulness
- ├── Sleep
- ├── Dreaming
- ├── Meditation
- ├── Altered States
- ├── Anesthesia
- ├── Coma
- └── Minimally Conscious State
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Consciousness</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Wakefulness</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Dreaming</div></div>
+<div class="tree-item"><div class="tree-node">Meditation</div></div>
+<div class="tree-item"><div class="tree-node">Altered States</div></div>
+<div class="tree-item"><div class="tree-node">Anesthesia</div></div>
+<div class="tree-item"><div class="tree-node">Coma</div></div>
+<div class="tree-item"><div class="tree-node">Minimally Conscious State</div></div>
+</div>
+</div>
 
-Consciousness is not simply present or absent—it exists across multiple states with varying degrees of awareness. :contentReference[oaicite:4]{index=4}
+Consciousness is not simply present or absent—it exists across multiple states with varying degrees of awareness.
 
 ---
 
@@ -270,23 +272,24 @@ Modern neuroscience investigates consciousness using:
 - Behavioral experiments
 - Computational models
 
-Researchers seek the **neural correlates of consciousness (NCCs)**—brain activity consistently associated with conscious experience. :contentReference[oaicite:5]{index=5}
+Researchers seek the **neural correlates of consciousness (NCCs)**—brain activity consistently associated with conscious experience.
 
 ---
 
 # Major Scientific Theories
 
-```text
-Consciousness
-       │
- ├── Global Neuronal Workspace Theory
- ├── Integrated Information Theory
- ├── Higher-Order Thought Theories
- ├── Recurrent Processing Theory
- └── Predictive Processing
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Consciousness</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Global Neuronal Workspace Theory</div></div>
+<div class="tree-item"><div class="tree-node">Integrated Information Theory</div></div>
+<div class="tree-item"><div class="tree-node">Higher-Order Thought Theories</div></div>
+<div class="tree-item"><div class="tree-node">Recurrent Processing Theory</div></div>
+<div class="tree-item"><div class="tree-node">Predictive Processing</div></div>
+</div>
+</div>
 
-Multiple theories attempt to explain consciousness, but **no single theory has achieved scientific consensus**. :contentReference[oaicite:6]{index=6}
+Multiple theories attempt to explain consciousness, but **no single theory has achieved scientific consensus**.
 
 ---
 
@@ -324,7 +327,7 @@ Questions include:
 
 **There is currently no scientific evidence that today's AI systems possess subjective conscious experience.**
 
-This remains an open philosophical and scientific question rather than an established fact. :contentReference[oaicite:7]{index=7}
+This remains an open philosophical and scientific question rather than an established fact.
 
 ---
 
@@ -332,14 +335,16 @@ This remains an open philosophical and scientific question rather than an establ
 
 Understanding consciousness contributes to:
 
-- Neuroscience
-- Psychology
-- Medicine
-- Artificial Intelligence
-- Cognitive Science
-- Philosophy
-- Psychiatry
-- Brain injury treatment
+<div class="tag-grid">
+<span class="tag-pill">Neuroscience</span>
+<span class="tag-pill">Psychology</span>
+<span class="tag-pill">Medicine</span>
+<span class="tag-pill">Artificial Intelligence</span>
+<span class="tag-pill">Cognitive Science</span>
+<span class="tag-pill">Philosophy</span>
+<span class="tag-pill">Psychiatry</span>
+<span class="tag-pill">Brain injury treatment</span>
+</div>
 
 ---
 
@@ -361,7 +366,7 @@ The two are related but distinct.
 
 **Reality:**
 
-Many brain mechanisms are understood, but explaining subjective experience remains one of science's greatest unsolved problems. :contentReference[oaicite:8]{index=8}
+Many brain mechanisms are understood, but explaining subjective experience remains one of science's greatest unsolved problems.
 
 ---
 
@@ -379,14 +384,15 @@ Exactly where consciousness begins remains an active area of research.
 
 Consciousness influences:
 
-- Personal identity
-- Learning
-- Decision-making
-- Mental health
-- Ethics
-- Artificial Intelligence
-- Medicine
-- Human relationships
+> [!success]
+> - Personal identity
+> - Learning
+> - Decision-making
+> - Mental health
+> - Ethics
+> - Artificial Intelligence
+> - Medicine
+> - Human relationships
 
 Understanding consciousness helps us better understand ourselves.
 
@@ -461,9 +467,7 @@ Understanding consciousness may shape future intelligent technologies.
 
 It connects:
 
-- [[Neuroscience]]
 - [[Psychology]]
-- [[Biology]]
 - [[Artificial Intelligence]]
 - [[Metaphysics]]
 - [[Mind]]
@@ -478,14 +482,11 @@ It demonstrates that consciousness is where objective biology becomes subjective
 
 ## Depends On
 
-- [[Neuroscience]]
-- [[Biology]]
 - [[Psychology]]
 - [[Philosophy]]
 
 ## Enables
 
-- [[Self-Awareness]]
 - [[Learning]]
 - [[Decision Making]]
 - [[Ethics]]
@@ -498,18 +499,21 @@ It demonstrates that consciousness is where objective biology becomes subjective
 - [[Artificial Intelligence]]
 - [[Meditation]]
 
-## Next
-
-→ [[Comparative Religion]]
-
 ---
 
 # HumanOS Principle
 
-Consciousness is the state of subjective awareness through which organisms experience themselves and the world. It integrates perception, memory, emotion, thought, and self-awareness into a unified experience. Although neuroscience has identified many brain mechanisms associated with consciousness, explaining why and how subjective experience arises remains one of the greatest open questions in science and philosophy. :contentReference[oaicite:9]{index=9}
+Consciousness is the state of subjective awareness through which organisms experience themselves and the world. It integrates perception, memory, emotion, thought, and self-awareness into a unified experience. Although neuroscience has identified many brain mechanisms associated with consciousness, explaining why and how subjective experience arises remains one of the greatest open questions in science and philosophy.
 
 ---
 
 # Key Insight
 
 > **Consciousness is humanity's window into reality. Every thought, emotion, memory, sensation, and decision exists because there is an experiencing subject. Science can increasingly explain the brain's mechanisms, but why those mechanisms give rise to subjective experience remains one of the deepest mysteries of human understanding.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/10-philosophy--and--spirituality/05---comparative-religion" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Comparative Religion</span><span class="os-cta-sub">Comparative Religion is the academic study of the world's religious traditions through...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -17,7 +17,7 @@ Evolution explains:
 - Why different species share similarities.
 - Why all living organisms are connected through common ancestry.
 
-Evolution does **not** explain how life first began. That question belongs to **[[Origin of Life]]**. Evolution begins **after the first living organisms already exist. :contentReference[oaicite:0]{index=0}
+Evolution does **not** explain how life first began. That question belongs to **[[Origin of Life]]**. Evolution begins **after the first living organisms already exist.
 
 ---
 
@@ -36,7 +36,7 @@ Over many generations:
 - Populations gradually change.
 - New species can eventually emerge.
 
-Evolution is therefore the mechanism through which life continually adapts to changing environments. :contentReference[oaicite:1]{index=1}
+Evolution is therefore the mechanism through which life continually adapts to changing environments.
 
 ---
 
@@ -53,7 +53,7 @@ The four primary mechanisms recognized in modern evolutionary biology are:
 - Genetic Drift
 - Gene Flow
 
-Together they explain how populations change through time. :contentReference[oaicite:2]{index=2}
+Together they explain how populations change through time.
 
 ---
 
@@ -61,36 +61,48 @@ Together they explain how populations change through time. :contentReference[oai
 
 Evolution connects every living organism through one continuous history.
 
-```text
-First Living Cells
-         │
-         ▼
- Single-Celled Life
-         │
-         ▼
- Photosynthetic Organisms
-         │
-         ▼
- Complex Cells
-         │
-         ▼
- Multicellular Life
-         │
-         ▼
- Plants • Animals • Fungi
-         │
-         ▼
- Mammals
-         │
-         ▼
- Primates
-         │
-         ▼
- Humans
-         │
-         ▼
- Science Understanding Evolution
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">First Living Cells</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Single-Celled Life</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Photosynthetic Organisms</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Complex Cells</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Multicellular Life</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Plants, Animals, Fungi</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Mammals</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">8</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Primates</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">9</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Humans</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">10</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Science Understanding Evolution</span></div>
+</div>
+</div>
 
 One of evolution's most remarkable outcomes is that **life has evolved organisms capable of studying their own origins.**
 
@@ -110,63 +122,38 @@ Evolution is not just about ancient fossils.
 
 It explains:
 
-- Why antibiotics become less effective.
-- Why viruses change over time.
-- Why humans inherit genetic traits.
-- Why biodiversity exists.
-- Why some diseases affect populations differently.
-- Why crops and livestock can be improved.
-- Why humans share many biological features with other organisms.
+> [!success]
+> - Why antibiotics become less effective.
+> - Why viruses change over time.
+> - Why humans inherit genetic traits.
+> - Why biodiversity exists.
+> - Why some diseases affect populations differently.
+> - Why crops and livestock can be improved.
+> - Why humans share many biological features with other organisms.
 
-Understanding evolution helps improve medicine, agriculture, conservation, and biotechnology. It also provides the unifying framework of modern biology. :contentReference[oaicite:3]{index=3}
+Understanding evolution helps improve medicine, agriculture, conservation, and biotechnology. It also provides the unifying framework of modern biology.
 
 ---
 
 # Daily Life Examples
 
-### 🦠 Antibiotic Resistance
-
-Some bacteria survive antibiotic treatment because of inherited genetic variations.
-
-These bacteria reproduce, making resistant populations more common.
-
-Evolution is occurring today.
-
----
-
-### 💉 Viruses
-
-Viruses such as influenza continuously evolve, which is one reason vaccines may need periodic updates.
-
----
-
-### 🌾 Crop Improvement
-
-Selective breeding applies evolutionary principles to produce crops that are more productive, nutritious, or resistant to disease.
-
----
-
-### 🐕 Domestic Dogs
-
-All dog breeds descend from wolves.
-
-Thousands of years of selective breeding have produced enormous diversity from a common ancestor.
-
----
-
-### 🧬 Human Genetics
-
-Many inherited characteristics—including eye colour, lactose tolerance, and susceptibility to certain diseases—reflect our evolutionary history.
-
----
-
-### 🌍 Biodiversity
-
-Millions of species occupy different ecological niches because evolution allows populations to adapt to different environments over long periods.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🦠</span><span class="os-card-title">Antibiotic Resistance</span><span class="os-card-desc">Some bacteria survive antibiotic treatment because of inherited genetic variations. These bacteria reproduce, making resistant populations more common. Evolution is occurring today.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">💉</span><span class="os-card-title">Viruses</span><span class="os-card-desc">Viruses such as influenza continuously evolve, which is one reason vaccines may need periodic updates.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌾</span><span class="os-card-title">Crop Improvement</span><span class="os-card-desc">Selective breeding applies evolutionary principles to produce crops that are more productive, nutritious, or resistant to disease.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🐕</span><span class="os-card-title">Domestic Dogs</span><span class="os-card-desc">All dog breeds descend from wolves. Thousands of years of selective breeding have produced enormous diversity from a common ancestor.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🧬</span><span class="os-card-title">Human Genetics</span><span class="os-card-desc">Many inherited characteristics—including eye colour, lactose tolerance, and susceptibility to certain diseases—reflect our evolutionary history.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌍</span><span class="os-card-title">Biodiversity</span><span class="os-card-desc">Millions of species occupy different ecological niches because evolution allows populations to adapt to different environments over long periods.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Rajasaurus_skull_pieces_01.jpg?width=1200" alt="Fossil skull fragments of Rajasaurus narmadensis, a dinosaur species discovered in the Narmada Valley of Gujarat, India">
+<p class="domain-figure-caption">Fossil skull pieces of Rajasaurus narmadensis, unearthed in Gujarat, India — evidence of life's long evolutionary record — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -367,20 +354,17 @@ It provides the foundation for [[Cell Biology]], [[Genetics]], [[Microbiology]],
 
 ## Related
 
-- [[Natural Selection]]
-- [[Adaptation]]
-- [[Speciation]]
-- [[Common Ancestry]]
-- [[DNA]]
-
----
-
-## Next
-
-→ [[Cell Biology]]
+None.
 
 ---
 
 # Key Insight
 
 > **Evolution is the story of life adapting through time. From the first simple cells to the extraordinary diversity of plants, animals, and humans, every living organism is part of one continuous evolutionary history. Understanding evolution helps us explain our bodies, improve medicine, protect biodiversity, advance biotechnology, and recognize that humanity is one branch of Earth's vast and interconnected tree of life.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/04-life-sciences/03---cell-biology" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Cell Biology</span><span class="os-cta-sub">Cell Biology explains how life works at its most fundamental level. It reveals how...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

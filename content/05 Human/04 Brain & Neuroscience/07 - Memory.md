@@ -1,6 +1,6 @@
 # Memory
 
-> *Memory is the brain's ability to encode, store, and retrieve information from past experience. It allows humans to learn from the past, act in the present, and plan for the future. Without memory there would be no knowledge, no personal identity, no language, no culture, and no civilization. Memory is not simply the storage of information—it is the biological foundation of learning, intelligence, and human experience.* :contentReference[oaicite:0]{index=0}
+> *Memory is the brain's ability to encode, store, and retrieve information from past experience. It allows humans to learn from the past, act in the present, and plan for the future. Without memory there would be no knowledge, no personal identity, no language, no culture, and no civilization. Memory is not simply the storage of information—it is the biological foundation of learning, intelligence, and human experience.*
 
 ---
 
@@ -23,7 +23,7 @@ Without memory:
 - Relationships could not exist.
 - Personal identity would disappear.
 
-Memory is therefore one of the defining characteristics of intelligent life. :contentReference[oaicite:1]{index=1}
+Memory is therefore one of the defining characteristics of intelligent life.
 
 ---
 
@@ -40,7 +40,7 @@ Instead of solving the same problem repeatedly, memory allows the brain to:
 - Predict future events.
 - Build knowledge over a lifetime.
 
-Evolution favored memory because organisms that remembered useful information were more likely to survive and reproduce. :contentReference[oaicite:2]{index=2}
+Evolution favored memory because organisms that remembered useful information were more likely to survive and reproduce.
 
 ---
 
@@ -52,7 +52,7 @@ It is a continuous process.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:182px"><svg width="100%" viewBox="0 0 182 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="145.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="90.8" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Experience</text><rect x="18.0" y="90.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Encoding</text><rect x="18.0" y="162.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Storage</text><rect x="18.0" y="234.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Consolidation</text><rect x="18.0" y="306.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Retrieval</text><rect x="18.0" y="378.0" width="145.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="90.8" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Behaviour</text><line x1="90.8" y1="64.0" x2="90.8" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="136.0" x2="90.8" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="208.0" x2="90.8" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="280.0" x2="90.8" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="352.0" x2="90.8" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Each stage depends on coordinated activity across multiple brain regions, particularly the hippocampus, cerebral cortex, and prefrontal cortex. :contentReference[oaicite:3]{index=3}
+Each stage depends on coordinated activity across multiple brain regions, particularly the hippocampus, cerebral cortex, and prefrontal cortex.
 
 ---
 
@@ -64,23 +64,26 @@ Memory begins with attention.
 
 Information that is ignored is rarely stored.
 
-Information that is meaningful, repeated, or emotionally significant is more likely to become long-term memory. :contentReference[oaicite:4]{index=4}
+Information that is meaningful, repeated, or emotionally significant is more likely to become long-term memory.
 
 ---
 
 # Types of Memory
 
-```text
-                  Memory
-                     │
-      ┌──────────────┼───────────────┐
-      ▼              ▼               ▼
- Sensory       Working Memory   Long-Term Memory
-                                     │
-                       ┌─────────────┴─────────────┐
-                       ▼                           ▼
-                Declarative               Non-Declarative
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Memory</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Sensory</div></div>
+<div class="tree-item"><div class="tree-node">Working Memory</div></div>
+<div class="tree-item">
+<div class="tree-node">Long-Term Memory</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Declarative</div></div>
+<div class="tree-item"><div class="tree-node">Non-Declarative</div></div>
+</div>
+</div>
+</div>
+</div>
 
 ---
 
@@ -94,7 +97,7 @@ Examples:
 - Sounds
 - Touch sensations
 
-It allows the brain to briefly retain information before deciding what deserves attention. :contentReference[oaicite:5]{index=5}
+It allows the brain to briefly retain information before deciding what deserves attention.
 
 ---
 
@@ -109,7 +112,7 @@ Examples:
 - Reading a sentence
 - Holding a phone number briefly
 
-It depends strongly on the prefrontal cortex. :contentReference[oaicite:6]{index=6}
+It depends strongly on the prefrontal cortex.
 
 ---
 
@@ -117,19 +120,19 @@ It depends strongly on the prefrontal cortex. :contentReference[oaicite:6]{index
 
 Stores information from hours to an entire lifetime.
 
-Unlike working memory, long-term memory has an enormous capacity and is distributed across widespread neural networks rather than one storage location. :contentReference[oaicite:7]{index=7}
+Unlike working memory, long-term memory has an enormous capacity and is distributed across widespread neural networks rather than one storage location.
 
 ---
 
 # Long-Term Memory
 
-```text
-         Long-Term Memory
-                │
-      ┌─────────┴──────────┐
-      ▼                    ▼
-Declarative         Non-Declarative
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Long-Term Memory</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Declarative</div></div>
+<div class="tree-item"><div class="tree-node">Non-Declarative</div></div>
+</div>
+</div>
 
 ---
 
@@ -154,7 +157,7 @@ Examples:
 - The capital of Japan
 - Your graduation day
 
-The hippocampus plays a key role in forming many declarative memories. :contentReference[oaicite:8]{index=8}
+The hippocampus plays a key role in forming many declarative memories.
 
 ---
 
@@ -176,7 +179,7 @@ Examples:
 - Swimming
 - Playing piano
 
-These memories rely heavily on structures such as the basal ganglia and cerebellum. :contentReference[oaicite:9]{index=9}
+These memories rely heavily on structures such as the basal ganglia and cerebellum.
 
 ---
 
@@ -186,7 +189,7 @@ These memories rely heavily on structures such as the basal ganglia and cerebell
 
 New experiences are initially processed through the **hippocampus**.
 
-Over time, repeated activation and consolidation strengthen widespread cortical networks, making memories more stable. Sleep plays a major role in this process. :contentReference[oaicite:10]{index=10}
+Over time, repeated activation and consolidation strengthen widespread cortical networks, making memories more stable. Sleep plays a major role in this process.
 
 ---
 
@@ -206,7 +209,7 @@ Different aspects of one memory may involve:
 - Language areas
 - Motor regions
 
-Remembering reactivates parts of the original neural network. :contentReference[oaicite:11]{index=11}
+Remembering reactivates parts of the original neural network.
 
 ---
 
@@ -224,14 +227,15 @@ Everything you know depends on memory.
 
 Memory allows you to:
 
-- Recognize your family.
-- Learn languages.
-- Build friendships.
-- Develop expertise.
-- Solve problems.
-- Drive safely.
-- Understand history.
-- Build civilization.
+> [!success]
+> - Recognize your family.
+> - Learn languages.
+> - Build friendships.
+> - Develop expertise.
+> - Solve problems.
+> - Drive safely.
+> - Understand history.
+> - Build civilization.
 
 Memory also shapes your identity.
 
@@ -245,7 +249,7 @@ Your memories help define **who you are**.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:222px"><svg width="100%" viewBox="0 0 222 366" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="186.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="111.1" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Study</text><rect x="18.0" y="90.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Encoding</text><rect x="18.0" y="162.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Sleep</text><rect x="18.0" y="234.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Consolidation</text><rect x="18.0" y="306.0" width="186.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="111.1" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Recall During Exam</text><line x1="111.1" y1="64.0" x2="111.1" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="136.0" x2="111.1" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="208.0" x2="111.1" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="280.0" x2="111.1" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Learning becomes durable when information is encoded, consolidated, and successfully retrieved. :contentReference[oaicite:12]{index=12}
+Learning becomes durable when information is encoded, consolidated, and successfully retrieved.
 
 ---
 
@@ -283,7 +287,7 @@ During sleep the brain:
 - Strengthens important neural connections.
 - Integrates new knowledge with existing knowledge.
 
-Sleep is therefore an essential part of learning, not simply rest. :contentReference[oaicite:13]{index=13}
+Sleep is therefore an essential part of learning, not simply rest.
 
 ---
 
@@ -299,32 +303,28 @@ The brain does not attempt to remember everything.
 
 Instead, it prioritizes information that is meaningful, emotionally important, or frequently used.
 
-Forgetting helps reduce unnecessary information and improves efficient decision-making. :contentReference[oaicite:14]{index=14}
+Forgetting helps reduce unnecessary information and improves efficient decision-making.
 
 ---
 
 # Human Health Connections
 
-```text
-               Memory Health
-                     ▲
-                     │
- ┌───────────────────┼───────────────────┐
- │                   │                   │
-Learning      Physical Activity     Sleep
- │                   │                   │
- ├───────────────────┼───────────────────┤
- │                   │                   │
-Nutrition      Stress        Social Interaction
- │                   │                   │
- ├───────────────────┼───────────────────┤
- │                   │                   │
-Brain Health    Aging      Neuroplasticity
- │                   │                   │
- └───────────────────┼───────────────────┘
-                     │
-             Healthy Memory
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Memory Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Physical Activity</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Social Interaction</div></div>
+<div class="tree-item"><div class="tree-node">Brain Health</div></div>
+<div class="tree-item"><div class="tree-node">Aging</div></div>
+<div class="tree-item"><div class="tree-node">Neuroplasticity</div></div>
+</div>
+</div>
+
+Healthy Memory
 
 Healthy memory depends on healthy neurons, healthy synapses, healthy sleep, healthy blood flow, and continual learning.
 
@@ -341,7 +341,7 @@ Healthy memory depends on healthy neurons, healthy synapses, healthy sleep, heal
 | Amnesia | Inability to form or retrieve memories |
 | Depression | Reduced attention and memory performance |
 
-Different disorders affect different types of memory depending on the brain regions involved. :contentReference[oaicite:15]{index=15}
+Different disorders affect different types of memory depending on the brain regions involved.
 
 ---
 
@@ -354,6 +354,11 @@ Memory depends on the health of the entire brain.
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/16th_century_Vedas_palm_leaf_manuscript,_Malayalam_Script,_Sanskrit,_Kerala.jpg?width=1200" alt="A 16th-century palm-leaf manuscript of the Vedas in Malayalam script and Sanskrit from Kerala, India, part of a tradition that preserved vast bodies of knowledge through memorization and manuscript copying">
+<p class="domain-figure-caption">16th-century Vedic palm-leaf manuscript from Kerala — India's ancient tradition of memory and knowledge preservation, via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -448,7 +453,7 @@ Understanding, explaining, and applying information creates stronger memories th
 
 ### 🔁 Use Spaced Repetition
 
-Reviewing information over increasing intervals strengthens long-term retention more effectively than cramming. :contentReference[oaicite:16]{index=16}
+Reviewing information over increasing intervals strengthens long-term retention more effectively than cramming.
 
 ---
 
@@ -512,25 +517,13 @@ Understanding memory prepares us to explore:
 ## Enables
 
 - [[Learning]]
-- [[Language]]
 - [[Decision Making]]
-- [[Knowledge]]
 
 ---
 
 ## Related
 
-- [[Working Memory]]
-- [[Long-Term Memory]]
-- [[Hippocampus]]
 - [[Sleep]]
-- [[Attention]]
-
----
-
-## Next
-
-→ [[Learning]]
 
 ---
 
@@ -546,4 +539,11 @@ Through memory, every experience becomes an opportunity for growth.
 
 # Key Insight
 
-> **Memory is the brain's ability to encode, store, consolidate, and retrieve information from experience. By transforming moments into lasting knowledge, memories enable learning, identity, decision-making, relationships, culture, and civilization. Understanding memory reveals that every skill we master, every lesson we learn, and every meaningful relationship we build is made possible by the brain's extraordinary ability to preserve and reconstruct experience.** :contentReference[oaicite:17]{index=17}
+> **Memory is the brain's ability to encode, store, consolidate, and retrieve information from experience. By transforming moments into lasting knowledge, memories enable learning, identity, decision-making, relationships, culture, and civilization. Understanding memory reveals that every skill we master, every lesson we learn, and every meaningful relationship we build is made possible by the brain's extraordinary ability to preserve and reconstruct experience.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/07-mind/03---learning" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Learning</span><span class="os-cta-sub">Learning is a relatively permanent change in knowledge or behavior that results from...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

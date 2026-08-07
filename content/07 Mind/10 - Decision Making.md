@@ -1,6 +1,6 @@
 # Decision Making
 
-> *Decision making is the cognitive process of evaluating alternatives and selecting a course of action to achieve a goal. It integrates perception, attention, memory, reasoning, emotions, values, experience, and expected outcomes. Decision making ranges from fast, automatic judgments to slow, deliberate analysis. Because humans often face uncertainty and limited information, decisions are influenced not only by logic but also by heuristics, cognitive biases, emotions, and social factors.* :contentReference[oaicite:0]{index=0}
+> *Decision making is the cognitive process of evaluating alternatives and selecting a course of action to achieve a goal. It integrates perception, attention, memory, reasoning, emotions, values, experience, and expected outcomes. Decision making ranges from fast, automatic judgments to slow, deliberate analysis. Because humans often face uncertainty and limited information, decisions are influenced not only by logic but also by heuristics, cognitive biases, emotions, and social factors.*
 
 ---
 
@@ -23,7 +23,7 @@ Some decisions are automatic.
 
 Others require careful analysis.
 
-Decision making transforms knowledge into action. :contentReference[oaicite:1]{index=1}
+Decision making transforms knowledge into action.
 
 ---
 
@@ -41,7 +41,7 @@ Examples:
 
 Organisms that consistently made better decisions had a greater chance of surviving and reproducing.
 
-Decision making evolved because selecting effective actions improves adaptation to changing environments. :contentReference[oaicite:2]{index=2}
+Decision making evolved because selecting effective actions improves adaptation to changing environments.
 
 ---
 
@@ -60,7 +60,7 @@ Decision making combines:
 - Values
 - Experience
 
-The brain evaluates available information and predicts likely outcomes before selecting an action. :contentReference[oaicite:3]{index=3}
+The brain evaluates available information and predicts likely outcomes before selecting an action.
 
 ---
 
@@ -72,24 +72,20 @@ The brain evaluates available information and predicts likely outcomes before se
 
 # Components of Decision Making
 
-```text
-Decision Making
-       │
- ┌─────┼─────────────┬─────────────┐
- ▼     ▼             ▼             ▼
-Perception
-Memory
-Reasoning
-Emotion
- │
- ├────────────┬─────────────┬─────────────┐
- ▼            ▼             ▼
-Goals
-Values
-Experience
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Decision Making</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Perception</div></div>
+<div class="tree-item"><div class="tree-node">Memory</div></div>
+<div class="tree-item"><div class="tree-node">Reasoning</div></div>
+<div class="tree-item"><div class="tree-node">Emotion</div></div>
+<div class="tree-item"><div class="tree-node">Goals</div></div>
+<div class="tree-item"><div class="tree-node">Values</div></div>
+<div class="tree-item"><div class="tree-node">Experience</div></div>
+</div>
+</div>
 
-Effective decisions emerge from the interaction of multiple cognitive processes rather than from logic alone. :contentReference[oaicite:4]{index=4}
+Effective decisions emerge from the interaction of multiple cognitive processes rather than from logic alone.
 
 ---
 
@@ -135,7 +131,7 @@ Examples:
 - Joy encourages approach.
 - Guilt influences ethical choices.
 
-Healthy decision making balances emotional information with logical analysis. :contentReference[oaicite:5]{index=5}
+Healthy decision making balances emotional information with logical analysis.
 
 ---
 
@@ -153,16 +149,17 @@ The "best" decision depends partly on what the decision-maker is trying to achie
 
 # Types of Decisions
 
-```text
-Decision Making
-      │
- ├── Automatic
- ├── Deliberate
- ├── Individual
- ├── Group
- ├── Routine
- └── Strategic
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Decision Making</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Automatic</div></div>
+<div class="tree-item"><div class="tree-node">Deliberate</div></div>
+<div class="tree-item"><div class="tree-node">Individual</div></div>
+<div class="tree-item"><div class="tree-node">Group</div></div>
+<div class="tree-item"><div class="tree-node">Routine</div></div>
+<div class="tree-item"><div class="tree-node">Strategic</div></div>
+</div>
+</div>
 
 ---
 
@@ -239,7 +236,7 @@ Examples:
 - Choosing a familiar brand
 - Following expert recommendations
 
-Heuristics increase speed but can sometimes reduce accuracy. :contentReference[oaicite:6]{index=6}
+Heuristics increase speed but can sometimes reduce accuracy.
 
 ---
 
@@ -256,7 +253,7 @@ Common biases include:
 - Overconfidence
 - Loss aversion
 
-Biases help simplify complex decisions but can also lead to systematic mistakes. :contentReference[oaicite:7]{index=7}
+Biases help simplify complex decisions but can also lead to systematic mistakes.
 
 ---
 
@@ -286,7 +283,7 @@ Emotions influence:
 - Moral judgment
 - Social decisions
 
-Neither emotion nor logic alone is sufficient; effective decisions usually require both. :contentReference[oaicite:8]{index=8}
+Neither emotion nor logic alone is sufficient; effective decisions usually require both.
 
 ---
 
@@ -321,7 +318,7 @@ Evidence-based approaches include:
 - Seek diverse perspectives.
 - Reflect on previous outcomes.
 
-Decision quality often improves through deliberate reflection and learning. :contentReference[oaicite:9]{index=9}
+Decision quality often improves through deliberate reflection and learning.
 
 ---
 
@@ -329,14 +326,16 @@ Decision quality often improves through deliberate reflection and learning. :con
 
 Understanding decision making improves:
 
-- Healthcare
-- Education
-- Leadership
-- Business
-- Engineering
-- Public policy
-- Artificial intelligence
-- Personal finance
+<div class="tag-grid">
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Leadership</span>
+<span class="tag-pill">Business</span>
+<span class="tag-pill">Engineering</span>
+<span class="tag-pill">Public policy</span>
+<span class="tag-pill">Artificial intelligence</span>
+<span class="tag-pill">Personal finance</span>
+</div>
 
 ---
 
@@ -354,7 +353,7 @@ A well-reasoned decision can still produce a poor outcome because chance and unc
 
 Reality:
 
-Human decisions are influenced by emotions, habits, heuristics, and biases as well as logic. :contentReference[oaicite:10]{index=10}
+Human decisions are influenced by emotions, habits, heuristics, and biases as well as logic.
 
 ---
 
@@ -372,14 +371,15 @@ Every aspect of life depends on decisions.
 
 Decision making influences:
 
-- Health
-- Relationships
-- Career
-- Wealth
-- Safety
-- Leadership
-- Happiness
-- Society
+> [!success]
+> - Health
+> - Relationships
+> - Career
+> - Wealth
+> - Safety
+> - Leadership
+> - Happiness
+> - Society
 
 The quality of decisions often determines the quality of life.
 
@@ -484,30 +484,29 @@ It demonstrates that understanding reality is valuable only when it improves the
 
 ## Enables
 
-- [[Problem Solving]]
 - [[Critical Thinking]]
 - [[Leadership]]
-- [[Personal Development]]
 
 ## Related
 
 - [[Habits]]
 - [[Behaviour]]
-- [[Risk]]
-- [[Behavioral Economics]]
-
-## Next
-
-→ [[Society & Civilization]]
 
 ---
 
 # HumanOS Principle
 
-Decision making is the cognitive process of selecting actions by integrating perception, memory, reasoning, emotions, values, goals, and experience. Because humans operate under uncertainty and limited information, decisions rely on both analytical thinking and mental shortcuts. Understanding how decisions are made—and how biases, emotions, and evidence influence them—enables individuals to make wiser choices, solve complex problems, and improve personal and societal outcomes. :contentReference[oaicite:11]{index=11}
+Decision making is the cognitive process of selecting actions by integrating perception, memory, reasoning, emotions, values, goals, and experience. Because humans operate under uncertainty and limited information, decisions rely on both analytical thinking and mental shortcuts. Understanding how decisions are made—and how biases, emotions, and evidence influence them—enables individuals to make wiser choices, solve complex problems, and improve personal and societal outcomes.
 
 ---
 
 # Key Insight
 
-> **Decision making is the bridge between thought and action. Every lesson learned, every memory stored, every emotion felt, and every piece of knowledge gained ultimately matters because it shapes the choices we make. By improving decision making, humans improve the direction of their own lives and the future of civilization.** :contentReference[oaicite:12]{index=12}
+> **Decision making is the bridge between thought and action. Every lesson learned, every memory stored, every emotion felt, and every piece of knowledge gained ultimately matters because it shapes the choices we make. By improving decision making, humans improve the direction of their own lives and the future of civilization.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/08-society--and--civilisation/00---readme" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Society & Civilization</span><span class="os-cta-sub">Society is what happens when humans stop going it alone — the organized web of...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

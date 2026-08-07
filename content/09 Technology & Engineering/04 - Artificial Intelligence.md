@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-> *Artificial Intelligence (AI) is the field of computing that develops systems capable of performing tasks that normally require human intelligence, such as learning, reasoning, perception, language understanding, planning, decision-making, and problem-solving. Modern AI systems learn patterns from data and use those patterns to generate predictions, recommendations, decisions, or new content, enabling computers to assist humans in increasingly complex cognitive tasks.* :contentReference[oaicite:0]{index=0}
+> *Artificial Intelligence (AI) is the field of computing that develops systems capable of performing tasks that normally require human intelligence, such as learning, reasoning, perception, language understanding, planning, decision-making, and problem-solving. Modern AI systems learn patterns from data and use those patterns to generate predictions, recommendations, decisions, or new content, enabling computers to assist humans in increasingly complex cognitive tasks.*
 
 ---
 
@@ -18,7 +18,7 @@ Rather than following only fixed instructions, AI systems can:
 - Generate content
 - Support decision-making
 
-AI extends computing from simply **executing instructions** to **making informed decisions based on data and experience.** :contentReference[oaicite:1]{index=1}
+AI extends computing from simply **executing instructions** to **making informed decisions based on data and experience.**
 
 ---
 
@@ -38,7 +38,7 @@ AI exists because it helps humans:
 - Personalize services
 - Increase productivity
 
-AI is designed to **augment human intelligence**, not merely replace manual work. :contentReference[oaicite:2]{index=2}
+AI is designed to **augment human intelligence**, not merely replace manual work.
 
 ---
 
@@ -58,18 +58,19 @@ Artificial Intelligence answers this by combining algorithms, data, computationa
 
 # Components of Artificial Intelligence
 
-```text
-Artificial Intelligence
-        │
- ├── Data
- ├── Algorithms
- ├── Models
- ├── Learning
- ├── Reasoning
- ├── Perception
- ├── Language
- └── Decision Making
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Artificial Intelligence</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Data</div></div>
+<div class="tree-item"><div class="tree-node">Algorithms</div></div>
+<div class="tree-item"><div class="tree-node">Models</div></div>
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Reasoning</div></div>
+<div class="tree-item"><div class="tree-node">Perception</div></div>
+<div class="tree-item"><div class="tree-node">Language</div></div>
+<div class="tree-item"><div class="tree-node">Decision Making</div></div>
+</div>
+</div>
 
 Each component contributes to making AI systems capable of intelligent behavior.
 
@@ -146,7 +147,7 @@ Learns through interaction using rewards and penalties.
 
 Learns useful representations from large amounts of unlabeled data.
 
-Learning enables AI systems to improve performance without explicitly programming every rule. :contentReference[oaicite:3]{index=3}
+Learning enables AI systems to improve performance without explicitly programming every rule.
 
 ---
 
@@ -218,18 +219,19 @@ AI systems require ongoing monitoring because data, environments, and user needs
 
 # Major Areas of Artificial Intelligence
 
-```text
-Artificial Intelligence
-        │
- ├── Machine Learning
- ├── Deep Learning
- ├── Computer Vision
- ├── Natural Language Processing
- ├── Robotics AI
- ├── Expert Systems
- ├── Knowledge Representation
- └── Reinforcement Learning
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Artificial Intelligence</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Machine Learning</div></div>
+<div class="tree-item"><div class="tree-node">Deep Learning</div></div>
+<div class="tree-item"><div class="tree-node">Computer Vision</div></div>
+<div class="tree-item"><div class="tree-node">Natural Language Processing</div></div>
+<div class="tree-item"><div class="tree-node">Robotics AI</div></div>
+<div class="tree-item"><div class="tree-node">Expert Systems</div></div>
+<div class="tree-item"><div class="tree-node">Knowledge Representation</div></div>
+<div class="tree-item"><div class="tree-node">Reinforcement Learning</div></div>
+</div>
+</div>
 
 ---
 
@@ -333,13 +335,14 @@ Applications:
 
 # Types of AI
 
-```text
-Artificial Intelligence
-        │
- ├── Narrow AI (ANI)
- ├── General AI (AGI - hypothetical)
- └── Superintelligence (hypothetical)
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Artificial Intelligence</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Narrow AI (ANI)</div></div>
+<div class="tree-item"><div class="tree-node">General AI (AGI - hypothetical)</div></div>
+<div class="tree-item"><div class="tree-node">Superintelligence (hypothetical)</div></div>
+</div>
+</div>
 
 ### Narrow AI (ANI)
 
@@ -352,7 +355,7 @@ Examples:
 - Recommendation systems
 - Medical image analysis
 
-Nearly all AI used today is Narrow AI. :contentReference[oaicite:4]{index=4}
+Nearly all AI used today is Narrow AI.
 
 ---
 
@@ -360,7 +363,7 @@ Nearly all AI used today is Narrow AI. :contentReference[oaicite:4]{index=4}
 
 A hypothetical form of AI capable of learning and performing virtually any intellectual task that humans can perform.
 
-AGI has **not been achieved**. :contentReference[oaicite:5]{index=5}
+AGI has **not been achieved**.
 
 ---
 
@@ -376,16 +379,18 @@ This remains speculative rather than an existing technology.
 
 Artificial Intelligence is used in:
 
-- Healthcare
-- Education
-- Finance
-- Agriculture
-- Manufacturing
-- Transportation
-- Scientific Research
-- Cybersecurity
-- Climate Modeling
-- Space Exploration
+<div class="tag-grid">
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Finance</span>
+<span class="tag-pill">Agriculture</span>
+<span class="tag-pill">Manufacturing</span>
+<span class="tag-pill">Transportation</span>
+<span class="tag-pill">Scientific Research</span>
+<span class="tag-pill">Cybersecurity</span>
+<span class="tag-pill">Climate Modeling</span>
+<span class="tag-pill">Space Exploration</span>
+</div>
 
 ---
 
@@ -402,7 +407,7 @@ AI also introduces important challenges:
 - Misinformation
 - Responsible governance
 
-Developing trustworthy AI requires technical, legal, and ethical safeguards. :contentReference[oaicite:6]{index=6}
+Developing trustworthy AI requires technical, legal, and ethical safeguards.
 
 ---
 
@@ -436,7 +441,7 @@ AI includes vision systems, robotics, planning, recommendation systems, scientif
 
 **Reality:**
 
-Current AI systems are highly capable but remain specialized rather than generally intelligent. :contentReference[oaicite:7]{index=7}
+Current AI systems are highly capable but remain specialized rather than generally intelligent.
 
 ---
 
@@ -444,15 +449,16 @@ Current AI systems are highly capable but remain specialized rather than general
 
 Artificial Intelligence influences:
 
-- Healthcare
-- Education
-- Employment
-- Scientific discovery
-- Transportation
-- Communication
-- Creativity
-- Business
-- National security
+> [!success]
+> - Healthcare
+> - Education
+> - Employment
+> - Scientific discovery
+> - Transportation
+> - Communication
+> - Creativity
+> - Business
+> - National security
 
 Understanding AI helps people use it responsibly, recognize its strengths and limitations, and make informed decisions about its role in society.
 
@@ -532,11 +538,8 @@ It connects:
 
 - [[Computing]]
 - [[Mathematics]]
-- [[Algorithms]]
-- [[Data Science]]
 - [[Robotics]]
 - [[Internet]]
-- [[Neuroscience]]
 - [[Ethics]]
 
 It demonstrates that AI is the next stage in computing, enabling machines not only to calculate, but also to learn, perceive, reason, and assist humans in solving increasingly complex problems.
@@ -549,36 +552,30 @@ It demonstrates that AI is the next stage in computing, enabling machines not on
 
 - [[Computing]]
 - [[Mathematics]]
-- [[Algorithms]]
-- [[Data]]
 
 ## Enables
 
 - [[Robotics]]
-- [[Autonomous Systems]]
-- [[Computer Vision]]
-- [[Natural Language Processing]]
-- [[Scientific Discovery]]
 
 ## Related
 
-- [[Machine Learning]]
-- [[Deep Learning]]
-- [[Data Science]]
 - [[Ethics]]
-
-## Next
-
-→ [[Internet]]
 
 ---
 
 # HumanOS Principle
 
-Artificial Intelligence is the branch of computing that develops systems capable of learning from data, recognizing patterns, reasoning, making predictions, and assisting human decision-making. By combining algorithms, data, and computational power, AI extends human cognitive capabilities and is becoming a foundational technology across science, medicine, engineering, business, and society. :contentReference[oaicite:8]{index=8}
+Artificial Intelligence is the branch of computing that develops systems capable of learning from data, recognizing patterns, reasoning, making predictions, and assisting human decision-making. By combining algorithms, data, and computational power, AI extends human cognitive capabilities and is becoming a foundational technology across science, medicine, engineering, business, and society.
 
 ---
 
 # Key Insight
 
 > **Artificial Intelligence is humanity's cognitive amplifier. Just as engines multiplied physical power and computers multiplied calculation, AI multiplies our ability to recognize patterns, make predictions, generate knowledge, and solve complex problems. Its greatest value lies not in replacing human intelligence, but in extending it.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/09-technology--and--engineering/05---internet" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Internet</span><span class="os-cta-sub">The Internet is the global system of interconnected computer networks that communicate...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

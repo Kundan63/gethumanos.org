@@ -1,6 +1,6 @@
 # Relationships
 
-> **Relationships are the network of human connections through which people survive, learn, love, cooperate, grow, and contribute to society.** Healthy relationships provide belonging, trust, emotional support, practical assistance, and opportunities for personal development. They are among the strongest predictors of long-term health, resilience, life satisfaction, and human flourishing. Relationships are not simply a social preference—they are a biological, psychological, and evolutionary necessity. :contentReference[oaicite:0]{index=0}
+> **Relationships are the network of human connections through which people survive, learn, love, cooperate, grow, and contribute to society.** Healthy relationships provide belonging, trust, emotional support, practical assistance, and opportunities for personal development. They are among the strongest predictors of long-term health, resilience, life satisfaction, and human flourishing. Relationships are not simply a social preference—they are a biological, psychological, and evolutionary necessity.
 
 ---
 
@@ -54,7 +54,7 @@ Strong relationships increase human capability.
 
 Weak relationships increase isolation, conflict, and suffering.
 
-Social connection is now recognized as a major determinant of both physical and mental health. :contentReference[oaicite:1]{index=1}
+Social connection is now recognized as a major determinant of both physical and mental health.
 
 ---
 
@@ -93,19 +93,20 @@ They exist across many forms, each serving different human needs.
 
 # The Relationship System
 
-```text
-Relationships
-      │
- ├── Family
- ├── Friendship
- ├── Romantic Relationships
- ├── Parenting
- ├── Professional Relationships
- ├── Community
- ├── Communication
- ├── Trust
- └── Conflict Resolution
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Relationships</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Family</div></div>
+<div class="tree-item"><div class="tree-node">Friendship</div></div>
+<div class="tree-item"><div class="tree-node">Romantic Relationships</div></div>
+<div class="tree-item"><div class="tree-node">Parenting</div></div>
+<div class="tree-item"><div class="tree-node">Professional Relationships</div></div>
+<div class="tree-item"><div class="tree-node">Community</div></div>
+<div class="tree-item"><div class="tree-node">Communication</div></div>
+<div class="tree-item"><div class="tree-node">Trust</div></div>
+<div class="tree-item"><div class="tree-node">Conflict Resolution</div></div>
+</div>
+</div>
 
 Each strengthens different aspects of human life.
 
@@ -137,7 +138,7 @@ Friendships provide:
 - Honest feedback
 - Personal growth
 
-Different friendships often serve different purposes throughout life. :contentReference[oaicite:2]{index=2}
+Different friendships often serve different purposes throughout life.
 
 ---
 
@@ -268,7 +269,7 @@ Healthy relationships improve:
 - Career success
 - Life satisfaction
 
-Conversely, loneliness and social isolation are associated with poorer health outcomes and reduced well-being. :contentReference[oaicite:3]{index=3}
+Conversely, loneliness and social isolation are associated with poorer health outcomes and reduced well-being.
 
 ---
 
@@ -310,7 +311,7 @@ One healthy relationship often creates positive effects across many areas of lif
 
 ✔ Trust and communication are essential for healthy long-term relationships.
 
-✔ Relationship quality generally matters more than the number of relationships. :contentReference[oaicite:4]{index=4}
+✔ Relationship quality generally matters more than the number of relationships.
 
 ---
 
@@ -349,10 +350,8 @@ Ask yourself:
 ## Built Upon
 
 - [[Evolution]]
-- [[Biology]]
 - [[Psychology]]
 - [[Anthropology]]
-- [[Society]]
 - [[Ethics]]
 
 ## Enables
@@ -361,28 +360,26 @@ Ask yourself:
 - [[Leadership]]
 - [[Career]]
 - [[Mental Well-being]]
-- [[Community]]
-- [[Human Flourishing]]
 
 ## Related
 
 - [[Communication]]
-- [[Trust]]
-- [[Empathy]]
-- [[Conflict Resolution]]
-
-## Next
-
-→ [[Parenting]]
 
 ---
 
 # HumanOS Principle
 
-Relationships are the social infrastructure of human life. They allow individuals to cooperate, learn, grow, love, and contribute to society. By understanding the biological, psychological, and social foundations of relationships, humans can build stronger families, healthier communities, and more resilient civilizations. Strong relationships are not merely an outcome of a good life—they are one of the systems that make a good life possible. :contentReference[oaicite:5]{index=5}
+Relationships are the social infrastructure of human life. They allow individuals to cooperate, learn, grow, love, and contribute to society. By understanding the biological, psychological, and social foundations of relationships, humans can build stronger families, healthier communities, and more resilient civilizations. Strong relationships are not merely an outcome of a good life—they are one of the systems that make a good life possible.
 
 ---
 
 # Key Insight
 
 > **No human reaches their full potential alone. Every language learned, every skill developed, every opportunity created, and every civilization built has depended on relationships. Understanding how to build trust, communicate honestly, resolve conflict, and care for others is not simply a social skill—it is one of the fundamental capabilities that transforms individual lives into flourishing families, communities, and civilizations.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/04---parenting" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Parenting</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

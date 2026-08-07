@@ -21,7 +21,7 @@ It investigates:
 - Earth's history
 - The interactions between Earth's physical systems
 
-Unlike Physics, which studies universal laws, or Chemistry, which studies matter and its transformations, Earth Science focuses on **one unique planet** and how its different systems work together to sustain life. Earth science commonly integrates geology, oceanography, atmospheric science, and related disciplines to understand the Earth system. :contentReference[oaicite:0]{index=0}
+Unlike Physics, which studies universal laws, or Chemistry, which studies matter and its transformations, Earth Science focuses on **one unique planet** and how its different systems work together to sustain life. Earth science commonly integrates geology, oceanography, atmospheric science, and related disciplines to understand the Earth system.
 
 ---
 
@@ -60,29 +60,38 @@ Earth behaves as one interconnected system.
 
 Changes in one part of Earth often influence many others.
 
-```text
-           Earth's Interior
-                  │
-                  ▼
-          Plate Tectonics
-                  │
-                  ▼
- Mountains • Volcanoes • Earthquakes
-                  │
-                  ▼
-     Atmosphere • Oceans • Climate
-                  │
-                  ▼
-          Water & Nutrient Cycles
-                  │
-                  ▼
-             Ecosystems
-                  │
-                  ▼
-             Human Society
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Earth's Interior</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Plate Tectonics</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Mountains, Volcanoes, Earthquakes</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Atmosphere, Oceans, Climate</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Water &amp; Nutrient Cycles</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Ecosystems</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Society</span></div>
+</div>
+</div>
 
-Earth Science combines knowledge from Physics, Chemistry, Biology, Mathematics, and Geography to understand these interacting systems rather than studying them in isolation. :contentReference[oaicite:1]{index=1}
+Earth Science combines knowledge from Physics, Chemistry, Biology, Mathematics, and Geography to understand these interacting systems rather than studying them in isolation.
 
 ---
 
@@ -90,23 +99,25 @@ Earth Science combines knowledge from Physics, Chemistry, Biology, Mathematics, 
 
 Earth is often understood through several interconnected "spheres."
 
-```text
-                     EARTH
-                        │
-      ┌─────────────────┼──────────────────┐
-      │                 │                  │
-      ▼                 ▼                  ▼
- Lithosphere      Hydrosphere       Atmosphere
- (Land & Rock)      (Water)            (Air)
-      │                 │                  │
-      └────────────┬────┴────────────┐
-                   ▼                 ▼
-             Biosphere          Cryosphere
-             (Life)          (Ice & Snow)
-                   │
-                   ▼
-              Human Civilization
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">EARTH</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Lithosphere (Land &amp; Rock)</div></div>
+<div class="tree-item">
+<div class="tree-node">Hydrosphere (Water)</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Biosphere (Life)</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Human Civilization</div></div>
+</div>
+</div>
+<div class="tree-item"><div class="tree-node">Cryosphere (Ice &amp; Snow)</div></div>
+</div>
+</div>
+<div class="tree-item"><div class="tree-node">Atmosphere (Air)</div></div>
+</div>
+</div>
 
 A change in one sphere affects the others.
 
@@ -118,7 +129,7 @@ For example:
 - Weather affects agriculture.
 - Agriculture supports civilization.
 
-This systems perspective is central to Earth Science. :contentReference[oaicite:2]{index=2}
+This systems perspective is central to Earth Science.
 
 ---
 
@@ -136,23 +147,25 @@ Everything humans need for survival comes from Earth.
 
 Earth provides:
 
-- Air to breathe.
-- Water to drink.
-- Soil to grow food.
-- Minerals to build technology.
-- Energy resources.
-- Habitats for life.
+> [!success]
+> - Air to breathe.
+> - Water to drink.
+> - Soil to grow food.
+> - Minerals to build technology.
+> - Energy resources.
+> - Habitats for life.
 
 Earth Science helps humans understand:
 
-- Earthquakes
-- Volcanoes
-- Floods
-- Cyclones
-- Climate
-- Water resources
-- Agriculture
-- Natural resources
+> [!success]
+> - Earthquakes
+> - Volcanoes
+> - Floods
+> - Cyclones
+> - Climate
+> - Water resources
+> - Agriculture
+> - Natural resources
 
 Understanding Earth is essential for protecting both humanity and the planet itself.
 
@@ -160,43 +173,23 @@ Understanding Earth is essential for protecting both humanity and the planet its
 
 # Daily Life Examples
 
-### 🚰 Drinking Water
-
-Earth Science explains where freshwater comes from, how groundwater forms, and why protecting water resources is essential.
-
----
-
-### 🌾 Farming
-
-Healthy crops depend on soil, rainfall, climate, and nutrient cycles—all studied by Earth Science.
-
----
-
-### 🏠 Building a Home
-
-Engineers study soil stability, rock strength, groundwater, and earthquake risks before constructing buildings.
-
----
-
-### 🌧 Weather Forecasts
-
-Forecasting rainfall, storms, and heatwaves depends on understanding Earth's atmosphere and oceans.
-
----
-
-### ⚡ Renewable Energy
-
-Choosing locations for hydroelectric dams, geothermal plants, wind farms, and solar parks depends on Earth Science.
-
----
-
-### 🌍 Natural Disasters
-
-Earthquake monitoring, tsunami warnings, volcanic observations, and flood prediction help save millions of lives.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🚰</span><span class="os-card-title">Drinking Water</span><span class="os-card-desc">Earth Science explains where freshwater comes from, how groundwater forms, and why protecting water resources is essential.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌾</span><span class="os-card-title">Farming</span><span class="os-card-desc">Healthy crops depend on soil, rainfall, climate, and nutrient cycles—all studied by Earth Science.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🏠</span><span class="os-card-title">Building a Home</span><span class="os-card-desc">Engineers study soil stability, rock strength, groundwater, and earthquake risks before constructing buildings.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌧</span><span class="os-card-title">Weather Forecasts</span><span class="os-card-desc">Forecasting rainfall, storms, and heatwaves depends on understanding Earth's atmosphere and oceans.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">⚡</span><span class="os-card-title">Renewable Energy</span><span class="os-card-desc">Choosing locations for hydroelectric dams, geothermal plants, wind farms, and solar parks depends on Earth Science.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌍</span><span class="os-card-title">Natural Disasters</span><span class="os-card-desc">Earthquake monitoring, tsunami warnings, volcanic observations, and flood prediction help save millions of lives.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kanchenjunga_Sunrise_from_Gnathnag_Valley_-_Sikkim.jpg?width=1200" alt="Sunrise over Kanchenjunga, the world's third-highest peak, seen from Gnathang Valley in Sikkim, India">
+<p class="domain-figure-caption">Sunrise over Kanchenjunga, part of the Himalayan system shaped by Earth's geological forces — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -387,19 +380,17 @@ It provides the bridge to specialized studies such as [[Geology]], [[Oceanograph
 
 ## Related
 
-- [[Earth]]
-- [[Water Cycle]]
-- [[Plate Tectonics]]
 - [[Natural Sciences]]
-
----
-
-## Next
-
-→ [[Geology]]
 
 ---
 
 # Key Insight
 
 > **Earth is not merely the place where humans live—it is a dynamic, interconnected system that makes human life possible. Understanding Earth Science reveals how rocks, oceans, atmosphere, climate, and life work together, helping us protect the planet, build resilient societies, and live more sustainably.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/03-natural-sciences/06---geology" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Geology</span><span class="os-cta-sub">Geology explains the story written in Earth's rocks. It reveals how our planet formed,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

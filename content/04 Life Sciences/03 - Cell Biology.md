@@ -22,7 +22,7 @@ Cell Biology investigates:
 - Cellular energy production
 - Cell death
 
-Cells are the smallest units capable of carrying out all the processes necessary for life, making them the foundation of biology. :contentReference[oaicite:0]{index=0}
+Cells are the smallest units capable of carrying out all the processes necessary for life, making them the foundation of biology.
 
 ---
 
@@ -64,31 +64,36 @@ Cells function like microscopic living systems.
 
 Each cell contains specialized structures that perform different jobs while working together.
 
-```text
-                 Cell
-                  │
-      ┌───────────┼────────────┐
-      ▼           ▼            ▼
- Cell Membrane   DNA      Organelles
-      │           │            │
-      └───────────┼────────────┘
-                  ▼
-        Cellular Processes
-                  │
-                  ▼
- Energy • Growth • Repair
- Communication • Division
-                  │
-                  ▼
-      Tissues • Organs • Body
-                  │
-                  ▼
-          Human Life
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Cell</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Cell Membrane</span> DNA, Organelles</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Cellular Processes</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Energy</span> Growth, Repair, Communication, Division</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Tissues</span> Organs, Body</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Life</span></div>
+</div>
+</div>
 
 Cells cooperate rather than function independently.
 
-In multicellular organisms, specialized cells form tissues, tissues form organs, organs form organ systems, and organ systems form complete organisms. :contentReference[oaicite:1]{index=1}
+In multicellular organisms, specialized cells form tissues, tissues form organs, organs form organ systems, and organ systems form complete organisms.
 
 ---
 
@@ -102,7 +107,7 @@ Its three fundamental principles are:
 2. **The cell is the basic unit of structure and function in living organisms.**
 3. **All cells arise from pre-existing cells through cell division.**
 
-These principles transformed biology by showing that every form of life shares the same fundamental unit. :contentReference[oaicite:2]{index=2}
+These principles transformed biology by showing that every form of life shares the same fundamental unit.
 
 ---
 
@@ -110,33 +115,44 @@ These principles transformed biology by showing that every form of life shares t
 
 One fertilized egg eventually becomes a complete human.
 
-```text
-         Single Cell (Zygote)
-                  │
-                  ▼
-           Cell Division
-                  │
-                  ▼
-         Specialized Cells
-                  │
-                  ▼
-               Tissues
-                  │
-                  ▼
-               Organs
-                  │
-                  ▼
-          Organ Systems
-                  │
-                  ▼
-             Human Body
-                  │
-                  ▼
-          Human Mind & Behaviour
-                  │
-                  ▼
-      Society • Civilization
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Single Cell (Zygote)</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Cell Division</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Specialized Cells</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Tissues</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Organs</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Organ Systems</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Body</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">8</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Mind &amp; Behaviour</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">9</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Society, Civilization</span></div>
+</div>
+</div>
 
 One microscopic cell contains all the genetic instructions needed to build an entire human body.
 
@@ -156,24 +172,26 @@ Every moment of your life depends on cells.
 
 Right now, billions of cells inside your body are:
 
-- Producing energy.
-- Repairing damaged tissues.
-- Fighting infections.
-- Carrying oxygen.
-- Sending nerve signals.
-- Digesting food.
-- Building proteins.
-- Replacing old cells.
+> [!success]
+> - Producing energy.
+> - Repairing damaged tissues.
+> - Fighting infections.
+> - Carrying oxygen.
+> - Sending nerve signals.
+> - Digesting food.
+> - Building proteins.
+> - Replacing old cells.
 
 Understanding Cell Biology helps humans understand:
 
-- Why diseases occur.
-- How medicines work.
-- How wounds heal.
-- How the body grows.
-- How aging occurs.
-- How cancer develops.
-- How organs function.
+> [!success]
+> - Why diseases occur.
+> - How medicines work.
+> - How wounds heal.
+> - How the body grows.
+> - How aging occurs.
+> - How cancer develops.
+> - How organs function.
 
 Modern medicine is fundamentally applied cell biology.
 
@@ -181,43 +199,23 @@ Modern medicine is fundamentally applied cell biology.
 
 # Daily Life Examples
 
-### 🩹 Healing a Cut
-
-Skin cells divide and replace damaged tissue, allowing wounds to heal.
-
----
-
-### 💪 Exercise
-
-Muscle cells adapt to physical training by repairing microscopic damage and increasing strength.
-
----
-
-### 🧠 Learning
-
-Brain cells (neurons) strengthen or modify their connections during learning and memory formation.
-
----
-
-### 🍎 Digestion
-
-Cells lining the digestive tract absorb nutrients and transport them throughout the body.
-
----
-
-### 🦠 Fighting Infection
-
-Immune cells detect, attack, and eliminate harmful microorganisms every day.
-
----
-
-### 👶 Growth
-
-A human begins as a single fertilized cell that divides trillions of times to form an adult body.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🩹</span><span class="os-card-title">Healing a Cut</span><span class="os-card-desc">Skin cells divide and replace damaged tissue, allowing wounds to heal.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">💪</span><span class="os-card-title">Exercise</span><span class="os-card-desc">Muscle cells adapt to physical training by repairing microscopic damage and increasing strength.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🧠</span><span class="os-card-title">Learning</span><span class="os-card-desc">Brain cells (neurons) strengthen or modify their connections during learning and memory formation.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🍎</span><span class="os-card-title">Digestion</span><span class="os-card-desc">Cells lining the digestive tract absorb nutrients and transport them throughout the body.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🦠</span><span class="os-card-title">Fighting Infection</span><span class="os-card-desc">Immune cells detect, attack, and eliminate harmful microorganisms every day.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">👶</span><span class="os-card-title">Growth</span><span class="os-card-desc">A human begins as a single fertilized cell that divides trillions of times to form an adult body.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/CCMB_Hyderabad_India.jpg?width=1200" alt="The Centre for Cellular and Molecular Biology (CCMB) campus in Hyderabad, India">
+<p class="domain-figure-caption">Centre for Cellular and Molecular Biology, Hyderabad — a leading Indian institute for cell biology research — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -410,20 +408,17 @@ It prepares the foundation for [[Genetics]], where we explore how cells store, t
 
 ## Related
 
-- [[Cell Theory]]
-- [[Cell Membrane]]
-- [[DNA]]
-- [[Organelles]]
-- [[Mitosis]]
-
----
-
-## Next
-
-→ [[Genetics]]
+None.
 
 ---
 
 # Key Insight
 
 > **Cells are the fundamental units of life. Every heartbeat, every thought, every movement, every memory, and every breath depends on trillions of cells working together in extraordinary coordination. By understanding cells, we understand the foundation upon which every living organism—including ourselves—is built, enabling advances in medicine, biotechnology, and healthier human lives.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/04-life-sciences/04---genetics" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Genetics</span><span class="os-cta-sub">Genetics explains how biological information is stored, inherited, expressed, and...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

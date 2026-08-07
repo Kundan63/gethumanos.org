@@ -1,6 +1,6 @@
 # Kidney Diseases
 
-> *Kidney diseases are disorders that impair the kidneys' ability to filter blood, remove waste products, regulate body fluids and electrolytes, maintain acid–base balance, produce hormones, and support blood pressure regulation. They include acute kidney injury (AKI), chronic kidney disease (CKD), kidney stones, kidney infections, inherited disorders, and autoimmune kidney diseases. Chronic kidney disease affects an estimated **674 million people worldwide**, while severe kidney failure requires dialysis or kidney transplantation for survival. Kidney disease often develops silently and is strongly linked with diabetes, hypertension, cardiovascular disease, and aging.* :contentReference[oaicite:0]{index=0}
+> *Kidney diseases are disorders that impair the kidneys' ability to filter blood, remove waste products, regulate body fluids and electrolytes, maintain acid–base balance, produce hormones, and support blood pressure regulation. They include acute kidney injury (AKI), chronic kidney disease (CKD), kidney stones, kidney infections, inherited disorders, and autoimmune kidney diseases. Chronic kidney disease affects an estimated **674 million people worldwide**, while severe kidney failure requires dialysis or kidney transplantation for survival. Kidney disease often develops silently and is strongly linked with diabetes, hypertension, cardiovascular disease, and aging.*
 
 ---
 
@@ -17,7 +17,7 @@ Kidney diseases are conditions that damage one or both kidneys, reducing their a
 - Produce hormones (erythropoietin, renin)
 - Activate vitamin D
 
-When kidney function declines, waste products and excess fluid accumulate in the body, affecting nearly every organ. :contentReference[oaicite:1]{index=1}
+When kidney function declines, waste products and excess fluid accumulate in the body, affecting nearly every organ.
 
 ---
 
@@ -36,7 +36,7 @@ Over time they are exposed to:
 - Reduced blood flow
 - Aging
 
-Disease develops when injury exceeds the kidneys' ability to repair themselves. :contentReference[oaicite:2]{index=2}
+Disease develops when injury exceeds the kidneys' ability to repair themselves.
 
 ---
 
@@ -56,27 +56,23 @@ Because kidneys regulate fluid balance, blood pressure, electrolytes, red blood 
 
 # Major Kidney Diseases
 
-```text
-Kidney Diseases
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Chronic Kidney Disease
-Acute Kidney Injury
-Kidney Stones
-Kidney Infection
- │
- ├─────────────┬──────────────┐
- ▼             ▼
-Polycystic Kidney Disease
-Glomerulonephritis
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Kidney Diseases</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Chronic Kidney Disease</div></div>
+<div class="tree-item"><div class="tree-node">Acute Kidney Injury</div></div>
+<div class="tree-item"><div class="tree-node">Kidney Stones</div></div>
+<div class="tree-item"><div class="tree-node">Kidney Infection</div></div>
+<div class="tree-item"><div class="tree-node">Polycystic Kidney Disease</div></div>
+<div class="tree-item"><div class="tree-node">Glomerulonephritis</div></div>
+</div>
+</div>
 
 ### 🩺 Chronic Kidney Disease (CKD)
 
 Gradual loss of kidney function lasting at least three months.
 
-Usually progresses slowly and may eventually lead to kidney failure. :contentReference[oaicite:3]{index=3}
+Usually progresses slowly and may eventually lead to kidney failure.
 
 ---
 
@@ -92,7 +88,7 @@ Common causes include:
 - Sepsis
 - Major surgery
 - Certain medications
-- Urinary obstruction :contentReference[oaicite:4]{index=4}
+- Urinary obstruction
 
 ---
 
@@ -134,15 +130,14 @@ May result from autoimmune disease, infections, or other immune disorders.
 
 # Complete Causes
 
-```text
-Complete Causes
-      │
- ┌────┼──────────────────────────────┐
- ▼    ▼                              ▼
-Genetics
-Lifestyle
-Medical Conditions
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item"><div class="tree-node">Medical Conditions</div></div>
+</div>
+</div>
 
 ### 🧬 Genetics
 
@@ -156,7 +151,7 @@ Medical Conditions
 
 The leading global cause of chronic kidney disease.
 
-Persistently high blood glucose damages the kidney's filtering units. :contentReference[oaicite:5]{index=5}
+Persistently high blood glucose damages the kidney's filtering units.
 
 ---
 
@@ -164,7 +159,7 @@ Persistently high blood glucose damages the kidney's filtering units. :contentRe
 
 Damages blood vessels within the kidneys and reduces filtering capacity.
 
-Second leading cause of CKD. :contentReference[oaicite:6]{index=6}
+Second leading cause of CKD.
 
 ---
 
@@ -172,7 +167,7 @@ Second leading cause of CKD. :contentReference[oaicite:6]{index=6}
 
 Kidney disease and cardiovascular disease strongly influence each other.
 
-Each increases the risk of developing the other. :contentReference[oaicite:7]{index=7}
+Each increases the risk of developing the other.
 
 ---
 
@@ -237,7 +232,7 @@ Kidney function naturally declines with age, increasing susceptibility to CKD.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:279px"><svg width="100%" viewBox="0 0 279 510" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="243.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="139.5" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Kidney Injury</text><rect x="18.0" y="90.0" width="243.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="139.5" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Loss of Filtering Units</text><rect x="18.0" y="162.0" width="243.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="139.5" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Reduced Filtration (↓GFR)</text><rect x="18.0" y="234.0" width="243.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="139.5" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Waste Retention</text><rect x="18.0" y="306.0" width="243.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="139.5" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Fluid Retention</text><rect x="18.0" y="378.0" width="243.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="139.5" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Electrolyte Imbalance</text><rect x="18.0" y="450.0" width="243.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="139.5" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Whole-Body Effects</text><line x1="139.5" y1="64.0" x2="139.5" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="139.5" y1="136.0" x2="139.5" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="139.5" y1="208.0" x2="139.5" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="139.5" y1="280.0" x2="139.5" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="139.5" y1="352.0" x2="139.5" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="139.5" y1="424.0" x2="139.5" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-In CKD, damage progresses gradually. In AKI, kidney function deteriorates rapidly but may recover if treated promptly. :contentReference[oaicite:8]{index=8}
+In CKD, damage progresses gradually. In AKI, kidney function deteriorates rapidly but may recover if treated promptly.
 
 ---
 
@@ -258,7 +253,7 @@ Later symptoms may include:
 - Itching
 - Shortness of breath
 
-Symptoms usually appear only after significant kidney damage has occurred. :contentReference[oaicite:9]{index=9}
+Symptoms usually appear only after significant kidney damage has occurred.
 
 ---
 
@@ -276,7 +271,7 @@ Diagnosis may include:
 - CT scan
 - Kidney biopsy (selected patients)
 
-Routine blood and urine testing enables early detection before symptoms appear. :contentReference[oaicite:10]{index=10}
+Routine blood and urine testing enables early detection before symptoms appear.
 
 ---
 
@@ -308,7 +303,7 @@ For kidney failure:
 - Peritoneal dialysis
 - Kidney transplantation
 
-:contentReference[oaicite:11]{index=11}
+
 
 ---
 
@@ -325,7 +320,7 @@ Strong evidence supports:
 - Avoiding unnecessary NSAID use
 - Staying adequately hydrated
 
-These measures help slow CKD progression. :contentReference[oaicite:12]{index=12}
+These measures help slow CKD progression.
 
 ---
 
@@ -353,7 +348,7 @@ These measures help slow CKD progression. :contentReference[oaicite:12]{index=12
 - Excess sugar
 - Excess alcohol
 
-In advanced CKD, potassium, phosphorus, protein, and fluid intake may need individualized adjustment under medical supervision. :contentReference[oaicite:13]{index=13}
+In advanced CKD, potassium, phosphorus, protein, and fluid intake may need individualized adjustment under medical supervision.
 
 ---
 
@@ -409,7 +404,7 @@ Key preventive measures:
 - Avoid unnecessary nephrotoxic medications.
 - Screen high-risk individuals using eGFR and urine ACR.
 
-:contentReference[oaicite:14]{index=14}
+
 
 ---
 
@@ -454,10 +449,12 @@ Healthy kidneys quietly maintain internal balance every minute.
 
 Understanding kidney disease helps people:
 
-- Detect disease early
-- Prevent kidney failure
-- Protect heart health
-- Improve lifespan and quality of life
+> [!success]
+> - Detect disease early
+> - Prevent kidney failure
+> - Protect heart health
+> - Improve lifespan and quality of life
+
 
 ---
 
@@ -525,8 +522,6 @@ It connects:
 - [[Urinary System]]
 - [[Cardiovascular Diseases]]
 - [[Diabetes & Metabolic Disorders]]
-- [[Hypertension]]
-- [[Electrolytes]]
 - [[Preventive Medicine]]
 
 It demonstrates that kidney health is essential for maintaining the body's internal environment (homeostasis) and that early detection is critical because kidney disease is often silent until advanced stages.
@@ -543,29 +538,28 @@ It demonstrates that kidney health is essential for maintaining the body's inter
 
 ## Enables
 
-- [[Dialysis]]
-- [[Kidney Transplantation]]
 - [[Preventive Medicine]]
 
 ## Related
 
-- [[Hypertension]]
 - [[Diabetes & Metabolic Disorders]]
-- [[Electrolyte Balance]]
 - [[Cardiovascular Diseases]]
-
-## Next
-
-→ [[Liver Diseases]]
 
 ---
 
 # HumanOS Principle
 
-Kidney diseases arise when the organs responsible for filtering blood and maintaining the body's internal chemical balance become damaged by diabetes, hypertension, infections, autoimmune disorders, toxins, or inherited conditions. Because early kidney disease is frequently asymptomatic, routine screening in high-risk individuals and timely treatment are essential to preserve kidney function, reduce cardiovascular complications, and prevent kidney failure. :contentReference[oaicite:15]{index=15}
+Kidney diseases arise when the organs responsible for filtering blood and maintaining the body's internal chemical balance become damaged by diabetes, hypertension, infections, autoimmune disorders, toxins, or inherited conditions. Because early kidney disease is frequently asymptomatic, routine screening in high-risk individuals and timely treatment are essential to preserve kidney function, reduce cardiovascular complications, and prevent kidney failure.
 
 ---
 
 # Key Insight
 
-> **Kidney diseases are disorders that impair the kidneys' ability to filter blood, regulate fluids, maintain electrolyte balance, and remove waste. Understanding their causes, mechanisms, prevention, and treatment reveals that protecting kidney health also protects the heart, blood vessels, bones, and the body's overall internal balance, making early detection and management essential for lifelong health.** :contentReference[oaicite:16]{index=16}
+> **Kidney diseases are disorders that impair the kidneys' ability to filter blood, regulate fluids, maintain electrolyte balance, and remove waste. Understanding their causes, mechanisms, prevention, and treatment reveals that protecting kidney health also protects the heart, blood vessels, bones, and the body's overall internal balance, making early detection and management essential for lifelong health.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/09---liver-diseases" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Liver Diseases</span><span class="os-cta-sub">Liver diseases are disorders that damage the liver and impair its ability to perform...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

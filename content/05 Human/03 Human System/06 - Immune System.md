@@ -1,6 +1,6 @@
 # Immune System
 
-> *The Immune System is the body's defense and surveillance network. It continuously identifies harmful microbes, destroys infected or abnormal cells, repairs damaged tissues, and remembers previous infections to provide faster protection in the future. Every day, it protects us from countless threats without us ever noticing.* :contentReference[oaicite:0]{index=0}
+> *The Immune System is the body's defense and surveillance network. It continuously identifies harmful microbes, destroys infected or abnormal cells, repairs damaged tissues, and remembers previous infections to provide faster protection in the future. Every day, it protects us from countless threats without us ever noticing.*
 
 ---
 
@@ -27,7 +27,7 @@ Its purpose is to:
 - Build long-term immune memory
 - Maintain internal health
 
-Unlike most organ systems, the immune system is **distributed throughout the entire body**, constantly monitoring for danger. It works closely with the lymphatic system, which transports immune cells and filters pathogens. :contentReference[oaicite:1]{index=1}
+Unlike most organ systems, the immune system is **distributed throughout the entire body**, constantly monitoring for danger. It works closely with the lymphatic system, which transports immune cells and filters pathogens.
 
 ---
 
@@ -50,7 +50,7 @@ Without protection:
 - Cancer would develop more easily.
 - Harmful microbes would multiply unchecked.
 
-Evolution produced the immune system as a dynamic defense network capable of distinguishing **self** from **non-self** while protecting the body without attacking healthy tissues. :contentReference[oaicite:2]{index=2}
+Evolution produced the immune system as a dynamic defense network capable of distinguishing **self** from **non-self** while protecting the body without attacking healthy tissues.
 
 ---
 
@@ -58,57 +58,93 @@ Evolution produced the immune system as a dynamic defense network capable of dis
 
 The immune response follows a coordinated sequence.
 
-```text
-Pathogen Enters Body
-        │
-        ▼
-Physical Barriers
-(Skin • Mucus • Tears)
-        │
-        ▼
-Innate Immune Response
-        │
-Detection
-        │
-Inflammation
-        │
-Phagocytes Destroy Invader
-        │
-        ▼
-Adaptive Immune Response
-        │
-B Cells • T Cells
-        │
-Antibodies Produced
-        │
-Memory Cells Form
-        │
-        ▼
-Faster Protection Next Time
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Pathogen Enters Body</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Physical Barriers</span> (Skin, Mucus, Tears)</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Innate Immune Response</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Detection</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Inflammation</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Phagocytes Destroy Invader</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Adaptive Immune Response</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">8</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">B Cells, T Cells</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">9</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Antibodies Produced</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">10</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Memory Cells Form</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">11</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Faster Protection Next Time</span></div>
+</div>
+</div>
 
 The immune system operates through two cooperating defense strategies:
 
 - **Innate Immunity** → Immediate, broad protection
-- **Adaptive Immunity** → Slower initially, highly specific, with long-term memory :contentReference[oaicite:3]{index=3}
+- **Adaptive Immunity** → Slower initially, highly specific, with long-term memory
 
 ---
 
 # Components of the Immune System
 
-```text
-               Immune System
-                     │
-      ┌──────────────┼──────────────┐
-      ▼              ▼              ▼
- Physical        Immune Cells    Lymphatic
- Barriers             │            Organs
-      │               │              │
- Skin            White Blood      Bone Marrow
- Mucus           Cells            Thymus
- Tears           Antibodies       Spleen
- Stomach Acid    Cytokines        Lymph Nodes
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Immune System</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Physical Barriers</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Skin</div></div>
+<div class="tree-item"><div class="tree-node">Mucus</div></div>
+<div class="tree-item"><div class="tree-node">Tears</div></div>
+<div class="tree-item"><div class="tree-node">Stomach Acid</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Immune Cells</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">White Blood Cells</div></div>
+<div class="tree-item"><div class="tree-node">Antibodies</div></div>
+<div class="tree-item"><div class="tree-node">Cytokines</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Lymphatic Organs</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Bone Marrow</div></div>
+<div class="tree-item"><div class="tree-node">Thymus</div></div>
+<div class="tree-item"><div class="tree-node">Spleen</div></div>
+<div class="tree-item"><div class="tree-node">Lymph Nodes</div></div>
+</div>
+</div>
+</div>
+</div>
 
 ### Physical Barriers
 
@@ -120,7 +156,7 @@ The body's first defense:
 - Saliva
 - Stomach acid
 
-They prevent many pathogens from entering the body. :contentReference[oaicite:4]{index=4}
+They prevent many pathogens from entering the body.
 
 ---
 
@@ -148,7 +184,7 @@ Main cells:
 - **B Cells** → Produce antibodies
 - **T Cells** → Coordinate immune responses and destroy infected cells
 
-After infection or vaccination, memory cells remain, enabling a faster response to future exposure. :contentReference[oaicite:5]{index=5}
+After infection or vaccination, memory cells remain, enabling a faster response to future exposure.
 
 ---
 
@@ -156,7 +192,7 @@ After infection or vaccination, memory cells remain, enabling a faster response 
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:287px"><svg width="100%" viewBox="0 0 287 582" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="251.1" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="143.6" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Virus</text><rect x="18.0" y="90.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Skin or Mucus Breached</text><rect x="18.0" y="162.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Macrophages Detect Threat</text><rect x="18.0" y="234.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Inflammation Begins</text><rect x="18.0" y="306.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">T Cells Activated</text><rect x="18.0" y="378.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">B Cells Produce Antibodies</text><rect x="18.0" y="450.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Virus Eliminated</text><rect x="18.0" y="522.0" width="251.1" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="143.6" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Memory Cells Remain</text><line x1="143.6" y1="64.0" x2="143.6" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="136.0" x2="143.6" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="208.0" x2="143.6" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="280.0" x2="143.6" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="352.0" x2="143.6" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="424.0" x2="143.6" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="496.0" x2="143.6" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-The second exposure to the same pathogen is often controlled much faster because of immune memory—the biological principle behind vaccination. :contentReference[oaicite:6]{index=6}
+The second exposure to the same pathogen is often controlled much faster because of immune memory—the biological principle behind vaccination.
 
 ---
 
@@ -174,21 +210,24 @@ Your immune system protects you **every minute of every day**.
 
 It:
 
-- Prevents infections.
-- Helps wounds heal.
-- Destroys many abnormal cells.
-- Removes damaged tissues.
-- Responds to vaccines.
-- Protects unborn babies through maternal antibodies.
-- Builds long-term immunity after many infections.
+> [!success]
+> - Prevents infections.
+> - Helps wounds heal.
+> - Destroys many abnormal cells.
+> - Removes damaged tissues.
+> - Responds to vaccines.
+> - Protects unborn babies through maternal antibodies.
+> - Builds long-term immunity after many infections.
 
 When immunity fails:
 
-- Minor infections become dangerous.
-- Recovery slows.
-- Cancer risk increases.
-- Autoimmune diseases may develop.
-- Chronic inflammation can damage organs.
+> [!success]
+> - Minor infections become dangerous.
+> - Recovery slows.
+> - Cancer risk increases.
+> - Autoimmune diseases may develop.
+> - Chronic inflammation can damage organs.
+
 
 ---
 
@@ -204,7 +243,7 @@ When immunity fails:
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:238px"><svg width="100%" viewBox="0 0 238 366" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Vaccine</text><rect x="18.0" y="90.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Immune System Learns</text><rect x="18.0" y="162.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Memory Cells Form</text><rect x="18.0" y="234.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Future Infection</text><rect x="18.0" y="306.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Rapid Protection</text><line x1="119.2" y1="64.0" x2="119.2" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="136.0" x2="119.2" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="208.0" x2="119.2" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="280.0" x2="119.2" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Vaccines work by training the adaptive immune system without causing the full disease. :contentReference[oaicite:7]{index=7}
+Vaccines work by training the adaptive immune system without causing the full disease.
 
 ---
 
@@ -240,30 +279,30 @@ During sleep:
 
 The immune system depends on many interacting factors.
 
-```text
-                 Immune Health
-                       ▲
-                       │
- ┌─────────────────────┼────────────────────┐
- │                     │                    │
-Nutrition        Physical Activity      Sleep
- │                     │                    │
- ├─────────────────────┼────────────────────┤
- │                     │                    │
-Stress         Gut Microbiome      Vaccination
- │                     │                    │
- ├─────────────────────┼────────────────────┤
- │                     │                    │
-Air Quality     Hygiene         Environment
- │                     │                    │
- ├─────────────────────┼────────────────────┤
- │                     │                    │
-Genetics      Aging        Chronic Disease
- │                     │                    │
- └─────────────────────┼────────────────────┘
-                       │
-          Strong or Weakened Immunity
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Immune Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Physical Activity</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Gut Microbiome</div></div>
+<div class="tree-item"><div class="tree-node">Vaccination</div></div>
+<div class="tree-item"><div class="tree-node">Air Quality</div></div>
+<div class="tree-item"><div class="tree-node">Hygiene</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Aging</div></div>
+<div class="tree-item"><div class="tree-node">Chronic Disease</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Strong or Weakened Immunity</span></div>
+</div>
+</div>
 
 Immune function reflects the interaction of genetics, nutrition, environment, sleep, microorganisms, lifestyle, and age.
 
@@ -294,6 +333,11 @@ Immune disorders may result from inherited factors, infections, environmental ex
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Polio_Vaccination_-_India_(17103454848).jpg?width=1200" alt="A health worker administering polio vaccine drops to a child during a vaccination campaign in India">
+<p class="domain-figure-caption">Polio vaccination campaign in India, part of the global effort to strengthen immune defenses against infectious disease — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -460,15 +504,12 @@ It protects every other organ system while cooperating closely with:
 
 - [[Digestive System]]
 - [[Cardiovascular System]]
-- [[Lymphatic System]]
 - [[Integumentary System]]
 - [[Homeostasis]]
 
 Understanding immunity prepares us to study:
 
 - [[Musculoskeletal System]]
-- [[Disease & Medicine]]
-- [[Longevity]]
 
 ---
 
@@ -484,26 +525,13 @@ Understanding immunity prepares us to study:
 
 ## Enables
 
-- [[Disease & Medicine]]
-- [[Healing]]
 - [[Vaccination]]
-- [[Longevity]]
 
 ---
 
 ## Related
 
-- [[Lymphatic System]]
-- [[White Blood Cells]]
-- [[Antibodies]]
-- [[Inflammation]]
 - [[Vaccination]]
-
----
-
-## Next
-
-→ [[Musculoskeletal System]]
 
 ---
 
@@ -521,4 +549,11 @@ Survival requires cooperation between every organ system.
 
 # Key Insight
 
-> **The immune system is the body's adaptive defense network. By recognizing harmful organisms, eliminating threats, repairing tissues, and building long-term immune memory, it protects every cell and organ throughout life. Understanding immunity reveals why nutrition, sleep, exercise, vaccination, hygiene, environmental health, and balanced immune regulation are all essential for preventing disease, promoting healing, and sustaining lifelong health.** :contentReference[oaicite:8]{index=8}
+> **The immune system is the body's adaptive defense network. By recognizing harmful organisms, eliminating threats, repairing tissues, and building long-term immune memory, it protects every cell and organ throughout life. Understanding immunity reveals why nutrition, sleep, exercise, vaccination, hygiene, environmental health, and balanced immune regulation are all essential for preventing disease, promoting healing, and sustaining lifelong health.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/03-human-system/07---musculoskeletal-system" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Musculoskeletal System</span><span class="os-cta-sub">The Musculoskeletal System is the body's framework and movement system. It provides...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

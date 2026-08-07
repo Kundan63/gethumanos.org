@@ -2,7 +2,7 @@
 
 > **The HumanOS Capability Framework explains how humans develop the ability to understand reality, solve problems, adapt to change, and contribute responsibly throughout life.**
 >
-> It defines capability not as what a person knows, but as what a person can consistently understand, decide, create, and accomplish. Capability frameworks in engineering and workforce development similarly distinguish capability as the integration of knowledge, skills, behaviors, and experience applied in real-world contexts rather than knowledge alone. :contentReference[oaicite:0]{index=0}
+> It defines capability not as what a person knows, but as what a person can consistently understand, decide, create, and accomplish. Capability frameworks in engineering and workforce development similarly distinguish capability as the integration of knowledge, skills, behaviors, and experience applied in real-world contexts rather than knowledge alone.
 
 ---
 
@@ -149,7 +149,7 @@ Capability combines:
 
 It enables consistent performance across changing situations.
 
-Competency and capability frameworks commonly describe capability as the integration of knowledge, skills, abilities, and behaviors required for effective performance. :contentReference[oaicite:1]{index=1}
+Competency and capability frameworks commonly describe capability as the integration of knowledge, skills, abilities, and behaviors required for effective performance.
 
 ---
 
@@ -393,6 +393,9 @@ Also ask:
 - [[Leadership]]
 - [[Productivity]]
 
-## Next
+---
 
-→ [[HumanOS Learning Framework]]
+<div class="cta-row"><a class="os-cta" href="/12-humanos/06---humanos-learning-framework" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: HumanOS Learning Framework</span><span class="os-cta-sub">The HumanOS Learning Framework explains how humans continuously transform experience...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

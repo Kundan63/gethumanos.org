@@ -1,6 +1,6 @@
 # Synapses
 
-> *Synapses are the communication junctions of the nervous system. They are the tiny connections where one neuron passes information to another neuron, muscle, or gland. Every thought, memory, emotion, movement, and conscious experience depends not only on neurons themselves, but on the trillions of synapses that connect them into functioning neural networks.* :contentReference[oaicite:0]{index=0}
+> *Synapses are the communication junctions of the nervous system. They are the tiny connections where one neuron passes information to another neuron, muscle, or gland. Every thought, memory, emotion, movement, and conscious experience depends not only on neurons themselves, but on the trillions of synapses that connect them into functioning neural networks.*
 
 ---
 
@@ -10,7 +10,7 @@ A **synapse** is the specialized junction where one neuron communicates with ano
 
 The communicating cells do **not usually touch each other directly**.
 
-Instead, they are separated by a microscopic gap called the **synaptic cleft**, across which information is transmitted using chemical or electrical signals. :contentReference[oaicite:1]{index=1}
+Instead, they are separated by a microscopic gap called the **synaptic cleft**, across which information is transmitted using chemical or electrical signals.
 
 Synapses connect neurons to:
 
@@ -53,28 +53,38 @@ Information therefore changes form:
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:176px"><svg width="100%" viewBox="0 0 157 222" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="121.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="78.6" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Electrical</text><rect x="18.0" y="90.0" width="121.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="78.6" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Chemical</text><rect x="18.0" y="162.0" width="121.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="78.6" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Electrical</text><line x1="78.6" y1="64.0" x2="78.6" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="78.6" y1="136.0" x2="78.6" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-This electrochemical communication is the fundamental language of the nervous system. :contentReference[oaicite:2]{index=2}
+This electrochemical communication is the fundamental language of the nervous system.
 
 ---
 
 # Anatomy of a Synapse
 
-```text
- Presynaptic Neuron
-        │
-Axon Terminal
-     ● ● ●
-(Synaptic Vesicles)
-        │
-────────┼────────
- Synaptic Cleft
-────────┼────────
- Neurotransmitters
-────────┼────────
- Receptors
-        │
-Postsynaptic Neuron
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Presynaptic Neuron</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Axon Terminal</span> Synaptic Vesicles</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Synaptic Cleft</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Neurotransmitters</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Receptors</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Postsynaptic Neuron</span></div>
+</div>
+</div>
 
 ### Presynaptic Terminal
 
@@ -101,7 +111,7 @@ Although extremely small, it prevents direct electrical continuity in most neuro
 
 The receiving cell.
 
-Contains specialized receptors that recognize neurotransmitters and convert chemical messages back into electrical signals. :contentReference[oaicite:3]{index=3}
+Contains specialized receptors that recognize neurotransmitters and convert chemical messages back into electrical signals.
 
 ---
 
@@ -115,20 +125,19 @@ After the signal:
 - reabsorbed into the presynaptic neuron,
 - or diffuse away,
 
-allowing the synapse to prepare for the next message. :contentReference[oaicite:4]{index=4}
+allowing the synapse to prepare for the next message.
 
 ---
 
 # Types of Synapses
 
-```text
-               Synapses
-                    │
-      ┌─────────────┼─────────────┐
-      ▼                           ▼
-Chemical                 Electrical
- Synapse                  Synapse
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Synapses</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Chemical Synapse</div></div>
+<div class="tree-item"><div class="tree-node">Electrical Synapse</div></div>
+</div>
+</div>
 
 ## Chemical Synapses
 
@@ -154,7 +163,7 @@ Characteristics:
 - Less flexible
 - Used where rapid synchronized activity is needed
 
-Most communication in the human brain occurs through **chemical synapses**, while electrical synapses are less common. :contentReference[oaicite:5]{index=5}
+Most communication in the human brain occurs through **chemical synapses**, while electrical synapses are less common.
 
 ---
 
@@ -166,22 +175,29 @@ Some encourage activity.
 
 Others suppress it.
 
-```text
-            Synapse
-               │
-      ┌────────┴────────┐
-      ▼                 ▼
- Excitatory       Inhibitory
-      │                 │
-Increase Chance   Reduce Chance
-of Firing         of Firing
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Synapse</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Excitatory</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Increase Chance of Firing</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Inhibitory</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Reduce Chance of Firing</div></div>
+</div>
+</div>
+</div>
+</div>
 
 A healthy brain depends on a balance between excitation and inhibition.
 
 Too much excitation may contribute to seizures.
 
-Too much inhibition can impair normal brain function. :contentReference[oaicite:6]{index=6}
+Too much inhibition can impair normal brain function.
 
 ---
 
@@ -203,13 +219,14 @@ Every habit strengthens certain synapses while weakening others.
 
 Your ability to:
 
-- Read
-- Speak
-- Drive
-- Play music
-- Solve problems
-- Recognize faces
-- Learn languages
+> [!success]
+> - Read
+> - Speak
+> - Drive
+> - Play music
+> - Solve problems
+> - Recognize faces
+> - Learn languages
 
 depends on synaptic communication.
 
@@ -223,7 +240,7 @@ You are constantly reshaping your brain through your synapses.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:230px"><svg width="100%" viewBox="0 0 230 294" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="194.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="115.1" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">New Information</text><rect x="18.0" y="90.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Repeated Practice</text><rect x="18.0" y="162.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Synapses Strengthen</text><rect x="18.0" y="234.0" width="194.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="115.1" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Memory Improves</text><line x1="115.1" y1="64.0" x2="115.1" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="136.0" x2="115.1" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="208.0" x2="115.1" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Learning strengthens specific synaptic connections, making future communication more efficient. :contentReference[oaicite:7]{index=7}
+Learning strengthens specific synaptic connections, making future communication more efficient.
 
 ---
 
@@ -264,7 +281,7 @@ One of the brain's most remarkable abilities is changing its own connections.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:271px"><svg width="100%" viewBox="0 0 271 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Experience</text><rect x="18.0" y="90.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Repeated Neural Activity</text><rect x="18.0" y="162.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Synapses Strengthen</text><rect x="18.0" y="234.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">or Weaken</text><rect x="18.0" y="306.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Brain Changes</text><rect x="18.0" y="378.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Learning</text><line x1="135.4" y1="64.0" x2="135.4" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="136.0" x2="135.4" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="208.0" x2="135.4" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="280.0" x2="135.4" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="352.0" x2="135.4" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-This ability is called **synaptic plasticity**, and it is considered one of the biological foundations of learning and memory. :contentReference[oaicite:8]{index=8}
+This ability is called **synaptic plasticity**, and it is considered one of the biological foundations of learning and memory.
 
 ---
 
@@ -272,26 +289,22 @@ This ability is called **synaptic plasticity**, and it is considered one of the 
 
 Healthy synapses depend on many interacting factors.
 
-```text
-              Synapse Health
-                     ▲
-                     │
- ┌───────────────────┼───────────────────┐
- │                   │                   │
-Learning      Physical Activity     Sleep
- │                   │                   │
- ├───────────────────┼───────────────────┤
- │                   │                   │
-Nutrition      Stress          Social Life
- │                   │                   │
- ├───────────────────┼───────────────────┤
- │                   │                   │
-Blood Flow      Aging        Brain Injury
- │                   │                   │
- └───────────────────┼───────────────────┘
-                     │
-          Healthy Neural Networks
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Synapse Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Physical Activity</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Social Life</div></div>
+<div class="tree-item"><div class="tree-node">Blood Flow</div></div>
+<div class="tree-item"><div class="tree-node">Aging</div></div>
+<div class="tree-item"><div class="tree-node">Brain Injury</div></div>
+</div>
+</div>
+
+Healthy Neural Networks
 
 Sleep, nutrition, oxygen supply, and repeated learning all influence how effectively synapses function.
 
@@ -321,6 +334,11 @@ Healthy brain function depends on healthy synaptic communication.
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Electron_micrograph_of_neuromuscular_junction_%28cross-section%29.jpg?width=1200" alt="An electron micrograph showing a cross-section of a neuromuscular junction, a synapse between a motor neuron and a muscle fiber">
+<p class="domain-figure-caption">Electron micrograph of a neuromuscular junction, a synapse connecting neuron to muscle — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -461,7 +479,6 @@ Understanding synapses prepares us to study:
 
 - [[Neurons]]
 - [[Brain]]
-- [[Action Potential]]
 
 ---
 
@@ -476,16 +493,7 @@ Understanding synapses prepares us to study:
 
 ## Related
 
-- [[Action Potential]]
 - [[Neurotransmitters]]
-- [[Receptors]]
-- [[Neural Networks]]
-
----
-
-## Next
-
-→ [[Neurotransmitters]]
 
 ---
 
@@ -501,4 +509,11 @@ The brain is not simply a collection of neurons—it is a living network built f
 
 # Key Insight
 
-> **Synapses are the communication junctions that transform billions of individual neurons into an integrated, adaptive brain. By converting electrical signals into chemical messages and back again, synapses enable information flow, learning, memory, emotion, movement, and consciousness. Understanding synapses reveals that intelligence does not emerge from isolated neurons, but from the ever-changing connections that link them into one living network.** :contentReference[oaicite:9]{index=9}
+> **Synapses are the communication junctions that transform billions of individual neurons into an integrated, adaptive brain. By converting electrical signals into chemical messages and back again, synapses enable information flow, learning, memory, emotion, movement, and consciousness. Understanding synapses reveals that intelligence does not emerge from isolated neurons, but from the ever-changing connections that link them into one living network.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/04-brain--and--neuroscience/04---neurotransmitters" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Neurotransmitters</span><span class="os-cta-sub">Neurotransmitters are the chemical messengers of the nervous system. They carry...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

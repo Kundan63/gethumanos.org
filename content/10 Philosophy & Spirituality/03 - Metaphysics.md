@@ -1,6 +1,6 @@
 # Metaphysics
 
-> *Metaphysics is the branch of philosophy that studies the fundamental nature of reality, existence, and being. It investigates the most general questions about what exists, what it means to exist, how reality is structured, and the relationships among mind, matter, time, space, causation, identity, and possibility. While science investigates particular aspects of the natural world through observation and experiment, metaphysics examines the conceptual foundations upon which our understanding of reality is built.* :contentReference[oaicite:0]{index=0}
+> *Metaphysics is the branch of philosophy that studies the fundamental nature of reality, existence, and being. It investigates the most general questions about what exists, what it means to exist, how reality is structured, and the relationships among mind, matter, time, space, causation, identity, and possibility. While science investigates particular aspects of the natural world through observation and experiment, metaphysics examines the conceptual foundations upon which our understanding of reality is built.*
 
 ---
 
@@ -21,7 +21,7 @@ Examples include:
 - What makes something the same object over time?
 - Do humans have free will?
 
-Metaphysics seeks to understand **the most fundamental structure of reality**, regardless of whether that reality is physical, mental, or something else. :contentReference[oaicite:1]{index=1}
+Metaphysics seeks to understand **the most fundamental structure of reality**, regardless of whether that reality is physical, mental, or something else.
 
 ---
 
@@ -61,18 +61,19 @@ Unlike empirical science, many metaphysical questions cannot currently be answer
 
 # Components of Metaphysics
 
-```text
-Metaphysics
-      │
- ├── Existence
- ├── Being
- ├── Reality
- ├── Identity
- ├── Time
- ├── Space
- ├── Causation
- └── Possibility
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Metaphysics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Existence</div></div>
+<div class="tree-item"><div class="tree-node">Being</div></div>
+<div class="tree-item"><div class="tree-node">Reality</div></div>
+<div class="tree-item"><div class="tree-node">Identity</div></div>
+<div class="tree-item"><div class="tree-node">Time</div></div>
+<div class="tree-item"><div class="tree-node">Space</div></div>
+<div class="tree-item"><div class="tree-node">Causation</div></div>
+<div class="tree-item"><div class="tree-node">Possibility</div></div>
+</div>
+</div>
 
 These concepts form the foundation of metaphysical inquiry.
 
@@ -107,7 +108,7 @@ Questions include:
 - Do all things exist in the same way?
 - Are some things more fundamental than others?
 
-This study is often called **ontology**. :contentReference[oaicite:2]{index=2}
+This study is often called **ontology**.
 
 ---
 
@@ -189,7 +190,7 @@ Examples:
 - Are mathematical truths necessary?
 - Are physical laws contingent?
 
-This area is known as **modal metaphysics**. :contentReference[oaicite:3]{index=3}
+This area is known as **modal metaphysics**.
 
 ---
 
@@ -203,18 +204,19 @@ Metaphysics relies primarily on conceptual reasoning while remaining informed by
 
 # Major Areas of Metaphysics
 
-```text
-Metaphysics
-      │
- ├── Ontology
- ├── Philosophy of Mind
- ├── Space & Time
- ├── Causation
- ├── Personal Identity
- ├── Free Will
- ├── Modality
- └── Cosmology
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Metaphysics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Ontology</div></div>
+<div class="tree-item"><div class="tree-node">Philosophy of Mind</div></div>
+<div class="tree-item"><div class="tree-node">Space & Time</div></div>
+<div class="tree-item"><div class="tree-node">Causation</div></div>
+<div class="tree-item"><div class="tree-node">Personal Identity</div></div>
+<div class="tree-item"><div class="tree-node">Free Will</div></div>
+<div class="tree-item"><div class="tree-node">Modality</div></div>
+<div class="tree-item"><div class="tree-node">Cosmology</div></div>
+</div>
+</div>
 
 ---
 
@@ -228,7 +230,7 @@ Questions include:
 - What is existence?
 - How are different kinds of beings related?
 
-Ontology is often regarded as the core of metaphysics. :contentReference[oaicite:4]{index=4}
+Ontology is often regarded as the core of metaphysics.
 
 ---
 
@@ -320,14 +322,16 @@ Scientific cosmology and philosophical cosmology complement one another while ad
 
 Metaphysics contributes to:
 
-- Philosophy of Science
-- Artificial Intelligence
-- Neuroscience
-- Theology
-- Physics
-- Logic
-- Ethics
-- Law
+<div class="tag-grid">
+<span class="tag-pill">Philosophy of Science</span>
+<span class="tag-pill">Artificial Intelligence</span>
+<span class="tag-pill">Neuroscience</span>
+<span class="tag-pill">Theology</span>
+<span class="tag-pill">Physics</span>
+<span class="tag-pill">Logic</span>
+<span class="tag-pill">Ethics</span>
+<span class="tag-pill">Law</span>
+</div>
 
 Many scientific theories raise metaphysical questions about the nature of reality.
 
@@ -339,7 +343,7 @@ Many scientific theories raise metaphysical questions about the nature of realit
 
 **Reality:**
 
-Academic metaphysics is a branch of philosophy that uses reason and conceptual analysis to investigate reality. It is distinct from supernatural or occult beliefs. :contentReference[oaicite:5]{index=5}
+Academic metaphysics is a branch of philosophy that uses reason and conceptual analysis to investigate reality. It is distinct from supernatural or occult beliefs.
 
 ---
 
@@ -363,13 +367,14 @@ Metaphysical assumptions influence science, law, ethics, artificial intelligence
 
 Metaphysics shapes how we think about:
 
-- Reality
-- Consciousness
-- Identity
-- Death
-- Free will
-- Artificial Intelligence
-- Scientific explanation
+> [!success]
+> - Reality
+> - Consciousness
+> - Identity
+> - Death
+> - Free will
+> - Artificial Intelligence
+> - Scientific explanation
 
 Understanding metaphysics helps people recognize the assumptions underlying their worldview and evaluate competing explanations of reality.
 
@@ -452,7 +457,6 @@ It connects:
 - [[Cosmology]]
 - [[Epistemology]]
 - [[Logic]]
-- [[Religion]]
 - [[Meaning & Purpose]]
 
 It demonstrates that every worldview rests upon assumptions about what reality ultimately is, making metaphysics the deepest foundation of philosophical inquiry.
@@ -465,35 +469,33 @@ It demonstrates that every worldview rests upon assumptions about what reality u
 
 - [[Philosophy]]
 - [[Logic]]
-- [[Reason]]
 - [[Critical Thinking]]
 
 ## Enables
 
-- [[Ontology]]
-- [[Philosophy of Mind]]
 - [[Cosmology]]
-- [[Philosophy of Science]]
 
 ## Related
 
 - [[Consciousness]]
 - [[Epistemology]]
-- [[Religion]]
 - [[Physics]]
-
-## Next
-
-→ [[Consciousness]]
 
 ---
 
 # HumanOS Principle
 
-Metaphysics is the branch of philosophy that investigates the most fundamental questions about reality, existence, and being. Through logical reasoning and conceptual analysis, it explores what exists, what it means to exist, how reality is structured, and how concepts such as time, space, causation, identity, and possibility fit into our understanding of the universe. While science explains many features of the natural world, metaphysics examines the foundational assumptions that make scientific and philosophical inquiry possible. :contentReference[oaicite:6]{index=6}
+Metaphysics is the branch of philosophy that investigates the most fundamental questions about reality, existence, and being. Through logical reasoning and conceptual analysis, it explores what exists, what it means to exist, how reality is structured, and how concepts such as time, space, causation, identity, and possibility fit into our understanding of the universe. While science explains many features of the natural world, metaphysics examines the foundational assumptions that make scientific and philosophical inquiry possible.
 
 ---
 
 # Key Insight
 
 > **Metaphysics is humanity's search for reality beneath appearances. Every scientific theory, religious belief, and personal worldview assumes something about what truly exists. Metaphysics examines those assumptions, asking not merely how reality behaves, but what reality fundamentally is.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/10-philosophy--and--spirituality/04---consciousness" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Consciousness</span><span class="os-cta-sub">Consciousness is the state of subjective awareness through which an individual...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

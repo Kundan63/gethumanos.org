@@ -27,7 +27,7 @@ Microbiology explores their:
 - Ecology
 - Interactions with humans and the environment
 
-Microorganisms exist almost everywhere on Earth—from deep oceans and hot springs to polar ice, soil, and even inside the human body. :contentReference[oaicite:0]{index=0}
+Microorganisms exist almost everywhere on Earth—from deep oceans and hot springs to polar ice, soil, and even inside the human body.
 
 ---
 
@@ -54,7 +54,7 @@ Without microbes there would be:
 - No many modern medicines
 - No healthy ecosystems
 
-Microbiology exists because understanding these invisible organisms explains much of the visible world. :contentReference[oaicite:1]{index=1}
+Microbiology exists because understanding these invisible organisms explains much of the visible world.
 
 ---
 
@@ -62,31 +62,38 @@ Microbiology exists because understanding these invisible organisms explains muc
 
 Microbiology studies microscopic life and its interactions with other organisms and the environment.
 
-```text
-           Microorganisms
-                  │
-      ┌───────────┼────────────┐
-      ▼           ▼            ▼
- Bacteria     Fungi      Protozoa & Algae
-      │           │            │
-      └───────────┼────────────┘
-                  ▼
-              Viruses
-                  │
-                  ▼
-        Cells & Ecosystems
-                  │
-                  ▼
- Energy • Nutrients • Disease
-                  │
-                  ▼
- Plants • Animals • Humans
-                  │
-                  ▼
-      Society & Civilization
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Microorganisms</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Bacteria</span> Fungi, Protozoa &amp; Algae</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Viruses</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Cells &amp; Ecosystems</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Energy</span> Nutrients, Disease</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Plants</span> Animals, Humans</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Society &amp; Civilization</span></div>
+</div>
+</div>
 
-Microbiologists use microscopes, cell culture, DNA sequencing, molecular biology, and bioinformatics to understand microbes and their roles in nature and disease. :contentReference[oaicite:2]{index=2}
+Microbiologists use microscopes, cell culture, DNA sequencing, molecular biology, and bioinformatics to understand microbes and their roles in nature and disease.
 
 ---
 
@@ -94,28 +101,40 @@ Microbiologists use microscopes, cell culture, DNA sequencing, molecular biology
 
 Although invisible to our eyes, microbes dominate life on Earth.
 
-```text
-                 Sun
-                  │
-                  ▼
-             Plants
-                  │
-                  ▼
-        Organic Matter
-                  │
-                  ▼
-         Microorganisms
-      ┌───────────┼────────────┐
-      ▼           ▼            ▼
- Decompose   Recycle Nutrients  Produce Oxygen
-      │           │            │
-      └───────────┼────────────┘
-                  ▼
-          Healthy Ecosystems
-                  │
-                  ▼
-             Human Society
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Sun</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Plants</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Organic Matter</span></div>
+</div>
+</div>
+
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Microorganisms</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Decompose</div></div>
+<div class="tree-item"><div class="tree-node">Recycle Nutrients</div></div>
+<div class="tree-item"><div class="tree-node">Produce Oxygen</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Healthy Ecosystems</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Society</span></div>
+</div>
+</div>
 
 Microorganisms are the hidden engines that keep Earth's biological systems functioning.
 
@@ -135,66 +154,49 @@ Microorganisms affect us every day.
 
 They:
 
-- Help digest food.
-- Produce vitamins.
-- Protect against harmful microbes.
-- Cause infectious diseases.
-- Recycle nutrients.
-- Produce antibiotics.
-- Support agriculture.
-- Clean polluted environments.
-- Help manufacture foods and medicines.
+> [!success]
+> - Help digest food.
+> - Produce vitamins.
+> - Protect against harmful microbes.
+> - Cause infectious diseases.
+> - Recycle nutrients.
+> - Produce antibiotics.
+> - Support agriculture.
+> - Clean polluted environments.
+> - Help manufacture foods and medicines.
 
 Understanding microbiology helps humans:
 
-- Prevent disease.
-- Improve nutrition.
-- Develop medicines.
-- Produce safer food.
-- Protect ecosystems.
-- Advance biotechnology. :contentReference[oaicite:3]{index=3}
+> [!success]
+> - Prevent disease.
+> - Improve nutrition.
+> - Develop medicines.
+> - Produce safer food.
+> - Protect ecosystems.
+> - Advance biotechnology.
+
 
 ---
 
 # Daily Life Examples
 
-### 🥣 Yogurt & Cheese
-
-Beneficial bacteria ferment milk to produce yogurt and cheese.
-
----
-
-### 🍞 Bread
-
-Yeast converts sugars into carbon dioxide, causing bread dough to rise.
-
----
-
-### 🧑‍⚕️ Antibiotics
-
-Many antibiotics were discovered from microorganisms that naturally compete with one another.
-
----
-
-### 🌱 Soil Fertility
-
-Microbes recycle nutrients and help plants absorb nitrogen and minerals.
-
----
-
-### 🦠 Gut Microbiome
-
-Trillions of microorganisms living inside the human digestive system help digest food, produce vitamins, and support immunity.
-
----
-
-### ♻ Waste Decomposition
-
-Microorganisms break down dead plants, animals, and organic waste, returning nutrients to the environment.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🥣</span><span class="os-card-title">Yogurt &amp; Cheese</span><span class="os-card-desc">Beneficial bacteria ferment milk to produce yogurt and cheese.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🍞</span><span class="os-card-title">Bread</span><span class="os-card-desc">Yeast converts sugars into carbon dioxide, causing bread dough to rise.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🧑‍⚕️</span><span class="os-card-title">Antibiotics</span><span class="os-card-desc">Many antibiotics were discovered from microorganisms that naturally compete with one another.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌱</span><span class="os-card-title">Soil Fertility</span><span class="os-card-desc">Microbes recycle nutrients and help plants absorb nitrogen and minerals.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🦠</span><span class="os-card-title">Gut Microbiome</span><span class="os-card-desc">Trillions of microorganisms living inside the human digestive system help digest food, produce vitamins, and support immunity.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">♻</span><span class="os-card-title">Waste Decomposition</span><span class="os-card-desc">Microorganisms break down dead plants, animals, and organic waste, returning nutrients to the environment.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Ronald_Ross_Memorial_in_Kolkata_03.jpg?width=1200" alt="The Sir Ronald Ross Memorial in Kolkata, India, commemorating the discovery of how the malaria parasite is transmitted by mosquitoes">
+<p class="domain-figure-caption">Sir Ronald Ross Memorial, Kolkata — marking the discovery of the malaria parasite's mosquito-borne transmission in India — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -378,20 +380,17 @@ It prepares the foundation for [[Botany]] and [[Zoology]], where increasingly co
 
 ## Related
 
-- [[Bacteria]]
-- [[Viruses]]
-- [[Fungi]]
-- [[Protozoa]]
-- [[Human Microbiome]]
-
----
-
-## Next
-
-→ [[Botany]]
+None.
 
 ---
 
 # Key Insight
 
 > **Microbiology reveals that the smallest forms of life have some of the greatest impacts on our world. Microorganisms recycle nutrients, produce oxygen, support digestion, drive biotechnology, cause and prevent disease, and sustain ecosystems. By understanding this invisible world, humanity gains the knowledge to improve health, protect the environment, advance medicine, and appreciate that even the tiniest organisms are essential to life on Earth.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/04-life-sciences/06---botany" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Botany</span><span class="os-cta-sub">Botany explains how plants sustain life on Earth. It reveals how plants capture...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

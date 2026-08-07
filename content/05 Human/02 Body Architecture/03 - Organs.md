@@ -23,7 +23,7 @@ Examples include:
 - 👁 Eyes
 - 🌿 Skin
 
-Each organ contributes to one or more organ systems, and many organs perform functions in multiple systems simultaneously. :contentReference[oaicite:0]{index=0}
+Each organ contributes to one or more organ systems, and many organs perform functions in multiple systems simultaneously.
 
 ---
 
@@ -51,7 +51,7 @@ Without organs there would be:
 - No thinking
 - No reproduction
 
-Organs make multicellular life possible by integrating the abilities of many tissues into one functional unit. :contentReference[oaicite:1]{index=1}
+Organs make multicellular life possible by integrating the abilities of many tissues into one functional unit.
 
 ---
 
@@ -71,21 +71,34 @@ The body survives because organs constantly exchange information, energy, nutrie
 
 Every organ follows the same biological principle.
 
-```text
-                  Organ
-                    │
-     ┌──────────────┼──────────────┐
-     ▼              ▼              ▼
- Epithelial    Connective      Blood Supply
-   Tissue         Tissue            │
-     │              │               │
-     ├──────────────┼───────────────┤
-     ▼              ▼               ▼
- Muscle Tissue  Nervous Tissue   Immune Cells
-                    │
-                    ▼
-             Organ Function
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Organ</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Epithelial Tissue</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Muscle Tissue</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Connective Tissue</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Nervous Tissue</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Organ Function</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Blood Supply</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Immune Cells</div></div>
+</div>
+</div>
+</div>
+</div>
 
 Different organs contain different proportions of these tissues depending on their function.
 
@@ -100,25 +113,56 @@ For example:
 
 # Major Human Organs
 
-```text
-                 Human Organs
-                       │
- ┌─────────────────────┼─────────────────────┐
- ▼                     ▼                     ▼
-Brain               Heart                 Lungs
- ▼                     ▼                     ▼
-Liver              Kidneys              Stomach
- ▼                     ▼                     ▼
-Intestines          Pancreas             Skin
-                       │
-                       ▼
-             Organ Systems
-                       │
-                       ▼
-               Human Survival
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Human Organs</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Brain</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Liver</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Intestines</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Heart</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Kidneys</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Pancreas</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Organ Systems</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Human Survival</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Lungs</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Stomach</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Skin</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-Each organ performs a unique role, yet every organ depends on the others to maintain life. :contentReference[oaicite:2]{index=2}
+Each organ performs a unique role, yet every organ depends on the others to maintain life.
 
 ---
 
@@ -136,21 +180,23 @@ Almost every serious disease affects one or more organs.
 
 Examples include:
 
-- ❤️ Heart attack → Heart
-- 🧠 Stroke → Brain
-- 🫁 Pneumonia → Lungs
-- 🩸 Cirrhosis → Liver
-- 🫘 Kidney failure → Kidneys
-- 🦴 Osteoarthritis → Joints
-- 🦠 Cancer → Nearly any organ
+> [!success]
+> - ❤️ Heart attack → Heart
+> - 🧠 Stroke → Brain
+> - 🫁 Pneumonia → Lungs
+> - 🩸 Cirrhosis → Liver
+> - 🫘 Kidney failure → Kidneys
+> - 🦴 Osteoarthritis → Joints
+> - 🦠 Cancer → Nearly any organ
 
 Understanding organs helps explain:
 
-- Why symptoms occur.
-- Why diseases spread.
-- Why surgeries are performed.
-- Why organ transplantation saves lives.
-- Why prevention protects long-term health.
+> [!success]
+> - Why symptoms occur.
+> - Why diseases spread.
+> - Why surgeries are performed.
+> - Why organ transplantation saves lives.
+> - Why prevention protects long-term health.
 
 Medicine is largely the science of preserving, repairing, or replacing organ function.
 
@@ -195,6 +241,11 @@ The stomach and intestines digest food and absorb nutrients that sustain every o
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sushruta_Statue_Banaras.JPG?width=1200" alt="A statue of Sushruta, the ancient Indian physician known as the father of surgery, in Banaras (Varanasi)">
+<p class="domain-figure-caption">Statue of Sushruta, the ancient Indian surgeon, in Varanasi — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -380,24 +431,12 @@ where multiple organs cooperate to maintain the internal stability required for 
 
 - [[Organ Systems]]
 - [[Homeostasis]]
-- [[Physiology]]
-- [[Disease & Medicine]]
 
 ---
 
 ## Related
 
-- [[Heart]]
 - [[Brain]]
-- [[Lungs]]
-- [[Liver]]
-- [[Kidneys]]
-
----
-
-## Next
-
-→ [[Organ Systems]]
 
 ---
 
@@ -420,3 +459,10 @@ Disease emerges when that cooperation breaks down.
 # Key Insight
 
 > **Organs are the body's specialized biological machines. Built from multiple tissues working together, they perform the essential functions that sustain life—from pumping blood and exchanging oxygen to thinking, digesting food, and filtering waste. Understanding organs reveals why health depends on cooperation, why diseases rarely affect only one part of the body, and why protecting organ function is fundamental to living a long, healthy, and meaningful life.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/02-body-architecture/04---organ-systems" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Organ Systems</span><span class="os-cta-sub">Organ Systems explain how individual organs cooperate to sustain life. No organ...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

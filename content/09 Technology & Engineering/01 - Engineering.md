@@ -1,6 +1,6 @@
 # Engineering
 
-> *Engineering is the systematic application of scientific knowledge, mathematics, creativity, and practical experience to design, build, test, operate, and improve systems, structures, machines, devices, and processes that solve real-world problems while balancing safety, reliability, cost, sustainability, and human needs.* :contentReference[oaicite:0]{index=0}
+> *Engineering is the systematic application of scientific knowledge, mathematics, creativity, and practical experience to design, build, test, operate, and improve systems, structures, machines, devices, and processes that solve real-world problems while balancing safety, reliability, cost, sustainability, and human needs.*
 
 ---
 
@@ -22,7 +22,7 @@ Engineering involves:
 - Optimizing efficiency
 - Managing constraints
 
-Engineering is not simply building machines—it is **systematic problem-solving under real-world constraints.** :contentReference[oaicite:1]{index=1}
+Engineering is not simply building machines—it is **systematic problem-solving under real-world constraints.**
 
 ---
 
@@ -61,18 +61,19 @@ Engineering answers this through systematic design, experimentation, optimizatio
 
 # Components of Engineering
 
-```text
-Engineering
-      │
- ├── Science
- ├── Mathematics
- ├── Design
- ├── Materials
- ├── Systems
- ├── Testing
- ├── Optimization
- └── Ethics
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Engineering</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Science</div></div>
+<div class="tree-item"><div class="tree-node">Mathematics</div></div>
+<div class="tree-item"><div class="tree-node">Design</div></div>
+<div class="tree-item"><div class="tree-node">Materials</div></div>
+<div class="tree-item"><div class="tree-node">Systems</div></div>
+<div class="tree-item"><div class="tree-node">Testing</div></div>
+<div class="tree-item"><div class="tree-node">Optimization</div></div>
+<div class="tree-item"><div class="tree-node">Ethics</div></div>
+</div>
+</div>
 
 Every engineering project combines these elements into a practical solution.
 
@@ -211,30 +212,31 @@ Ethical engineering protects both people and the planet.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:222px"><svg width="100%" viewBox="0 0 222 798" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="186.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="111.1" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Need</text><rect x="18.0" y="90.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Problem Definition</text><rect x="18.0" y="162.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Research</text><rect x="18.0" y="234.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Requirements</text><rect x="18.0" y="306.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Design</text><rect x="18.0" y="378.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Prototype</text><rect x="18.0" y="450.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Testing</text><rect x="18.0" y="522.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Evaluation</text><rect x="18.0" y="594.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Improvement</text><rect x="18.0" y="666.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Production</text><rect x="18.0" y="738.0" width="186.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="111.1" y="764.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Maintenance</text><line x1="111.1" y1="64.0" x2="111.1" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="136.0" x2="111.1" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="208.0" x2="111.1" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="280.0" x2="111.1" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="352.0" x2="111.1" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="424.0" x2="111.1" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="496.0" x2="111.1" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="568.0" x2="111.1" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="640.0" x2="111.1" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="712.0" x2="111.1" y2="732.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Engineering is iterative—solutions are continuously refined as new knowledge and feedback become available. :contentReference[oaicite:2]{index=2}
+Engineering is iterative—solutions are continuously refined as new knowledge and feedback become available.
 
 ---
 
 # Major Branches of Engineering
 
-```text
-Engineering
-      │
- ├── Mechanical
- ├── Civil
- ├── Electrical
- ├── Chemical
- ├── Computer
- ├── Electronics
- ├── Aerospace
- ├── Biomedical
- ├── Materials
- ├── Industrial
- ├── Environmental
- └── Systems
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Engineering</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Mechanical</div></div>
+<div class="tree-item"><div class="tree-node">Civil</div></div>
+<div class="tree-item"><div class="tree-node">Electrical</div></div>
+<div class="tree-item"><div class="tree-node">Chemical</div></div>
+<div class="tree-item"><div class="tree-node">Computer</div></div>
+<div class="tree-item"><div class="tree-node">Electronics</div></div>
+<div class="tree-item"><div class="tree-node">Aerospace</div></div>
+<div class="tree-item"><div class="tree-node">Biomedical</div></div>
+<div class="tree-item"><div class="tree-node">Materials</div></div>
+<div class="tree-item"><div class="tree-node">Industrial</div></div>
+<div class="tree-item"><div class="tree-node">Environmental</div></div>
+<div class="tree-item"><div class="tree-node">Systems</div></div>
+</div>
+</div>
 
-Modern engineering contains many specialized and interdisciplinary fields beyond these major branches. :contentReference[oaicite:3]{index=3}
+Modern engineering contains many specialized and interdisciplinary fields beyond these major branches.
 
 ---
 
@@ -408,16 +410,18 @@ There is rarely a perfect solution—engineering is the art of making the best t
 
 Engineering powers nearly every aspect of modern civilization:
 
-- Buildings
-- Transportation
-- Electronics
-- Medicine
-- Energy
-- Manufacturing
-- Telecommunications
-- Space exploration
-- Agriculture
-- Artificial intelligence
+<div class="tag-grid">
+<span class="tag-pill">Buildings</span>
+<span class="tag-pill">Transportation</span>
+<span class="tag-pill">Electronics</span>
+<span class="tag-pill">Medicine</span>
+<span class="tag-pill">Energy</span>
+<span class="tag-pill">Manufacturing</span>
+<span class="tag-pill">Telecommunications</span>
+<span class="tag-pill">Space exploration</span>
+<span class="tag-pill">Agriculture</span>
+<span class="tag-pill">Artificial intelligence</span>
+</div>
 
 ---
 
@@ -451,14 +455,15 @@ Engineering balances competing constraints such as cost, safety, performance, su
 
 Engineering influences:
 
-- Clean water
-- Electricity
-- Transportation
-- Healthcare
-- Housing
-- Communication
-- Food production
-- Environmental sustainability
+> [!success]
+> - Clean water
+> - Electricity
+> - Transportation
+> - Healthcare
+> - Housing
+> - Communication
+> - Food production
+> - Environmental sustainability
 
 Modern civilization depends on engineered systems working reliably every day.
 
@@ -541,7 +546,6 @@ It connects:
 - [[Electronics]]
 - [[Computing]]
 - [[Artificial Intelligence]]
-- [[Technology]]
 - [[Business]]
 
 It demonstrates that engineering is the bridge between understanding reality and reshaping it to improve human life.
@@ -567,23 +571,23 @@ It demonstrates that engineering is the bridge between understanding reality and
 
 ## Related
 
-- [[Technology]]
-- [[Innovation]]
-- [[Systems]]
-- [[Design]]
-
-## Next
-
-→ [[Electronics]]
+None.
 
 ---
 
 # HumanOS Principle
 
-Engineering is the disciplined process of applying scientific knowledge, mathematics, and creativity to design, build, operate, and improve systems that solve real-world problems. By balancing performance, safety, cost, sustainability, and human needs, engineering transforms ideas into technologies that support health, prosperity, and civilization. :contentReference[oaicite:4]{index=4}
+Engineering is the disciplined process of applying scientific knowledge, mathematics, and creativity to design, build, operate, and improve systems that solve real-world problems. By balancing performance, safety, cost, sustainability, and human needs, engineering transforms ideas into technologies that support health, prosperity, and civilization.
 
 ---
 
 # Key Insight
 
 > **Engineering is humanity's problem-solving engine. Science explains how the world works; engineering uses that understanding to create bridges, computers, medicines, satellites, power grids, and countless other systems that expand human capability. Civilization advances when knowledge is transformed into reliable solutions.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/09-technology--and--engineering/02---electronics" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Electronics</span><span class="os-cta-sub">Electronics is the branch of engineering and applied physics concerned with the...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

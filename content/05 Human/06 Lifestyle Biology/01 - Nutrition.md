@@ -1,6 +1,6 @@
 # Nutrition
 
-> *Nutrition is the biological process by which organisms obtain, digest, absorb, transport, utilize, store, and eliminate nutrients from food. These nutrients provide energy, build and repair tissues, regulate body functions, and support growth, reproduction, immunity, and survival. Nutrition is therefore the primary biological link between the external environment and the internal functioning of the human body.* :contentReference[oaicite:0]{index=0}
+> *Nutrition is the biological process by which organisms obtain, digest, absorb, transport, utilize, store, and eliminate nutrients from food. These nutrients provide energy, build and repair tissues, regulate body functions, and support growth, reproduction, immunity, and survival. Nutrition is therefore the primary biological link between the external environment and the internal functioning of the human body.*
 
 ---
 
@@ -29,7 +29,7 @@ It is the process through which food becomes:
 - Bones
 - Brain cells
 - Immune cells
-- Every living cell of the body. :contentReference[oaicite:1]{index=1}
+- Every living cell of the body.
 
 ---
 
@@ -76,33 +76,44 @@ Everything you eat is eventually transformed into:
 
 # The Nutrition Journey
 
-```text
-Environment
-      │
-      ▼
-Plants & Animals
-      │
-      ▼
-Food
-      │
-      ▼
-Digestion
-      │
-      ▼
-Absorption
-      │
-      ▼
-Bloodstream
-      │
-      ▼
-Cells
-      │
-      ▼
-Energy • Growth • Repair
-      │
-      ▼
-Life
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Environment</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Plants & Animals</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Food</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Digestion</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Absorption</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Bloodstream</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Cells</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">8</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Energy, Growth, Repair</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">9</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Life</span></div>
+</div>
+</div>
 
 Nutrition connects the outside world with every cell inside the body.
 
@@ -112,19 +123,23 @@ Nutrition connects the outside world with every cell inside the body.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:214px"><svg width="100%" viewBox="0 0 214 726" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="178.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="107.0" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Food</text><rect x="18.0" y="90.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Digestive System</text><rect x="18.0" y="162.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Nutrients</text><rect x="18.0" y="234.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Blood Circulation</text><rect x="18.0" y="306.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cells</text><rect x="18.0" y="378.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Metabolism</text><rect x="18.0" y="450.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Energy</text><rect x="18.0" y="522.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Growth</text><rect x="18.0" y="594.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Repair</text><rect x="18.0" y="666.0" width="178.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="107.0" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Storage</text><line x1="107.0" y1="64.0" x2="107.0" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="136.0" x2="107.0" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="208.0" x2="107.0" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="280.0" x2="107.0" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="352.0" x2="107.0" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="424.0" x2="107.0" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="496.0" x2="107.0" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="568.0" x2="107.0" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="640.0" x2="107.0" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Every meal begins a complex biological process involving the digestive, circulatory, endocrine, nervous, immune, and excretory systems. :contentReference[oaicite:2]{index=2}
+Every meal begins a complex biological process involving the digestive, circulatory, endocrine, nervous, immune, and excretory systems.
 
 ---
 
 # The Six Essential Nutrient Groups
 
-```text
-               Nutrients
-                   │
- ┌─────────┬────────┬────────┬────────┬────────┬────────┐
- ▼         ▼        ▼        ▼        ▼        ▼
-Carbs   Protein    Fat   Vitamins Minerals Water
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Nutrients</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Carbs</div></div>
+<div class="tree-item"><div class="tree-node">Protein</div></div>
+<div class="tree-item"><div class="tree-node">Fat</div></div>
+<div class="tree-item"><div class="tree-node">Vitamins</div></div>
+<div class="tree-item"><div class="tree-node">Minerals</div></div>
+<div class="tree-item"><div class="tree-node">Water</div></div>
+</div>
+</div>
 
 These six nutrient groups are essential because together they provide all the materials required for normal human life.
 
@@ -147,7 +162,7 @@ Major sources:
 - Vegetables
 - Legumes
 
-Whole-food carbohydrate sources also provide fiber, vitamins, and minerals. :contentReference[oaicite:3]{index=3}
+Whole-food carbohydrate sources also provide fiber, vitamins, and minerals.
 
 ---
 
@@ -196,7 +211,7 @@ Sources:
 - Fatty fish
 - Avocados
 
-Healthy fats are essential nutrients, while excess intake of saturated and trans fats is associated with increased health risks. :contentReference[oaicite:4]{index=4}
+Healthy fats are essential nutrients, while excess intake of saturated and trans fats is associated with increased health risks.
 
 ---
 
@@ -220,7 +235,7 @@ Vitamins are **organic micronutrients** required in small amounts to regulate me
 | **Vitamin E** | Antioxidant, cell protection | Almonds, sunflower seeds, spinach, avocado, vegetable oils |
 | **Vitamin K** | Blood clotting, bone health | Kale, spinach, broccoli, Brussels sprouts, cabbage |
 
-> A balanced diet rich in vegetables, fruits, legumes, whole grains, nuts, seeds, dairy or fortified alternatives, eggs, and fish or lean meats usually provides sufficient vitamins for most healthy people. :contentReference[oaicite:0]{index=0}
+> A balanced diet rich in vegetables, fruits, legumes, whole grains, nuts, seeds, dairy or fortified alternatives, eggs, and fish or lean meats usually provides sufficient vitamins for most healthy people.
 
 ---
 
@@ -244,7 +259,7 @@ Minerals are **inorganic nutrients** required for building body structures, regu
 | **Chromium** | Glucose metabolism | Whole grains, broccoli, meat |
 | **Fluoride** | Tooth enamel and bone strength | Fluoridated water, tea, seafood |
 
-> Minerals must be obtained from food or water because the human body cannot produce them. Eating a diverse diet of whole foods is the best way to meet mineral requirements. :contentReference[oaicite:1]{index=1}
+> Minerals must be obtained from food or water because the human body cannot produce them. Eating a diverse diet of whole foods is the best way to meet mineral requirements.
 
 ---
 
@@ -269,27 +284,43 @@ Humans survive only a few days without water.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:190px"><svg width="100%" viewBox="0 0 190 726" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="153.7" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="94.8" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Food</text><rect x="18.0" y="90.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Digestion</text><rect x="18.0" y="162.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Glucose</text><rect x="18.0" y="234.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Fatty Acids</text><rect x="18.0" y="306.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Amino Acids</text><rect x="18.0" y="378.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Blood</text><rect x="18.0" y="450.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cells</text><rect x="18.0" y="522.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Mitochondria</text><rect x="18.0" y="594.0" width="153.7" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="94.8" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">ATP</text><rect x="18.0" y="666.0" width="153.7" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="94.8" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Life Processes</text><line x1="94.8" y1="64.0" x2="94.8" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="136.0" x2="94.8" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="208.0" x2="94.8" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="280.0" x2="94.8" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="352.0" x2="94.8" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="424.0" x2="94.8" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="496.0" x2="94.8" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="568.0" x2="94.8" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="94.8" y1="640.0" x2="94.8" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Cells convert nutrients into **ATP**, the universal energy currency used to power virtually every biological process. :contentReference[oaicite:5]{index=5}
+Cells convert nutrients into **ATP**, the universal energy currency used to power virtually every biological process.
 
 ---
 
 # Nutrition Supports Every System
 
-```text
-             Nutrition
-                  │
- ┌──────────┬──────────┬──────────┬──────────┐
- ▼          ▼          ▼          ▼
-Brain     Heart     Muscles   Immune System
- │          │          │          │
- ├──────────┼──────────┼──────────┤
- │          │          │          │
-Hormones Bones Blood Microbiome
- │          │          │          │
- └──────────┼──────────┼──────────┘
-            ▼
-      Whole Body Health
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Nutrition</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Brain</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Hormones</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Heart</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Bones</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Muscles</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Blood</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Immune System</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Microbiome</div></div>
+</div>
+</div>
+</div>
+</div>
+
+→ **Whole Body Health**
 
 Nutrition influences every organ system simultaneously.
 
@@ -309,17 +340,18 @@ Every biological process depends on nutrition.
 
 Nutrition influences:
 
-- Growth
-- Learning
-- Memory
-- Immunity
-- Athletic performance
-- Fertility
-- Mental health
-- Disease risk
-- Healthy aging
+> [!success]
+> - Growth
+> - Learning
+> - Memory
+> - Immunity
+> - Athletic performance
+> - Fertility
+> - Mental health
+> - Disease risk
+> - Healthy aging
 
-Poor nutrition contributes to both nutrient deficiencies and chronic diseases such as obesity, cardiovascular disease, type 2 diabetes, and some cancers. :contentReference[oaicite:6]{index=6}
+Poor nutrition contributes to both nutrient deficiencies and chronic diseases such as obesity, cardiovascular disease, type 2 diabetes, and some cancers.
 
 ---
 
@@ -361,33 +393,53 @@ Balanced nutrition supports normal cognitive function and overall brain health.
 
 # Healthy Nutrition
 
-```text
-             Healthy Nutrition
-                     ▲
-                     │
- ┌───────────────────┼──────────────────┐
- │                   │                  │
-Whole Foods      Variety         Adequacy
- │                   │                  │
- ├───────────────────┼──────────────────┤
- │                   │                  │
-Moderation      Balance      Hydration
- │                   │                  │
- ├───────────────────┼──────────────────┤
- │                   │                  │
-Fiber         Healthy Fats   Micronutrients
- │                   │                  │
- └───────────────────┼──────────────────┘
-                     │
-              Healthy Body
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Healthy Nutrition</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Whole Foods</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Moderation</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Fiber</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Variety</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Balance</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Healthy Fats</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Adequacy</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Hydration</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Micronutrients</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+→ **Healthy Body**
 
 Healthy dietary patterns are based on four core principles:
 
 - **Adequacy** – meeting nutrient needs
 - **Balance** – matching energy intake with expenditure
 - **Moderation** – limiting excessive harmful components
-- **Diversity** – consuming a wide variety of nutritious foods. :contentReference[oaicite:7]{index=7}
+- **Diversity** – consuming a wide variety of nutritious foods.
 
 ---
 
@@ -395,14 +447,13 @@ Healthy dietary patterns are based on four core principles:
 
 Malnutrition includes **both deficiency and excess**.
 
-```text
-Malnutrition
-      │
- ┌────┴────┐
- ▼         ▼
-Undernutrition
-Overnutrition
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Malnutrition</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Undernutrition</div></div>
+<div class="tree-item"><div class="tree-node">Overnutrition</div></div>
+</div>
+</div>
 
 Undernutrition may cause:
 
@@ -418,11 +469,16 @@ Overnutrition may contribute to:
 - Fatty liver disease
 - Cardiovascular disease
 
-Nutrition is therefore about **quality and balance**, not simply eating more or less. :contentReference[oaicite:8]{index=8}
+Nutrition is therefore about **quality and balance**, not simply eating more or less.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Traditional_North_Indian_Thali.jpg?width=1200" alt="A traditional North Indian thali featuring a balanced variety of foods">
+<p class="domain-figure-caption">A traditional North Indian thali, offering a balanced variety of nutrients in one meal — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -486,7 +542,7 @@ Modern nutritional science has enabled:
 - Dietary guidelines
 - Nutrition labeling
 
-These advances help prevent deficiencies and improve public health. :contentReference[oaicite:9]{index=9}
+These advances help prevent deficiencies and improve public health.
 
 ---
 
@@ -504,7 +560,7 @@ Every meal becomes part of you.
 
 ### 🥗 Eat Mostly Whole Foods
 
-Base meals on minimally processed foods such as vegetables, fruits, whole grains, legumes, nuts, seeds, and appropriate protein sources. :contentReference[oaicite:10]{index=10}
+Base meals on minimally processed foods such as vegetables, fruits, whole grains, legumes, nuts, seeds, and appropriate protein sources.
 
 ---
 
@@ -518,7 +574,7 @@ Dietary diversity helps meet nutritional needs.
 
 ### ⚖ Balance Energy Intake
 
-Energy consumed should generally match energy used over time to maintain a healthy body weight. :contentReference[oaicite:11]{index=11}
+Energy consumed should generally match energy used over time to maintain a healthy body weight.
 
 ---
 
@@ -530,7 +586,7 @@ Water is essential for every major physiological process.
 
 ### 🚫 Limit Ultra-Processed Foods
 
-Regularly choosing foods high in added sugars, sodium, and unhealthy fats is associated with increased risk of chronic disease. :contentReference[oaicite:12]{index=12}
+Regularly choosing foods high in added sugars, sodium, and unhealthy fats is associated with increased risk of chronic disease.
 
 ---
 
@@ -548,13 +604,13 @@ One meal rarely determines health, but years of dietary patterns strongly influe
 
 It connects:
 
-- [[Food]] → Nutrients
+- Food → Nutrients
 - [[Digestive System]] → Absorption
-- [[Metabolism]] → Energy
+- Metabolism → Energy
 - [[Cells]] → Growth
 - [[Exercise]] → Performance
 - [[Health & Medicine]] → Disease Prevention
-- [[Longevity]] → Healthy Aging
+- Longevity → Healthy Aging
 
 Understanding nutrition reveals that food is not merely fuel—it is the raw material from which every cell, tissue, and organ is built and maintained.
 
@@ -565,7 +621,6 @@ Understanding nutrition reveals that food is not merely fuel—it is the raw mat
 ## Depends On
 
 - [[Digestive System]]
-- [[Metabolism]]
 - [[Cells]]
 - [[Homeostasis]]
 
@@ -574,26 +629,12 @@ Understanding nutrition reveals that food is not merely fuel—it is the raw mat
 ## Enables
 
 - [[Exercise]]
-- [[Growth]]
-- [[Immunity]]
-- [[Healthspan]]
-- [[Longevity]]
 
 ---
 
 ## Related
 
-- [[Macronutrients]]
-- [[Micronutrients]]
-- [[Hydration]]
-- [[Gut Microbiome]]
 - [[Energy]]
-
----
-
-## Next
-
-→ [[Exercise]]
 
 ---
 
@@ -607,4 +648,11 @@ Every day, food is transformed into energy, tissues, hormones, immune cells, and
 
 # Key Insight
 
-> **Nutrition is the biological process through which food becomes the energy and materials that sustain life. By supplying carbohydrates, proteins, fats, vitamins, minerals, and water, nutrition powers metabolism, builds and repairs tissues, regulates body functions, and supports every organ system. Understanding nutrition reveals that every meal is a biological instruction to the body, making lifelong dietary patterns one of the most powerful determinants of health, disease risk, and longevity.** :contentReference[oaicite:13]{index=13}
+> **Nutrition is the biological process through which food becomes the energy and materials that sustain life. By supplying carbohydrates, proteins, fats, vitamins, minerals, and water, nutrition powers metabolism, builds and repairs tissues, regulates body functions, and supports every organ system. Understanding nutrition reveals that every meal is a biological instruction to the body, making lifelong dietary patterns one of the most powerful determinants of health, disease risk, and longevity.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/06-lifestyle-biology/02---exercise" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Exercise</span><span class="os-cta-sub">Exercise is planned, structured, and repetitive physical activity performed to improve...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

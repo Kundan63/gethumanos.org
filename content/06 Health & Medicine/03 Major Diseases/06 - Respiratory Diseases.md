@@ -1,6 +1,6 @@
 # Respiratory Diseases
 
-> *Respiratory diseases are disorders that affect the airways, lungs, and other structures involved in breathing. They include both acute infectious diseases (such as pneumonia and tuberculosis) and chronic respiratory diseases (such as asthma and chronic obstructive pulmonary disease (COPD)). Respiratory diseases interfere with the body's ability to exchange oxygen and carbon dioxide, reducing oxygen delivery to tissues. The most common chronic respiratory diseases are asthma and COPD, while lung cancer, pneumonia, and tuberculosis are also major global causes of illness and death.* :contentReference[oaicite:0]{index=0}
+> *Respiratory diseases are disorders that affect the airways, lungs, and other structures involved in breathing. They include both acute infectious diseases (such as pneumonia and tuberculosis) and chronic respiratory diseases (such as asthma and chronic obstructive pulmonary disease (COPD)). Respiratory diseases interfere with the body's ability to exchange oxygen and carbon dioxide, reducing oxygen delivery to tissues. The most common chronic respiratory diseases are asthma and COPD, while lung cancer, pneumonia, and tuberculosis are also major global causes of illness and death.*
 
 ---
 
@@ -44,7 +44,7 @@ Every day they encounter:
 - Tobacco smoke
 - Occupational chemicals
 
-Disease develops when these exposures or inherited conditions overwhelm the lungs' defense and repair systems. :contentReference[oaicite:1]{index=1}
+Disease develops when these exposures or inherited conditions overwhelm the lungs' defense and repair systems.
 
 ---
 
@@ -69,32 +69,33 @@ Respiratory diseases impair one or more steps of breathing:
 
 # Major Respiratory Diseases
 
-```text
-Respiratory Diseases
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Asthma
-COPD
-Pneumonia
-Tuberculosis
- │
- ├─────────────┬──────────────┐
- ▼             ▼
-Pulmonary Fibrosis
-Pulmonary Hypertension
- │
- └─────────────┐
-               ▼
-Lung Cancer
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Respiratory Diseases</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Asthma</div></div>
+<div class="tree-item"><div class="tree-node">COPD</div></div>
+<div class="tree-item"><div class="tree-node">Pneumonia</div></div>
+<div class="tree-item">
+<div class="tree-node">Tuberculosis</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Pulmonary Fibrosis</div></div>
+<div class="tree-item">
+<div class="tree-node">Pulmonary Hypertension</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Lung Cancer</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ### 🌬 Asthma
 
 - Chronic inflammation of the airways
 - Reversible airway narrowing
 - Wheezing and breathlessness
-- Most common chronic disease in children :contentReference[oaicite:2]{index=2}
+- Most common chronic disease in children
 
 ---
 
@@ -106,7 +107,7 @@ Progressive airflow limitation caused mainly by:
 - Air pollution
 - Biomass smoke
 
-Usually affects adults and gradually worsens over time. :contentReference[oaicite:3]{index=3}
+Usually affects adults and gradually worsens over time.
 
 ---
 
@@ -146,15 +147,14 @@ Can eventually strain the right side of the heart.
 
 # Complete Causes
 
-```text
-Complete Causes
-      │
- ┌────┼──────────────────────────────┐
- ▼    ▼                              ▼
-Genetics
-Environment
-Lifestyle
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+</div>
+</div>
 
 ---
 
@@ -179,7 +179,7 @@ Causes:
 - Chronic bronchitis
 - Worsening asthma
 
-:contentReference[oaicite:4]{index=4}
+
 
 ---
 
@@ -192,7 +192,7 @@ Includes:
 - Industrial pollution
 - Indoor biomass smoke
 
-Air pollution is one of the most important environmental causes of chronic respiratory disease. :contentReference[oaicite:5]{index=5}
+Air pollution is one of the most important environmental causes of chronic respiratory disease.
 
 ---
 
@@ -228,7 +228,7 @@ Respiratory infections may cause:
 - Tuberculosis
 - Bronchiolitis
 
-Repeated childhood infections can also increase the risk of chronic respiratory disease later in life. :contentReference[oaicite:6]{index=6}
+Repeated childhood infections can also increase the risk of chronic respiratory disease later in life.
 
 ---
 
@@ -300,7 +300,7 @@ Diagnosis may include:
 - Bronchoscopy
 - Lung biopsy (selected cases)
 
-Spirometry is essential for confirming COPD and assessing airflow limitation. :contentReference[oaicite:7]{index=7}
+Spirometry is essential for confirming COPD and assessing airflow limitation.
 
 ---
 
@@ -329,7 +329,7 @@ Treatment depends on the disease.
 - Lung volume reduction surgery
 - Lung transplantation (selected patients)
 
-Neither asthma nor COPD can currently be cured, but appropriate treatment greatly improves symptom control and quality of life. :contentReference[oaicite:8]{index=8}
+Neither asthma nor COPD can currently be cured, but appropriate treatment greatly improves symptom control and quality of life.
 
 ---
 
@@ -345,7 +345,7 @@ Strong evidence supports:
 - Healthy body weight
 - Air quality improvement
 
-Stopping smoking is the single most effective intervention for slowing COPD progression in smokers. :contentReference[oaicite:9]{index=9}
+Stopping smoking is the single most effective intervention for slowing COPD progression in smokers.
 
 ---
 
@@ -430,7 +430,7 @@ Key preventive measures include:
 - Receive recommended influenza and pneumococcal vaccinations where appropriate
 - Treat respiratory infections promptly
 
-:contentReference[oaicite:10]{index=10}
+
 
 ---
 
@@ -475,11 +475,13 @@ Healthy lungs are essential because every organ depends on oxygen.
 
 Understanding respiratory diseases helps people:
 
-- Protect lung function
-- Reduce exposure to harmful pollutants
-- Prevent smoking-related disease
-- Recognize symptoms early
-- Improve long-term quality of life
+> [!success]
+> - Protect lung function
+> - Reduce exposure to harmful pollutants
+> - Prevent smoking-related disease
+> - Recognize symptoms early
+> - Improve long-term quality of life
+
 
 ---
 
@@ -542,7 +544,6 @@ It connects:
 - [[Respiratory System]]
 - [[Infectious Diseases]]
 - [[Chronic Diseases]]
-- [[Air Pollution]]
 - [[Lifestyle Medicine]]
 - [[Preventive Medicine]]
 
@@ -560,30 +561,28 @@ It demonstrates that lung health depends on the interaction of biology, environm
 
 ## Enables
 
-- [[Asthma]]
-- [[COPD]]
-- [[Pulmonary Rehabilitation]]
-- [[Lung Health]]
+None.
 
 ## Related
 
-- [[Air Pollution]]
-- [[Smoking]]
 - [[Infectious Diseases]]
 - [[Exercise]]
-
-## Next
-
-→ [[Digestive Diseases]]
 
 ---
 
 # HumanOS Principle
 
-Respiratory diseases arise when the structures responsible for breathing and gas exchange are damaged by infections, tobacco smoke, air pollution, allergens, occupational exposures, or inherited conditions. Although many chronic respiratory diseases cannot currently be cured, reducing harmful exposures, improving air quality, promoting healthy lifestyles, ensuring timely diagnosis, and providing evidence-based treatment can preserve lung function, improve quality of life, and reduce premature death. :contentReference[oaicite:11]{index=11}
+Respiratory diseases arise when the structures responsible for breathing and gas exchange are damaged by infections, tobacco smoke, air pollution, allergens, occupational exposures, or inherited conditions. Although many chronic respiratory diseases cannot currently be cured, reducing harmful exposures, improving air quality, promoting healthy lifestyles, ensuring timely diagnosis, and providing evidence-based treatment can preserve lung function, improve quality of life, and reduce premature death.
 
 ---
 
 # Key Insight
 
-> **Respiratory diseases are disorders that impair breathing and oxygen exchange by damaging the airways or lungs. Understanding their causes, mechanisms, prevention, and treatment shows that healthy lungs depend not only on biology but also on clean air, healthy behaviors, safe environments, and timely medical care.** :contentReference[oaicite:12]{index=12}
+> **Respiratory diseases are disorders that impair breathing and oxygen exchange by damaging the airways or lungs. Understanding their causes, mechanisms, prevention, and treatment shows that healthy lungs depend not only on biology but also on clean air, healthy behaviors, safe environments, and timely medical care.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/07---digestive-diseases" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Digestive Diseases</span><span class="os-cta-sub">Digestive diseases are disorders that affect the gastrointestinal (GI) tract and...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

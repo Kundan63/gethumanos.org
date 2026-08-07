@@ -1,6 +1,6 @@
 # Health
 
-> *Health is a dynamic state of physical, mental, and social well-being in which the body and mind function effectively, maintain internal balance (homeostasis), adapt to challenges, recover from illness or injury, and enable individuals to live productive and meaningful lives. Health is more than the absence of disease—it is the body's continuous ability to maintain and restore normal function in a changing environment.* :contentReference[oaicite:0]{index=0}
+> *Health is a dynamic state of physical, mental, and social well-being in which the body and mind function effectively, maintain internal balance (homeostasis), adapt to challenges, recover from illness or injury, and enable individuals to live productive and meaningful lives. Health is more than the absence of disease—it is the body's continuous ability to maintain and restore normal function in a changing environment.*
 
 ---
 
@@ -18,7 +18,7 @@ A healthy person can:
 
 Health is **dynamic**, not permanent.
 
-Every moment, the body works to maintain health through countless biological processes. :contentReference[oaicite:1]{index=1}
+Every moment, the body works to maintain health through countless biological processes.
 
 ---
 
@@ -52,26 +52,25 @@ Health answers this by explaining how biological systems maintain balance while 
 
 # The Health System
 
-```text
-Genes
-Environment
-Lifestyle
-Healthcare
-Aging
-      │
-      ▼
-Homeostasis
-      │
- ┌────┼─────────────┐
- ▼    ▼             ▼
-Adaptation Recovery Protection
-      │
-      ▼
-Healthy Function
-      │
-      ▼
-Well-being
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Homeostasis</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genes</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item"><div class="tree-node">Healthcare</div></div>
+<div class="tree-item"><div class="tree-node">Aging</div></div>
+<div class="tree-item"><div class="tree-node">Adaptation</div></div>
+<div class="tree-item"><div class="tree-node">Recovery</div></div>
+<div class="tree-item"><div class="tree-node">Protection</div></div>
+<div class="tree-item">
+<div class="tree-node">Healthy Function</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Well-being</div></div>
+</div>
+</div>
+</div>
+</div>
 
 Health is produced by the interaction of biology, behavior, environment, and society.
 
@@ -79,13 +78,14 @@ Health is produced by the interaction of biology, behavior, environment, and soc
 
 # The Dimensions of Health
 
-```text
-Health
-   │
- ┌─┼──────────────┬────────────┐
- ▼ ▼              ▼            ▼
-Physical     Mental      Social
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Physical</div></div>
+<div class="tree-item"><div class="tree-node">Mental</div></div>
+<div class="tree-item"><div class="tree-node">Social</div></div>
+</div>
+</div>
 
 ---
 
@@ -115,7 +115,7 @@ Mental health includes the ability to:
 - Make decisions
 - Build resilience
 
-Mental health is an essential component of overall health—not something separate from it. :contentReference[oaicite:2]{index=2}
+Mental health is an essential component of overall health—not something separate from it.
 
 ---
 
@@ -152,16 +152,20 @@ The body is continuously responding to:
 
 # What Determines Health?
 
-```text
-Health
-   │
- ┌──┼───────────────┬────────────┐
- ▼  ▼               ▼            ▼
-Genes Lifestyle Environment Healthcare
-                 │
-                 ▼
-Society
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genes</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item">
+<div class="tree-node">Environment</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Society</div></div>
+</div>
+</div>
+<div class="tree-item"><div class="tree-node">Healthcare</div></div>
+</div>
+</div>
 
 Health is influenced by multiple interacting factors.
 
@@ -197,7 +201,7 @@ Health is influenced by multiple interacting factors.
 - Social support
 - Access to healthcare
 
-These are often referred to as the **determinants of health**. :contentReference[oaicite:3]{index=3}
+These are often referred to as the **determinants of health**.
 
 ---
 
@@ -215,19 +219,20 @@ Many diseases develop gradually before symptoms become noticeable.
 
 # Health Supports Every Human System
 
-```text
-Health
-   │
- ┌────┼────┬────┬────┬────┐
- ▼    ▼    ▼    ▼    ▼
-Brain Heart Lungs Immunity Metabolism
-      │
-      ▼
-Movement
-Learning
-Growth
-Recovery
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Brain</div></div>
+<div class="tree-item"><div class="tree-node">Heart</div></div>
+<div class="tree-item"><div class="tree-node">Lungs</div></div>
+<div class="tree-item"><div class="tree-node">Immunity</div></div>
+<div class="tree-item"><div class="tree-node">Metabolism</div></div>
+<div class="tree-item"><div class="tree-node">Movement</div></div>
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Growth</div></div>
+<div class="tree-item"><div class="tree-node">Recovery</div></div>
+</div>
+</div>
 
 When health is maintained, every body system functions more effectively.
 
@@ -245,13 +250,14 @@ Health connects biology, medicine, psychology, society, and the environment.
 
 Good health allows people to:
 
-- Learn
-- Work
-- Build relationships
-- Exercise
-- Recover from illness
-- Enjoy life
-- Age successfully
+> [!success]
+> - Learn
+> - Work
+> - Build relationships
+> - Exercise
+> - Recover from illness
+> - Enjoy life
+> - Age successfully
 
 Poor health limits the body's ability to function and increases the risk of disease, disability, and premature death.
 
@@ -287,30 +293,29 @@ Vaccination helps prevent many infectious diseases before they occur.
 
 # Building Good Health
 
-```text
-Healthy Lifestyle
-        ▲
-        │
- ┌──────┼──────────────┐
- │      │              │
-Nutrition Exercise Sleep
- │      │              │
- ├──────┼──────────────┤
- │      │              │
-Stress Management
-Preventive Care
-Healthy Relationships
- │
- └──────┐
-        ▼
-Better Health
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Healthy Lifestyle</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Exercise</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Stress Management</div></div>
+<div class="tree-item"><div class="tree-node">Preventive Care</div></div>
+<div class="tree-item"><div class="tree-node">Healthy Relationships</div></div>
+<div class="tree-item"><div class="tree-node">Better Health</div></div>
+</div>
+</div>
 
 Health is strengthened through consistent healthy behaviors over time.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/AIIMS_DELHI_Building.jpg?width=1200" alt="The main building of the All India Institute of Medical Sciences (AIIMS) in New Delhi, India's premier public medical institution">
+<p class="domain-figure-caption">AIIMS New Delhi, one of India's leading public hospitals and centers of medical care — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -356,7 +361,7 @@ Healthy populations contribute to:
 - Lower healthcare costs
 - Greater life expectancy
 
-Primary healthcare and disease prevention are major contributors to population health. :contentReference[oaicite:4]{index=4}
+Primary healthcare and disease prevention are major contributors to population health.
 
 ---
 
@@ -432,7 +437,7 @@ It connects:
 - [[Disease]] → Loss of Health
 - [[Diagnosis]] → Identifying Disease
 - [[Preventive Medicine]] → Protecting Health
-- [[Longevity]] → Maintaining Health Over Time
+- Longevity → Maintaining Health Over Time
 
 Health serves as the reference point from which disease, medicine, and healthy aging can be understood.
 
@@ -451,10 +456,7 @@ Health serves as the reference point from which disease, medicine, and healthy a
 
 ## Enables
 
-- [[Disease Prevention]]
-- [[Healthy Aging]]
-- [[Longevity]]
-- [[Quality of Life]]
+None.
 
 ---
 
@@ -464,22 +466,22 @@ Health serves as the reference point from which disease, medicine, and healthy a
 - [[Disease]]
 - [[Risk Factors]]
 - [[Lifestyle Medicine]]
-- [[Public Health]]
-
----
-
-## Next
-
-→ [[Homeostasis]]
 
 ---
 
 # HumanOS Principle
 
-Health is the body's continuous ability to maintain internal balance, adapt to change, recover from injury or illness, and function effectively in everyday life. It emerges from the interaction of biology, lifestyle, environment, and society, and is sustained through homeostasis, healthy behaviors, and appropriate medical care. Understanding health reveals that it is not merely the absence of disease, but the ongoing capacity of living systems to survive, adapt, and thrive. :contentReference[oaicite:5]{index=5}
+Health is the body's continuous ability to maintain internal balance, adapt to change, recover from injury or illness, and function effectively in everyday life. It emerges from the interaction of biology, lifestyle, environment, and society, and is sustained through homeostasis, healthy behaviors, and appropriate medical care. Understanding health reveals that it is not merely the absence of disease, but the ongoing capacity of living systems to survive, adapt, and thrive.
 
 ---
 
 # Key Insight
 
-> **Health is a dynamic state of physical, mental, and social well-being in which the body continuously maintains homeostasis, adapts to challenges, recovers from disruption, and supports normal human function. Rather than being simply the absence of disease, health is an active biological process sustained by healthy lifestyles, supportive environments, effective healthcare, and the remarkable ability of the human body to regulate and repair itself.** :contentReference[oaicite:6]{index=6}
+> **Health is a dynamic state of physical, mental, and social well-being in which the body continuously maintains homeostasis, adapts to challenges, recovers from disruption, and supports normal human function. Rather than being simply the absence of disease, health is an active biological process sustained by healthy lifestyles, supportive environments, effective healthcare, and the remarkable ability of the human body to regulate and repair itself.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/01-foundations-of-health/02---homeostasis" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Homeostasis</span><span class="os-cta-sub">Homeostasis is the dynamic process by which living organisms maintain a relatively...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -20,7 +20,7 @@ It investigates:
 - Plant ecology
 - Plant diversity
 
-Botany seeks to understand how plants function, interact with their environment, and support life across the planet. Modern botany also contributes to agriculture, forestry, medicine, biotechnology, and conservation. :contentReference[oaicite:0]{index=0}
+Botany seeks to understand how plants function, interact with their environment, and support life across the planet. Modern botany also contributes to agriculture, forestry, medicine, biotechnology, and conservation.
 
 ---
 
@@ -42,7 +42,7 @@ Without plants there would be:
 - No stable terrestrial ecosystems
 - No human civilization as we know it
 
-Botany exists because understanding plants is essential to understanding life itself. :contentReference[oaicite:1]{index=1}
+Botany exists because understanding plants is essential to understanding life itself.
 
 ---
 
@@ -50,31 +50,40 @@ Botany exists because understanding plants is essential to understanding life it
 
 Botany studies how plants convert solar energy into biological life.
 
-```text
-             ☀ Sun
-               │
-               ▼
-         Photosynthesis
-               │
-               ▼
-        Plant Growth
-               │
-               ▼
- Leaves • Roots • Stems • Flowers
-               │
-               ▼
- Fruits • Seeds
-               │
-               ▼
- Animals • Humans
-               │
-               ▼
- Ecosystems & Civilization
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">☀ Sun</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Photosynthesis</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Plant Growth</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Leaves</span> Roots, Stems, Flowers</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Fruits</span> Seeds</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Animals</span> Humans</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Ecosystems &amp; Civilization</span></div>
+</div>
+</div>
 
 Plants continuously exchange energy and matter with the environment while interacting with soil, water, microorganisms, insects, animals, and climate.
 
-Botany combines genetics, cell biology, chemistry, ecology, and evolution to explain these processes. :contentReference[oaicite:2]{index=2}
+Botany combines genetics, cell biology, chemistry, ecology, and evolution to explain these processes.
 
 ---
 
@@ -82,27 +91,45 @@ Botany combines genetics, cell biology, chemistry, ecology, and evolution to exp
 
 Plants connect the Sun to every major ecosystem on Earth.
 
-```text
-                    ☀ Sun
-                       │
-                       ▼
-               🌿 Plants
-         (Primary Producers)
-                       │
-       ┌───────────────┼────────────────┐
-       ▼               ▼                ▼
-    Oxygen          Food          Biomass
-       │               │                │
-       ▼               ▼                ▼
- Animals        Human Society      Ecosystems
-       │               │                │
-       └───────────────┼────────────────┘
-                       ▼
-             Climate Regulation
-                       │
-                       ▼
-                Human Civilization
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">☀ Sun</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">🌿 Plants (Primary Producers)</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Oxygen</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Animals</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Food</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Human Society</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Biomass</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Ecosystems</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Climate Regulation</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Civilization</span></div>
+</div>
+</div>
 
 Plants are the biological bridge between solar energy and nearly all animal life.
 
@@ -122,72 +149,51 @@ Every human depends on plants every day.
 
 Plants provide:
 
-- 🌬 Oxygen for breathing
-- 🍎 Food for nearly every diet
-- 💊 Medicines
-- 🪵 Building materials
-- 👕 Fibres such as cotton
-- 📄 Paper
-- 🌳 Forests
-- ☔ Climate regulation
-- 🌧 Water cycle support
-- 🐝 Habitats for pollinators
+> [!success]
+> - 🌬 Oxygen for breathing
+> - 🍎 Food for nearly every diet
+> - 💊 Medicines
+> - 🪵 Building materials
+> - 👕 Fibres such as cotton
+> - 📄 Paper
+> - 🌳 Forests
+> - ☔ Climate regulation
+> - 🌧 Water cycle support
+> - 🐝 Habitats for pollinators
 
 Understanding botany helps humans:
 
-- Produce more food sustainably.
-- Improve agriculture.
-- Protect forests.
-- Develop medicines.
-- Preserve biodiversity.
-- Reduce climate impacts.
-- Build a healthier relationship with nature. :contentReference[oaicite:3]{index=3}
+> [!success]
+> - Produce more food sustainably.
+> - Improve agriculture.
+> - Protect forests.
+> - Develop medicines.
+> - Preserve biodiversity.
+> - Reduce climate impacts.
+> - Build a healthier relationship with nature.
+
 
 ---
 
 # Daily Life Examples
 
-### 🍎 Food
-
-Almost every meal begins with plants.
-
-Even meat, eggs, and dairy ultimately depend on plants because animals obtain energy from plant-based food chains.
-
----
-
-### 🌬 Breathing
-
-Plants release oxygen during photosynthesis while removing carbon dioxide from the atmosphere.
-
----
-
-### 💊 Medicines
-
-Many important medicines originate directly or indirectly from plants.
-
-Examples include aspirin, quinine, and numerous modern pharmaceuticals derived from plant compounds.
-
----
-
-### 🌾 Agriculture
-
-Understanding plant biology allows farmers to improve crop yields, reduce disease, conserve water, and produce food more sustainably.
-
----
-
-### 🌳 Forests
-
-Forests regulate climate, store carbon, protect soils, support biodiversity, and help maintain freshwater supplies.
-
----
-
-### 👕 Clothing & Materials
-
-Cotton, linen, natural rubber, timber, bamboo, cork, and paper all originate from plants.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🍎</span><span class="os-card-title">Food</span><span class="os-card-desc">Almost every meal begins with plants. Even meat, eggs, and dairy ultimately depend on plants because animals obtain energy from plant-based food chains.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌬</span><span class="os-card-title">Breathing</span><span class="os-card-desc">Plants release oxygen during photosynthesis while removing carbon dioxide from the atmosphere.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">💊</span><span class="os-card-title">Medicines</span><span class="os-card-desc">Many important medicines originate directly or indirectly from plants. Examples include aspirin, quinine, and numerous modern pharmaceuticals derived from plant compounds.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌾</span><span class="os-card-title">Agriculture</span><span class="os-card-desc">Understanding plant biology allows farmers to improve crop yields, reduce disease, conserve water, and produce food more sustainably.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌳</span><span class="os-card-title">Forests</span><span class="os-card-desc">Forests regulate climate, store carbon, protect soils, support biodiversity, and help maintain freshwater supplies.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">👕</span><span class="os-card-title">Clothing &amp; Materials</span><span class="os-card-desc">Cotton, linen, natural rubber, timber, bamboo, cork, and paper all originate from plants.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/J.C.Bose.JPG?width=1200" alt="Portrait of Sir Jagadish Chandra Bose, the Indian scientist who pioneered research into plant physiology">
+<p class="domain-figure-caption">Sir Jagadish Chandra Bose, pioneer of plant physiology research in India — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -368,7 +374,6 @@ It prepares the foundation for [[Zoology]], where we examine the evolution and d
 
 - [[Zoology]]
 - [[Biodiversity]]
-- [[Agriculture]]
 - [[Health & Medicine]]
 - [[Environmental Science]]
 
@@ -376,20 +381,17 @@ It prepares the foundation for [[Zoology]], where we examine the evolution and d
 
 ## Related
 
-- [[Photosynthesis]]
-- [[Plant Cells]]
-- [[Forests]]
-- [[Food Chains]]
-- [[Ecosystems]]
-
----
-
-## Next
-
-→ [[Zoology]]
+None.
 
 ---
 
 # Key Insight
 
 > **Plants are Earth's primary life-support system. They transform sunlight into food, produce the oxygen we breathe, regulate climate, build ecosystems, and sustain nearly every form of life. Understanding botany helps humanity improve agriculture, protect biodiversity, develop medicines, and recognize that caring for plants is ultimately caring for ourselves and future generations.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/04-life-sciences/07---zoology" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Zoology</span><span class="os-cta-sub">Zoology explains the diversity of animal life. It reveals how animals evolved,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -316,12 +316,15 @@ A good decision strengthens the system as a whole.
 - [[HumanOS Manifesto]]
 - [[The Journey Continues]]
 
-## Next
-
-→ [[HumanOS Manifesto]]
-
 ---
 
 # HumanOS Principle
 
 > **A meaningful life is not created by maximizing one domain while neglecting the rest. It is created by designing health, understanding, relationships, meaningful work, responsible contribution, and legacy as one integrated system. HumanOS Life Architecture provides that design, helping every decision strengthen the whole rather than optimize isolated parts.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/12-humanos/08---humanos-manifesto" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: HumanOS Manifesto</span><span class="os-cta-sub">This is the declaration of HumanOS.</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

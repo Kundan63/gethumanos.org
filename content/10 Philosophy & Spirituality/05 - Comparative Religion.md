@@ -1,6 +1,6 @@
 # Comparative Religion
 
-> *Comparative Religion is the academic study of the world's religious traditions through the systematic comparison of their beliefs, practices, ethics, rituals, histories, sacred texts, institutions, and cultural roles. Rather than evaluating which religion is true or false, comparative religion seeks to understand similarities, differences, historical development, and the ways religions address common human questions about existence, morality, suffering, purpose, and the sacred.* :contentReference[oaicite:0]{index=0}
+> *Comparative Religion is the academic study of the world's religious traditions through the systematic comparison of their beliefs, practices, ethics, rituals, histories, sacred texts, institutions, and cultural roles. Rather than evaluating which religion is true or false, comparative religion seeks to understand similarities, differences, historical development, and the ways religions address common human questions about existence, morality, suffering, purpose, and the sacred.*
 
 ---
 
@@ -19,7 +19,7 @@ It asks questions such as:
 
 Unlike theology, comparative religion does **not** begin by assuming one religion is correct.
 
-Instead, it studies religions as historical, philosophical, cultural, and social systems. :contentReference[oaicite:1]{index=1}
+Instead, it studies religions as historical, philosophical, cultural, and social systems.
 
 ---
 
@@ -55,18 +55,19 @@ Comparative religion answers this by studying religious traditions respectfully,
 
 # Components of Comparative Religion
 
-```text
-Comparative Religion
-         │
- ├── Beliefs
- ├── Sacred Texts
- ├── Rituals
- ├── Ethics
- ├── Worship
- ├── History
- ├── Culture
- └── Worldviews
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Comparative Religion</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Beliefs</div></div>
+<div class="tree-item"><div class="tree-node">Sacred Texts</div></div>
+<div class="tree-item"><div class="tree-node">Rituals</div></div>
+<div class="tree-item"><div class="tree-node">Ethics</div></div>
+<div class="tree-item"><div class="tree-node">Worship</div></div>
+<div class="tree-item"><div class="tree-node">History</div></div>
+<div class="tree-item"><div class="tree-node">Culture</div></div>
+<div class="tree-item"><div class="tree-node">Worldviews</div></div>
+</div>
+</div>
 
 These elements provide the basis for comparing religious traditions.
 
@@ -211,27 +212,28 @@ Comparative religion examines these worldviews systematically.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:230px"><svg width="100%" viewBox="0 0 230 654" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="194.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="115.1" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Religious Tradition</text><rect x="18.0" y="90.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Beliefs</text><rect x="18.0" y="162.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Practices</text><rect x="18.0" y="234.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">History</text><rect x="18.0" y="306.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Ethics</text><rect x="18.0" y="378.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Comparison</text><rect x="18.0" y="450.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Patterns</text><rect x="18.0" y="522.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Differences</text><rect x="18.0" y="594.0" width="194.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="115.1" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Understanding</text><line x1="115.1" y1="64.0" x2="115.1" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="136.0" x2="115.1" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="208.0" x2="115.1" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="280.0" x2="115.1" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="352.0" x2="115.1" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="424.0" x2="115.1" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="496.0" x2="115.1" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="568.0" x2="115.1" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Comparison seeks understanding rather than ranking religions. :contentReference[oaicite:2]{index=2}
+Comparison seeks understanding rather than ranking religions.
 
 ---
 
 # Major Religious Traditions
 
-```text
-World Religions
-      │
- ├── Hinduism
- ├── Buddhism
- ├── Judaism
- ├── Christianity
- ├── Islam
- ├── Sikhism
- ├── Daoism
- ├── Confucianism
- ├── Shinto
- ├── Indigenous Traditions
- └── New Religious Movements
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">World Religions</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Hinduism</div></div>
+<div class="tree-item"><div class="tree-node">Buddhism</div></div>
+<div class="tree-item"><div class="tree-node">Judaism</div></div>
+<div class="tree-item"><div class="tree-node">Christianity</div></div>
+<div class="tree-item"><div class="tree-node">Islam</div></div>
+<div class="tree-item"><div class="tree-node">Sikhism</div></div>
+<div class="tree-item"><div class="tree-node">Daoism</div></div>
+<div class="tree-item"><div class="tree-node">Confucianism</div></div>
+<div class="tree-item"><div class="tree-node">Shinto</div></div>
+<div class="tree-item"><div class="tree-node">Indigenous Traditions</div></div>
+<div class="tree-item"><div class="tree-node">New Religious Movements</div></div>
+</div>
+</div>
 
 Comparative religion studies each tradition within its own historical and cultural context.
 
@@ -279,7 +281,7 @@ Understanding these differences is central to comparative religion.
 | Compares multiple religions | Explores one faith's teachings |
 | Methodologically neutral | May begin from religious commitments |
 
-These fields are related but have different goals. :contentReference[oaicite:3]{index=3}
+These fields are related but have different goals.
 
 ---
 
@@ -287,14 +289,16 @@ These fields are related but have different goals. :contentReference[oaicite:3]{
 
 Comparative Religion contributes to:
 
-- Education
-- History
-- Anthropology
-- Philosophy
-- Sociology
-- Cultural studies
-- Diplomacy
-- Interfaith dialogue
+<div class="tag-grid">
+<span class="tag-pill">Education</span>
+<span class="tag-pill">History</span>
+<span class="tag-pill">Anthropology</span>
+<span class="tag-pill">Philosophy</span>
+<span class="tag-pill">Sociology</span>
+<span class="tag-pill">Cultural studies</span>
+<span class="tag-pill">Diplomacy</span>
+<span class="tag-pill">Interfaith dialogue</span>
+</div>
 
 Understanding religions improves cultural literacy and global cooperation.
 
@@ -306,7 +310,7 @@ Understanding religions improves cultural literacy and global cooperation.
 
 **Reality:**
 
-Its goal is understanding and comparison rather than determining religious truth. :contentReference[oaicite:4]{index=4}
+Its goal is understanding and comparison rather than determining religious truth.
 
 ---
 
@@ -330,11 +334,12 @@ Comparative religion studies religions academically, whereas theology usually ex
 
 Comparative Religion helps people:
 
-- Understand different cultures
-- Reduce prejudice
-- Appreciate historical diversity
-- Engage respectfully with differing beliefs
-- Recognize both shared humanity and genuine differences
+> [!success]
+> - Understand different cultures
+> - Reduce prejudice
+> - Appreciate historical diversity
+> - Engage respectfully with differing beliefs
+> - Recognize both shared humanity and genuine differences
 
 In an interconnected world, religious literacy supports peaceful coexistence.
 
@@ -434,9 +439,6 @@ It demonstrates that understanding religion is essential for understanding human
 
 ## Enables
 
-- [[Intercultural Understanding]]
-- [[Religious Literacy]]
-- [[Interfaith Dialogue]]
 - [[History]]
 
 ## Related
@@ -446,18 +448,21 @@ It demonstrates that understanding religion is essential for understanding human
 - [[Ethics]]
 - [[Meaning & Purpose]]
 
-## Next
-
-→ [[Spirituality]]
-
 ---
 
 # HumanOS Principle
 
-Comparative Religion is the academic study of the world's religious traditions through the systematic comparison of their beliefs, practices, histories, ethics, and worldviews. By examining religions objectively and within their historical and cultural contexts, it promotes deeper understanding of humanity's diverse responses to life's fundamental questions while fostering religious literacy, intercultural understanding, and respectful dialogue. :contentReference[oaicite:5]{index=5}
+Comparative Religion is the academic study of the world's religious traditions through the systematic comparison of their beliefs, practices, histories, ethics, and worldviews. By examining religions objectively and within their historical and cultural contexts, it promotes deeper understanding of humanity's diverse responses to life's fundamental questions while fostering religious literacy, intercultural understanding, and respectful dialogue.
 
 ---
 
 # Key Insight
 
 > **Comparative Religion is humanity's map of spiritual diversity. Across continents and centuries, people have asked many of the same profound questions about existence, morality, suffering, and purpose. Studying these traditions comparatively reveals both the remarkable diversity of human belief and the shared search for meaning that connects civilizations across history.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/10-philosophy--and--spirituality/06---spirituality" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Spirituality</span><span class="os-cta-sub">Spirituality is the human search for meaning, purpose, connection, and inner...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

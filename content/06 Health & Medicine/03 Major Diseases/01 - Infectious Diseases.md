@@ -1,6 +1,6 @@
 # Infectious Diseases
 
-> *Infectious diseases are illnesses caused by pathogenic microorganisms—including bacteria, viruses, fungi, parasites, and prions—that invade the body, multiply, and disrupt normal biological function. These diseases may spread directly or indirectly between people, from animals to humans, through contaminated food or water, or via vectors such as mosquitoes and ticks. Infectious diseases remain one of the leading causes of illness and death worldwide, but many are preventable through hygiene, sanitation, vaccination, safe food and water, vector control, and appropriate medical treatment.* :contentReference[oaicite:0]{index=0}
+> *Infectious diseases are illnesses caused by pathogenic microorganisms—including bacteria, viruses, fungi, parasites, and prions—that invade the body, multiply, and disrupt normal biological function. These diseases may spread directly or indirectly between people, from animals to humans, through contaminated food or water, or via vectors such as mosquitoes and ticks. Infectious diseases remain one of the leading causes of illness and death worldwide, but many are preventable through hygiene, sanitation, vaccination, safe food and water, vector control, and appropriate medical treatment.*
 
 ---
 
@@ -35,7 +35,7 @@ Some evolved the ability to:
 - Evade immune defenses
 - Reproduce inside living organisms
 
-Disease occurs when the interaction between the pathogen and the host overwhelms the body's normal defenses. :contentReference[oaicite:1]{index=1}
+Disease occurs when the interaction between the pathogen and the host overwhelms the body's normal defenses.
 
 ---
 
@@ -59,25 +59,22 @@ Disease spreads only when every link in the chain is present.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:206px"><svg width="100%" viewBox="0 0 206 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="169.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="103.0" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Pathogen</text><rect x="18.0" y="90.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Reservoir</text><rect x="18.0" y="162.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Exit</text><rect x="18.0" y="234.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Transmission</text><rect x="18.0" y="306.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Entry</text><rect x="18.0" y="378.0" width="169.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="103.0" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Susceptible Host</text><line x1="103.0" y1="64.0" x2="103.0" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="136.0" x2="103.0" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="208.0" x2="103.0" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="280.0" x2="103.0" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="352.0" x2="103.0" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Breaking **any one** of these links can prevent infection. Infection prevention and control strategies are built around interrupting this chain. :contentReference[oaicite:2]{index=2}
+Breaking **any one** of these links can prevent infection. Infection prevention and control strategies are built around interrupting this chain.
 
 ---
 
 # Types of Pathogens
 
-```text
-Pathogens
-     │
- ┌───┼──────────────┬──────────────┐
- ▼   ▼              ▼              ▼
-Bacteria
-Viruses
-Fungi
-Parasites
-     │
-     ▼
-Prions
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Pathogens</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Bacteria</div></div>
+<div class="tree-item"><div class="tree-node">Viruses</div></div>
+<div class="tree-item"><div class="tree-node">Fungi</div></div>
+<div class="tree-item"><div class="tree-node">Parasites</div></div>
+<div class="tree-item"><div class="tree-node">Prions</div></div>
+</div>
+</div>
 
 ---
 
@@ -92,7 +89,7 @@ Examples:
 - Typhoid
 - Pneumonia
 
-Many bacterial infections are treatable with antibiotics, although antimicrobial resistance is an increasing global challenge. :contentReference[oaicite:3]{index=3}
+Many bacterial infections are treatable with antibiotics, although antimicrobial resistance is an increasing global challenge.
 
 ---
 
@@ -148,15 +145,14 @@ Examples:
 
 An infectious disease develops only when several factors align.
 
-```text
-Complete Causes
-      │
- ┌────┼──────────────────────────┐
- ▼    ▼                          ▼
-Pathogen Exposure
-Weak Host Defenses
-Transmission Opportunity
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Pathogen Exposure</div></div>
+<div class="tree-item"><div class="tree-node">Weak Host Defenses</div></div>
+<div class="tree-item"><div class="tree-node">Transmission Opportunity</div></div>
+</div>
+</div>
 
 ### Direct Cause
 
@@ -201,22 +197,21 @@ Transmission Opportunity
 - Domestic animals
 - Wildlife
 
-Many emerging infections originate from animals (**zoonoses**) before spreading to humans. :contentReference[oaicite:4]{index=4}
+Many emerging infections originate from animals (**zoonoses**) before spreading to humans.
 
 ---
 
 # Routes of Transmission
 
-```text
-Transmission
-      │
- ┌────┼───────────────┬─────────────┐
- ▼    ▼               ▼             ▼
-Direct Contact
-Airborne
-Food & Water
-Vectors
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Transmission</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Direct Contact</div></div>
+<div class="tree-item"><div class="tree-node">Airborne</div></div>
+<div class="tree-item"><div class="tree-node">Food &amp; Water</div></div>
+<div class="tree-item"><div class="tree-node">Vectors</div></div>
+</div>
+</div>
 
 ### Direct Contact
 
@@ -257,7 +252,7 @@ Examples:
 - Dengue
 - Lyme disease
 
-Mosquitoes, ticks, fleas, and other vectors transmit pathogens between hosts. :contentReference[oaicite:5]{index=5}
+Mosquitoes, ticks, fleas, and other vectors transmit pathogens between hosts.
 
 ---
 
@@ -317,7 +312,7 @@ Treatment depends on the type of pathogen.
 | Parasites | Antiparasitic medicines |
 | Prions | Supportive care (no curative treatment currently available) |
 
-Antibiotics do **not** treat viral infections. Appropriate antimicrobial use is essential to reduce resistance. :contentReference[oaicite:6]{index=6}
+Antibiotics do **not** treat viral infections. Appropriate antimicrobial use is essential to reduce resistance.
 
 ---
 
@@ -395,7 +390,7 @@ Traditional goals include supporting digestion, recovery, and general resistance
 
 ### Current Scientific Evidence
 
-Some herbs have shown promising laboratory or early clinical findings, but evidence is generally insufficient to replace antibiotics, antivirals, antifungals, antiparasitic medicines, or vaccines for treating infectious diseases. Ayurvedic practices are best considered complementary when used under qualified guidance. :contentReference[oaicite:7]{index=7}
+Some herbs have shown promising laboratory or early clinical findings, but evidence is generally insufficient to replace antibiotics, antivirals, antifungals, antiparasitic medicines, or vaccines for treating infectious diseases. Ayurvedic practices are best considered complementary when used under qualified guidance.
 
 ### Safety
 
@@ -407,16 +402,15 @@ Some herbs have shown promising laboratory or early clinical findings, but evide
 
 # Prevention
 
-```text
-Prevention
-     │
- ┌───┼───────────────┬──────────────┐
- ▼   ▼               ▼              ▼
-Vaccination
-Hand Hygiene
-Safe Water
-Vector Control
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Prevention</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Vaccination</div></div>
+<div class="tree-item"><div class="tree-node">Hand Hygiene</div></div>
+<div class="tree-item"><div class="tree-node">Safe Water</div></div>
+<div class="tree-item"><div class="tree-node">Vector Control</div></div>
+</div>
+</div>
 
 Key preventive measures include:
 
@@ -430,7 +424,7 @@ Key preventive measures include:
 - Appropriate use of personal protective equipment
 - Isolation when necessary
 
-These measures interrupt the chain of infection and reduce transmission. :contentReference[oaicite:8]{index=8}
+These measures interrupt the chain of infection and reduce transmission.
 
 ---
 
@@ -474,13 +468,14 @@ Many infectious diseases are curable or controllable when recognized early.
 
 Understanding infectious diseases helps people:
 
-- Prevent infection.
-- Protect vulnerable populations.
-- Use antibiotics responsibly.
-- Respond effectively during outbreaks.
-- Support vaccination and public health measures.
+> [!success]
+> - Prevent infection.
+> - Protect vulnerable populations.
+> - Use antibiotics responsibly.
+> - Respond effectively during outbreaks.
+> - Support vaccination and public health measures.
 
-Communicable diseases remain a major global cause of illness and death, particularly in low-resource settings. :contentReference[oaicite:9]{index=9}
+Communicable diseases remain a major global cause of illness and death, particularly in low-resource settings.
 
 ---
 
@@ -546,7 +541,6 @@ It connects:
 - [[Immune System]]
 - [[Vaccination]]
 - [[Preventive Medicine]]
-- [[Public Health]]
 - [[Disease Mechanisms]]
 
 It demonstrates how understanding pathogens, transmission, immunity, and prevention enables humans to reduce one of the oldest threats to health.
@@ -564,30 +558,26 @@ It demonstrates how understanding pathogens, transmission, immunity, and prevent
 ## Enables
 
 - [[Vaccination]]
-- [[Public Health]]
-- [[Infection Prevention]]
-- [[Antimicrobial Therapy]]
 
 ## Related
 
-- [[Bacteria]]
-- [[Viruses]]
-- [[Fungi]]
-- [[Parasites]]
-- [[Zoonoses]]
-
-## Next
-
-→ [[Chronic Diseases]]
+None.
 
 ---
 
 # HumanOS Principle
 
-Infectious diseases arise when pathogenic microorganisms successfully invade the body, evade or overwhelm immune defenses, and disrupt normal biological function. Their occurrence depends not only on the pathogen but also on host susceptibility, environmental conditions, and opportunities for transmission. Modern medicine controls infectious diseases through a combination of vaccination, hygiene, sanitation, safe food and water, vector control, accurate diagnosis, and targeted antimicrobial treatment, illustrating that prevention is often the most powerful defense against infection. :contentReference[oaicite:10]{index=10}
+Infectious diseases arise when pathogenic microorganisms successfully invade the body, evade or overwhelm immune defenses, and disrupt normal biological function. Their occurrence depends not only on the pathogen but also on host susceptibility, environmental conditions, and opportunities for transmission. Modern medicine controls infectious diseases through a combination of vaccination, hygiene, sanitation, safe food and water, vector control, accurate diagnosis, and targeted antimicrobial treatment, illustrating that prevention is often the most powerful defense against infection.
 
 ---
 
 # Key Insight
 
-> **Infectious diseases are illnesses caused by pathogenic microorganisms that spread through identifiable routes and follow predictable biological mechanisms. By understanding how pathogens are transmitted, how the immune system responds, and how prevention and treatment interrupt the chain of infection, humans can dramatically reduce illness, disability, and death while protecting both individuals and communities.** :contentReference[oaicite:11]{index=11}
+> **Infectious diseases are illnesses caused by pathogenic microorganisms that spread through identifiable routes and follow predictable biological mechanisms. By understanding how pathogens are transmitted, how the immune system responds, and how prevention and treatment interrupt the chain of infection, humans can dramatically reduce illness, disability, and death while protecting both individuals and communities.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/02---chronic-diseases" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Chronic Diseases</span><span class="os-cta-sub">Chronic diseases, also called noncommunicable diseases (NCDs), are long-lasting...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

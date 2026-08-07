@@ -1,6 +1,6 @@
 # Politics
 
-> *Politics is the process through which individuals, groups, and governments make collective decisions about shared problems, resolve conflicts, and allocate limited resources. Politics determines **who gets what, when, how, and why**, shaping laws, public policies, institutions, and the distribution of power within society. Because people have different interests, values, and priorities, politics exists wherever collective decisions must be made.* :contentReference[oaicite:0]{index=0}
+> *Politics is the process through which individuals, groups, and governments make collective decisions about shared problems, resolve conflicts, and allocate limited resources. Politics determines **who gets what, when, how, and why**, shaping laws, public policies, institutions, and the distribution of power within society. Because people have different interests, values, and priorities, politics exists wherever collective decisions must be made.*
 
 ---
 
@@ -30,7 +30,7 @@ Examples:
 - A village allocating water.
 - A nation creating laws.
 
-Politics exists because humans live together. :contentReference[oaicite:1]{index=1}
+Politics exists because humans live together.
 
 ---
 
@@ -57,7 +57,7 @@ Politics exists to help societies:
 - Protect rights
 - Promote the common good
 
-Without politics, large societies could not function. :contentReference[oaicite:2]{index=2}
+Without politics, large societies could not function.
 
 ---
 
@@ -77,22 +77,22 @@ Politics provides institutions and processes that organize society and manage co
 
 # Core Components of Politics
 
-```text
-Politics
-     │
- ┌───┼──────────────┬──────────────┐
- ▼   ▼              ▼              ▼
-Power
-Government
-Public Policy
-Citizens
- │
- ├────────────┬──────────────┬──────────────┐
- ▼            ▼              ▼
-Rights
-Law
-Institutions
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Politics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Power</div></div>
+<div class="tree-item"><div class="tree-node">Government</div></div>
+<div class="tree-item"><div class="tree-node">Public Policy</div></div>
+<div class="tree-item">
+<div class="tree-node">Citizens</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Rights</div></div>
+<div class="tree-item"><div class="tree-node">Law</div></div>
+<div class="tree-item"><div class="tree-node">Institutions</div></div>
+</div>
+</div>
+</div>
+</div>
 
 Politics connects citizens with government through systems of decision making.
 
@@ -111,7 +111,7 @@ Power may come from:
 - Wealth
 - Public support
 
-Politics studies how power is gained, used, shared, and limited. :contentReference[oaicite:3]{index=3}
+Politics studies how power is gained, used, shared, and limited.
 
 ---
 
@@ -143,7 +143,7 @@ Examples:
 - Tax policy
 - Transportation policy
 
-Politics determines which policies are adopted. :contentReference[oaicite:4]{index=4}
+Politics determines which policies are adopted.
 
 ---
 
@@ -164,14 +164,15 @@ Politics depends on citizen participation as well as political institutions.
 
 # Levels of Politics
 
-```text
-Politics
-      │
- ├── Local
- ├── Regional
- ├── National
- └── International
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Politics</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Local</div></div>
+<div class="tree-item"><div class="tree-node">Regional</div></div>
+<div class="tree-item"><div class="tree-node">National</div></div>
+<div class="tree-item"><div class="tree-node">International</div></div>
+</div>
+</div>
 
 Political decision making occurs at many levels simultaneously.
 
@@ -212,17 +213,24 @@ Examples:
 
 # Political Institutions
 
-```text
-Citizens
-     │
-Elections
-     │
-Government
-     │
- ├── Legislature
- ├── Executive
- └── Judiciary
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Citizens</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Elections</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Government</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Legislature</div></div>
+<div class="tree-item"><div class="tree-node">Executive</div></div>
+<div class="tree-item"><div class="tree-node">Judiciary</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 These institutions divide responsibilities to help govern society and uphold constitutional rules.
 
@@ -287,14 +295,16 @@ Politics is interconnected with every major social system.
 
 Understanding politics improves:
 
-- Citizenship
-- Leadership
-- Public administration
-- Law
-- International relations
-- Public policy
-- Business
-- Community development
+<div class="tag-grid">
+<span class="tag-pill">Citizenship</span>
+<span class="tag-pill">Leadership</span>
+<span class="tag-pill">Public administration</span>
+<span class="tag-pill">Law</span>
+<span class="tag-pill">International relations</span>
+<span class="tag-pill">Public policy</span>
+<span class="tag-pill">Business</span>
+<span class="tag-pill">Community development</span>
+</div>
 
 ---
 
@@ -304,7 +314,7 @@ Understanding politics improves:
 
 Reality:
 
-Politics includes every process through which societies make collective decisions. :contentReference[oaicite:5]{index=5}
+Politics includes every process through which societies make collective decisions.
 
 ---
 
@@ -328,18 +338,19 @@ Politics involves disagreement, but it also enables cooperation, compromise, and
 
 Politics influences:
 
-- Freedom
-- Education
-- Healthcare
-- Economy
-- Security
-- Environment
-- Human rights
-- Opportunity
+> [!success]
+> - Freedom
+> - Education
+> - Healthcare
+> - Economy
+> - Security
+> - Environment
+> - Human rights
+> - Opportunity
 
 Nearly every aspect of public life is affected by political decisions.
 
-Understanding politics helps citizens make informed choices and participate responsibly in society. :contentReference[oaicite:6]{index=6}
+Understanding politics helps citizens make informed choices and participate responsibly in society.
 
 ---
 
@@ -352,6 +363,11 @@ Politics coordinates collective action within society.
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sarnath_capital.jpg?width=1200" alt="The Lion Capital of Ashoka at Sarnath, India's national emblem">
+<p class="domain-figure-caption">The Lion Capital of Ashoka, erected circa 250 BCE and later adopted as India's national emblem — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -420,8 +436,6 @@ It connects:
 - [[History]]
 - [[Culture]]
 - [[Communication]]
-- [[Society]]
-- [[Technology]]
 
 It demonstrates that civilization depends not only on scientific and technological progress but also on effective systems of governance that balance freedom, justice, cooperation, and the common good.
 
@@ -431,7 +445,6 @@ It demonstrates that civilization depends not only on scientific and technologic
 
 ## Depends On
 
-- [[Society]]
 - [[Culture]]
 - [[Communication]]
 - [[Economics]]
@@ -439,9 +452,6 @@ It demonstrates that civilization depends not only on scientific and technologic
 ## Enables
 
 - [[Law]]
-- [[Public Policy]]
-- [[National Security]]
-- [[International Relations]]
 
 ## Related
 
@@ -450,18 +460,21 @@ It demonstrates that civilization depends not only on scientific and technologic
 - [[Ethics]]
 - [[Leadership]]
 
-## Next
-
-→ [[Law]]
-
 ---
 
 # HumanOS Principle
 
-Politics is the process through which societies make collective decisions, allocate scarce resources, and exercise power through institutions such as governments and laws. It exists because people have different interests, values, and priorities yet must live together and solve shared problems. Understanding politics enables citizens to participate responsibly, evaluate public policies critically, and contribute to building stable, just, and prosperous societies. :contentReference[oaicite:7]{index=7}
+Politics is the process through which societies make collective decisions, allocate scarce resources, and exercise power through institutions such as governments and laws. It exists because people have different interests, values, and priorities yet must live together and solve shared problems. Understanding politics enables citizens to participate responsibly, evaluate public policies critically, and contribute to building stable, just, and prosperous societies.
 
 ---
 
 # Key Insight
 
-> **Politics is the operating system of society. Every law, public service, right, tax, school, road, and environmental policy begins as a political decision. By understanding politics, we learn not only how governments work, but how millions of people cooperate, resolve conflicts, and shape the future of civilization.** :contentReference[oaicite:8]{index=8}
+> **Politics is the operating system of society. Every law, public service, right, tax, school, road, and environmental policy begins as a political decision. By understanding politics, we learn not only how governments work, but how millions of people cooperate, resolve conflicts, and shape the future of civilization.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/08-society--and--civilisation/08---law" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Law</span><span class="os-cta-sub">Law is the system of rules created, interpreted, and enforced by legitimate political...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -96,7 +96,7 @@ Each question deepens understanding.
 
 Each generation extends humanity's knowledge.
 
-Lifelong learning is increasingly understood as a continuous process of learning, reflection, adaptation, and growth rather than something that ends with formal education. :contentReference[oaicite:1]{index=1}
+Lifelong learning is increasingly understood as a continuous process of learning, reflection, adaptation, and growth rather than something that ends with formal education.
 
 ---
 
@@ -251,6 +251,9 @@ but because reality always has another question.
 - [[HumanOS Blueprint]]
 - [[Lifelong Learning]]
 
-## Next
+---
 
-→ [[HumanOS]]
+<div class="cta-row"><a class="os-cta" href="/12-humanos/00---readme" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: HumanOS</span><span class="os-cta-sub">HumanOS is the integration layer.</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

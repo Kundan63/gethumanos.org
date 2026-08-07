@@ -1,6 +1,6 @@
 # Emergency Medicine
 
-> *Emergency medicine is the medical specialty responsible for the immediate evaluation, diagnosis, stabilization, and treatment of patients with acute illness or injury requiring urgent care. It manages medical, surgical, traumatic, psychiatric, obstetric, and pediatric emergencies across all age groups. Emergency medicine emphasizes rapid recognition of life-threatening conditions, timely resuscitation, stabilization, and appropriate disposition—whether discharge, hospital admission, surgery, or transfer to critical care. It serves as the front door of modern healthcare systems and is a key component of universal health coverage.* :contentReference[oaicite:0]{index=0}
+> *Emergency medicine is the medical specialty responsible for the immediate evaluation, diagnosis, stabilization, and treatment of patients with acute illness or injury requiring urgent care. It manages medical, surgical, traumatic, psychiatric, obstetric, and pediatric emergencies across all age groups. Emergency medicine emphasizes rapid recognition of life-threatening conditions, timely resuscitation, stabilization, and appropriate disposition—whether discharge, hospital admission, surgery, or transfer to critical care. It serves as the front door of modern healthcare systems and is a key component of universal health coverage.*
 
 ---
 
@@ -23,7 +23,7 @@ Emergency physicians evaluate patients with:
 - Obstetric emergencies
 - Pediatric emergencies
 
-Unlike most medical specialties, emergency medicine treats **undifferentiated patients**—people whose diagnosis is not yet known. :contentReference[oaicite:1]{index=1}
+Unlike most medical specialties, emergency medicine treats **undifferentiated patients**—people whose diagnosis is not yet known.
 
 ---
 
@@ -42,7 +42,7 @@ Examples:
 
 For these conditions, **minutes can determine survival and long-term outcome**.
 
-Emergency medicine exists to rapidly recognize, stabilize, and begin treatment before irreversible damage occurs. :contentReference[oaicite:2]{index=2}
+Emergency medicine exists to rapidly recognize, stabilize, and begin treatment before irreversible damage occurs.
 
 ---
 
@@ -62,29 +62,22 @@ Emergency medicine uses systematic assessment, rapid stabilization, diagnostic t
 
 # Scope of Emergency Medicine
 
-```text
-Emergency Medicine
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Medical Emergencies
-Trauma
-Cardiac Emergencies
-Neurological Emergencies
- │
- ├─────────────┬──────────────┬──────────────┐
- ▼             ▼              ▼
-Respiratory
-Pediatric
-Obstetric
- │
- ├─────────────┬──────────────┐
- ▼             ▼
-Poisoning
-Psychiatric Emergencies
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Emergency Medicine</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Medical Emergencies</div></div>
+<div class="tree-item"><div class="tree-node">Trauma</div></div>
+<div class="tree-item"><div class="tree-node">Cardiac Emergencies</div></div>
+<div class="tree-item"><div class="tree-node">Neurological Emergencies</div></div>
+<div class="tree-item"><div class="tree-node">Respiratory</div></div>
+<div class="tree-item"><div class="tree-node">Pediatric</div></div>
+<div class="tree-item"><div class="tree-node">Obstetric</div></div>
+<div class="tree-item"><div class="tree-node">Poisoning</div></div>
+<div class="tree-item"><div class="tree-node">Psychiatric Emergencies</div></div>
+</div>
+</div>
 
-Emergency medicine manages virtually every acute condition before specialty care begins. :contentReference[oaicite:3]{index=3}
+Emergency medicine manages virtually every acute condition before specialty care begins.
 
 ---
 
@@ -217,25 +210,29 @@ Brain function:
 
 Complete examination while preventing hypothermia.
 
-The WHO Basic Emergency Care program teaches this structured approach because treating airway, breathing, and circulation problems early saves lives. :contentReference[oaicite:4]{index=4}
+The WHO Basic Emergency Care program teaches this structured approach because treating airway, breathing, and circulation problems early saves lives.
 
 ---
 
 # Triage
 
-```text
-Patient Arrives
-      │
-Triage
-      │
- ├── Immediate
- ├── Very Urgent
- ├── Urgent
- ├── Standard
- └── Non-Urgent
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Patient Arrives</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Triage</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Immediate</div></div>
+<div class="tree-item"><div class="tree-node">Very Urgent</div></div>
+<div class="tree-item"><div class="tree-node">Urgent</div></div>
+<div class="tree-item"><div class="tree-node">Standard</div></div>
+<div class="tree-item"><div class="tree-node">Non-Urgent</div></div>
+</div>
+</div>
+</div>
+</div>
 
-Triage prioritizes patients according to **clinical urgency**, ensuring the sickest patients receive treatment first rather than simply treating patients in order of arrival. :contentReference[oaicite:5]{index=5}
+Triage prioritizes patients according to **clinical urgency**, ensuring the sickest patients receive treatment first rather than simply treating patients in order of arrival.
 
 ---
 
@@ -302,7 +299,7 @@ Examples where every minute matters:
 - Severe trauma
 - Airway obstruction
 
-Early recognition and treatment significantly improve survival and reduce disability. :contentReference[oaicite:6]{index=6}
+Early recognition and treatment significantly improve survival and reduce disability.
 
 ---
 
@@ -333,7 +330,7 @@ Emergency medicine also prepares for:
 - Terrorist attacks
 - Mass casualty incidents
 
-These events require coordinated triage, resource allocation, and rapid public health response. :contentReference[oaicite:7]{index=7}
+These events require coordinated triage, resource allocation, and rapid public health response.
 
 ---
 
@@ -365,13 +362,14 @@ Medical emergencies can affect anyone at any time.
 
 Emergency medicine saves lives by:
 
-- Recognizing life-threatening illness quickly
-- Preventing organ damage
-- Coordinating definitive treatment
-- Reducing disability
-- Improving survival
+> [!success]
+> - Recognizing life-threatening illness quickly
+> - Preventing organ damage
+> - Coordinating definitive treatment
+> - Reducing disability
+> - Improving survival
 
-Timely emergency care is one of the most cost-effective and impactful parts of a healthcare system. :contentReference[oaicite:8]{index=8}
+Timely emergency care is one of the most cost-effective and impactful parts of a healthcare system.
 
 ---
 
@@ -400,7 +398,7 @@ Emergency medicine supports:
 - Emergency transport
 - Universal health coverage
 
-Effective emergency care could address a large proportion of preventable deaths and disability, particularly in low- and middle-income countries. :contentReference[oaicite:9]{index=9}
+Effective emergency care could address a large proportion of preventable deaths and disability, particularly in low- and middle-income countries.
 
 ---
 
@@ -446,7 +444,6 @@ It connects:
 - [[Cardiovascular Diseases]]
 - [[Respiratory Diseases]]
 - [[Brain & Neurological Diseases]]
-- [[Public Health]]
 
 It demonstrates that rapid assessment, structured decision-making, and coordinated care are essential to reducing preventable death and disability.
 
@@ -456,37 +453,34 @@ It demonstrates that rapid assessment, structured decision-making, and coordinat
 
 ## Depends On
 
-- [[Anatomy]]
-- [[Physiology]]
 - [[Disease Mechanisms]]
 - [[Pharmacology]]
 
 ## Enables
 
 - [[Critical Care]]
-- [[Trauma Care]]
-- [[Disaster Medicine]]
-- [[Prehospital Care]]
 
 ## Related
 
 - [[Surgery]]
 - [[Critical Care]]
-- [[Public Health]]
 - [[Rehabilitation]]
-
-## Next
-
-→ [[**Palliative Care**]]
 
 ---
 
 # HumanOS Principle
 
-Emergency medicine is the medical specialty dedicated to the rapid assessment, stabilization, diagnosis, and treatment of acute illness and injury. By using structured approaches such as triage and the ABCDE assessment, emergency medicine ensures that time-sensitive conditions receive immediate care, improving survival, reducing disability, and serving as the essential entry point to modern healthcare systems. :contentReference[oaicite:10]{index=10}
+Emergency medicine is the medical specialty dedicated to the rapid assessment, stabilization, diagnosis, and treatment of acute illness and injury. By using structured approaches such as triage and the ABCDE assessment, emergency medicine ensures that time-sensitive conditions receive immediate care, improving survival, reducing disability, and serving as the essential entry point to modern healthcare systems.
 
 ---
 
 # Key Insight
 
-> **Emergency medicine is the science and practice of making life-saving decisions under extreme time pressure. Understanding its principles reveals that recognizing emergencies early, prioritizing the most dangerous conditions first, and delivering rapid evidence-based care are among the most powerful ways to save lives and preserve human function.** :contentReference[oaicite:11]{index=11}
+> **Emergency medicine is the science and practice of making life-saving decisions under extreme time pressure. Understanding its principles reveals that recognizing emergencies early, prioritizing the most dangerous conditions first, and delivering rapid evidence-based care are among the most powerful ways to save lives and preserve human function.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/04-medical-treatment/06---palliative-care" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Palliative Care</span><span class="os-cta-sub">Palliative care is an approach that improves the quality of life of patients (adults...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

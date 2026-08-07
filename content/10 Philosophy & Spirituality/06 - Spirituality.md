@@ -1,6 +1,6 @@
 # Spirituality
 
-> *Spirituality is the human search for meaning, purpose, connection, and inner transformation. It involves the way individuals understand and experience what they consider ultimately significant—whether understood as God, the sacred, ultimate reality, nature, humanity, or deeply held values. Spirituality may be expressed within a religious tradition or independently of organized religion through practices such as reflection, meditation, contemplation, compassion, and service.* :contentReference[oaicite:0]{index=0}
+> *Spirituality is the human search for meaning, purpose, connection, and inner transformation. It involves the way individuals understand and experience what they consider ultimately significant—whether understood as God, the sacred, ultimate reality, nature, humanity, or deeply held values. Spirituality may be expressed within a religious tradition or independently of organized religion through practices such as reflection, meditation, contemplation, compassion, and service.*
 
 ---
 
@@ -18,7 +18,7 @@ It explores questions such as:
 
 Unlike philosophy, which primarily uses logical reasoning, spirituality emphasizes **lived experience and personal transformation**.
 
-Unlike religion, spirituality may or may not involve organized beliefs, rituals, or institutions. :contentReference[oaicite:1]{index=1}
+Unlike religion, spirituality may or may not involve organized beliefs, rituals, or institutions.
 
 ---
 
@@ -37,7 +37,7 @@ They seek:
 
 Across cultures and history, people have developed spiritual practices to understand suffering, cultivate compassion, and experience a deeper relationship with themselves, others, nature, or the sacred.
 
-Spirituality exists because humans naturally seek significance beyond immediate physical needs. :contentReference[oaicite:2]{index=2}
+Spirituality exists because humans naturally seek significance beyond immediate physical needs.
 
 ---
 
@@ -57,18 +57,19 @@ Spirituality answers this through self-awareness, reflection, practice, and tran
 
 # Components of Spirituality
 
-```text
-Spirituality
-      │
- ├── Meaning
- ├── Purpose
- ├── Awareness
- ├── Values
- ├── Compassion
- ├── Connection
- ├── Practice
- └── Transformation
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Spirituality</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Meaning</div></div>
+<div class="tree-item"><div class="tree-node">Purpose</div></div>
+<div class="tree-item"><div class="tree-node">Awareness</div></div>
+<div class="tree-item"><div class="tree-node">Values</div></div>
+<div class="tree-item"><div class="tree-node">Compassion</div></div>
+<div class="tree-item"><div class="tree-node">Connection</div></div>
+<div class="tree-item"><div class="tree-node">Practice</div></div>
+<div class="tree-item"><div class="tree-node">Transformation</div></div>
+</div>
+</div>
 
 These elements work together to shape spiritual development.
 
@@ -191,17 +192,18 @@ Spiritual development is an ongoing journey rather than a final destination.
 
 # Major Expressions of Spirituality
 
-```text
-Spirituality
-      │
- ├── Religious Spirituality
- ├── Secular Spirituality
- ├── Contemplative Practice
- ├── Nature Spirituality
- ├── Humanistic Spirituality
- ├── Mystical Traditions
- └── Everyday Spirituality
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Spirituality</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Religious Spirituality</div></div>
+<div class="tree-item"><div class="tree-node">Secular Spirituality</div></div>
+<div class="tree-item"><div class="tree-node">Contemplative Practice</div></div>
+<div class="tree-item"><div class="tree-node">Nature Spirituality</div></div>
+<div class="tree-item"><div class="tree-node">Humanistic Spirituality</div></div>
+<div class="tree-item"><div class="tree-node">Mystical Traditions</div></div>
+<div class="tree-item"><div class="tree-node">Everyday Spirituality</div></div>
+</div>
+</div>
 
 ---
 
@@ -295,7 +297,7 @@ Religion and spirituality often overlap, but neither fully contains the other.
 
 Many religious people are deeply spiritual.
 
-Many spiritual people are not affiliated with a religion. :contentReference[oaicite:3]{index=3}
+Many spiritual people are not affiliated with a religion.
 
 ---
 
@@ -303,16 +305,18 @@ Many spiritual people are not affiliated with a religion. :contentReference[oaic
 
 Spirituality contributes to:
 
-- Personal growth
-- Mental well-being
-- Leadership
-- Healthcare
-- Education
-- Community service
-- Ethical decision-making
-- End-of-life care
+<div class="tag-grid">
+<span class="tag-pill">Personal growth</span>
+<span class="tag-pill">Mental well-being</span>
+<span class="tag-pill">Leadership</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Community service</span>
+<span class="tag-pill">Ethical decision-making</span>
+<span class="tag-pill">End-of-life care</span>
+</div>
 
-It increasingly appears in healthcare and psychology as a dimension of human well-being. :contentReference[oaicite:4]{index=4}
+It increasingly appears in healthcare and psychology as a dimension of human well-being.
 
 ---
 
@@ -324,7 +328,7 @@ It increasingly appears in healthcare and psychology as a dimension of human wel
 
 Religion often includes organized beliefs and institutions.
 
-Spirituality refers more broadly to the search for meaning, connection, and inner transformation. :contentReference[oaicite:5]{index=5}
+Spirituality refers more broadly to the search for meaning, connection, and inner transformation.
 
 ---
 
@@ -342,7 +346,7 @@ Questions about meaning and purpose are different from empirical scientific ques
 
 **Reality:**
 
-Many forms of spirituality are secular and focus on values, purpose, and human flourishing rather than supernatural beliefs. :contentReference[oaicite:6]{index=6}
+Many forms of spirituality are secular and focus on values, purpose, and human flourishing rather than supernatural beliefs.
 
 ---
 
@@ -350,14 +354,15 @@ Many forms of spirituality are secular and focus on values, purpose, and human f
 
 Spirituality influences:
 
-- Mental well-being
-- Relationships
-- Purpose
-- Resilience
-- Compassion
-- Leadership
-- Community
-- Personal growth
+> [!success]
+> - Mental well-being
+> - Relationships
+> - Purpose
+> - Resilience
+> - Compassion
+> - Leadership
+> - Community
+> - Personal growth
 
 Developing an inner life can help people respond thoughtfully to both suffering and success.
 
@@ -458,29 +463,29 @@ It demonstrates that while science explains the external world, spirituality exp
 
 - [[Meditation]]
 - [[Mindfulness]]
-- [[Wisdom]]
 - [[Meaning & Purpose]]
 - [[Personal Growth]]
 
 ## Related
 
 - [[Ethics]]
-- [[Religion]]
 - [[Consciousness]]
-- [[Human Flourishing]]
-
-## Next
-
-→ [[Meditation]]
 
 ---
 
 # HumanOS Principle
 
-Spirituality is the human pursuit of meaning, purpose, connection, and inner transformation. It may be expressed within or outside religious traditions and is cultivated through reflective practices, ethical living, compassion, and self-awareness. Rather than replacing science or philosophy, spirituality complements them by exploring how humans experience reality and develop wisdom for living well. :contentReference[oaicite:7]{index=7}
+Spirituality is the human pursuit of meaning, purpose, connection, and inner transformation. It may be expressed within or outside religious traditions and is cultivated through reflective practices, ethical living, compassion, and self-awareness. Rather than replacing science or philosophy, spirituality complements them by exploring how humans experience reality and develop wisdom for living well.
 
 ---
 
 # Key Insight
 
 > **Spirituality is humanity's inner journey. Science helps us understand the universe, philosophy helps us think about it, and spirituality helps us live within it—cultivating meaning, compassion, wisdom, and a deeper connection to ourselves, others, and whatever we regard as ultimately significant.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/10-philosophy--and--spirituality/07---meditation" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Meditation</span><span class="os-cta-sub">Meditation is a family of intentional mental practices that train attention,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

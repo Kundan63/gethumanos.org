@@ -14,7 +14,7 @@ The **Digestive System** is the organ system responsible for:
 - 🩸 Absorbing nutrients and water
 - 🚮 Eliminating indigestible waste
 
-Although food enters the mouth, it technically remains **outside the body's internal environment** until nutrients pass through the intestinal wall into the bloodstream or lymphatic system. This is why digestion is not simply about eating—it is about **moving nutrients into the body's internal environment**. :contentReference[oaicite:0]{index=0}
+Although food enters the mouth, it technically remains **outside the body's internal environment** until nutrients pass through the intestinal wall into the bloodstream or lymphatic system. This is why digestion is not simply about eating—it is about **moving nutrients into the body's internal environment**.
 
 ---
 
@@ -33,21 +33,28 @@ However, food is too large and chemically complex for cells to use directly.
 
 The digestive system exists to convert:
 
-```text
-Food
-    │
-    ▼
-Small Nutrient Molecules
-    │
-    ▼
-Bloodstream
-    │
-    ▼
-Human Cells
-    │
-    ▼
-Energy • Growth • Repair • Survival
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Food</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Small Nutrient Molecules</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Bloodstream</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Cells</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Energy, Growth, Repair, Survival</span></div>
+</div>
+</div>
 
 Without digestion:
 
@@ -65,28 +72,39 @@ Digestion follows six fundamental processes.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:238px"><svg width="100%" viewBox="0 0 238 510" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Food</text><rect x="18.0" y="90.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Ingestion</text><rect x="18.0" y="162.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Mechanical Digestion</text><rect x="18.0" y="234.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Chemical Digestion</text><rect x="18.0" y="306.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Absorption</text><rect x="18.0" y="378.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Distribution</text><rect x="18.0" y="450.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Waste Elimination</text><line x1="119.2" y1="64.0" x2="119.2" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="136.0" x2="119.2" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="208.0" x2="119.2" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="280.0" x2="119.2" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="352.0" x2="119.2" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="424.0" x2="119.2" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-These six activities—ingestion, propulsion, mechanical digestion, chemical digestion, absorption, and defecation—are the core functions of the digestive system. :contentReference[oaicite:1]{index=1}
+These six activities—ingestion, propulsion, mechanical digestion, chemical digestion, absorption, and defecation—are the core functions of the digestive system.
 
 ---
 
 # Components of the Digestive System
 
-```text
-              Digestive System
-                     │
-     ┌───────────────┼────────────────┐
-     ▼                                ▼
- Alimentary Canal              Accessory Organs
-     │                                │
- Mouth                          Salivary Glands
- Pharynx                        Liver
- Esophagus                      Gallbladder
- Stomach                        Pancreas
- Small Intestine
- Large Intestine
- Rectum
- Anus
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Digestive System</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Alimentary Canal</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Mouth</div></div>
+<div class="tree-item"><div class="tree-node">Pharynx</div></div>
+<div class="tree-item"><div class="tree-node">Esophagus</div></div>
+<div class="tree-item"><div class="tree-node">Stomach</div></div>
+<div class="tree-item"><div class="tree-node">Small Intestine</div></div>
+<div class="tree-item"><div class="tree-node">Large Intestine</div></div>
+<div class="tree-item"><div class="tree-node">Rectum</div></div>
+<div class="tree-item"><div class="tree-node">Anus</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Accessory Organs</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Salivary Glands</div></div>
+<div class="tree-item"><div class="tree-node">Liver</div></div>
+<div class="tree-item"><div class="tree-node">Gallbladder</div></div>
+<div class="tree-item"><div class="tree-node">Pancreas</div></div>
+</div>
+</div>
+</div>
+</div>
 
 ### Alimentary Canal (GI Tract)
 
@@ -114,7 +132,7 @@ These organs assist digestion without food passing through them.
 - 🟢 Gallbladder – bile storage and release
 - 🟡 Pancreas – digestive enzymes and bicarbonate
 
-Together they make efficient digestion possible. :contentReference[oaicite:2]{index=2}
+Together they make efficient digestion possible.
 
 ---
 
@@ -122,7 +140,7 @@ Together they make efficient digestion possible. :contentReference[oaicite:2]{in
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:344px"><svg width="100%" viewBox="0 0 344 942" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="308.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="172.0" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">🍎 Food</text><rect x="18.0" y="90.0" width="308.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="172.0" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Mouth</text><rect x="18.0" y="162.0" width="308.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="172.0" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">(Chewing + Saliva)</text><rect x="18.0" y="234.0" width="308.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="172.0" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Esophagus</text><rect x="18.0" y="306.0" width="308.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="172.0" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">(Peristalsis)</text><rect x="18.0" y="378.0" width="308.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="172.0" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Stomach</text><rect x="18.0" y="450.0" width="308.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="172.0" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">(Mechanical Mixing + Acid)</text><rect x="18.0" y="522.0" width="308.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="172.0" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Small Intestine</text><rect x="18.0" y="594.0" width="308.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="172.0" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">(Digestion + Nutrient Absorption)</text><rect x="18.0" y="666.0" width="308.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="172.0" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Large Intestine</text><rect x="18.0" y="738.0" width="308.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="172.0" y="764.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">(Water Absorption)</text><rect x="18.0" y="810.0" width="308.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="172.0" y="836.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Rectum</text><rect x="18.0" y="882.0" width="308.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="172.0" y="908.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Waste Elimination</text><line x1="172.0" y1="64.0" x2="172.0" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="172.0" y1="136.0" x2="172.0" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="172.0" y1="208.0" x2="172.0" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="172.0" y1="280.0" x2="172.0" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="172.0" y1="352.0" x2="172.0" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="172.0" y1="424.0" x2="172.0" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="172.0" y1="496.0" x2="172.0" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="172.0" y1="568.0" x2="172.0" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="172.0" y1="640.0" x2="172.0" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="172.0" y1="712.0" x2="172.0" y2="732.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="172.0" y1="784.0" x2="172.0" y2="804.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="172.0" y1="856.0" x2="172.0" y2="876.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Most digestion and nutrient absorption occur in the **small intestine**, making it the functional center of the digestive system. :contentReference[oaicite:3]{index=3}
+Most digestion and nutrient absorption occur in the **small intestine**, making it the functional center of the digestive system.
 
 ---
 
@@ -140,24 +158,26 @@ Everything you eat becomes part of you.
 
 Food supplies the molecules used to build:
 
-- Brain cells
-- Muscle fibers
-- Bones
-- Blood
-- Hormones
-- Enzymes
-- Immune cells
-- DNA components
+> [!success]
+> - Brain cells
+> - Muscle fibers
+> - Bones
+> - Blood
+> - Hormones
+> - Enzymes
+> - Immune cells
+> - DNA components
 
 Poor digestion or poor nutrition affects:
 
-- Energy
-- Growth
-- Immunity
-- Learning
-- Mood
-- Physical performance
-- Longevity
+> [!success]
+> - Energy
+> - Growth
+> - Immunity
+> - Learning
+> - Mood
+> - Physical performance
+> - Longevity
 
 Understanding digestion helps explain why nutrition is one of the most powerful determinants of long-term health.
 
@@ -217,30 +237,30 @@ During sleep:
 
 Digestive health depends on many interacting factors.
 
-```text
-               Digestive Health
-                      ▲
-                      │
- ┌────────────────────┼────────────────────┐
- │                    │                    │
-Nutrition       Hydration          Physical Activity
- │                    │                    │
- ├────────────────────┼────────────────────┤
- │                    │                    │
-Sleep           Stress          Gut Microbiome
- │                    │                    │
- ├────────────────────┼────────────────────┤
- │                    │                    │
-Alcohol         Smoking          Medications
- │                    │                    │
- ├────────────────────┼────────────────────┤
- │                    │                    │
-Genetics      Infections      Food Safety
- │                    │                    │
- └────────────────────┼────────────────────┘
-                      │
-        Healthy or Diseased Digestive System
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Digestive Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Hydration</div></div>
+<div class="tree-item"><div class="tree-node">Physical Activity</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Gut Microbiome</div></div>
+<div class="tree-item"><div class="tree-node">Alcohol</div></div>
+<div class="tree-item"><div class="tree-node">Smoking</div></div>
+<div class="tree-item"><div class="tree-node">Medications</div></div>
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Infections</div></div>
+<div class="tree-item"><div class="tree-node">Food Safety</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Healthy or Diseased Digestive System</span></div>
+</div>
+</div>
 
 Digestive health is influenced by biology, diet, microorganisms, behaviour, and the environment.
 
@@ -270,6 +290,11 @@ Digestive diseases often result from interactions among genetics, diet, microorg
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Charak.jpg?width=1200" alt="A statue of Charaka, the ancient Indian physician whose Charaka Samhita described the theory of digestion and metabolism, at Patanjali Yogpeeth, Haridwar">
+<p class="domain-figure-caption">Statue of Charaka, ancient India's foundational physician of Ayurveda and digestive physiology — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -421,8 +446,6 @@ It prepares the foundation for:
 - [[Immune System]]
 - [[Nutrition]]
 - [[Exercise]]
-- [[Disease & Medicine]]
-- [[Longevity]]
 
 ---
 
@@ -439,26 +462,14 @@ It prepares the foundation for:
 ## Enables
 
 - [[Nutrition]]
-- [[Metabolism]]
 - [[Immune System]]
 - [[Exercise]]
-- [[Disease & Medicine]]
 
 ---
 
 ## Related
 
-- [[Stomach]]
-- [[Small Intestine]]
-- [[Liver]]
-- [[Pancreas]]
-- [[Gut Microbiome]]
-
----
-
-## Next
-
-→ [[Immune System]]
+None.
 
 ---
 
@@ -485,3 +496,10 @@ Understanding digestion reveals that every cell in the human body is ultimately 
 # Key Insight
 
 > **The digestive system is the body's nutrient transformation network. By converting food into absorbable molecules, it supplies the energy and building blocks required for every cell, organ, and biological process. Understanding digestion reveals why nutrition, gut health, food quality, and the environment profoundly influence physical health, brain function, immunity, longevity, and the quality of human life.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/03-human-system/06---immune-system" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Immune System</span><span class="os-cta-sub">The Immune System is the body's defense and surveillance network. It continuously...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

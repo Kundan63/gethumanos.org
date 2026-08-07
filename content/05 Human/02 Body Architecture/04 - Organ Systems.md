@@ -12,7 +12,7 @@ Each organ has a specialized role.
 
 Together they accomplish tasks that no single organ could perform independently.
 
-The human body contains **11 major organ systems** that continuously interact to maintain life and internal stability (homeostasis). :contentReference[oaicite:0]{index=0}
+The human body contains **11 major organ systems** that continuously interact to maintain life and internal stability (homeostasis).
 
 ---
 
@@ -42,7 +42,7 @@ Without organ systems there would be:
 - No thought
 - No survival
 
-Organ systems make complex multicellular life possible. :contentReference[oaicite:1]{index=1}
+Organ systems make complex multicellular life possible.
 
 ---
 
@@ -64,19 +64,49 @@ This continuous coordination allows humans to adapt to changing conditions while
 
 # The Eleven Human Organ Systems
 
-```text
-                 Human Body
-                      │
- ┌────────────────────┼─────────────────────┐
- ▼                    ▼                     ▼
-Nervous         Endocrine          Cardiovascular
- ▼                    ▼                     ▼
-Respiratory      Digestive           Immune/Lymphatic
- ▼                    ▼                     ▼
-Musculoskeletal   Urinary          Reproductive
- ▼
-Integumentary
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Human Body</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Nervous</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Respiratory</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Musculoskeletal</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Integumentary</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Endocrine</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Digestive</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Urinary</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Cardiovascular</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Immune/Lymphatic</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Reproductive</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 | Organ System | Primary Function |
 |--------------|------------------|
@@ -90,7 +120,7 @@ Integumentary
 | 🫘 Urinary | Removes wastes and regulates water, electrolytes, and acid-base balance |
 | 👶 Reproductive | Produces gametes and enables reproduction |
 | 🧴 Integumentary | Protects the body and helps regulate temperature |
-| *(Often counted separately)* Skeletal and Muscular systems are sometimes presented individually, giving a total of 11 systems depending on the educational convention. :contentReference[oaicite:2]{index=2}
+| *(Often counted separately)* Skeletal and Muscular systems are sometimes presented individually, giving a total of 11 systems depending on the educational convention.
 
 ---
 
@@ -98,29 +128,39 @@ Integumentary
 
 The body functions because systems cooperate.
 
-```text
-             🍎 Food
-                │
-                ▼
-      Digestive System
-                │
-                ▼
-          Nutrients
-                │
-                ▼
- Cardiovascular System
-                │
-                ▼
-          Human Cells
-                │
-      ┌─────────┼─────────┐
-      ▼         ▼         ▼
-Muscles      Brain     Immune System
-      │         │         │
-      └─────────┼─────────┘
-                ▼
-          Human Life
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">🍎 Food</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Digestive System</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Nutrients</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Cardiovascular System</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Human Cells</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Muscles</div></div>
+<div class="tree-item"><div class="tree-node">Brain</div></div>
+<div class="tree-item">
+<div class="tree-node">Immune System</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Human Life</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 No system can function independently.
 
@@ -204,6 +244,11 @@ Many systems cooperate to repair a single injury.
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Dhanvantari_sculpture.jpg?width=1200" alt="A sculpture of Dhanvantari, the Hindu deity of Ayurvedic medicine and healing, revered as the physician of the gods">
+<p class="domain-figure-caption">Sculpture of Dhanvantari, the deity of Ayurvedic medicine — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -318,7 +363,7 @@ Damage accumulates differently.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:247px"><svg width="100%" viewBox="0 0 247 942" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="210.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="123.3" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Poor Nutrition</text><rect x="18.0" y="90.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Physical Inactivity</text><rect x="18.0" y="162.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Smoking</text><rect x="18.0" y="234.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Alcohol</text><rect x="18.0" y="306.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Poor Sleep</text><rect x="18.0" y="378.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Stress</text><rect x="18.0" y="450.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Pollution</text><rect x="18.0" y="522.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Infections</text><rect x="18.0" y="594.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Aging</text><rect x="18.0" y="666.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Genetics</text><rect x="18.0" y="738.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="764.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">System Dysfunction</text><rect x="18.0" y="810.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="836.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Homeostasis Disrupted</text><rect x="18.0" y="882.0" width="210.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="123.3" y="908.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Disease</text><line x1="123.3" y1="64.0" x2="123.3" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="136.0" x2="123.3" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="208.0" x2="123.3" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="280.0" x2="123.3" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="352.0" x2="123.3" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="424.0" x2="123.3" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="496.0" x2="123.3" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="568.0" x2="123.3" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="640.0" x2="123.3" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="712.0" x2="123.3" y2="732.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="784.0" x2="123.3" y2="804.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="856.0" x2="123.3" y2="876.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Many chronic diseases result from gradual disruption of multiple organ systems rather than sudden failure of a single organ. :contentReference[oaicite:3]{index=3}
+Many chronic diseases result from gradual disruption of multiple organ systems rather than sudden failure of a single organ.
 
 ---
 
@@ -387,9 +432,6 @@ This prepares us for the most important principle in human physiology:
 ## Enables
 
 - [[Homeostasis]]
-- [[Physiology]]
-- [[Disease & Medicine]]
-- [[Neuroscience]]
 
 ---
 
@@ -400,12 +442,6 @@ This prepares us for the most important principle in human physiology:
 - [[Respiratory System]]
 - [[Digestive System]]
 - [[Endocrine System]]
-
----
-
-## Next
-
-→ [[Homeostasis]]
 
 ---
 
@@ -428,3 +464,10 @@ Health is therefore not the property of one organ—it is the result of cooperat
 # Key Insight
 
 > **Organ systems transform individual organs into one living organism. Every breath, heartbeat, thought, movement, and immune response depends on multiple systems working together in continuous coordination. Understanding organ systems reveals why health is systemic, why diseases often spread beyond a single organ, and why caring for the whole body—not just one part—is the foundation of lifelong health and well-being.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/01-foundations-of-health/02---homeostasis" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Homeostasis</span><span class="os-cta-sub">Homeostasis is the dynamic process by which living organisms maintain a relatively...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

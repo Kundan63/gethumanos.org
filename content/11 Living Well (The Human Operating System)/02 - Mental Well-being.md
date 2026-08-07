@@ -1,6 +1,6 @@
 # Mental Well-being
 
-> **Mental Well-being is the foundation of how humans think, feel, learn, adapt, and relate to others.** It is the state in which the mind functions effectively, enabling people to cope with life's challenges, realize their abilities, learn, work productively, build healthy relationships, and contribute meaningfully to society. Mental well-being is more than the absence of mental illness—it is the presence of psychological resilience, emotional balance, cognitive flexibility, and purposeful living. :contentReference[oaicite:0]{index=0}
+> **Mental Well-being is the foundation of how humans think, feel, learn, adapt, and relate to others.** It is the state in which the mind functions effectively, enabling people to cope with life's challenges, realize their abilities, learn, work productively, build healthy relationships, and contribute meaningfully to society. Mental well-being is more than the absence of mental illness—it is the presence of psychological resilience, emotional balance, cognitive flexibility, and purposeful living.
 
 ---
 
@@ -81,25 +81,26 @@ Mental well-being is the capacity to:
 - Adapt to change
 - Contribute to society
 
-It is a dynamic state that changes throughout life and is influenced by biological, psychological, social, and environmental factors. :contentReference[oaicite:1]{index=1}
+It is a dynamic state that changes throughout life and is influenced by biological, psychological, social, and environmental factors.
 
 ---
 
 # The Mental Well-being System
 
-```text
-Mental Well-being
-        │
- ├── Emotional Regulation
- ├── Cognitive Health
- ├── Stress Management
- ├── Resilience
- ├── Self-Awareness
- ├── Relationships
- ├── Meaning & Purpose
- ├── Lifestyle
- └── Professional Support
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Mental Well-being</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Emotional Regulation</div></div>
+<div class="tree-item"><div class="tree-node">Cognitive Health</div></div>
+<div class="tree-item"><div class="tree-node">Stress Management</div></div>
+<div class="tree-item"><div class="tree-node">Resilience</div></div>
+<div class="tree-item"><div class="tree-node">Self-Awareness</div></div>
+<div class="tree-item"><div class="tree-node">Relationships</div></div>
+<div class="tree-item"><div class="tree-node">Meaning & Purpose</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item"><div class="tree-node">Professional Support</div></div>
+</div>
+</div>
 
 Each component strengthens the others.
 
@@ -222,7 +223,7 @@ Evidence-based approaches may include:
 - Community support
 - Lifestyle interventions
 
-Seeking help is a sign of responsible self-care, not weakness. :contentReference[oaicite:2]{index=2}
+Seeking help is a sign of responsible self-care, not weakness.
 
 ---
 
@@ -258,7 +259,7 @@ Strong mental well-being improves:
 - Adaptability
 - Life satisfaction
 
-Mental well-being is an essential component of overall health, not a separate category. :contentReference[oaicite:3]{index=3}
+Mental well-being is an essential component of overall health, not a separate category.
 
 ---
 
@@ -302,7 +303,7 @@ Small improvements in mental well-being often produce wide-ranging effects acros
 
 ✔ Many mental health conditions are treatable with appropriate care.
 
-✔ Stigma can delay people from seeking effective support. :contentReference[oaicite:4]{index=4}
+✔ Stigma can delay people from seeking effective support.
 
 ---
 
@@ -340,7 +341,6 @@ Ask yourself:
 
 ## Built Upon
 
-- [[Neuroscience]]
 - [[Psychology]]
 - [[Consciousness]]
 - [[Meditation]]
@@ -359,22 +359,23 @@ Ask yourself:
 ## Related
 
 - [[Stress]]
-- [[Emotional Regulation]]
-- [[Resilience]]
 - [[Physical Well-being]]
-
-## Next
-
-→ [[Relationships]]
 
 ---
 
 # HumanOS Principle
 
-Mental well-being is the psychological foundation of human capability. By understanding how thoughts, emotions, attention, relationships, and purpose interact, people can develop greater resilience, clearer thinking, healthier behavior, and wiser decisions. A healthy mind does not eliminate life's challenges—it improves our ability to respond to them with clarity, balance, and responsibility. :contentReference[oaicite:5]{index=5}
+Mental well-being is the psychological foundation of human capability. By understanding how thoughts, emotions, attention, relationships, and purpose interact, people can develop greater resilience, clearer thinking, healthier behavior, and wiser decisions. A healthy mind does not eliminate life's challenges—it improves our ability to respond to them with clarity, balance, and responsibility.
 
 ---
 
 # Key Insight
 
 > **Your mind is the interpreter of reality. Every opportunity, challenge, relationship, and decision passes through it. Strengthening mental well-being is not about escaping life's difficulties—it is about developing the clarity, resilience, and wisdom to engage with reality more effectively and live your life with greater purpose and capability.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/03---relationships" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Relationships</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -16,7 +16,7 @@ Rather than studying organisms in isolation, ecology asks questions such as:
 - Why do ecosystems remain stable?
 - What happens when part of an ecosystem changes?
 
-Ecology studies life at multiple levels, from individual organisms to populations, communities, ecosystems, and ultimately the entire biosphere. :contentReference[oaicite:0]{index=0}
+Ecology studies life at multiple levels, from individual organisms to populations, communities, ecosystems, and ultimately the entire biosphere.
 
 ---
 
@@ -40,7 +40,7 @@ Humans depend on ecosystems for:
 
 Ecology exists because life is fundamentally **a network of relationships**, not isolated individuals.
 
-Without understanding these relationships, humans cannot effectively protect biodiversity, manage natural resources, or sustain civilization. :contentReference[oaicite:1]{index=1}
+Without understanding these relationships, humans cannot effectively protect biodiversity, manage natural resources, or sustain civilization.
 
 ---
 
@@ -48,26 +48,32 @@ Without understanding these relationships, humans cannot effectively protect bio
 
 Ecology studies the movement of **energy**, **matter**, and **interactions** through living systems.
 
-```text
-Sun
- │
- ▼
-Plants (Producers)
- │
- ▼
-Animals (Consumers)
- │
- ▼
-Predators
- │
- ▼
-Decomposers
- │
- ▼
-Nutrients Return to Soil
- │
- └───────────────► Plants
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Sun</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Plants (Producers)</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Animals (Consumers)</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Predators</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Decomposers</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Nutrients Return to Soil</span> → Plants</div>
+</div>
+</div>
 
 At every stage:
 
@@ -76,7 +82,7 @@ At every stage:
 - Species interact through cooperation, competition, and predation.
 - Ecosystems continuously adapt to change.
 
-Unlike energy, which flows one way through ecosystems, matter is continually recycled. :contentReference[oaicite:2]{index=2}
+Unlike energy, which flows one way through ecosystems, matter is continually recycled.
 
 ---
 
@@ -84,29 +90,51 @@ Unlike energy, which flows one way through ecosystems, matter is continually rec
 
 Ecology is best understood as a network rather than a chain.
 
-```text
-                     ☀ Sun
-                        │
-                        ▼
-                   🌿 Plants
-                        │
-      ┌─────────────────┼─────────────────┐
-      ▼                 ▼                 ▼
- Pollinators      Herbivores         Decomposers
-      │                 │                 │
-      ▼                 ▼                 ▼
- Plant Growth      Carnivores      Soil Nutrients
-      │                 │                 │
-      └─────────────────┼─────────────────┘
-                        ▼
-                   Healthy Ecosystem
-                        │
-                        ▼
-         Clean Air • Clean Water • Fertile Soil
-                        │
-                        ▼
-                  Human Civilization
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div></div>
+<div class="flow-step-content"><span class="flow-step-title">☀ Sun</span></div>
+</div>
+</div>
+
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">🌿 Plants</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Pollinators</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Plant Growth</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Herbivores</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Carnivores</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Decomposers</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Soil Nutrients</div></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Healthy Ecosystem</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Clean Air • Clean Water • Fertile Soil</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Civilization</span></div>
+</div>
+</div>
 
 Every organism contributes to the stability of the larger system.
 
@@ -130,57 +158,38 @@ It explains why humans can survive at all.
 
 Healthy ecosystems provide **ecosystem services**, including:
 
-- 🌬 Clean air
-- 🚰 Fresh water
-- 🌾 Food production
-- 🐝 Pollination
-- 🌳 Climate regulation
-- 🌱 Fertile soil
-- 💊 Natural sources of medicines
+> [!success]
+> - 🌬 Clean air
+> - 🚰 Fresh water
+> - 🌾 Food production
+> - 🐝 Pollination
+> - 🌳 Climate regulation
+> - 🌱 Fertile soil
+> - 💊 Natural sources of medicines
 
-When ecosystems become unhealthy, these benefits decline, directly affecting human health, economies, and quality of life. :contentReference[oaicite:3]{index=3}
+When ecosystems become unhealthy, these benefits decline, directly affecting human health, economies, and quality of life.
 
 ---
 
 # Daily Life Examples
 
-### 🍎 Food
-
-Every meal depends on healthy soils, microorganisms, insects, pollinators, water, and climate.
-
----
-
-### 🐝 Pollination
-
-Many fruits, vegetables, and nuts exist because insects transfer pollen between flowering plants.
-
----
-
-### 🚰 Clean Water
-
-Wetlands, forests, soils, and microorganisms naturally filter and store freshwater.
-
----
-
-### 🌳 Trees
-
-Trees absorb carbon dioxide, release oxygen, regulate local temperatures, and reduce soil erosion.
-
----
-
-### 🐟 Fisheries
-
-Healthy rivers, lakes, and oceans support fish populations that feed billions of people.
-
----
-
-### 🦠 Gut Microbiome
-
-Even inside the human body, trillions of microorganisms form an ecosystem that helps digest food, produce vitamins, and support the immune system.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🍎</span><span class="os-card-title">Food</span><span class="os-card-desc">Every meal depends on healthy soils, microorganisms, insects, pollinators, water, and climate.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🐝</span><span class="os-card-title">Pollination</span><span class="os-card-desc">Many fruits, vegetables, and nuts exist because insects transfer pollen between flowering plants.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🚰</span><span class="os-card-title">Clean Water</span><span class="os-card-desc">Wetlands, forests, soils, and microorganisms naturally filter and store freshwater.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌳</span><span class="os-card-title">Trees</span><span class="os-card-desc">Trees absorb carbon dioxide, release oxygen, regulate local temperatures, and reduce soil erosion.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🐟</span><span class="os-card-title">Fisheries</span><span class="os-card-desc">Healthy rivers, lakes, and oceans support fish populations that feed billions of people.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🦠</span><span class="os-card-title">Gut Microbiome</span><span class="os-card-desc">Even inside the human body, trillions of microorganisms form an ecosystem that helps digest food, produce vitamins, and support the immune system.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Royal_Bengal_Tiger_walking_down_Mangrove_Island_in_Sundarbans_3.jpg?width=1200" alt="A Royal Bengal tiger walking along a mangrove island in the Sundarbans, India">
+<p class="domain-figure-caption">A Royal Bengal tiger in the Sundarbans mangrove ecosystem, India — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -355,7 +364,6 @@ This prepares the foundation for [[Environmental Science]], where humans become 
 
 - [[Climate]]
 - [[Earth Science]]
-- [[Biology]]
 - [[Chemistry]]
 
 ---
@@ -363,8 +371,6 @@ This prepares the foundation for [[Environmental Science]], where humans become 
 ## Enables
 
 - [[Environmental Science]]
-- [[Conservation Biology]]
-- [[Agriculture]]
 - [[Health & Medicine]]
 - [[Living Well]]
 
@@ -372,19 +378,17 @@ This prepares the foundation for [[Environmental Science]], where humans become 
 
 ## Related
 
-- [[Ecosystems]]
 - [[Biodiversity]]
-- [[Food Web]]
-- [[Water Cycle]]
-
----
-
-## Next
-
-→ [[Environmental Science]]
 
 ---
 
 # Key Insight
 
 > **Ecology teaches that life survives through relationships, not isolation. Every breath we take, every meal we eat, every drop of clean water we drink, and every society we build depends on healthy ecosystems. Understanding ecology helps us see that protecting nature is ultimately protecting ourselves.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/03-natural-sciences/08---environmental-science" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Environmental Science</span><span class="os-cta-sub">Environmental Science explains how humans and nature influence one another. It helps...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

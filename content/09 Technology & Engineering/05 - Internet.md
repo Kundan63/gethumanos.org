@@ -1,6 +1,6 @@
 # Internet
 
-> *The Internet is the global system of interconnected computer networks that communicate using the Internet Protocol Suite (TCP/IP), enabling billions of devices worldwide to exchange information, deliver services, and support communication. Rather than being a single network, the Internet is a "network of networks" connecting homes, businesses, governments, universities, and data centers into one global communication infrastructure.* :contentReference[oaicite:0]{index=0}
+> *The Internet is the global system of interconnected computer networks that communicate using the Internet Protocol Suite (TCP/IP), enabling billions of devices worldwide to exchange information, deliver services, and support communication. Rather than being a single network, the Internet is a "network of networks" connecting homes, businesses, governments, universities, and data centers into one global communication infrastructure.*
 
 ---
 
@@ -18,7 +18,7 @@ It allows devices to:
 
 The Internet is **not** a single computer or company.
 
-It is a massive collection of independent networks that work together using common communication standards called **Internet Protocols (TCP/IP)**. :contentReference[oaicite:1]{index=1}
+It is a massive collection of independent networks that work together using common communication standards called **Internet Protocols (TCP/IP)**.
 
 ---
 
@@ -37,7 +37,7 @@ The Internet exists because it enables people to:
 - Control connected devices
 - Build digital communities
 
-It transformed isolated computers into one connected global information system. :contentReference[oaicite:2]{index=2}
+It transformed isolated computers into one connected global information system.
 
 ---
 
@@ -57,18 +57,19 @@ The Internet answers this through standardized networking protocols, routing sys
 
 # Components of the Internet
 
-```text
-Internet
-     │
- ├── Devices
- ├── Networks
- ├── Routers
- ├── Internet Protocol (IP)
- ├── TCP/IP
- ├── Domain Name System (DNS)
- ├── Servers
- └── Applications
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Internet</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Devices</div></div>
+<div class="tree-item"><div class="tree-node">Networks</div></div>
+<div class="tree-item"><div class="tree-node">Routers</div></div>
+<div class="tree-item"><div class="tree-node">Internet Protocol (IP)</div></div>
+<div class="tree-item"><div class="tree-node">TCP/IP</div></div>
+<div class="tree-item"><div class="tree-node">Domain Name System (DNS)</div></div>
+<div class="tree-item"><div class="tree-node">Servers</div></div>
+<div class="tree-item"><div class="tree-node">Applications</div></div>
+</div>
+</div>
 
 Every Internet service depends on these components working together.
 
@@ -103,7 +104,7 @@ Examples include:
 - Mobile networks
 - Government networks
 
-These independent networks exchange data using common standards. :contentReference[oaicite:3]{index=3}
+These independent networks exchange data using common standards.
 
 ---
 
@@ -139,7 +140,7 @@ Determines where data should go.
 
 Ensures data arrives correctly and in the proper order.
 
-Together they make reliable global communication possible. :contentReference[oaicite:4]{index=4}
+Together they make reliable global communication possible.
 
 ---
 
@@ -194,24 +195,25 @@ Applications are what most users directly experience.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:222px"><svg width="100%" viewBox="0 0 222 582" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="186.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="111.1" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">User Request</text><rect x="18.0" y="90.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">DNS Lookup</text><rect x="18.0" y="162.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">IP Address</text><rect x="18.0" y="234.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Router</text><rect x="18.0" y="306.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Internet Backbone</text><rect x="18.0" y="378.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Destination Server</text><rect x="18.0" y="450.0" width="186.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="111.1" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Response</text><rect x="18.0" y="522.0" width="186.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="111.1" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">User</text><line x1="111.1" y1="64.0" x2="111.1" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="136.0" x2="111.1" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="208.0" x2="111.1" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="280.0" x2="111.1" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="352.0" x2="111.1" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="424.0" x2="111.1" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="111.1" y1="496.0" x2="111.1" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Information travels as small packets across multiple networks before being reassembled at the destination. :contentReference[oaicite:5]{index=5}
+Information travels as small packets across multiple networks before being reassembled at the destination.
 
 ---
 
 # Major Internet Services
 
-```text
-Internet
-     │
- ├── World Wide Web
- ├── Email
- ├── File Transfer
- ├── Cloud Computing
- ├── Streaming
- ├── Messaging
- ├── Voice & Video Calls
- └── Internet of Things
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Internet</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">World Wide Web</div></div>
+<div class="tree-item"><div class="tree-node">Email</div></div>
+<div class="tree-item"><div class="tree-node">File Transfer</div></div>
+<div class="tree-item"><div class="tree-node">Cloud Computing</div></div>
+<div class="tree-item"><div class="tree-node">Streaming</div></div>
+<div class="tree-item"><div class="tree-node">Messaging</div></div>
+<div class="tree-item"><div class="tree-node">Voice & Video Calls</div></div>
+<div class="tree-item"><div class="tree-node">Internet of Things</div></div>
+</div>
+</div>
 
 ---
 
@@ -219,7 +221,7 @@ Internet
 
 The Web is a collection of interconnected websites accessed through browsers.
 
-**The Web is part of the Internet—not the Internet itself.** :contentReference[oaicite:6]{index=6}
+**The Web is part of the Internet—not the Internet itself.**
 
 ---
 
@@ -288,16 +290,18 @@ Examples:
 
 The Internet enables:
 
-- Education
-- Healthcare
-- Business
-- Scientific collaboration
-- Entertainment
-- Government services
-- Banking
-- Remote work
-- Artificial Intelligence
-- Global communication
+<div class="tag-grid">
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Business</span>
+<span class="tag-pill">Scientific collaboration</span>
+<span class="tag-pill">Entertainment</span>
+<span class="tag-pill">Government services</span>
+<span class="tag-pill">Banking</span>
+<span class="tag-pill">Remote work</span>
+<span class="tag-pill">Artificial Intelligence</span>
+<span class="tag-pill">Global communication</span>
+</div>
 
 Nearly every modern digital service depends on the Internet.
 
@@ -311,7 +315,7 @@ Nearly every modern digital service depends on the Internet.
 
 The Internet is the global network.
 
-The World Wide Web is one service running on that network. :contentReference[oaicite:7]{index=7}
+The World Wide Web is one service running on that network.
 
 ---
 
@@ -319,7 +323,7 @@ The World Wide Web is one service running on that network. :contentReference[oai
 
 **Reality:**
 
-The Internet consists of thousands of independently operated networks connected through open standards. :contentReference[oaicite:8]{index=8}
+The Internet consists of thousands of independently operated networks connected through open standards.
 
 ---
 
@@ -335,14 +339,15 @@ Data travels through many routers and networks before reaching its destination.
 
 The Internet influences:
 
-- Communication
-- Education
-- Healthcare
-- Commerce
-- Science
-- Government
-- Entertainment
-- Artificial Intelligence
+> [!success]
+> - Communication
+> - Education
+> - Healthcare
+> - Commerce
+> - Science
+> - Government
+> - Entertainment
+> - Artificial Intelligence
 
 It has become one of humanity's most important infrastructures for sharing knowledge and coordinating global activity.
 
@@ -421,11 +426,7 @@ It connects:
 - [[Computing]]
 - [[Communication]]
 - [[Electronics]]
-- [[Cloud Computing]]
-- [[Cybersecurity]]
 - [[Artificial Intelligence]]
-- [[Internet of Things]]
-- [[Society]]
 
 It demonstrates that the Internet is the communication backbone of the digital age, enabling knowledge sharing, commerce, scientific collaboration, and global connectivity at an unprecedented scale.
 
@@ -437,36 +438,31 @@ It demonstrates that the Internet is the communication backbone of the digital a
 
 - [[Computing]]
 - [[Electronics]]
-- [[Networking]]
 - [[Communication]]
 
 ## Enables
 
-- [[Cloud Computing]]
 - [[Artificial Intelligence]]
-- [[Internet of Things]]
-- [[E-Commerce]]
-- [[Digital Communication]]
 
 ## Related
 
-- [[World Wide Web]]
-- [[Cybersecurity]]
-- [[Networking]]
-- [[Distributed Systems]]
-
-## Next
-
-→ [[Robotics]]
+None.
 
 ---
 
 # HumanOS Principle
 
-The Internet is a global network of interconnected computer networks that communicate using standardized protocols such as TCP/IP. By enabling reliable communication between billions of devices, the Internet has become the foundation of modern communication, commerce, education, science, and digital society, transforming local computing into a shared global information infrastructure. :contentReference[oaicite:9]{index=9}
+The Internet is a global network of interconnected computer networks that communicate using standardized protocols such as TCP/IP. By enabling reliable communication between billions of devices, the Internet has become the foundation of modern communication, commerce, education, science, and digital society, transforming local computing into a shared global information infrastructure.
 
 ---
 
 # Key Insight
 
 > **The Internet is civilization's digital nervous system. Just as roads connect cities and blood vessels connect organs, the Internet connects billions of computers into a single global network, allowing knowledge, communication, and innovation to flow across humanity almost instantly.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/09-technology--and--engineering/06---robotics" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Robotics</span><span class="os-cta-sub">Robotics is the interdisciplinary field of engineering, computer science, electronics,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

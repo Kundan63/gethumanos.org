@@ -28,7 +28,7 @@ Oceanography investigates:
 - Climate interactions
 - Marine resources
 
-Rather than viewing the ocean as a large body of water, oceanography studies it as one of Earth's most important life-support systems. :contentReference[oaicite:0]{index=0}
+Rather than viewing the ocean as a large body of water, oceanography studies it as one of Earth's most important life-support systems.
 
 ---
 
@@ -57,7 +57,7 @@ Oceanography exists because understanding these interactions helps explain:
 - Carbon cycling
 - Human dependence on the sea
 
-Without understanding the oceans, humans cannot fully understand Earth itself. :contentReference[oaicite:1]{index=1}
+Without understanding the oceans, humans cannot fully understand Earth itself.
 
 ---
 
@@ -65,29 +65,38 @@ Without understanding the oceans, humans cannot fully understand Earth itself. :
 
 Oceanography studies the movement of water, energy, nutrients, and life throughout the oceans.
 
-```text
-              ☀ Sun
-                 │
-                 ▼
-        Ocean Surface Heats
-                 │
-                 ▼
-    Waves • Winds • Currents
-                 │
-                 ▼
-Heat • Nutrients • Oxygen Move
-                 │
-                 ▼
- Marine Ecosystems Develop
-                 │
-                 ▼
- Climate Regulation
-                 │
-                 ▼
- Human Civilization
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">☀ Sun</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Ocean Surface Heats</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Waves, Winds, Currents</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Heat, Nutrients, Oxygen Move</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Marine Ecosystems Develop</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Climate Regulation</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Civilization</span></div>
+</div>
+</div>
 
-Oceanographers combine field observations, satellites, ships, underwater sensors, laboratory studies, and computer models to understand how ocean systems function together. :contentReference[oaicite:2]{index=2}
+Oceanographers combine field observations, satellites, ships, underwater sensors, laboratory studies, and computer models to understand how ocean systems function together.
 
 ---
 
@@ -95,35 +104,56 @@ Oceanographers combine field observations, satellites, ships, underwater sensors
 
 The ocean is one interconnected system composed of several interacting parts.
 
-```text
-                        OCEAN
-                          │
-      ┌───────────────────┼────────────────────┐
-      │                   │                    │
-      ▼                   ▼                    ▼
- Physical           Chemical            Biological
-Oceanography      Oceanography        Oceanography
-      │                   │                    │
-      ▼                   ▼                    ▼
-Currents         Salinity & Carbon      Marine Life
-Waves            Nutrients              Ecosystems
-Tides            Ocean Chemistry        Food Webs
-      │                   │                    │
-      └───────────────────┼────────────────────┘
-                          ▼
-                 Geological Oceanography
-                          │
-                          ▼
-                 Seafloor & Plate Tectonics
-                          │
-                          ▼
-                  Earth's Climate System
-                          │
-                          ▼
-                   Human Civilization
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">OCEAN</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Physical Oceanography</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Currents</div></div>
+<div class="tree-item"><div class="tree-node">Waves</div></div>
+<div class="tree-item"><div class="tree-node">Tides</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Chemical Oceanography</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Salinity &amp; Carbon</div></div>
+<div class="tree-item"><div class="tree-node">Nutrients</div></div>
+<div class="tree-item"><div class="tree-node">Ocean Chemistry</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Biological Oceanography</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Marine Life</div></div>
+<div class="tree-item"><div class="tree-node">Ecosystems</div></div>
+<div class="tree-item"><div class="tree-node">Food Webs</div></div>
+</div>
+</div>
+</div>
+</div>
 
-Each branch studies a different aspect of the ocean, but together they explain how the oceans function as a single Earth system. :contentReference[oaicite:3]{index=3}
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Geological Oceanography</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Seafloor &amp; Plate Tectonics</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Earth's Climate System</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Civilization</span></div>
+</div>
+</div>
+
+Each branch studies a different aspect of the ocean, but together they explain how the oceans function as a single Earth system.
 
 ---
 
@@ -141,72 +171,48 @@ The oceans influence nearly every aspect of human life.
 
 They:
 
-- Produce much of the oxygen we breathe through marine photosynthetic organisms.
-- Regulate Earth's climate by storing and transporting heat.
-- Support global fisheries.
-- Drive the water cycle.
-- Enable international trade.
-- Provide food, minerals, and energy.
-- Support biodiversity.
+> [!success]
+> - Produce much of the oxygen we breathe through marine photosynthetic organisms.
+> - Regulate Earth's climate by storing and transporting heat.
+> - Support global fisheries.
+> - Drive the water cycle.
+> - Enable international trade.
+> - Provide food, minerals, and energy.
+> - Support biodiversity.
 
 Understanding oceanography helps humans:
 
-- Predict storms.
-- Manage fisheries sustainably.
-- Protect marine ecosystems.
-- Understand climate change.
-- Develop renewable ocean energy.
-- Prepare for sea-level change.
+> [!success]
+> - Predict storms.
+> - Manage fisheries sustainably.
+> - Protect marine ecosystems.
+> - Understand climate change.
+> - Develop renewable ocean energy.
+> - Prepare for sea-level change.
 
-Healthy oceans are essential for a healthy planet. :contentReference[oaicite:4]{index=4}
+Healthy oceans are essential for a healthy planet.
 
 ---
 
 # Daily Life Examples
 
-### 🐟 Food
-
-Billions of people depend on the oceans for fish and other seafood.
-
-Sustainable fisheries require healthy marine ecosystems.
-
----
-
-### 🌧 Rain
-
-Most rainfall begins with water evaporating from the oceans.
-
-Without the oceans, Earth's freshwater cycle would collapse.
-
----
-
-### 🚢 Global Trade
-
-Around 80–90% of international trade by volume travels by sea.
-
-Modern economies depend on reliable ocean transportation.
-
----
-
-### 🌊 Coastal Protection
-
-Coral reefs, mangroves, and coastal wetlands reduce wave energy and help protect communities from storms.
-
----
-
-### ⚡ Renewable Energy
-
-Ocean tides, waves, and offshore winds provide growing sources of renewable energy.
-
----
-
-### 🌡 Climate
-
-Ocean currents transport heat around the globe, influencing temperatures, rainfall, and weather patterns far from the sea.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🐟</span><span class="os-card-title">Food</span><span class="os-card-desc">Billions of people depend on the oceans for fish and other seafood. Sustainable fisheries require healthy marine ecosystems.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌧</span><span class="os-card-title">Rain</span><span class="os-card-desc">Most rainfall begins with water evaporating from the oceans. Without the oceans, Earth's freshwater cycle would collapse.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🚢</span><span class="os-card-title">Global Trade</span><span class="os-card-desc">Around 80–90% of international trade by volume travels by sea. Modern economies depend on reliable ocean transportation.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌊</span><span class="os-card-title">Coastal Protection</span><span class="os-card-desc">Coral reefs, mangroves, and coastal wetlands reduce wave energy and help protect communities from storms.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">⚡</span><span class="os-card-title">Renewable Energy</span><span class="os-card-desc">Ocean tides, waves, and offshore winds provide growing sources of renewable energy.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌡</span><span class="os-card-title">Climate</span><span class="os-card-desc">Ocean currents transport heat around the globe, influencing temperatures, rainfall, and weather patterns far from the sea.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Coral_Reef_at_the_Andaman_Islands.jpg?width=1200" alt="A coral reef in the Andaman Islands, India, part of the Indian Ocean's marine ecosystem">
+<p class="domain-figure-caption">A coral reef in the Andaman Islands, part of the Indian Ocean ecosystem — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -388,25 +394,22 @@ It provides the foundation for understanding [[Climate]], [[Ecology]], [[Environ
 - [[Ecology]]
 - [[Environmental Science]]
 - [[Origin of Life]]
-- [[Marine Biology]]
 
 ---
 
 ## Related
 
-- [[Water Cycle]]
-- [[Hydrosphere]]
-- [[Marine Ecosystems]]
-- [[Earth]]
-
----
-
-## Next
-
-→ [[Climate]]
+None.
 
 ---
 
 # Key Insight
 
 > **The oceans are Earth's circulatory system. They move heat, water, nutrients, carbon, and life around the planet, connecting continents, climates, ecosystems, and civilizations. Understanding oceanography reveals that protecting the oceans is ultimately protecting humanity's own life-support system.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/03-natural-sciences/04---climate" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Climate</span><span class="os-cta-sub">Climate is Earth's long-term pattern of weather, shaped by the continuous interaction...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

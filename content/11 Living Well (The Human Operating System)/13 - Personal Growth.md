@@ -1,6 +1,6 @@
 # Personal Growth
 
-> **Personal Growth is the lifelong process of becoming a more capable, wiser, healthier, and more responsible human being through continuous learning, self-awareness, deliberate practice, and meaningful experience.** It is not about becoming a different person—it is about continually developing your potential while adapting to reality, deepening your understanding, strengthening your character, and expanding your ability to contribute to others. Modern psychological research describes personal growth as a continuing process of development, openness to new experiences, and realizing one's potential over time. :contentReference[oaicite:0]{index=0}
+> **Personal Growth is the lifelong process of becoming a more capable, wiser, healthier, and more responsible human being through continuous learning, self-awareness, deliberate practice, and meaningful experience.** It is not about becoming a different person—it is about continually developing your potential while adapting to reality, deepening your understanding, strengthening your character, and expanding your ability to contribute to others. Modern psychological research describes personal growth as a continuing process of development, openness to new experiences, and realizing one's potential over time.
 
 ---
 
@@ -102,25 +102,26 @@ It is driven by:
 - Practice
 - Experience
 
-Research on psychological well-being describes personal growth as continued development, openness to experience, realizing one's potential, and becoming more effective over time. :contentReference[oaicite:1]{index=1}
+Research on psychological well-being describes personal growth as continued development, openness to experience, realizing one's potential, and becoming more effective over time.
 
 ---
 
 # The Personal Growth System
 
-```text
-Personal Growth
-        │
- ├── Self-Awareness
- ├── Learning
- ├── Character
- ├── Habits
- ├── Resilience
- ├── Adaptability
- ├── Purpose
- ├── Contribution
- └── Reflection
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Personal Growth</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Self-Awareness</div></div>
+<div class="tree-item"><div class="tree-node">Learning</div></div>
+<div class="tree-item"><div class="tree-node">Character</div></div>
+<div class="tree-item"><div class="tree-node">Habits</div></div>
+<div class="tree-item"><div class="tree-node">Resilience</div></div>
+<div class="tree-item"><div class="tree-node">Adaptability</div></div>
+<div class="tree-item"><div class="tree-node">Purpose</div></div>
+<div class="tree-item"><div class="tree-node">Contribution</div></div>
+<div class="tree-item"><div class="tree-node">Reflection</div></div>
+</div>
+</div>
 
 Growth emerges from the interaction of all these components.
 
@@ -298,7 +299,7 @@ Personal growth improves:
 - Adaptability
 - Life satisfaction
 
-Research consistently links personal growth with psychological well-being, openness to experience, healthier functioning, and greater realization of personal potential. :contentReference[oaicite:2]{index=2}
+Research consistently links personal growth with psychological well-being, openness to experience, healthier functioning, and greater realization of personal potential.
 
 ---
 
@@ -340,7 +341,7 @@ Growth in one area often strengthens many others.
 
 ✔ Learning and deliberate practice strengthen capability.
 
-✔ Personal growth is associated with broader psychological well-being. :contentReference[oaicite:3]{index=3}
+✔ Personal growth is associated with broader psychological well-being.
 
 ---
 
@@ -381,19 +382,12 @@ Ask yourself:
 - [[Foundations]]
 - [[Natural Sciences]]
 - [[Human Biology]]
-- [[Mind & Psychology]]
-- [[Society]]
-- [[Technology]]
 - [[Philosophy]]
 - [[Living Well]]
 
 ## Enables
 
-- [[Human Capability]]
 - [[Leadership]]
-- [[Contribution]]
-- [[Wisdom]]
-- [[Improving Humanity]]
 
 ## Related
 
@@ -402,18 +396,21 @@ Ask yourself:
 - [[Decision Making]]
 - [[Happiness]]
 
-## Next
-
-→ [[HumanOS Blueprint]]
-
 ---
 
 # HumanOS Principle
 
-Personal Growth is the continuous process of aligning knowledge, character, capability, and action with reality. HumanOS teaches that growth is not about becoming someone else—it is about progressively realizing your potential through learning, reflection, responsibility, and contribution. The highest form of personal growth is not self-improvement alone, but using your development to improve the lives of others and leave the world better than you found it. :contentReference[oaicite:4]{index=4}
+Personal Growth is the continuous process of aligning knowledge, character, capability, and action with reality. HumanOS teaches that growth is not about becoming someone else—it is about progressively realizing your potential through learning, reflection, responsibility, and contribution. The highest form of personal growth is not self-improvement alone, but using your development to improve the lives of others and leave the world better than you found it.
 
 ---
 
 # Key Insight
 
 > **Personal growth is the destination toward which the entire HumanOS journey has been moving. Every scientific principle you learned, every philosophical question you explored, every habit you built, and every decision you made ultimately shapes one thing: the person you become. HumanOS exists not merely to increase what you know, but to continually improve who you are and how you contribute to humanity.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/12-humanos/01---humanos-blueprint" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: HumanOS Architecture</span><span class="os-cta-sub">The HumanOS Architecture defines the structure of HumanOS.</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

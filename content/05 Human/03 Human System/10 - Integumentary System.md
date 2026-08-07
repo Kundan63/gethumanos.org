@@ -1,6 +1,6 @@
 # Integumentary System
 
-> *The Integumentary System is the body's protective interface with the external world. It forms the first line of defense against physical injury, pathogens, harmful chemicals, ultraviolet radiation, and water loss while enabling sensation, temperature regulation, vitamin D production, and communication with the environment. The skin is not merely a covering—it is a living organ that constantly protects, repairs, and adapts.* :contentReference[oaicite:0]{index=0}
+> *The Integumentary System is the body's protective interface with the external world. It forms the first line of defense against physical injury, pathogens, harmful chemicals, ultraviolet radiation, and water loss while enabling sensation, temperature regulation, vitamin D production, and communication with the environment. The skin is not merely a covering—it is a living organ that constantly protects, repairs, and adapts.*
 
 ---
 
@@ -17,7 +17,7 @@ It consists of:
 - 🛢 Sebaceous (oil) glands
 - 🧠 Sensory receptors
 
-Together, these structures form the **largest organ system in the human body**, covering almost the entire external surface. The skin alone accounts for about **16% of body weight** in adults. :contentReference[oaicite:1]{index=1}
+Together, these structures form the **largest organ system in the human body**, covering almost the entire external surface. The skin alone accounts for about **16% of body weight** in adults.
 
 Its major functions include:
 
@@ -59,27 +59,40 @@ The skin continuously protects and regulates the body.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:303px"><svg width="100%" viewBox="0 0 303 798" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="267.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="151.7" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Environment</text><rect x="18.0" y="90.0" width="267.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="151.7" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Skin Barrier</text><rect x="18.0" y="162.0" width="267.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="151.7" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">────────────────────────────</text><rect x="18.0" y="234.0" width="267.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="151.7" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Blocks Pathogens</text><rect x="18.0" y="306.0" width="267.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="151.7" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Prevents Water Loss</text><rect x="18.0" y="378.0" width="267.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="151.7" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Filters UV Radiation</text><rect x="18.0" y="450.0" width="267.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="151.7" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Detects Touch</text><rect x="18.0" y="522.0" width="267.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="151.7" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Regulates Heat</text><rect x="18.0" y="594.0" width="267.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="151.7" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Produces Vitamin D</text><rect x="18.0" y="666.0" width="267.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="151.7" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">────────────────────────────</text><rect x="18.0" y="738.0" width="267.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="151.7" y="764.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Maintains Homeostasis</text><line x1="151.7" y1="64.0" x2="151.7" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="151.7" y1="136.0" x2="151.7" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="151.7" y1="208.0" x2="151.7" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="151.7" y1="280.0" x2="151.7" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="151.7" y1="352.0" x2="151.7" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="151.7" y1="424.0" x2="151.7" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="151.7" y1="496.0" x2="151.7" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="151.7" y1="568.0" x2="151.7" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="151.7" y1="640.0" x2="151.7" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="151.7" y1="712.0" x2="151.7" y2="732.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-The skin is composed of multiple layers that work together while continuously renewing themselves. Cells in the epidermis are constantly replaced, allowing the skin to repair everyday damage. :contentReference[oaicite:2]{index=2}
+The skin is composed of multiple layers that work together while continuously renewing themselves. Cells in the epidermis are constantly replaced, allowing the skin to repair everyday damage.
 
 ---
 
 # Components of the Integumentary System
 
-```text
-          Integumentary System
-                   │
-     ┌─────────────┼──────────────┐
-     ▼             ▼              ▼
-    Skin          Hair           Nails
-     │             │              │
- Epidermis     Hair Follicles   Nail Plate
- Dermis
- Hypodermis
-     │
- Sweat Glands
- Oil Glands
- Sensory Receptors
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Integumentary System</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Skin</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Epidermis</div></div>
+<div class="tree-item"><div class="tree-node">Dermis</div></div>
+<div class="tree-item"><div class="tree-node">Hypodermis</div></div>
+<div class="tree-item"><div class="tree-node">Sweat Glands</div></div>
+<div class="tree-item"><div class="tree-node">Oil Glands</div></div>
+<div class="tree-item"><div class="tree-node">Sensory Receptors</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Hair</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Hair Follicles</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Nails</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nail Plate</div></div>
+</div>
+</div>
+</div>
+</div>
 
 ### 🧴 Skin
 
@@ -150,7 +163,7 @@ Detect:
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:311px"><svg width="100%" viewBox="0 0 311 582" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="275.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="155.7" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Outside World</text><rect x="18.0" y="90.0" width="275.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="155.7" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Epidermis</text><rect x="18.0" y="162.0" width="275.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="155.7" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">(Protection)</text><rect x="18.0" y="234.0" width="275.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="155.7" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Dermis</text><rect x="18.0" y="306.0" width="275.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="155.7" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">(Blood Vessels, Nerves, Hair)</text><rect x="18.0" y="378.0" width="275.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="155.7" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Hypodermis</text><rect x="18.0" y="450.0" width="275.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="155.7" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">(Fat &amp; Insulation)</text><rect x="18.0" y="522.0" width="275.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="155.7" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Muscles &amp; Bones</text><line x1="155.7" y1="64.0" x2="155.7" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="155.7" y1="136.0" x2="155.7" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="155.7" y1="208.0" x2="155.7" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="155.7" y1="280.0" x2="155.7" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="155.7" y1="352.0" x2="155.7" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="155.7" y1="424.0" x2="155.7" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="155.7" y1="496.0" x2="155.7" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Each layer performs specialized functions while working together as one protective system. :contentReference[oaicite:3]{index=3}
+Each layer performs specialized functions while working together as one protective system.
 
 ---
 
@@ -168,19 +181,22 @@ Your skin protects you every second.
 
 It:
 
-- Prevents dehydration.
-- Blocks harmful microbes.
-- Protects against UV damage.
-- Helps regulate body temperature.
-- Allows you to feel touch, pain, heat, and cold.
-- Produces vitamin D needed for healthy bones and immune function. :contentReference[oaicite:4]{index=4}
+> [!success]
+> - Prevents dehydration.
+> - Blocks harmful microbes.
+> - Protects against UV damage.
+> - Helps regulate body temperature.
+> - Allows you to feel touch, pain, heat, and cold.
+> - Produces vitamin D needed for healthy bones and immune function.
 
 Without healthy skin:
 
-- Small wounds could become life-threatening.
-- Body temperature would become unstable.
-- Water loss would rapidly occur.
-- Infection risk would dramatically increase.
+> [!success]
+> - Small wounds could become life-threatening.
+> - Body temperature would become unstable.
+> - Water loss would rapidly occur.
+> - Infection risk would dramatically increase.
+
 
 ---
 
@@ -190,7 +206,7 @@ Without healthy skin:
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:238px"><svg width="100%" viewBox="0 0 238 366" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Sunlight</text><rect x="18.0" y="90.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Skin</text><rect x="18.0" y="162.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Vitamin D Production</text><rect x="18.0" y="234.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Healthy Bones</text><rect x="18.0" y="306.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Healthy Immunity</text><line x1="119.2" y1="64.0" x2="119.2" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="136.0" x2="119.2" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="208.0" x2="119.2" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="280.0" x2="119.2" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-UV exposure enables vitamin D synthesis, although excessive UV exposure increases the risk of skin damage and skin cancer. :contentReference[oaicite:5]{index=5}
+UV exposure enables vitamin D synthesis, although excessive UV exposure increases the risk of skin damage and skin cancer.
 
 ---
 
@@ -222,30 +238,30 @@ UV exposure enables vitamin D synthesis, although excessive UV exposure increase
 
 Skin health depends on many interacting factors.
 
-```text
-          Integumentary Health
-                   ▲
-                   │
- ┌─────────────────┼─────────────────┐
- │                 │                 │
-Nutrition     Hydration       Sleep
- │                 │                 │
- ├─────────────────┼─────────────────┤
- │                 │                 │
-Sunlight      Hygiene      Physical Activity
- │                 │                 │
- ├─────────────────┼─────────────────┤
- │                 │                 │
-Environment    Pollution      Stress
- │                 │                 │
- ├─────────────────┼─────────────────┤
- │                 │                 │
-Genetics       Aging      Healthcare
- │                 │                 │
- └─────────────────┼─────────────────┘
-                   │
-      Healthy or Diseased Skin
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Integumentary Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Hydration</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Sunlight</div></div>
+<div class="tree-item"><div class="tree-node">Hygiene</div></div>
+<div class="tree-item"><div class="tree-node">Physical Activity</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Pollution</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Aging</div></div>
+<div class="tree-item"><div class="tree-node">Healthcare</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Healthy or Diseased Skin</span></div>
+</div>
+</div>
 
 Healthy skin reflects the combined effects of genetics, environment, nutrition, hydration, and lifestyle.
 
@@ -274,6 +290,11 @@ Many skin disorders result from interactions among genetics, immune function, en
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/A_Henna_or_Mehndi_applier,_Rishikesh.jpg?width=1200" alt="A henna (mehndi) applier decorating a hand with traditional designs in Rishikesh, India">
+<p class="domain-figure-caption">Mehndi (henna) application in Rishikesh, India, an ancient South Asian tradition of temporary skin art — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -441,8 +462,6 @@ It forms the first barrier against physical, chemical, and biological threats wh
 It completes the study of the major human organ systems and prepares the foundation for:
 
 - [[Lifestyle Biology]]
-- [[Disease & Medicine]]
-- [[Longevity]]
 
 ---
 
@@ -459,26 +478,13 @@ It completes the study of the major human organ systems and prepares the foundat
 
 ## Enables
 
-- [[Disease & Medicine]]
-- [[Wound Healing]]
-- [[Vitamin D]]
-- [[Longevity]]
+None.
 
 ---
 
 ## Related
 
-- [[Skin]]
-- [[Hair]]
-- [[Nails]]
-- [[Sweat Glands]]
-- [[Vitamin D]]
-
----
-
-## Next
-
-→ [[**Brain & Neuroscience**]]
+None.
 
 ---
 
@@ -498,4 +504,11 @@ Through skin, hair, nails, and glands, humans continuously interact with the wor
 
 # Key Insight
 
-> **The integumentary system is the body's protective interface with the environment. By shielding against injury, infection, dehydration, and ultraviolet radiation while regulating temperature, producing vitamin D, enabling sensation, and repairing damage, it preserves the body's internal stability. Understanding this system reveals that healthy skin is far more than appearance—it is one of the fundamental foundations of human health, resilience, and survival.** :contentReference[oaicite:6]{index=6}
+> **The integumentary system is the body's protective interface with the environment. By shielding against injury, infection, dehydration, and ultraviolet radiation while regulating temperature, producing vitamin D, enabling sensation, and repairing damage, it preserves the body's internal stability. Understanding this system reveals that healthy skin is far more than appearance—it is one of the fundamental foundations of human health, resilience, and survival.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/04-brain--and--neuroscience/00---readme" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Brain & Neuroscience</span><span class="os-cta-sub">The Brain & Neuroscience section explores how billions of interconnected nerve cells...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

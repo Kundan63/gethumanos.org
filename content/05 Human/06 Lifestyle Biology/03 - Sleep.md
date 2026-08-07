@@ -1,6 +1,6 @@
 # Sleep
 
-> *Sleep is a naturally recurring biological state in which consciousness, movement, and responsiveness to the environment are temporarily reduced while the brain and body perform essential processes of restoration, regulation, learning, and repair. Sleep is not simply a period of rest—it is an active biological process that supports brain function, metabolism, immunity, tissue repair, hormone regulation, and long-term health.* :contentReference[oaicite:0]{index=0}
+> *Sleep is a naturally recurring biological state in which consciousness, movement, and responsiveness to the environment are temporarily reduced while the brain and body perform essential processes of restoration, regulation, learning, and repair. Sleep is not simply a period of rest—it is an active biological process that supports brain function, metabolism, immunity, tissue repair, hormone regulation, and long-term health.*
 
 ---
 
@@ -24,7 +24,7 @@ During sleep the body:
 - Removes metabolic waste from the brain
 - Prepares for the next day
 
-Sleep is therefore a period of **active maintenance**, not inactivity. :contentReference[oaicite:1]{index=1}
+Sleep is therefore a period of **active maintenance**, not inactivity.
 
 ---
 
@@ -48,7 +48,7 @@ Sleep allows biological systems to:
 - Reorganize
 - Adapt
 
-Without adequate sleep, these maintenance processes become impaired. :contentReference[oaicite:2]{index=2}
+Without adequate sleep, these maintenance processes become impaired.
 
 ---
 
@@ -62,25 +62,28 @@ Sleep exists because many essential biological processes occur most effectively 
 
 # The Sleep System
 
-```text
-Wakefulness
-      │
-Physical Activity
-Learning
-Stress
-Energy Use
-      │
-      ▼
-Sleep
-      │
- ┌────┼────┬─────┬─────┐
- ▼    ▼    ▼     ▼
-Repair Memory Hormones Immunity
-      │
-      ▼
-Healthy Brain
-Healthy Body
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Wakefulness</span> Physical Activity, Learning, Stress, Energy Use</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Sleep</span></div>
+</div>
+</div>
+
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Sleep</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Repair</div></div>
+<div class="tree-item"><div class="tree-node">Memory</div></div>
+<div class="tree-item"><div class="tree-node">Hormones</div></div>
+<div class="tree-item"><div class="tree-node">Immunity</div></div>
+</div>
+</div>
+
+→ **Healthy Brain**, **Healthy Body**
 
 Sleep restores the systems that support waking life.
 
@@ -94,19 +97,19 @@ Sleep is organized into repeating cycles.
 
 Most adults experience **4–6 sleep cycles** each night.
 
-Each cycle lasts approximately **90–120 minutes**. :contentReference[oaicite:3]{index=3}
+Each cycle lasts approximately **90–120 minutes**.
 
 ---
 
 # The Two Major Types of Sleep
 
-```text
-Sleep
- │
- ├───────────────┐
- ▼               ▼
-NREM            REM
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Sleep</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">NREM</div></div>
+<div class="tree-item"><div class="tree-node">REM</div></div>
+</div>
+</div>
 
 ---
 
@@ -135,24 +138,23 @@ REM (Rapid Eye Movement) sleep is characterized by:
 - Learning
 - Emotional processing
 
-Although the brain is highly active, most skeletal muscles are temporarily relaxed during REM sleep. :contentReference[oaicite:4]{index=4}
+Although the brain is highly active, most skeletal muscles are temporarily relaxed during REM sleep.
 
 ---
 
 # What Happens During Sleep?
 
-```text
-Sleep
-   │
- ┌───┼─────────────┐
- ▼   ▼             ▼
-Brain Repair
-Hormone Balance
-Immune Activity
-Memory Formation
-Tissue Repair
-Waste Clearance
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Sleep</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Brain Repair</div></div>
+<div class="tree-item"><div class="tree-node">Hormone Balance</div></div>
+<div class="tree-item"><div class="tree-node">Immune Activity</div></div>
+<div class="tree-item"><div class="tree-node">Memory Formation</div></div>
+<div class="tree-item"><div class="tree-node">Tissue Repair</div></div>
+<div class="tree-item"><div class="tree-node">Waste Clearance</div></div>
+</div>
+</div>
 
 While sleeping:
 
@@ -163,24 +165,24 @@ While sleeping:
 - Immune cells become active.
 - The brain reorganizes memories.
 
-Sleep is one of the body's primary maintenance periods. :contentReference[oaicite:5]{index=5}
+Sleep is one of the body's primary maintenance periods.
 
 ---
 
 # Sleep Supports Every Human System
 
-```text
-Sleep
-   │
- ┌────┼────┬────┬────┬────┐
- ▼    ▼    ▼    ▼    ▼
-Brain Heart Hormones Immunity Metabolism
-      │
-      ▼
-Learning
-Growth
-Recovery
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Sleep</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Brain</div></div>
+<div class="tree-item"><div class="tree-node">Heart</div></div>
+<div class="tree-item"><div class="tree-node">Hormones</div></div>
+<div class="tree-item"><div class="tree-node">Immunity</div></div>
+<div class="tree-item"><div class="tree-node">Metabolism</div></div>
+</div>
+</div>
+
+→ **Learning**, **Growth**, **Recovery**
 
 Nearly every organ system depends on healthy sleep.
 
@@ -198,17 +200,18 @@ Sleep is closely connected with nutrition, exercise, circadian rhythms, and reco
 
 Adequate sleep supports:
 
-- Learning
-- Memory
-- Attention
-- Emotional regulation
-- Immunity
-- Heart health
-- Metabolic health
-- Athletic performance
-- Healthy aging
+> [!success]
+> - Learning
+> - Memory
+> - Attention
+> - Emotional regulation
+> - Immunity
+> - Heart health
+> - Metabolic health
+> - Athletic performance
+> - Healthy aging
 
-Chronic sleep deficiency increases the risk of obesity, type 2 diabetes, hypertension, cardiovascular disease, depression, and reduced cognitive performance. :contentReference[oaicite:6]{index=6}
+Chronic sleep deficiency increases the risk of obesity, type 2 diabetes, hypertension, cardiovascular disease, depression, and reduced cognitive performance.
 
 ---
 
@@ -248,30 +251,43 @@ Sleep helps regulate emotions and resilience.
 
 # Healthy Sleep Principles
 
-```text
-Healthy Sleep
-        ▲
-        │
- ┌──────┼───────────────┐
- │      │               │
-Regular Schedule  Dark Room
- │      │               │
- ├──────┼───────────────┤
- │      │               │
-Exercise  Healthy Diet  Morning Sunlight
- │      │               │
- ├──────┼───────────────┤
- │      │               │
-Limit Caffeine
-Limit Screens Before Bed
-Manage Stress
- │
- └───────────────┐
-                 ▼
-Better Sleep Quality
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Healthy Sleep</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Regular Schedule</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Exercise</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Limit Caffeine</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Healthy Diet</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Limit Screens Before Bed</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Dark Room</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Morning Sunlight</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Manage Stress</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-Healthy sleep depends on both biology and daily habits. :contentReference[oaicite:7]{index=7}
+→ **Better Sleep Quality**
+
+Healthy sleep depends on both biology and daily habits.
 
 ---
 
@@ -296,11 +312,16 @@ General recommendations:
 | Adults | **7–9 hours** |
 | Older Adults | **7–8 hours** |
 
-Individual needs vary slightly, but consistently obtaining adequate sleep is more important than occasional "catch-up" sleep. :contentReference[oaicite:8]{index=8}
+Individual needs vary slightly, but consistently obtaining adequate sleep is more important than occasional "catch-up" sleep.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cot-rope,traditional_-Tamil_Nadu52.JPG?width=1200" alt="A traditional rope cot, or charpai, from Tamil Nadu, India, used for sleeping">
+<p class="domain-figure-caption">A traditional Indian rope cot (charpai) from Tamil Nadu, used for rest and sleep — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -427,7 +448,7 @@ It connects:
 - [[Exercise]] → Recovery
 - [[Nutrition]] → Metabolism
 - [[Recovery]] → Adaptation
-- [[Longevity]] → Healthy Aging
+- Longevity → Healthy Aging
 
 Sleep demonstrates that restoration is as essential to health as nutrition and movement.
 
@@ -449,24 +470,14 @@ Sleep demonstrates that restoration is as essential to health as nutrition and m
 - [[Recovery]]
 - [[Learning]]
 - [[Memory]]
-- [[Healthspan]]
-- [[Longevity]]
 
 ---
 
 ## Related
 
-- [[REM Sleep]]
-- [[NREM Sleep]]
 - [[Circadian Rhythm]]
 - [[Stress]]
 - [[Exercise]]
-
----
-
-## Next
-
-→ [[Stress]]
 
 ---
 
@@ -474,10 +485,17 @@ Sleep demonstrates that restoration is as essential to health as nutrition and m
 
 Sleep is not time lost—it is time invested in biological maintenance.
 
-Every night, the brain and body repair tissues, strengthen memories, regulate hormones, support immunity, and prepare for the next day. Understanding sleep reveals that recovery is a fundamental biological requirement. Health is built not only by what we do while awake, but also by what the body accomplishes while we sleep. :contentReference[oaicite:9]{index=9}
+Every night, the brain and body repair tissues, strengthen memories, regulate hormones, support immunity, and prepare for the next day. Understanding sleep reveals that recovery is a fundamental biological requirement. Health is built not only by what we do while awake, but also by what the body accomplishes while we sleep.
 
 ---
 
 # Key Insight
 
-> **Sleep is an active biological process that restores the brain and body. Through repeating cycles of NREM and REM sleep, it supports tissue repair, memory consolidation, hormone regulation, immune function, metabolism, and emotional well-being. Rather than being a passive state, sleep is one of the body's most important maintenance systems, making it essential for learning, health, performance, and healthy aging.** :contentReference[oaicite:10]{index=10}
+> **Sleep is an active biological process that restores the brain and body. Through repeating cycles of NREM and REM sleep, it supports tissue repair, memory consolidation, hormone regulation, immune function, metabolism, and emotional well-being. Rather than being a passive state, sleep is one of the body's most important maintenance systems, making it essential for learning, health, performance, and healthy aging.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/06-lifestyle-biology/04---stress" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Stress</span><span class="os-cta-sub">Stress is the body's natural biological and psychological response to a challenge,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

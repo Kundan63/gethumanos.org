@@ -1,6 +1,6 @@
 # Habits
 
-> *Habits are learned behaviors that become increasingly automatic through repetition in a consistent context. They allow the brain to perform routine actions with little conscious effort, conserving mental energy for new or complex tasks. Habits influence nearly every aspect of human life—from eating, sleeping, and exercising to thinking, learning, productivity, and health. Because daily habits are repeated thousands of times over a lifetime, they become one of the strongest determinants of long-term health, behavior, and well-being.* :contentReference[oaicite:0]{index=0}
+> *Habits are learned behaviors that become increasingly automatic through repetition in a consistent context. They allow the brain to perform routine actions with little conscious effort, conserving mental energy for new or complex tasks. Habits influence nearly every aspect of human life—from eating, sleeping, and exercising to thinking, learning, productivity, and health. Because daily habits are repeated thousands of times over a lifetime, they become one of the strongest determinants of long-term health, behavior, and well-being.*
 
 ---
 
@@ -37,7 +37,7 @@ This allows the brain to:
 - Improve efficiency
 - Perform routine tasks with little attention
 
-Habits free the brain to focus on new challenges while routine behaviors run automatically. :contentReference[oaicite:1]{index=1}
+Habits free the brain to focus on new challenges while routine behaviors run automatically.
 
 ---
 
@@ -101,7 +101,7 @@ Examples:
 - Pleasure
 - Achievement
 
-Repeated cue–routine–reward cycles gradually make behaviors more automatic. :contentReference[oaicite:2]{index=2}
+Repeated cue–routine–reward cycles gradually make behaviors more automatic.
 
 ---
 
@@ -109,19 +109,19 @@ Repeated cue–routine–reward cycles gradually make behaviors more automatic. 
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:279px"><svg width="100%" viewBox="0 0 279 294" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="243.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="139.5" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Repeated Action</text><rect x="18.0" y="90.0" width="243.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="139.5" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Brain Circuits Strengthen</text><rect x="18.0" y="162.0" width="243.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="139.5" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Basal Ganglia</text><rect x="18.0" y="234.0" width="243.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="139.5" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Automatic Behaviour</text><line x1="139.5" y1="64.0" x2="139.5" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="139.5" y1="136.0" x2="139.5" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="139.5" y1="208.0" x2="139.5" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Habit formation involves changes across multiple brain regions, especially the **basal ganglia**, which help automate repeated behaviors while reducing the need for conscious decision-making. :contentReference[oaicite:3]{index=3}
+Habit formation involves changes across multiple brain regions, especially the **basal ganglia**, which help automate repeated behaviors while reducing the need for conscious decision-making.
 
 ---
 
 # Good Habits vs Bad Habits
 
-```text
-Habits
-   │
- ┌─┴──────────────┐
- ▼               ▼
-Healthy      Unhealthy
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Habits</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Healthy</div></div>
+<div class="tree-item"><div class="tree-node">Unhealthy</div></div>
+</div>
+</div>
 
 ## 🌱 Healthy Habits
 
@@ -164,20 +164,31 @@ Small daily actions repeated for years can produce major biological changes.
 
 # Habits and Lifestyle Biology
 
-```text
-Habits
-   │
- ┌───┼─────────────┐
- ▼   ▼             ▼
-Nutrition Exercise Sleep
- │   │             │
- ├───┼─────────────┤
- ▼   ▼             ▼
-Stress Recovery Circadian Rhythm
- │
- ▼
-Long-Term Health
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Habits</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Nutrition</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Exercise</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Recovery</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Sleep</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Circadian Rhythm</div></div>
+</div>
+</div>
+</div>
+</div>
+
+→ **Long-Term Health**
 
 Habits determine whether healthy lifestyle behaviors become consistent enough to influence biology.
 
@@ -195,17 +206,18 @@ Habits connect psychology, neuroscience, lifestyle, and long-term health.
 
 Habits influence:
 
-- Physical health
-- Mental health
-- Learning
-- Productivity
-- Relationships
-- Financial behavior
-- Longevity
+> [!success]
+> - Physical health
+> - Mental health
+> - Learning
+> - Productivity
+> - Relationships
+> - Financial behavior
+> - Longevity
 
 Most daily actions are habitual rather than consciously planned.
 
-Changing a few key habits can therefore transform long-term outcomes. :contentReference[oaicite:4]{index=4}
+Changing a few key habits can therefore transform long-term outcomes.
 
 ---
 
@@ -237,22 +249,26 @@ The same biological mechanism forms both healthy and unhealthy habits.
 
 # Building Healthy Habits
 
-```text
-Healthy Habit
-       ▲
-       │
- ┌─────┼──────────────┐
- │     │              │
-Clear Cue Small Action Reward
- │     │              │
- ├─────┼──────────────┤
- │     │              │
-Consistency Environment
- │
- └─────┐
-       ▼
-Automatic Behaviour
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Healthy Habit</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Clear Cue</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Consistency</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Small Action</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+</div>
+</div>
+<div class="tree-item"><div class="tree-node">Reward</div></div>
+</div>
+</div>
+
+→ **Automatic Behaviour**
 
 Evidence-based strategies include:
 
@@ -262,7 +278,7 @@ Evidence-based strategies include:
 - Reduce obstacles.
 - Reinforce success with meaningful rewards.
 
-Habit formation varies widely among individuals and behaviors; it is **not governed by a fixed number of days**. :contentReference[oaicite:5]{index=5}
+Habit formation varies widely among individuals and behaviors; it is **not governed by a fixed number of days**.
 
 ---
 
@@ -280,6 +296,11 @@ Rather than relying only on willpower:
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/India_-_Varanasi_chai_tea_-_1420.jpg?width=1200" alt="A cup of chai tea in Varanasi, India, part of a widely repeated daily habit">
+<p class="domain-figure-caption">Chai tea in Varanasi, India — a daily ritual and example of a deeply ingrained habit — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -402,7 +423,6 @@ It connects:
 - [[Sleep]]
 - [[Stress]]
 - [[Recovery]]
-- [[Longevity]]
 
 Habits transform isolated actions into lifelong patterns that shape health, performance, and character.
 
@@ -415,7 +435,6 @@ Habits transform isolated actions into lifelong patterns that shape health, perf
 - [[Brain]]
 - [[Neuroplasticity]]
 - [[Learning]]
-- [[Behavior]]
 
 ---
 
@@ -423,33 +442,30 @@ Habits transform isolated actions into lifelong patterns that shape health, perf
 
 - [[Lifestyle Biology]]
 - [[Recovery]]
-- [[Healthy Aging]]
-- [[Longevity]]
 
 ---
 
 ## Related
 
-- [[Motivation]]
-- [[Self-Control]]
 - [[Exercise]]
 - [[Nutrition]]
 - [[Sleep]]
 
 ---
 
-## Next
-
-→ [[Recovery]]
-
----
-
 # HumanOS Principle
 
-Habits are the biological bridge between intention and lifelong health. Every repeated behavior strengthens neural pathways, making future actions more automatic. Over months and years, habits shape metabolism, fitness, sleep, learning, and disease risk. Understanding habits reveals that lasting change rarely comes from extraordinary effort—it comes from small, consistent actions repeated until they become part of everyday life. :contentReference[oaicite:6]{index=6}
+Habits are the biological bridge between intention and lifelong health. Every repeated behavior strengthens neural pathways, making future actions more automatic. Over months and years, habits shape metabolism, fitness, sleep, learning, and disease risk. Understanding habits reveals that lasting change rarely comes from extraordinary effort—it comes from small, consistent actions repeated until they become part of everyday life.
 
 ---
 
 # Key Insight
 
-> **Habits are learned behaviors that become increasingly automatic through repetition in a consistent context. By reducing the need for conscious effort, habits allow the brain to perform routine actions efficiently while freeing attention for new challenges. Because daily habits influence nutrition, exercise, sleep, stress management, and recovery, they become one of the most powerful biological forces shaping lifelong health, performance, and longevity.** :contentReference[oaicite:7]{index=7}
+> **Habits are learned behaviors that become increasingly automatic through repetition in a consistent context. By reducing the need for conscious effort, habits allow the brain to perform routine actions efficiently while freeing attention for new challenges. Because daily habits influence nutrition, exercise, sleep, stress management, and recovery, they become one of the most powerful biological forces shaping lifelong health, performance, and longevity.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/06-lifestyle-biology/07---recovery" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Recovery</span><span class="os-cta-sub">Recovery is the biological process through which the body and mind restore normal...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

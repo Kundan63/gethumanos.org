@@ -1,6 +1,6 @@
 # Mental Health Disorders
 
-> *Mental health disorders (mental disorders) are clinically significant disturbances in cognition, emotional regulation, or behavior that cause distress or impair important areas of functioning. They arise from complex interactions among biological, psychological, developmental, social, and environmental factors. Mental disorders include anxiety disorders, depressive disorders, bipolar disorder, schizophrenia, obsessive-compulsive disorder (OCD), post-traumatic stress disorder (PTSD), eating disorders, neurodevelopmental disorders, and others. In 2021, **nearly 1 in 7 people worldwide (about 1.1 billion people)** were living with a mental disorder, making them one of the leading causes of disability worldwide. Effective prevention and treatment exist, but many people do not receive adequate care. :contentReference[oaicite:0]{index=0}
+> *Mental health disorders (mental disorders) are clinically significant disturbances in cognition, emotional regulation, or behavior that cause distress or impair important areas of functioning. They arise from complex interactions among biological, psychological, developmental, social, and environmental factors. Mental disorders include anxiety disorders, depressive disorders, bipolar disorder, schizophrenia, obsessive-compulsive disorder (OCD), post-traumatic stress disorder (PTSD), eating disorders, neurodevelopmental disorders, and others. In 2021, **nearly 1 in 7 people worldwide (about 1.1 billion people)** were living with a mental disorder, making them one of the leading causes of disability worldwide. Effective prevention and treatment exist, but many people do not receive adequate care.
 
 ---
 
@@ -17,7 +17,7 @@ Mental health disorders are conditions that disrupt one or more aspects of menta
 - Relationships
 - Daily functioning
 
-Unlike normal emotional responses to life's challenges, mental disorders are **persistent, clinically significant, and impair everyday life**. :contentReference[oaicite:1]{index=1}
+Unlike normal emotional responses to life's challenges, mental disorders are **persistent, clinically significant, and impair everyday life**.
 
 ---
 
@@ -34,7 +34,7 @@ Mental health depends on healthy interaction among:
 - Physical health
 - Environment
 
-Mental disorders develop when these interacting systems become disrupted over time. There is rarely a single cause. :contentReference[oaicite:2]{index=2}
+Mental disorders develop when these interacting systems become disrupted over time. There is rarely a single cause.
 
 ---
 
@@ -54,27 +54,20 @@ Mental health disorders emerge from the interaction of biological, psychological
 
 # Major Mental Health Disorders
 
-```text
-Mental Disorders
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Anxiety Disorders
-Depressive Disorders
-Bipolar Disorder
-Schizophrenia
- │
- ├─────────────┬──────────────┬──────────────┐
- ▼             ▼              ▼
-OCD
-PTSD
-Eating Disorders
- │
- ├─────────────┬──────────────┐
- ▼             ▼
-ADHD
-Autism Spectrum Disorder
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Mental Disorders</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Anxiety Disorders</div></div>
+<div class="tree-item"><div class="tree-node">Depressive Disorders</div></div>
+<div class="tree-item"><div class="tree-node">Bipolar Disorder</div></div>
+<div class="tree-item"><div class="tree-node">Schizophrenia</div></div>
+<div class="tree-item"><div class="tree-node">OCD</div></div>
+<div class="tree-item"><div class="tree-node">PTSD</div></div>
+<div class="tree-item"><div class="tree-node">Eating Disorders</div></div>
+<div class="tree-item"><div class="tree-node">ADHD</div></div>
+<div class="tree-item"><div class="tree-node">Autism Spectrum Disorder</div></div>
+</div>
+</div>
 
 ---
 
@@ -89,7 +82,7 @@ Examples:
 - Social anxiety disorder
 - Separation anxiety disorder
 
-Anxiety disorders are the most common mental disorders globally. :contentReference[oaicite:3]{index=3}
+Anxiety disorders are the most common mental disorders globally.
 
 ---
 
@@ -97,7 +90,7 @@ Anxiety disorders are the most common mental disorders globally. :contentReferen
 
 Persistent low mood and/or loss of interest lasting at least two weeks, often accompanied by sleep, appetite, energy, concentration, and self-esteem changes.
 
-Depression is different from ordinary sadness and increases suicide risk if untreated. :contentReference[oaicite:4]{index=4}
+Depression is different from ordinary sadness and increases suicide risk if untreated.
 
 ---
 
@@ -108,7 +101,7 @@ Characterized by alternating episodes of:
 - Depression
 - Mania or hypomania
 
-Symptoms may include increased energy, reduced need for sleep, impulsivity, and elevated or irritable mood. :contentReference[oaicite:5]{index=5}
+Symptoms may include increased energy, reduced need for sleep, impulsivity, and elevated or irritable mood.
 
 ---
 
@@ -123,7 +116,7 @@ Possible symptoms include:
 - Disorganized thinking
 - Cognitive difficulties
 
-Effective treatment often combines medication with psychosocial support. :contentReference[oaicite:6]{index=6}
+Effective treatment often combines medication with psychosocial support.
 
 ---
 
@@ -148,7 +141,7 @@ Symptoms include:
 - Avoidance
 - Persistent sense of threat
 
-:contentReference[oaicite:7]{index=7}
+
 
 ---
 
@@ -160,7 +153,7 @@ Include:
 - Bulimia nervosa
 - Binge-eating disorder
 
-These involve disturbances in eating behavior together with excessive concern about body weight or shape. :contentReference[oaicite:8]{index=8}
+These involve disturbances in eating behavior together with excessive concern about body weight or shape.
 
 ---
 
@@ -174,21 +167,20 @@ Examples:
 - Attention-deficit/hyperactivity disorder (ADHD)
 - Intellectual developmental disorders
 
-:contentReference[oaicite:9]{index=9}
+
 
 ---
 
 # Complete Causes
 
-```text
-Complete Causes
-      │
- ┌────┼─────────────────────────────┐
- ▼    ▼                             ▼
-Biology
-Psychology
-Environment
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Biology</div></div>
+<div class="tree-item"><div class="tree-node">Psychology</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+</div>
+</div>
 
 ---
 
@@ -243,7 +235,7 @@ Examples:
 - Family conflict
 - Bullying
 
-WHO recognizes these as important contributors to mental disorders. :contentReference[oaicite:10]{index=10}
+WHO recognizes these as important contributors to mental disorders.
 
 ---
 
@@ -301,7 +293,7 @@ Diagnosis involves:
 - Screening questionnaires
 - Physical examination (to exclude medical causes)
 
-Diagnosis is based on internationally recognized criteria such as ICD-11 or DSM-5. :contentReference[oaicite:11]{index=11}
+Diagnosis is based on internationally recognized criteria such as ICD-11 or DSM-5.
 
 ---
 
@@ -333,7 +325,7 @@ Treatment depends on the condition and severity.
 - Employment support
 - Family involvement
 
-Most mental disorders can be effectively treated when appropriate care is available. :contentReference[oaicite:12]{index=12}
+Most mental disorders can be effectively treated when appropriate care is available.
 
 ---
 
@@ -436,7 +428,7 @@ Protective measures include:
 - Reducing stigma
 - Access to mental health services
 
-:contentReference[oaicite:13]{index=13}
+
 
 ---
 
@@ -479,14 +471,15 @@ Many people recover fully or manage symptoms successfully with long-term care.
 
 Mental health influences:
 
-- Learning
-- Work
-- Relationships
-- Decision making
-- Physical health
-- Quality of life
+> [!success]
+> - Learning
+> - Work
+> - Relationships
+> - Decision making
+> - Physical health
+> - Quality of life
 
-Mental health is an essential part of overall health, not separate from it. :contentReference[oaicite:14]{index=14}
+Mental health is an essential part of overall health, not separate from it.
 
 ---
 
@@ -559,7 +552,6 @@ It connects:
 - [[Lifestyle Medicine]]
 - [[Brain & Neurological Diseases]]
 - [[Psychology]]
-- [[Healthy Aging]]
 
 It demonstrates that mental health emerges from the interaction of biology, psychology, and society, making prevention, early care, and long-term support essential for human well-being.
 
@@ -576,8 +568,6 @@ It demonstrates that mental health emerges from the interaction of biology, psyc
 
 ## Enables
 
-- [[Psychiatry]]
-- [[Psychotherapy]]
 - [[Rehabilitation]]
 
 ## Related
@@ -587,18 +577,21 @@ It demonstrates that mental health emerges from the interaction of biology, psyc
 - [[Exercise]]
 - [[Nutrition]]
 
-## Next
-
-→ [[Autoimmune Diseases]]
-
 ---
 
 # HumanOS Principle
 
-Mental health disorders arise from complex interactions among biological, psychological, developmental, social, and environmental factors that disrupt thinking, emotional regulation, or behavior. They are common, treatable health conditions—not personal weaknesses—and effective management combines evidence-based psychological therapies, appropriate medications when needed, healthy lifestyle practices, supportive relationships, and accessible healthcare. Understanding mental disorders helps reduce stigma while improving prevention, recovery, and lifelong well-being. :contentReference[oaicite:15]{index=15}
+Mental health disorders arise from complex interactions among biological, psychological, developmental, social, and environmental factors that disrupt thinking, emotional regulation, or behavior. They are common, treatable health conditions—not personal weaknesses—and effective management combines evidence-based psychological therapies, appropriate medications when needed, healthy lifestyle practices, supportive relationships, and accessible healthcare. Understanding mental disorders helps reduce stigma while improving prevention, recovery, and lifelong well-being.
 
 ---
 
 # Key Insight
 
-> **Mental health disorders are conditions that alter the way the brain, mind, and environment interact, leading to clinically significant disturbances in thoughts, emotions, or behavior. Understanding their biological, psychological, and social foundations shows that mental health is an integral part of overall health and that recovery is often possible through early recognition, compassionate support, and evidence-based care.** :contentReference[oaicite:16]{index=16}
+> **Mental health disorders are conditions that alter the way the brain, mind, and environment interact, leading to clinically significant disturbances in thoughts, emotions, or behavior. Understanding their biological, psychological, and social foundations shows that mental health is an integral part of overall health and that recovery is often possible through early recognition, compassionate support, and evidence-based care.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/12---autoimmune-diseases" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Autoimmune Diseases</span><span class="os-cta-sub">Autoimmune diseases are disorders in which the immune system mistakenly attacks the...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

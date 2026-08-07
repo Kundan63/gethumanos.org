@@ -22,7 +22,7 @@ It investigates:
 - Exoplanets
 - The large-scale structure of the Universe
 
-Astronomy combines observations with mathematics, physics, and chemistry to understand how these objects form, evolve, interact, and eventually change over time. Cosmology is a branch of astronomy focused specifically on the Universe as a whole. :contentReference[oaicite:0]{index=0}
+Astronomy combines observations with mathematics, physics, and chemistry to understand how these objects form, evolve, interact, and eventually change over time. Cosmology is a branch of astronomy focused specifically on the Universe as a whole.
 
 ---
 
@@ -43,7 +43,7 @@ Astronomy allows humanity to answer questions such as:
 - How do galaxies evolve?
 - What is our place in the cosmos?
 
-Unlike mythology or astrology, astronomy answers these questions using observation, measurement, mathematics, and scientific testing. :contentReference[oaicite:1]{index=1}
+Unlike mythology or astrology, astronomy answers these questions using observation, measurement, mathematics, and scientific testing.
 
 ---
 
@@ -51,31 +51,40 @@ Unlike mythology or astrology, astronomy answers these questions using observati
 
 Astronomy studies the Universe by collecting and analyzing information carried across space.
 
-```text
-Universe
-    │
-    ▼
-Light • Radio Waves • X-rays • Infrared
-    │
-    ▼
-Telescopes & Spacecraft
-    │
-    ▼
-Observation
-    │
-    ▼
-Data Analysis
-    │
-    ▼
-Physics + Mathematics
-    │
-    ▼
-Scientific Understanding
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Universe</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Light, Radio Waves, X-rays, Infrared</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Telescopes &amp; Spacecraft</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Observation</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Data Analysis</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Physics + Mathematics</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Scientific Understanding</span></div>
+</div>
+</div>
 
 Because light requires time to travel, looking farther into space also means looking further into the past.
 
-Astronomy is therefore both the study of **space** and the **history of the Universe**. :contentReference[oaicite:2]{index=2}
+Astronomy is therefore both the study of **space** and the **history of the Universe**.
 
 ---
 
@@ -93,176 +102,74 @@ Astronomy is not only about looking at stars.
 
 It has transformed how humans understand reality and has driven advances in science and technology.
 
-Understanding astronomy helps us:
+> [!success] Understanding astronomy helps us
+> Understand Earth's place in the Universe.
+>
+> Explain day, night, seasons, and eclipses.
+>
+> Develop satellite technology.
+>
+> Improve navigation.
+>
+> Advance space exploration.
+>
+> Inspire scientific curiosity.
+>
+> Understand the origin of the elements that make up our bodies.
 
-- Understand Earth's place in the Universe.
-- Explain day, night, seasons, and eclipses.
-- Develop satellite technology.
-- Improve navigation.
-- Advance space exploration.
-- Inspire scientific curiosity.
-- Understand the origin of the elements that make up our bodies.
-
-Astronomy also reminds us that Earth is one small planet within a vast Universe, encouraging a broader perspective on humanity's shared future. :contentReference[oaicite:3]{index=3}
+Astronomy also reminds us that Earth is one small planet within a vast Universe, encouraging a broader perspective on humanity's shared future.
 
 ---
 
 # Daily Life Examples
 
-### 🌅 Sunrise and Sunset
+Astronomy quietly shapes ordinary experiences most people never connect to the sky.
 
-Astronomy explains why the Sun appears to rise and set as Earth rotates.
-
----
-
-### 🌙 Moon Phases
-
-The changing appearance of the Moon results from the relative positions of the Earth, Moon, and Sun.
-
----
-
-### 🌍 Seasons
-
-Earth's tilted axis—not its distance from the Sun—causes the changing seasons.
-
----
-
-### 📍 GPS Navigation
-
-Satellite navigation depends on accurate astronomical observations, orbital mechanics, and precise timing.
-
----
-
-### 🌦 Weather Satellites
-
-Satellites observe Earth from space, helping predict storms, droughts, floods, and climate patterns.
-
----
-
-### 🚀 Space Exploration
-
-Knowledge gained through astronomy enables missions to the Moon, Mars, asteroids, and beyond.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🌅</span><span class="os-card-title">Sunrise and Sunset</span><span class="os-card-desc">Astronomy explains why the Sun appears to rise and set as Earth rotates.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌙</span><span class="os-card-title">Moon Phases</span><span class="os-card-desc">The changing appearance of the Moon results from the relative positions of the Earth, Moon, and Sun.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌍</span><span class="os-card-title">Seasons</span><span class="os-card-desc">Earth's tilted axis—not its distance from the Sun—causes the changing seasons.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">📍</span><span class="os-card-title">GPS Navigation</span><span class="os-card-desc">Satellite navigation depends on accurate astronomical observations, orbital mechanics, and precise timing.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌦</span><span class="os-card-title">Weather Satellites</span><span class="os-card-desc">Satellites observe Earth from space, helping predict storms, droughts, floods, and climate patterns.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🚀</span><span class="os-card-title">Space Exploration</span><span class="os-card-desc">Knowledge gained through astronomy enables missions to the Moon, Mars, asteroids, and beyond.</span></div>
+</div>
 
 ---
 
 # Human Impact
 
-## Human Body
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Hubble_Space_Telescope_in_orbit_(28247098826).jpg?width=1200" alt="The Hubble Space Telescope orbiting above Earth, viewed from the Space Shuttle">
+<p class="domain-figure-caption">The Hubble Space Telescope in orbit above Earth — via Wikimedia Commons</p>
+</div>
 
-Astronomy indirectly improves human health through technologies developed for observing space, including advances in imaging, sensors, communication, and satellite-based healthcare.
-
-It also reminds us that many of the elements in our bodies were formed inside ancient stars before becoming part of Earth. :contentReference[oaicite:4]{index=4}
-
----
-
-## Human Mind
-
-Astronomy develops:
-
-- Curiosity
-- Critical thinking
-- Scientific reasoning
-- Wonder
-- Intellectual humility
-
-Looking into space expands both knowledge and perspective.
-
----
-
-## Human Behaviour
-
-Astronomy encourages humans to:
-
-- Ask deeper questions.
-- Think beyond immediate concerns.
-- Appreciate Earth's uniqueness.
-- Support scientific discovery.
-- Plan for humanity's long-term future.
-
----
-
-## Society
-
-Astronomy has shaped civilization through:
-
-- Calendars
-- Navigation
-- Timekeeping
-- Scientific revolutions
-- International collaboration
-- Education
-
-Today, major observatories and space missions bring together scientists from around the world.
-
----
-
-## Economics
-
-Astronomy contributes to economic development through:
-
-- Satellite industries
-- Precision navigation
-- Aerospace engineering
-- Imaging technology
-- Computing
-- Data science
-
-Research in astronomy often leads to innovations used far beyond space science. :contentReference[oaicite:5]{index=5}
-
----
-
-## Politics & Governance
-
-Governments cooperate on:
-
-- Space missions
-- Planetary defense
-- Satellite regulation
-- Space law
-- International observatories
-
-Astronomy demonstrates how scientific goals can foster international collaboration.
-
----
-
-## Technology
-
-Modern astronomy has driven advances in:
-
-- Telescopes
-- Cameras
-- Sensors
-- Artificial Intelligence
-- Supercomputing
-- Image processing
-- Satellite communication
-
-Many technologies originally developed for astronomy now improve everyday life.
-
----
-
-## Philosophy & Spirituality
-
-Astronomy changes how humans see themselves.
-
-It reveals that Earth is not the center of the Universe and that humanity shares one cosmic home.
-
-Scientific astronomy explains the physical Universe, while philosophy and spirituality explore questions of meaning inspired by that understanding.
-
-HumanOS distinguishes between scientific evidence and philosophical reflection while recognizing that both contribute to humanity's search for understanding.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">&#129472;</span><span class="os-card-title">Human Body</span><span class="os-card-desc">Astronomy indirectly improves human health through technologies developed for observing space, including advances in imaging, sensors, communication, and satellite-based healthcare — it also reminds us that many of the elements in our bodies were formed inside ancient stars before becoming part of Earth.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#129504;</span><span class="os-card-title">Human Mind</span><span class="os-card-desc">Astronomy develops curiosity, critical thinking, scientific reasoning, wonder, and intellectual humility — looking into space expands both knowledge and perspective.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127919;</span><span class="os-card-title">Human Behaviour</span><span class="os-card-desc">Astronomy encourages humans to ask deeper questions, think beyond immediate concerns, appreciate Earth's uniqueness, support scientific discovery, and plan for humanity's long-term future.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127963;</span><span class="os-card-title">Society</span><span class="os-card-desc">Astronomy has shaped civilization through calendars, navigation, timekeeping, scientific revolutions, international collaboration, and education — today, major observatories and space missions bring together scientists from around the world.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128176;</span><span class="os-card-title">Economics</span><span class="os-card-desc">Astronomy contributes to economic development through satellite industries, precision navigation, aerospace engineering, imaging technology, computing, and data science. Research in astronomy often leads to innovations used far beyond space science.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128499;</span><span class="os-card-title">Politics & Governance</span><span class="os-card-desc">Governments cooperate on space missions, planetary defense, satellite regulation, space law, and international observatories — astronomy demonstrates how scientific goals can foster international collaboration.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#9881;</span><span class="os-card-title">Technology</span><span class="os-card-desc">Modern astronomy has driven advances in telescopes, cameras, sensors, artificial intelligence, supercomputing, image processing, and satellite communication. Many technologies originally developed for astronomy now improve everyday life.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#10024;</span><span class="os-card-title">Philosophy & Spirituality</span><span class="os-card-desc">Astronomy changes how humans see themselves, revealing that Earth is not the center of the Universe and that humanity shares one cosmic home. Scientific astronomy explains the physical Universe, while philosophy and spirituality explore questions of meaning inspired by that understanding — HumanOS distinguishes between scientific evidence and philosophical reflection while recognizing that both contribute to humanity's search for understanding.</span></div>
+</div>
 
 ---
 
 # Applying this Knowledge
 
-Understanding astronomy encourages us to:
-
-- Appreciate Earth's uniqueness.
-- Protect our planet.
-- Support scientific education.
-- Stay curious about the Universe.
-- Think beyond short-term problems.
-- Recognize that humanity shares one home within an immense cosmos.
+> [!tip] Understanding astronomy encourages us to
+> Appreciate Earth's uniqueness.
+>
+> Protect our planet.
+>
+> Support scientific education.
+>
+> Stay curious about the Universe.
+>
+> Think beyond short-term problems.
+>
+> Recognize that humanity shares one home within an immense cosmos.
 
 Astronomy teaches that understanding the sky ultimately helps us better understand ourselves.
 
@@ -303,19 +210,14 @@ It serves as the bridge between the fundamental structure of reality and the det
 ## Related
 
 - [[Universe]]
-- [[Solar System]]
-- [[Stars]]
-- [[Galaxies]]
-- [[Exoplanets]]
-
----
-
-## Next
-
-→ [[Physics]]
 
 ---
 
 # Key Insight
 
 > **Astronomy transforms humanity's oldest habit—looking at the night sky—into one of its greatest scientific achievements. By studying the Universe beyond Earth, we discover not only how stars, planets, and galaxies work, but also where we came from, how our civilization has advanced, and why our future depends on understanding the cosmos.**
+
+<div class="cta-row"><a class="os-cta" href="/03-natural-sciences/01---physics" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Physics</span><span class="os-cta-sub">Why matter behaves the way it does — the fundamental rules of energy, motion, and forces</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

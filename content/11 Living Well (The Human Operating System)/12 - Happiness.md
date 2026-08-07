@@ -1,6 +1,6 @@
 # Happiness
 
-> **Happiness is a positive state of human experience characterized by feelings such as joy, contentment, satisfaction, and the evaluation that life is going well.** Modern science views happiness as one component of overall well-being rather than its entirety. While happiness includes positive emotions, a flourishing life also depends on meaning, purpose, relationships, health, growth, and contribution. Happiness is therefore best understood as an outcome of living well rather than a goal pursued in isolation. :contentReference[oaicite:0]{index=0}
+> **Happiness is a positive state of human experience characterized by feelings such as joy, contentment, satisfaction, and the evaluation that life is going well.** Modern science views happiness as one component of overall well-being rather than its entirety. While happiness includes positive emotions, a flourishing life also depends on meaning, purpose, relationships, health, growth, and contribution. Happiness is therefore best understood as an outcome of living well rather than a goal pursued in isolation.
 
 ---
 
@@ -68,7 +68,7 @@ not
 
 **Happiness → Living Well**
 
-This perspective is consistent with research showing that subjective well-being includes positive emotions alongside life evaluation and meaning, rather than happiness alone. :contentReference[oaicite:1]{index=1}
+This perspective is consistent with research showing that subjective well-being includes positive emotions alongside life evaluation and meaning, rather than happiness alone.
 
 ---
 
@@ -113,19 +113,20 @@ HumanOS therefore distinguishes happiness from emotional perfection.
 
 # The Happiness System
 
-```text
-Happiness
-      │
- ├── Positive Emotions
- ├── Life Satisfaction
- ├── Relationships
- ├── Meaning
- ├── Health
- ├── Achievement
- ├── Gratitude
- ├── Growth
- └── Contribution
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Happiness</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Positive Emotions</div></div>
+<div class="tree-item"><div class="tree-node">Life Satisfaction</div></div>
+<div class="tree-item"><div class="tree-node">Relationships</div></div>
+<div class="tree-item"><div class="tree-node">Meaning</div></div>
+<div class="tree-item"><div class="tree-node">Health</div></div>
+<div class="tree-item"><div class="tree-node">Achievement</div></div>
+<div class="tree-item"><div class="tree-node">Gratitude</div></div>
+<div class="tree-item"><div class="tree-node">Growth</div></div>
+<div class="tree-item"><div class="tree-node">Contribution</div></div>
+</div>
+</div>
 
 These dimensions continually influence one another.
 
@@ -166,7 +167,7 @@ Humans are social beings.
 
 Strong relationships consistently contribute to happiness across cultures.
 
-Trust, belonging, friendship, and family create emotional security and shared meaning. :contentReference[oaicite:2]{index=2}
+Trust, belonging, friendship, and family create emotional security and shared meaning.
 
 ---
 
@@ -261,7 +262,7 @@ Healthy happiness supports:
 - Higher motivation
 - Longer-term well-being
 
-Research consistently shows that well-being is broader than happiness alone, including emotional experience, life evaluation, and a sense of meaning and purpose. :contentReference[oaicite:3]{index=3}
+Research consistently shows that well-being is broader than happiness alone, including emotional experience, life evaluation, and a sense of meaning and purpose.
 
 ---
 
@@ -303,7 +304,7 @@ Many small improvements across life create lasting happiness.
 
 ✔ Physical and mental health influence happiness.
 
-✔ Happiness naturally rises and falls throughout life. :contentReference[oaicite:4]{index=4}
+✔ Happiness naturally rises and falls throughout life.
 
 ---
 
@@ -354,30 +355,27 @@ Ask yourself:
 ## Enables
 
 - [[Personal Growth]]
-- [[Resilience]]
-- [[Contribution]]
-- [[Healthy Relationships]]
-- [[Life Satisfaction]]
 
 ## Related
 
 - [[Meaning & Purpose]]
-- [[Gratitude]]
 - [[Mental Well-being]]
-- [[Human Flourishing]]
-
-## Next
-
-→ [[Personal Growth]]
 
 ---
 
 # HumanOS Principle
 
-Happiness is a valuable outcome of living well, but it is not the sole purpose of life. HumanOS teaches that lasting happiness emerges from understanding reality, maintaining health, building meaningful relationships, pursuing worthwhile goals, continuing to grow, and contributing to something larger than oneself. Happiness is therefore not something to chase directly—it is something that naturally grows when the foundations of life are strong. :contentReference[oaicite:5]{index=5}
+Happiness is a valuable outcome of living well, but it is not the sole purpose of life. HumanOS teaches that lasting happiness emerges from understanding reality, maintaining health, building meaningful relationships, pursuing worthwhile goals, continuing to grow, and contributing to something larger than oneself. Happiness is therefore not something to chase directly—it is something that naturally grows when the foundations of life are strong.
 
 ---
 
 # Key Insight
 
 > **Do not make happiness your destination. Make it your companion. Build a healthy body, a resilient mind, meaningful relationships, purposeful work, continual growth, and responsible contribution. When reality and life become better aligned, happiness often follows as one of the many rewards—not the only one.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/13---personal-growth" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Personal Growth</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

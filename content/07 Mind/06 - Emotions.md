@@ -1,6 +1,6 @@
 # Emotions
 
-> *Emotions are complex psychological and biological responses to events that are personally meaningful. They involve subjective feelings, physiological changes, cognitive appraisal, behavioral responses, and emotional expression. Emotions help humans respond rapidly to opportunities and threats, communicate with others, guide decision making, strengthen learning, and promote survival. Rather than being separate from thinking, emotions continuously interact with cognition, memory, motivation, and behavior.* :contentReference[oaicite:0]{index=0}
+> *Emotions are complex psychological and biological responses to events that are personally meaningful. They involve subjective feelings, physiological changes, cognitive appraisal, behavioral responses, and emotional expression. Emotions help humans respond rapidly to opportunities and threats, communicate with others, guide decision making, strengthen learning, and promote survival. Rather than being separate from thinking, emotions continuously interact with cognition, memory, motivation, and behavior.*
 
 ---
 
@@ -30,7 +30,7 @@ Unlike moods, emotions are usually:
 
 - More intense
 - Shorter-lasting
-- Triggered by a specific event or thought. :contentReference[oaicite:1]{index=1}
+- Triggered by a specific event or thought.
 
 ---
 
@@ -62,7 +62,7 @@ Without emotions, humans would struggle to prioritize actions or respond appropr
 
 > **Why do humans feel emotions instead of simply thinking logically?**
 
-Emotions rapidly evaluate situations before deliberate reasoning is complete, preparing the body and mind for adaptive action while also influencing long-term learning and social relationships. :contentReference[oaicite:2]{index=2}
+Emotions rapidly evaluate situations before deliberate reasoning is complete, preparing the body and mind for adaptive action while also influencing long-term learning and social relationships.
 
 ---
 
@@ -74,22 +74,18 @@ Emotions rapidly evaluate situations before deliberate reasoning is complete, pr
 
 # Components of Emotion
 
-```text
-Emotion
-     │
- ┌───┼──────────────┬──────────────┐
- ▼   ▼              ▼              ▼
-Feeling
-Physiological Response
-Cognitive Appraisal
-Behavior
- │
- └──────────────┐
-                ▼
-Emotional Expression
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Emotion</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Feeling</div></div>
+<div class="tree-item"><div class="tree-node">Physiological Response</div></div>
+<div class="tree-item"><div class="tree-node">Cognitive Appraisal</div></div>
+<div class="tree-item"><div class="tree-node">Behavior</div></div>
+<div class="tree-item"><div class="tree-node">Emotional Expression</div></div>
+</div>
+</div>
 
-Modern psychology describes emotions as involving subjective experience, physiological responses, cognitive appraisal, and expressive behavior. :contentReference[oaicite:3]{index=3}
+Modern psychology describes emotions as involving subjective experience, physiological responses, cognitive appraisal, and expressive behavior.
 
 ---
 
@@ -131,7 +127,7 @@ The brain evaluates:
 - Is it dangerous?
 - Can I cope?
 
-Different people may experience different emotions in the same situation because their appraisals differ. :contentReference[oaicite:4]{index=4}
+Different people may experience different emotions in the same situation because their appraisals differ.
 
 ---
 
@@ -176,7 +172,7 @@ Examples include:
 - Disgust
 - Surprise
 
-These emotions are associated with recognizable facial expressions across many cultures. :contentReference[oaicite:5]{index=5}
+These emotions are associated with recognizable facial expressions across many cultures.
 
 ---
 
@@ -199,14 +195,15 @@ These emotions are associated with recognizable facial expressions across many c
 
 # Major Theories of Emotion
 
-```text
-Emotion Theories
-      │
- ├── James–Lange
- ├── Cannon–Bard
- ├── Schachter–Singer
- └── Cognitive Appraisal
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Emotion Theories</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">James–Lange</div></div>
+<div class="tree-item"><div class="tree-node">Cannon–Bard</div></div>
+<div class="tree-item"><div class="tree-node">Schachter–Singer</div></div>
+<div class="tree-item"><div class="tree-node">Cognitive Appraisal</div></div>
+</div>
+</div>
 
 ---
 
@@ -245,7 +242,7 @@ Emotions arise from how people evaluate the meaning of an event.
 
 Different interpretations can produce different emotions in the same situation.
 
-These theories illustrate different ways psychologists explain the relationship among bodily responses, cognition, and subjective feelings. :contentReference[oaicite:6]{index=6}
+These theories illustrate different ways psychologists explain the relationship among bodily responses, cognition, and subjective feelings.
 
 ---
 
@@ -259,7 +256,7 @@ Important brain regions include:
 - Prefrontal cortex
 - Anterior cingulate cortex
 
-These structures help detect emotional significance, regulate responses, store emotional memories, and support emotional control. :contentReference[oaicite:7]{index=7}
+These structures help detect emotional significance, regulate responses, store emotional memories, and support emotional control.
 
 ---
 
@@ -330,14 +327,16 @@ Emotional intelligence complements cognitive intelligence.
 
 Understanding emotions improves:
 
-- Mental health
-- Relationships
-- Parenting
-- Education
-- Leadership
-- Healthcare
-- Conflict resolution
-- Communication
+<div class="tag-grid">
+<span class="tag-pill">Mental health</span>
+<span class="tag-pill">Relationships</span>
+<span class="tag-pill">Parenting</span>
+<span class="tag-pill">Education</span>
+<span class="tag-pill">Leadership</span>
+<span class="tag-pill">Healthcare</span>
+<span class="tag-pill">Conflict resolution</span>
+<span class="tag-pill">Communication</span>
+</div>
 
 ---
 
@@ -373,14 +372,15 @@ Emotions shape nearly every aspect of life.
 
 They influence:
 
-- Relationships
-- Learning
-- Motivation
-- Mental health
-- Decision making
-- Creativity
-- Leadership
-- Happiness
+> [!success]
+> - Relationships
+> - Learning
+> - Motivation
+> - Mental health
+> - Decision making
+> - Creativity
+> - Leadership
+> - Happiness
 
 Understanding emotions helps people respond more wisely instead of reacting automatically.
 
@@ -464,7 +464,6 @@ It connects:
 - [[Memory]]
 - [[Decision Making]]
 - [[Behaviour]]
-- [[Mental Health]]
 - [[Stress]]
 
 It demonstrates that emotions are adaptive systems that help humans survive, learn, connect with others, and make meaningful decisions.
@@ -485,27 +484,28 @@ It demonstrates that emotions are adaptive systems that help humans survive, lea
 - [[Behaviour]]
 - [[Decision Making]]
 - [[Relationships]]
-- [[Motivation]]
 
 ## Related
 
 - [[Stress]]
-- [[Mental Health]]
 - [[Personality]]
 - [[Memory]]
-
-## Next
-
-→ [[Behaviour]]
 
 ---
 
 # HumanOS Principle
 
-Emotions are integrated psychological and biological responses that help humans evaluate situations, communicate with others, prioritize actions, and adapt to changing environments. Rather than opposing rational thought, emotions work together with cognition, memory, and learning to guide decision making, strengthen relationships, and improve survival. Understanding emotions enables healthier behavior, better relationships, and wiser decisions throughout life. :contentReference[oaicite:8]{index=8}
+Emotions are integrated psychological and biological responses that help humans evaluate situations, communicate with others, prioritize actions, and adapt to changing environments. Rather than opposing rational thought, emotions work together with cognition, memory, and learning to guide decision making, strengthen relationships, and improve survival. Understanding emotions enables healthier behavior, better relationships, and wiser decisions throughout life.
 
 ---
 
 # Key Insight
 
-> **Emotions are the mind's rapid evaluation system. They transform experiences into feelings, prepare the body for action, shape learning and memory, and guide human behavior. Understanding emotions reveals that wisdom comes not from suppressing feelings, but from understanding and regulating them effectively.** :contentReference[oaicite:9]{index=9}
+> **Emotions are the mind's rapid evaluation system. They transform experiences into feelings, prepare the body for action, shape learning and memory, and guide human behavior. Understanding emotions reveals that wisdom comes not from suppressing feelings, but from understanding and regulating them effectively.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/07-mind/07---behaviour" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Behaviour</span><span class="os-cta-sub">Behaviour is the observable actions and responses of an organism to internal and...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

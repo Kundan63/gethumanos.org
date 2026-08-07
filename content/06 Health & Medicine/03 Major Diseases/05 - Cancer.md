@@ -1,6 +1,6 @@
 # Cancer
 
-> *Cancer is a group of diseases in which abnormal cells grow uncontrollably, evade the body's normal growth controls, invade surrounding tissues, and may spread (metastasize) to distant organs. Cancer develops through a multistep process involving genetic changes and interactions with physical, chemical, and biological carcinogens. It can affect almost any tissue in the body and is one of the leading causes of death worldwide, causing nearly **10 million deaths in 2024**. Between **30–50% of cancers are preventable** through evidence-based prevention strategies.* :contentReference[oaicite:0]{index=0}
+> *Cancer is a group of diseases in which abnormal cells grow uncontrollably, evade the body's normal growth controls, invade surrounding tissues, and may spread (metastasize) to distant organs. Cancer develops through a multistep process involving genetic changes and interactions with physical, chemical, and biological carcinogens. It can affect almost any tissue in the body and is one of the leading causes of death worldwide, causing nearly **10 million deaths in 2024**. Between **30–50% of cancers are preventable** through evidence-based prevention strategies.*
 
 ---
 
@@ -32,7 +32,7 @@ Normally:
 - Damaged cells repair themselves.
 - Severely damaged cells die.
 
-Cancer develops when these protective systems gradually fail due to accumulated genetic changes and environmental exposures. :contentReference[oaicite:1]{index=1}
+Cancer develops when these protective systems gradually fail due to accumulated genetic changes and environmental exposures.
 
 ---
 
@@ -52,20 +52,20 @@ Cancer develops through years of accumulated DNA damage that allows abnormal cel
 
 # Types of Cancer
 
-```text
-Cancer
-   │
- ┌───┼──────────────┬──────────────┐
- ▼   ▼              ▼              ▼
-Carcinoma
-Sarcoma
-Leukemia
-Lymphoma
- │
- └──────────────┐
-                ▼
-Melanoma
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Cancer</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Carcinoma</div></div>
+<div class="tree-item"><div class="tree-node">Sarcoma</div></div>
+<div class="tree-item"><div class="tree-node">Leukemia</div></div>
+<div class="tree-item">
+<div class="tree-node">Lymphoma</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Melanoma</div></div>
+</div>
+</div>
+</div>
+</div>
 
 ### Carcinoma
 
@@ -117,15 +117,14 @@ Cancer of pigment-producing skin cells.
 
 Cancer almost always results from **multiple interacting causes**.
 
-```text
-Complete Causes
-      │
- ┌────┼─────────────────────────────┐
- ▼    ▼                             ▼
-Genetics
-Environment
-Lifestyle
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+</div>
+</div>
 
 ---
 
@@ -135,7 +134,7 @@ Lifestyle
 - Family history
 - DNA repair disorders
 
-Most cancers are **not inherited** but arise from mutations acquired during life. :contentReference[oaicite:2]{index=2}
+Most cancers are **not inherited** but arise from mutations acquired during life.
 
 ---
 
@@ -182,7 +181,7 @@ Higher risk is associated with:
 - Processed meats
 - Excess calorie intake leading to obesity
 
-Healthy dietary patterns are associated with lower risk for several cancers. :contentReference[oaicite:3]{index=3}
+Healthy dietary patterns are associated with lower risk for several cancers.
 
 ---
 
@@ -234,7 +233,7 @@ Examples:
 - *Helicobacter pylori* → Stomach cancer
 - Epstein–Barr virus → Some lymphomas
 
-Cancer-causing infections account for a substantial proportion of cancers in some regions. :contentReference[oaicite:4]{index=4}
+Cancer-causing infections account for a substantial proportion of cancers in some regions.
 
 ---
 
@@ -253,7 +252,7 @@ Examples:
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:287px"><svg width="100%" viewBox="0 0 287 582" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="251.1" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="143.6" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">DNA Damage</text><rect x="18.0" y="90.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Mutation</text><rect x="18.0" y="162.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cell Cycle Failure</text><rect x="18.0" y="234.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Uncontrolled Cell Division</text><rect x="18.0" y="306.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Tumor</text><rect x="18.0" y="378.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Blood Vessel Growth</text><rect x="18.0" y="450.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Invasion</text><rect x="18.0" y="522.0" width="251.1" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="143.6" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Metastasis</text><line x1="143.6" y1="64.0" x2="143.6" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="136.0" x2="143.6" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="208.0" x2="143.6" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="280.0" x2="143.6" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="352.0" x2="143.6" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="424.0" x2="143.6" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="496.0" x2="143.6" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Cancer becomes life-threatening primarily when it invades nearby tissues or spreads to distant organs (metastasis). :contentReference[oaicite:5]{index=5}
+Cancer becomes life-threatening primarily when it invades nearby tissues or spreads to distant organs (metastasis).
 
 ---
 
@@ -347,7 +346,7 @@ Used for hormone-sensitive cancers.
 
 Used mainly in blood cancers.
 
-Many cancers are curable when detected early and treated appropriately. :contentReference[oaicite:6]{index=6}
+Many cancers are curable when detected early and treated appropriately.
 
 ---
 
@@ -394,7 +393,7 @@ Evidence supports:
 - Ultra-processed foods
 - Excess calories
 
-No food cures cancer, but healthy dietary patterns support overall health and may lower the risk of developing certain cancers. :contentReference[oaicite:7]{index=7}
+No food cures cancer, but healthy dietary patterns support overall health and may lower the risk of developing certain cancers.
 
 ---
 
@@ -426,7 +425,7 @@ Traditional Ayurvedic approaches may include:
 
 ### Current Scientific Evidence
 
-Some Ayurvedic herbs contain biologically active compounds under active research, and some may help with symptom management or general well-being. However, there is **no high-quality evidence** that Ayurvedic therapies alone can cure cancer. They should be considered complementary and discussed with the oncology team because herbs may interact with chemotherapy or other treatments. :contentReference[oaicite:8]{index=8}
+Some Ayurvedic herbs contain biologically active compounds under active research, and some may help with symptom management or general well-being. However, there is **no high-quality evidence** that Ayurvedic therapies alone can cure cancer. They should be considered complementary and discussed with the oncology team because herbs may interact with chemotherapy or other treatments.
 
 ### Safety
 
@@ -440,7 +439,7 @@ Some Ayurvedic herbs contain biologically active compounds under active research
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:214px"><svg width="100%" viewBox="0 0 214 582" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="178.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="107.0" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">No Tobacco</text><rect x="18.0" y="90.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Healthy Diet</text><rect x="18.0" y="162.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Exercise</text><rect x="18.0" y="234.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Healthy Weight</text><rect x="18.0" y="306.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Vaccination</text><rect x="18.0" y="378.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Sun Protection</text><rect x="18.0" y="450.0" width="178.0" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="107.0" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cancer Screening</text><rect x="18.0" y="522.0" width="178.0" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="107.0" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Lower Cancer Risk</text><line x1="107.0" y1="64.0" x2="107.0" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="136.0" x2="107.0" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="208.0" x2="107.0" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="280.0" x2="107.0" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="352.0" x2="107.0" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="424.0" x2="107.0" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="107.0" y1="496.0" x2="107.0" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-WHO estimates that **30–50% of cancers can be prevented** through existing evidence-based strategies. :contentReference[oaicite:9]{index=9}
+WHO estimates that **30–50% of cancers can be prevented** through existing evidence-based strategies.
 
 ---
 
@@ -468,7 +467,7 @@ Prognosis depends on:
 - Early diagnosis
 - Treatment response
 
-Many cancers now have high cure rates when detected early and treated appropriately. :contentReference[oaicite:10]{index=10}
+Many cancers now have high cure rates when detected early and treated appropriately.
 
 ---
 
@@ -484,11 +483,13 @@ Cancer affects nearly every family.
 
 Understanding cancer helps people:
 
-- Reduce preventable risk
-- Recognize warning signs
-- Participate in screening
-- Seek early diagnosis
-- Support effective treatment
+> [!success]
+> - Reduce preventable risk
+> - Recognize warning signs
+> - Participate in screening
+> - Seek early diagnosis
+> - Support effective treatment
+
 
 ---
 
@@ -552,8 +553,6 @@ Modern oncology uses:
 It connects:
 
 - [[Cells]]
-- [[DNA]]
-- [[Cell Cycle]]
 - [[Disease Mechanisms]]
 - [[Chronic Diseases]]
 - [[Immune System]]
@@ -568,15 +567,11 @@ Cancer demonstrates that disease often results from long-term interactions betwe
 ## Depends On
 
 - [[Cells]]
-- [[DNA]]
-- [[Cell Cycle]]
 - [[Disease Mechanisms]]
 
 ## Enables
 
-- [[Oncology]]
 - [[Screening]]
-- [[Precision Medicine]]
 
 ## Related
 
@@ -585,18 +580,21 @@ Cancer demonstrates that disease often results from long-term interactions betwe
 - [[Genetics]]
 - [[Lifestyle Medicine]]
 
-## Next
-
-→ [[Respiratory Diseases]]
-
 ---
 
 # HumanOS Principle
 
-Cancer is not a single disease but a diverse group of disorders caused by the gradual accumulation of genetic changes that allow cells to escape normal biological control. Its development depends on interactions among inherited susceptibility, aging, environmental exposures, infections, and lifestyle factors. Although not all cancers are preventable, a substantial proportion can be avoided through evidence-based prevention, and many can be cured or effectively controlled when detected early and treated appropriately. :contentReference[oaicite:11]{index=11}
+Cancer is not a single disease but a diverse group of disorders caused by the gradual accumulation of genetic changes that allow cells to escape normal biological control. Its development depends on interactions among inherited susceptibility, aging, environmental exposures, infections, and lifestyle factors. Although not all cancers are preventable, a substantial proportion can be avoided through evidence-based prevention, and many can be cured or effectively controlled when detected early and treated appropriately.
 
 ---
 
 # Key Insight
 
-> **Cancer is the progressive loss of normal cellular regulation. When accumulated genetic damage allows cells to divide uncontrollably, invade surrounding tissues, and spread throughout the body, a normal process of growth becomes disease. Understanding cancer from its molecular origins to prevention and treatment reveals that reducing risk, detecting disease early, and applying evidence-based therapies together provide the strongest path to saving lives.** :contentReference[oaicite:12]{index=12}
+> **Cancer is the progressive loss of normal cellular regulation. When accumulated genetic damage allows cells to divide uncontrollably, invade surrounding tissues, and spread throughout the body, a normal process of growth becomes disease. Understanding cancer from its molecular origins to prevention and treatment reveals that reducing risk, detecting disease early, and applying evidence-based therapies together provide the strongest path to saving lives.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/06---respiratory-diseases" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Respiratory Diseases</span><span class="os-cta-sub">Respiratory diseases are disorders that affect the airways, lungs, and other...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

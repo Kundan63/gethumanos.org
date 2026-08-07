@@ -312,6 +312,9 @@ These qualities define the HumanOS standard.
 - [[HumanOS]]
 - [[Epistemology]]
 
-## Next
+---
 
-→ [[HumanOS Decision Framework]]
+<div class="cta-row"><a class="os-cta" href="/12-humanos/04---humanos-decision-framework" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: HumanOS Decision Framework</span><span class="os-cta-sub">The HumanOS Decision Framework is a universal method for making thoughtful,...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

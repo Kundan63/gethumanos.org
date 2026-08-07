@@ -17,7 +17,7 @@ It enables us to measure:
 - Aging
 - Cause and effect
 
-Without time, nothing could evolve, move, or transform. In modern physics, time is closely linked with space as part of **spacetime**, rather than being completely separate. :contentReference[oaicite:0]{index=0}
+Without time, nothing could evolve, move, or transform. In modern physics, time is closely linked with space as part of **spacetime**, rather than being completely separate.
 
 ---
 
@@ -35,7 +35,7 @@ Human civilizations develop over generations.
 
 Time provides the framework that allows these changes to occur in an ordered sequence rather than all at once.
 
-It is one of the fundamental ingredients of physical reality that makes the evolution of the Universe possible. :contentReference[oaicite:1]{index=1}
+It is one of the fundamental ingredients of physical reality that makes the evolution of the Universe possible.
 
 ---
 
@@ -54,7 +54,7 @@ According to Einstein's theory of relativity:
 - Faster motion can slow the passage of time.
 - Stronger gravitational fields also slow time.
 
-This phenomenon, known as **time dilation**, has been confirmed experimentally and is important in modern technologies such as GPS. :contentReference[oaicite:2]{index=2}
+This phenomenon, known as **time dilation**, has been confirmed experimentally and is important in modern technologies such as GPS.
 
 ---
 
@@ -70,213 +70,78 @@ Every process—from the birth of stars to human learning—depends upon time.
 
 # Why should humans care?
 
-Time is one of the few resources every person possesses equally.
+Time is one of the few resources every person possesses equally. Unlike money or possessions, **time cannot be stored, replaced, or recovered**.
 
-Unlike money or possessions, **time cannot be stored, replaced, or recovered**.
+> [!success] Understanding time helps humans
+> Understand change.
+>
+> Appreciate life's finite nature.
+>
+> Plan for the future.
+>
+> Study history.
+>
+> Predict natural events.
+>
+> Build accurate technologies.
+>
+> Understand the evolution of the Universe and life.
 
-Understanding time helps humans:
-
-- Understand change.
-- Appreciate life's finite nature.
-- Plan for the future.
-- Study history.
-- Predict natural events.
-- Build accurate technologies.
-- Understand the evolution of the Universe and life.
-
-Without time there would be:
-
-- no history,
-- no growth,
-- no learning,
-- no evolution,
-- no civilization. :contentReference[oaicite:3]{index=3}
+Without time there would be no history, no growth, no learning, no evolution, no civilization.
 
 ---
 
 # Daily Life Examples
 
-### ⏰ Daily Routine
-
-Sleeping, eating, working, and exercising all depend on managing time effectively.
-
----
-
-### ❤️ Human Aging
-
-Children grow into adults because biological processes unfold over time.
-
----
-
-### 💊 Medicine
-
-Doctors prescribe medicines at specific intervals because the body changes continuously with time.
-
----
-
-### 🚗 Transportation
-
-Train schedules, flights, traffic systems, and navigation all rely on precise time measurement.
-
----
-
-### 📱 Smartphones & Internet
-
-Phone networks, financial transactions, GPS, and the Internet depend on highly accurate clocks synchronized across the world.
-
----
-
-### 🌾 Agriculture
-
-Farmers use seasonal cycles to decide when to sow crops and harvest food.
-
-Time determines agricultural productivity.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">⏰</span><span class="os-card-title">Daily Routine</span><span class="os-card-desc">Sleeping, eating, working, and exercising all depend on managing time effectively.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">❤️</span><span class="os-card-title">Human Aging</span><span class="os-card-desc">Children grow into adults because biological processes unfold over time.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">💊</span><span class="os-card-title">Medicine</span><span class="os-card-desc">Doctors prescribe medicines at specific intervals because the body changes continuously with time.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🚗</span><span class="os-card-title">Transportation</span><span class="os-card-desc">Train schedules, flights, traffic systems, and navigation all rely on precise time measurement.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">📱</span><span class="os-card-title">Smartphones & Internet</span><span class="os-card-desc">Phone networks, financial transactions, GPS, and the Internet depend on highly accurate clocks synchronized across the world.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌾</span><span class="os-card-title">Agriculture</span><span class="os-card-desc">Farmers use seasonal cycles to decide when to sow crops and harvest food — time determines agricultural productivity.</span></div>
+</div>
 
 ---
 
 # Human Impact
 
-## Human Body
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Circumpolar_star_trails.jpg?width=1200" alt="A long-exposure night photograph showing star trails as concentric arcs around the celestial pole, caused by Earth's rotation">
+<p class="domain-figure-caption">Star trails — a long exposure reveals the passage of time through Earth's rotation — via Wikimedia Commons</p>
+</div>
 
-Time governs nearly every biological process.
-
-Examples include:
-
-- Growth
-- Aging
-- Cell division
-- Healing
-- Sleep cycles
-- Hormone release
-- Heart rhythm
-
-Life itself unfolds through time.
-
----
-
-## Human Mind
-
-Our understanding of time enables:
-
-- Memory
-- Learning
-- Planning
-- Anticipation
-- Goal setting
-
-Humans are unique in their ability to reflect on the past, act in the present, and prepare for the future.
-
----
-
-## Human Behaviour
-
-Time influences:
-
-- Habits
-- Productivity
-- Discipline
-- Patience
-- Decision making
-
-People who understand the value of time often make better long-term decisions than those focused only on immediate rewards.
-
----
-
-## Society
-
-Civilization depends upon shared systems of time.
-
-Examples include:
-
-- Calendars
-- Schools
-- Work schedules
-- Transportation
-- Legal systems
-- Financial markets
-
-Coordinating millions of people would be impossible without agreed methods of measuring time.
-
----
-
-## Economics
-
-Time is one of the most valuable economic resources.
-
-Businesses depend on:
-
-- Deadlines
-- Production schedules
-- Market timing
-- Logistics
-- Supply chains
-
-In economics, efficient use of time often increases productivity and creates value.
-
----
-
-## Politics & Governance
-
-Governments organize society through time-based systems such as:
-
-- Elections
-- Budgets
-- Laws
-- Public services
-- Emergency response
-
-Long-term planning also depends on understanding how decisions made today affect future generations.
-
----
-
-## Technology
-
-Modern technology depends on precise timing.
-
-Examples include:
-
-- GPS
-- Internet communication
-- Mobile networks
-- Artificial Intelligence
-- Satellites
-- Banking systems
-
-Even tiny timing errors can cause major technological failures.
-
----
-
-## Philosophy & Spirituality
-
-Time has inspired philosophical reflection for thousands of years.
-
-Science explains how time behaves in the physical Universe.
-
-Philosophy explores questions such as:
-
-- What is the present?
-- Why does time seem to flow?
-- Is time fundamental or emergent?
-
-Many spiritual traditions encourage awareness of the present while recognizing the finite nature of human life.
-
-HumanOS distinguishes these philosophical perspectives from established scientific knowledge. :contentReference[oaicite:4]{index=4}
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">&#129472;</span><span class="os-card-title">Human Body</span><span class="os-card-desc">Time governs nearly every biological process — growth, aging, cell division, healing, sleep cycles, hormone release, and heart rhythm. Life itself unfolds through time.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#129504;</span><span class="os-card-title">Human Mind</span><span class="os-card-desc">Our understanding of time enables memory, learning, planning, anticipation, and goal setting — humans are unique in their ability to reflect on the past, act in the present, and prepare for the future.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127919;</span><span class="os-card-title">Human Behaviour</span><span class="os-card-desc">Time influences habits, productivity, discipline, patience, and decision making — people who understand the value of time often make better long-term decisions than those focused only on immediate rewards.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#127963;</span><span class="os-card-title">Society</span><span class="os-card-desc">Civilization depends upon shared systems of time — calendars, schools, work schedules, transportation, legal systems, and financial markets. Coordinating millions of people would be impossible without agreed methods of measuring time.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128176;</span><span class="os-card-title">Economics</span><span class="os-card-desc">Time is one of the most valuable economic resources — businesses depend on deadlines, production schedules, market timing, logistics, and supply chains, where efficient use of time often increases productivity and creates value.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#128499;</span><span class="os-card-title">Politics & Governance</span><span class="os-card-desc">Governments organize society through time-based systems such as elections, budgets, laws, public services, and emergency response — long-term planning depends on understanding how decisions made today affect future generations.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#9881;</span><span class="os-card-title">Technology</span><span class="os-card-desc">Modern technology depends on precise timing — GPS, internet communication, mobile networks, artificial intelligence, satellites, and banking systems — even tiny timing errors can cause major technological failures.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">&#10024;</span><span class="os-card-title">Philosophy & Spirituality</span><span class="os-card-desc">Time has inspired philosophical reflection for thousands of years. Science explains how time behaves in the physical Universe, while philosophy explores questions such as what the present is and whether time is fundamental or emergent — many spiritual traditions encourage awareness of the present while recognizing the finite nature of human life.</span></div>
+</div>
 
 ---
 
 # Applying this Knowledge
 
-Understanding time can improve everyday life.
+Understanding time can improve everyday life. It encourages us to:
 
-It encourages us to:
-
-- Value time as a limited resource.
-- Build healthy daily routines.
-- Think beyond short-term rewards.
-- Learn from the past.
-- Plan responsibly for the future.
-- Balance productivity with rest.
-- Appreciate that meaningful achievements require time and patience.
+> [!tip]
+> Value time as a limited resource.
+>
+> Build healthy daily routines.
+>
+> Think beyond short-term rewards.
+>
+> Learn from the past.
+>
+> Plan responsibly for the future.
+>
+> Balance productivity with rest.
+>
+> Appreciate that meaningful achievements require time and patience.
 
 Understanding time is not only about measuring seconds—it is about making better use of the life those seconds represent.
 
@@ -288,7 +153,7 @@ Within HumanOS, **Time** explains how reality changes.
 
 After [[Space]] provides the framework in which everything exists, Time explains how everything evolves.
 
-Every later topic—from [[Matter]] and [[Energy]] to [[Life]], [[Human]], [[Mind]], and [[Society & Civilization]]—depends on processes unfolding through time.
+Every later topic—from [[Matter]] and [[Energy]] to Life, [[Human]], [[Mind]], and [[Society & Civilization]]—depends on processes unfolding through time.
 
 ---
 
@@ -318,12 +183,13 @@ Every later topic—from [[Matter]] and [[Energy]] to [[Life]], [[Human]], [[Min
 
 ---
 
-## Next
-
-→ [[Matter]]
-
----
-
 # Key Insight
 
 > **Time is more than a clock or a calendar. It is the dimension that makes change, growth, learning, evolution, and human life possible. Understanding time helps us appreciate both the history of the Universe and the finite opportunities within our own lives.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/02-universe/04---matter" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Matter</span><span class="os-cta-sub">The physical substance everything is built from</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

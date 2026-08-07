@@ -1,6 +1,6 @@
 # Disease Mechanisms
 
-> *Disease mechanisms (pathogenesis) are the biological processes through which a disease begins, develops, progresses, and produces its signs, symptoms, and complications. They explain **how and why** normal physiology becomes abnormal physiology, linking the initial cause (etiology) to cellular injury, tissue damage, organ dysfunction, and clinical disease. Understanding disease mechanisms provides the scientific basis for prevention, diagnosis, and targeted treatment.* :contentReference[oaicite:0]{index=0}
+> *Disease mechanisms (pathogenesis) are the biological processes through which a disease begins, develops, progresses, and produces its signs, symptoms, and complications. They explain **how and why** normal physiology becomes abnormal physiology, linking the initial cause (etiology) to cellular injury, tissue damage, organ dysfunction, and clinical disease. Understanding disease mechanisms provides the scientific basis for prevention, diagnosis, and targeted treatment.*
 
 ---
 
@@ -50,7 +50,7 @@ Disease mechanisms answer this by explaining the biological pathway from **cause
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:287px"><svg width="100%" viewBox="0 0 287 510" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="251.1" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="143.6" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Cause (Etiology)</text><rect x="18.0" y="90.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cellular Injury</text><rect x="18.0" y="162.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Inflammation / Dysfunction</text><rect x="18.0" y="234.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Tissue Damage</text><rect x="18.0" y="306.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Organ Dysfunction</text><rect x="18.0" y="378.0" width="251.1" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="143.6" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Signs &amp; Symptoms</text><rect x="18.0" y="450.0" width="251.1" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="143.6" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Disease</text><line x1="143.6" y1="64.0" x2="143.6" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="136.0" x2="143.6" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="208.0" x2="143.6" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="280.0" x2="143.6" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="352.0" x2="143.6" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="143.6" y1="424.0" x2="143.6" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Disease develops through a sequence of biological events rather than appearing instantly. :contentReference[oaicite:1]{index=1}
+Disease develops through a sequence of biological events rather than appearing instantly.
 
 ---
 
@@ -70,23 +70,25 @@ or
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:247px"><svg width="100%" viewBox="0 0 247 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="210.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="123.3" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">1. Cause</text><rect x="18.0" y="90.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">2. Cellular Injury</text><rect x="18.0" y="162.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">3. Pathogenesis</text><rect x="18.0" y="234.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">4. Structural Changes</text><rect x="18.0" y="306.0" width="210.5" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="123.3" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">5. Functional Changes</text><rect x="18.0" y="378.0" width="210.5" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="123.3" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">6. Clinical Disease</text><line x1="123.3" y1="64.0" x2="123.3" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="136.0" x2="123.3" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="208.0" x2="123.3" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="280.0" x2="123.3" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="123.3" y1="352.0" x2="123.3" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-These six stages form the core framework of pathology. :contentReference[oaicite:2]{index=2}
+These six stages form the core framework of pathology.
 
 ---
 
 # Major Disease Mechanisms
 
-```text
-Disease Mechanisms
-         │
- ┌───────┼───────────────┬──────────────┐
- ▼       ▼               ▼              ▼
-Injury Inflammation Infection Immune Dysfunction
- │       │               │              │
- ├───────┼───────────────┼──────────────┤
- ▼       ▼               ▼              ▼
-Genetic Metabolic Degeneration Neoplasia
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Disease Mechanisms</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Injury</div></div>
+<div class="tree-item"><div class="tree-node">Inflammation</div></div>
+<div class="tree-item"><div class="tree-node">Infection</div></div>
+<div class="tree-item"><div class="tree-node">Immune Dysfunction</div></div>
+<div class="tree-item"><div class="tree-node">Genetic</div></div>
+<div class="tree-item"><div class="tree-node">Metabolic</div></div>
+<div class="tree-item"><div class="tree-node">Degeneration</div></div>
+<div class="tree-item"><div class="tree-node">Neoplasia</div></div>
+</div>
+</div>
 
 ---
 
@@ -180,13 +182,14 @@ Result:
 
 # Cellular Responses to Injury
 
-```text
-Cell Stress
-     │
- ┌───┼───────────────┐
- ▼   ▼               ▼
-Adaptation Reversible Injury Cell Death
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Cell Stress</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Adaptation</div></div>
+<div class="tree-item"><div class="tree-node">Reversible Injury</div></div>
+<div class="tree-item"><div class="tree-node">Cell Death</div></div>
+</div>
+</div>
 
 Cells may:
 
@@ -195,7 +198,7 @@ Cells may:
 - Undergo programmed death (apoptosis)
 - Die from severe injury (necrosis)
 
-The outcome depends on the severity and duration of injury. :contentReference[oaicite:3]{index=3}
+The outcome depends on the severity and duration of injury.
 
 ---
 
@@ -213,17 +216,15 @@ Healing depends on both the severity of damage and the tissue involved.
 
 # Disease Mechanisms Affect Every System
 
-```text
-Disease Mechanisms
-        │
- ┌──────┼──────────────┐
- ▼      ▼              ▼
-Cells Tissues Organs
- │      │              │
- └──────┼──────────────┘
-        ▼
-Whole Body
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Disease Mechanisms</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Cells</div></div>
+<div class="tree-item"><div class="tree-node">Tissues</div></div>
+<div class="tree-item"><div class="tree-node">Organs</div></div>
+<div class="tree-item"><div class="tree-node">Whole Body</div></div>
+</div>
+</div>
 
 Every disease begins with changes at the cellular level before affecting larger biological systems.
 
@@ -241,11 +242,12 @@ Disease mechanisms connect molecular biology, physiology, pathology, pharmacolog
 
 Understanding disease mechanisms helps us:
 
-- Prevent disease.
-- Detect disease earlier.
-- Develop targeted medicines.
-- Predict complications.
-- Improve treatment outcomes.
+> [!success]
+> - Prevent disease.
+> - Detect disease earlier.
+> - Develop targeted medicines.
+> - Predict complications.
+> - Improve treatment outcomes.
 
 Modern medicine increasingly targets **mechanisms**, not just symptoms.
 
@@ -278,6 +280,11 @@ Modern medicine increasingly targets **mechanisms**, not just symptoms.
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gross_pathology_of_edematous_granulation_tissue.jpg?width=1200" alt="Gross pathology specimen showing edematous granulation tissue, illustrating tissue-level changes that occur during disease processes">
+<p class="domain-figure-caption">Granulation tissue formation, a visible stage in the body's inflammatory and repair response to injury — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -356,9 +363,7 @@ It connects:
 - [[Homeostasis]]
 - [[Disease]]
 - [[Cells]]
-- [[Inflammation]]
 - [[Diagnosis]]
-- [[Treatment]]
 
 It is the bridge between normal physiology and clinical medicine.
 
@@ -371,35 +376,33 @@ It is the bridge between normal physiology and clinical medicine.
 - [[Disease]]
 - [[Cells]]
 - [[Homeostasis]]
-- [[Physiology]]
 
 ## Enables
 
 - [[Diagnosis]]
-- [[Treatment]]
 - [[Pharmacology]]
 - [[Preventive Medicine]]
 
 ## Related
 
-- [[Inflammation]]
-- [[Cell Injury]]
 - [[Cancer]]
-- [[Infection]]
 - [[Immune System]]
-
-## Next
-
-→ [[Risk Factors]]
 
 ---
 
 # HumanOS Principle
 
-Disease mechanisms explain **how normal biology becomes abnormal biology**. Every disease begins with a cause that triggers specific molecular, cellular, and tissue changes. These changes progress through identifiable pathways until they produce structural damage, functional impairment, and clinical symptoms. Understanding these mechanisms allows medicine to move beyond treating symptoms and instead prevent, interrupt, or reverse the biological processes responsible for disease. :contentReference[oaicite:4]{index=4}
+Disease mechanisms explain **how normal biology becomes abnormal biology**. Every disease begins with a cause that triggers specific molecular, cellular, and tissue changes. These changes progress through identifiable pathways until they produce structural damage, functional impairment, and clinical symptoms. Understanding these mechanisms allows medicine to move beyond treating symptoms and instead prevent, interrupt, or reverse the biological processes responsible for disease.
 
 ---
 
 # Key Insight
 
-> **Disease mechanisms (pathogenesis) are the biological pathways that connect the cause of a disease to its clinical effects. By tracing the progression from cellular injury to tissue damage, organ dysfunction, and symptoms, they reveal why diseases develop and provide the scientific foundation for prevention, diagnosis, targeted treatment, and modern precision medicine.** :contentReference[oaicite:5]{index=5}
+> **Disease mechanisms (pathogenesis) are the biological pathways that connect the cause of a disease to its clinical effects. By tracing the progression from cellular injury to tissue damage, organ dysfunction, and symptoms, they reveal why diseases develop and provide the scientific foundation for prevention, diagnosis, targeted treatment, and modern precision medicine.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/01-foundations-of-health/05---risk-factors" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Risk Factors</span><span class="os-cta-sub">A risk factor is any characteristic, behavior, environmental exposure, biological...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

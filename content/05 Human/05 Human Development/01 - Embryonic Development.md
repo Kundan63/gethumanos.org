@@ -1,6 +1,6 @@
 # Embryonic Development
 
-> *Embryonic development is the remarkable biological process through which a single fertilized cell becomes a complex multicellular human embryo. During the first eight weeks after fertilization, billions of cells divide, specialize, organize into tissues and organs, and establish the body plan that will support the rest of life. Nearly every structure of the human body begins during this short but extraordinarily important period.* :contentReference[oaicite:0]{index=0}
+> *Embryonic development is the remarkable biological process through which a single fertilized cell becomes a complex multicellular human embryo. During the first eight weeks after fertilization, billions of cells divide, specialize, organize into tissues and organs, and establish the body plan that will support the rest of life. Nearly every structure of the human body begins during this short but extraordinarily important period.*
 
 ---
 
@@ -15,7 +15,7 @@ During this period:
 - The body's major organs begin forming.
 - The basic human body plan is established.
 
-After this stage, the developing human is called a **fetus**, whose organs primarily grow, mature, and become functional. :contentReference[oaicite:1]{index=1}
+After this stage, the developing human is called a **fetus**, whose organs primarily grow, mature, and become functional.
 
 ---
 
@@ -59,7 +59,7 @@ Every human life follows this remarkable developmental pathway.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:271px"><svg width="100%" viewBox="0 0 271 1302" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Week 1</text><rect x="18.0" y="90.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Fertilization</text><rect x="18.0" y="162.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cleavage</text><rect x="18.0" y="234.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Blastocyst</text><rect x="18.0" y="306.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Implantation</text><rect x="18.0" y="378.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Week 2</text><rect x="18.0" y="450.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Bilaminar Disc</text><rect x="18.0" y="522.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Placental Development</text><rect x="18.0" y="594.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Week 3</text><rect x="18.0" y="666.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Gastrulation</text><rect x="18.0" y="738.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="764.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Three Germ Layers</text><rect x="18.0" y="810.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="836.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Neural Tube Begins</text><rect x="18.0" y="882.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="908.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Weeks 4–8</text><rect x="18.0" y="954.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="980.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Organ Formation</text><rect x="18.0" y="1026.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="1052.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Heart Beats</text><rect x="18.0" y="1098.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="1124.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Brain Develops</text><rect x="18.0" y="1170.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="1196.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Limbs Form</text><rect x="18.0" y="1242.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="1268.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Major Organs Established</text><line x1="135.4" y1="64.0" x2="135.4" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="136.0" x2="135.4" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="208.0" x2="135.4" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="280.0" x2="135.4" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="352.0" x2="135.4" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="424.0" x2="135.4" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="496.0" x2="135.4" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="568.0" x2="135.4" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="640.0" x2="135.4" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="712.0" x2="135.4" y2="732.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="784.0" x2="135.4" y2="804.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="856.0" x2="135.4" y2="876.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="928.0" x2="135.4" y2="948.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="1000.0" x2="135.4" y2="1020.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="1072.0" x2="135.4" y2="1092.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="1144.0" x2="135.4" y2="1164.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="1216.0" x2="135.4" y2="1236.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-The **first eight weeks** are known as the **embryonic (organogenic) period** because nearly all major organs begin to form during this time. :contentReference[oaicite:2]{index=2}
+The **first eight weeks** are known as the **embryonic (organogenic) period** because nearly all major organs begin to form during this time.
 
 ---
 
@@ -77,7 +77,7 @@ forming the **zygote**.
 
 The zygote contains a complete human genome inherited from both parents.
 
-This single cell is the starting point for every cell in the human body. :contentReference[oaicite:3]{index=3}
+This single cell is the starting point for every cell in the human body.
 
 ---
 
@@ -94,7 +94,7 @@ Importantly:
 - the embryo gains **more cells**
 - but **does not initially become larger**
 
-The existing cytoplasm is simply divided among increasing numbers of cells. :contentReference[oaicite:4]{index=4}
+The existing cytoplasm is simply divided among increasing numbers of cells.
 
 ---
 
@@ -102,15 +102,13 @@ The existing cytoplasm is simply divided among increasing numbers of cells. :con
 
 Around **Day 3**, the embryo resembles a tiny ball of cells.
 
-```text
-●●●
-●●●
-●●●
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">●●●<br>●●●<br>●●●</div>
+</div>
 
 This stage is called the **morula** ("little mulberry").
 
-The embryo is still traveling through the fallopian tube toward the uterus. :contentReference[oaicite:5]{index=5}
+The embryo is still traveling through the fallopian tube toward the uterus.
 
 ---
 
@@ -118,20 +116,19 @@ The embryo is still traveling through the fallopian tube toward the uterus. :con
 
 Fluid enters the morula, forming a hollow structure.
 
-```text
-─────────────
- Outer Cells
- ○ ○ ○ ○ ○
-     ○
- Inner Cell Mass
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Outer Cells</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Inner Cell Mass</div></div>
+</div>
+</div>
 
 The blastocyst contains:
 
 - **Inner Cell Mass** → future embryo
 - **Trophoblast** → future placenta
 
-This separation is one of the earliest examples of cell specialization. :contentReference[oaicite:6]{index=6}
+This separation is one of the earliest examples of cell specialization.
 
 ---
 
@@ -147,7 +144,7 @@ Implantation allows the embryo to receive:
 - nutrients
 - hormonal support
 
-Without successful implantation, pregnancy cannot continue. :contentReference[oaicite:7]{index=7}
+Without successful implantation, pregnancy cannot continue.
 
 ---
 
@@ -157,15 +154,18 @@ One of the most important events in human development.
 
 Initially:
 
-```text
-Two Layers
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Two Layers</span></div>
+</div>
+</div>
 
 After gastrulation:
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:176px"><svg width="100%" viewBox="0 0 157 366" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="121.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="78.6" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Ectoderm</text><rect x="18.0" y="90.0" width="121.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="78.6" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">──────────</text><rect x="18.0" y="162.0" width="121.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="78.6" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Mesoderm</text><rect x="18.0" y="234.0" width="121.2" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="78.6" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">──────────</text><rect x="18.0" y="306.0" width="121.2" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="78.6" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Endoderm</text><line x1="78.6" y1="64.0" x2="78.6" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="78.6" y1="136.0" x2="78.6" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="78.6" y1="208.0" x2="78.6" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="78.6" y1="280.0" x2="78.6" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-These three **germ layers** give rise to every tissue and organ in the body. :contentReference[oaicite:8]{index=8}
+These three **germ layers** give rise to every tissue and organ in the body.
 
 ---
 
@@ -208,7 +208,7 @@ Forms:
 - Thyroid (parts)
 - Bladder lining
 
-Every organ in the body traces its origin back to one or more of these three layers. :contentReference[oaicite:9]{index=9}
+Every organ in the body traces its origin back to one or more of these three layers.
 
 ---
 
@@ -229,7 +229,7 @@ During **weeks 3–8**:
 - Lungs begin forming.
 - Kidneys begin developing.
 
-By the end of week 8, every major organ system exists in a basic form. :contentReference[oaicite:10]{index=10}
+By the end of week 8, every major organ system exists in a basic form.
 
 ---
 
@@ -253,14 +253,15 @@ Embryonic development connects genetics, cell biology, anatomy, physiology, and 
 
 Understanding embryonic development helps us:
 
-- Understand pregnancy.
-- Appreciate how organs form.
-- Recognize causes of birth defects.
-- Improve prenatal healthcare.
-- Understand genetics and inheritance.
-- Develop regenerative medicine.
-- Advance stem cell research.
-- Improve fertility treatments.
+> [!success]
+> - Understand pregnancy.
+> - Appreciate how organs form.
+> - Recognize causes of birth defects.
+> - Improve prenatal healthcare.
+> - Understand genetics and inheritance.
+> - Develop regenerative medicine.
+> - Advance stem cell research.
+> - Improve fertility treatments.
 
 It also reminds us that every human being begins through the same remarkable biological process.
 
@@ -272,7 +273,7 @@ It also reminds us that every human being begins through the same remarkable bio
 
 The embryo is especially sensitive during the first eight weeks.
 
-Healthy maternal nutrition, prenatal care, and avoiding harmful substances support normal development. :contentReference[oaicite:11]{index=11}
+Healthy maternal nutrition, prenatal care, and avoiding harmful substances support normal development.
 
 ---
 
@@ -280,7 +281,7 @@ Healthy maternal nutrition, prenatal care, and avoiding harmful substances suppo
 
 Some medications, alcohol, infections, and environmental toxins can interfere with organ formation during the embryonic period.
 
-This is why healthcare providers carefully evaluate medication use in early pregnancy. :contentReference[oaicite:12]{index=12}
+This is why healthcare providers carefully evaluate medication use in early pregnancy.
 
 ---
 
@@ -302,32 +303,47 @@ Understanding embryology helps explain:
 
 Cells of the early embryo have extraordinary developmental potential.
 
-Studying these processes has contributed to advances in regenerative medicine and developmental biology. :contentReference[oaicite:13]{index=13}
+Studying these processes has contributed to advances in regenerative medicine and developmental biology.
 
 ---
 
 # Human Health Connections
 
-```text
-         Healthy Embryonic Development
-                    ▲
-                    │
- ┌──────────────────┼───────────────────┐
- │                  │                   │
-Genetics      Maternal Nutrition   Placenta
- │                  │                   │
- ├──────────────────┼───────────────────┤
- │                  │                   │
-Oxygen       Hormones          Prenatal Care
- │                  │                   │
- ├──────────────────┼───────────────────┤
- │                  │                   │
-Avoid Harmful Drugs  Infection Control
- │                  │
- └──────────────────┼───────────────────┘
-                    │
-             Healthy Baby
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Healthy Embryonic Development</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Genetics</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Oxygen</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Avoid Harmful Drugs</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Maternal Nutrition</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Hormones</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Infection Control</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Placenta</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Prenatal Care</div></div>
+</div>
+</div>
+</div>
+</div>
+
+→ **Healthy Baby**
 
 Healthy embryonic development depends on both the embryo's genetic program and a healthy prenatal environment.
 
@@ -339,11 +355,16 @@ Development can be disrupted by many factors.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:255px"><svg width="100%" viewBox="0 0 255 726" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="218.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="127.3" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Genetic Mutations</text><rect x="18.0" y="90.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Chromosomal Disorders</text><rect x="18.0" y="162.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Maternal Infections</text><rect x="18.0" y="234.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Poor Nutrition</text><rect x="18.0" y="306.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Alcohol</text><rect x="18.0" y="378.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Smoking</text><rect x="18.0" y="450.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Certain Medications</text><rect x="18.0" y="522.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Environmental Toxins</text><rect x="18.0" y="594.0" width="218.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="127.3" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">──────────────────────</text><rect x="18.0" y="666.0" width="218.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="127.3" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Abnormal Development</text><line x1="127.3" y1="64.0" x2="127.3" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="136.0" x2="127.3" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="208.0" x2="127.3" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="280.0" x2="127.3" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="352.0" x2="127.3" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="424.0" x2="127.3" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="496.0" x2="127.3" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="568.0" x2="127.3" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="127.3" y1="640.0" x2="127.3" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Most pregnancies develop normally, but understanding these risks helps improve prevention and early care. :contentReference[oaicite:14]{index=14}
+Most pregnancies develop normally, but understanding these risks helps improve prevention and early care.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ultrasound_of_human_fetus,_8_weeks_and_1_day.jpg?width=1200" alt="Ultrasound image of a human fetus at 8 weeks and 1 day of gestation, marking the end of the embryonic period">
+<p class="domain-figure-caption">Ultrasound of a human embryo at 8 weeks, the close of the embryonic period — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -426,7 +447,7 @@ Regular prenatal care supports healthy development.
 
 ### 🥗 Ensure Good Maternal Nutrition
 
-Adequate nutrition—including folate before and during early pregnancy—supports normal embryonic development and reduces the risk of neural tube defects. :contentReference[oaicite:15]{index=15}
+Adequate nutrition—including folate before and during early pregnancy—supports normal embryonic development and reduces the risk of neural tube defects.
 
 ---
 
@@ -468,8 +489,6 @@ Understanding embryonic development provides the foundation for understanding pr
 
 - [[Cells]]
 - [[Genetics]]
-- [[DNA]]
-- [[Cell Division]]
 
 ---
 
@@ -477,25 +496,12 @@ Understanding embryonic development provides the foundation for understanding pr
 
 - [[Organ Systems]]
 - [[Human Development]]
-- [[Pregnancy]]
-- [[Fetal Development]]
 
 ---
 
 ## Related
 
-- [[Fertilization]]
-- [[Zygote]]
-- [[Blastocyst]]
-- [[Placenta]]
-- [[Gastrulation]]
-- [[Organogenesis]]
-
----
-
-## Next
-
-→ [[Childhood]]
+None.
 
 ---
 
@@ -511,4 +517,11 @@ Understanding embryonic development reveals that growth is not random—it is a 
 
 # Key Insight
 
-> **Embryonic development is the extraordinary biological process through which a single fertilized cell transforms into a structured human embryo. Through coordinated cell division, differentiation, gastrulation, and organogenesis, the foundations of every major organ system are established within the first eight weeks of life. Understanding embryonic development reveals how genetic information, cellular organization, and biological self-assembly work together to create the human body and provides the scientific basis for pregnancy, prenatal health, developmental medicine, and regenerative biology.** :contentReference[oaicite:16]{index=16}
+> **Embryonic development is the extraordinary biological process through which a single fertilized cell transforms into a structured human embryo. Through coordinated cell division, differentiation, gastrulation, and organogenesis, the foundations of every major organ system are established within the first eight weeks of life. Understanding embryonic development reveals how genetic information, cellular organization, and biological self-assembly work together to create the human body and provides the scientific basis for pregnancy, prenatal health, developmental medicine, and regenerative biology.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/05-human-development/02---childhood" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Childhood</span><span class="os-cta-sub">Childhood is the stage of human development between infancy and adolescence during...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

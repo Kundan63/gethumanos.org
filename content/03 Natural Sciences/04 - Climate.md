@@ -19,7 +19,7 @@ Climate includes patterns of:
 - ☀ Solar radiation
 - ❄ Snow and ice
 
-Climate is not controlled by a single factor. It emerges from the interaction of Earth's atmosphere, oceans, land, ice, and living organisms, all powered primarily by energy from the Sun. :contentReference[oaicite:0]{index=0}
+Climate is not controlled by a single factor. It emerges from the interaction of Earth's atmosphere, oceans, land, ice, and living organisms, all powered primarily by energy from the Sun.
 
 ---
 
@@ -48,7 +48,7 @@ Without climate there would be:
 - No agriculture
 - No stable environments for civilization
 
-Climate is therefore one of the fundamental systems that makes Earth habitable. :contentReference[oaicite:1]{index=1}
+Climate is therefore one of the fundamental systems that makes Earth habitable.
 
 ---
 
@@ -56,33 +56,44 @@ Climate is therefore one of the fundamental systems that makes Earth habitable. 
 
 Climate is an Earth system driven by energy and feedback.
 
-```text
-               ☀ Sun
-                  │
-                  ▼
-         Solar Energy Reaches Earth
-                  │
-                  ▼
-      Atmosphere • Oceans • Land • Ice
-                  │
-                  ▼
-      Heat & Water Continuously Move
-                  │
-                  ▼
- Weather Patterns Develop
-                  │
-                  ▼
- Long-Term Weather Patterns
-                  │
-                  ▼
-              Climate
-                  │
-                  ▼
-      Ecosystems • Agriculture • Life
-                  │
-                  ▼
-          Human Civilization
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">☀ Sun</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Solar Energy Reaches Earth</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Atmosphere, Oceans, Land, Ice</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Heat &amp; Water Continuously Move</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Weather Patterns Develop</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Long-Term Weather Patterns</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Climate</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">8</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Ecosystems, Agriculture, Life</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">9</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Civilization</span></div>
+</div>
+</div>
 
 Climate changes when the balance between incoming solar energy and outgoing heat changes.
 
@@ -93,7 +104,7 @@ Natural influences include:
 - Ocean circulation
 - Orbital changes
 
-Human activities can also influence climate by altering atmospheric composition and land use. :contentReference[oaicite:2]{index=2}
+Human activities can also influence climate by altering atmospheric composition and land use.
 
 ---
 
@@ -101,27 +112,33 @@ Human activities can also influence climate by altering atmospheric composition 
 
 Climate is not created by the atmosphere alone.
 
-```text
-                      CLIMATE SYSTEM
-                             │
-     ┌───────────────┬────────┼────────┬──────────────┐
-     │               │        │        │              │
-     ▼               ▼        ▼        ▼              ▼
-Atmosphere     Hydrosphere Lithosphere Cryosphere Biosphere
-   (Air)         (Water)     (Land)   (Ice)        (Life)
-     │               │        │        │              │
-     └───────────────┴────────┼────────┴──────────────┘
-                              ▼
-                  Energy • Water • Carbon
-                              │
-                              ▼
-                           Climate
-                              │
-                              ▼
-                   Human Civilization
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">CLIMATE SYSTEM</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Atmosphere (Air)</div></div>
+<div class="tree-item"><div class="tree-node">Hydrosphere (Water)</div></div>
+<div class="tree-item"><div class="tree-node">Lithosphere (Land)</div></div>
+<div class="tree-item"><div class="tree-node">Cryosphere (Ice)</div></div>
+<div class="tree-item"><div class="tree-node">Biosphere (Life)</div></div>
+</div>
+</div>
 
-Climate emerges from the continuous exchange of **energy, water, and carbon** among these interacting Earth systems. :contentReference[oaicite:3]{index=3}
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Energy • Water • Carbon</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Climate</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Civilization</span></div>
+</div>
+</div>
+
+Climate emerges from the continuous exchange of **energy, water, and carbon** among these interacting Earth systems.
 
 ---
 
@@ -139,68 +156,48 @@ Climate influences nearly every aspect of human life.
 
 It determines:
 
-- Where crops grow.
-- Where cities develop.
-- How much water is available.
-- Which diseases spread.
-- How ecosystems function.
-- How economies develop.
-- How societies prepare for natural hazards.
+> [!success]
+> - Where crops grow.
+> - Where cities develop.
+> - How much water is available.
+> - Which diseases spread.
+> - How ecosystems function.
+> - How economies develop.
+> - How societies prepare for natural hazards.
 
 Understanding climate helps humans:
 
-- Produce food.
-- Manage water resources.
-- Prepare for droughts and floods.
-- Design resilient cities.
-- Protect ecosystems.
-- Adapt to environmental change.
+> [!success]
+> - Produce food.
+> - Manage water resources.
+> - Prepare for droughts and floods.
+> - Design resilient cities.
+> - Protect ecosystems.
+> - Adapt to environmental change.
 
-Every civilization has been shaped by its climate. :contentReference[oaicite:4]{index=4}
+Every civilization has been shaped by its climate.
 
 ---
 
 # Daily Life Examples
 
-### 🌾 Agriculture
-
-Farmers choose crops, irrigation methods, and planting seasons according to local climate.
-
----
-
-### 🏠 Housing
-
-Homes are designed differently in deserts, mountains, tropical forests, and polar regions because climate influences insulation, ventilation, and building materials.
-
----
-
-### 🚰 Water Supply
-
-Rainfall patterns determine reservoirs, rivers, groundwater recharge, and drinking water availability.
-
----
-
-### 👕 Clothing
-
-The clothes we wear change with climate.
-
-Warm climates require cooling, while cold climates require insulation.
-
----
-
-### ⚡ Energy
-
-Electricity demand changes with climate through heating, cooling, and seasonal energy use.
-
----
-
-### 🌴 Tourism
-
-Many tourist destinations depend on climate conditions such as snowfall, beaches, forests, or comfortable temperatures.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🌾</span><span class="os-card-title">Agriculture</span><span class="os-card-desc">Farmers choose crops, irrigation methods, and planting seasons according to local climate.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🏠</span><span class="os-card-title">Housing</span><span class="os-card-desc">Homes are designed differently in deserts, mountains, tropical forests, and polar regions because climate influences insulation, ventilation, and building materials.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🚰</span><span class="os-card-title">Water Supply</span><span class="os-card-desc">Rainfall patterns determine reservoirs, rivers, groundwater recharge, and drinking water availability.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">👕</span><span class="os-card-title">Clothing</span><span class="os-card-desc">The clothes we wear change with climate. Warm climates require cooling, while cold climates require insulation.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">⚡</span><span class="os-card-title">Energy</span><span class="os-card-desc">Electricity demand changes with climate through heating, cooling, and seasonal energy use.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌴</span><span class="os-card-title">Tourism</span><span class="os-card-desc">Many tourist destinations depend on climate conditions such as snowfall, beaches, forests, or comfortable temperatures.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kerala_Monsoon_clouds_over_Western_Ghats_India.jpg?width=1200" alt="Dense monsoon clouds gathering over the Western Ghats in Kerala, India">
+<p class="domain-figure-caption">Monsoon clouds over the Western Ghats — the seasonal rains that define India's climate — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -383,26 +380,23 @@ It prepares the foundation for understanding [[Ecology]], [[Environmental Scienc
 - [[Ecology]]
 - [[Environmental Science]]
 - [[Origin of Life]]
-- [[Agriculture]]
 - [[Health & Medicine]]
 
 ---
 
 ## Related
 
-- [[Atmosphere]]
-- [[Water Cycle]]
 - [[Energy]]
-- [[Earth]]
-
----
-
-## Next
-
-→ [[Ecology]]
 
 ---
 
 # Key Insight
 
 > **Climate is not just the background of human life—it is one of its greatest architects. It shapes where we live, what we eat, how civilizations grow, and how ecosystems survive. Understanding climate helps us move beyond simply reacting to nature toward living in harmony with the interconnected Earth system that sustains us.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/03-natural-sciences/05---ecology" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Ecology</span><span class="os-cta-sub">Ecology explains how life is connected. It reveals how organisms interact with one...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,6 +1,6 @@
 # Creativity
 
-> **Creativity is the human capacity to generate original and valuable ideas, make novel connections, solve problems, and transform imagination into reality.** It is not limited to art—it drives scientific discovery, engineering, entrepreneurship, medicine, education, leadership, and everyday problem-solving. Creativity enables humans to adapt to changing environments, create new possibilities, and advance civilization. :contentReference[oaicite:0]{index=0}
+> **Creativity is the human capacity to generate original and valuable ideas, make novel connections, solve problems, and transform imagination into reality.** It is not limited to art—it drives scientific discovery, engineering, entrepreneurship, medicine, education, leadership, and everyday problem-solving. Creativity enables humans to adapt to changing environments, create new possibilities, and advance civilization.
 
 ---
 
@@ -92,25 +92,26 @@ Creativity appears in many forms:
 - Business creativity
 - Everyday problem-solving
 
-It is not confined to any single profession or discipline. :contentReference[oaicite:1]{index=1}
+It is not confined to any single profession or discipline.
 
 ---
 
 # The Creativity System
 
-```text
-Creativity
-      │
- ├── Curiosity
- ├── Knowledge
- ├── Imagination
- ├── Observation
- ├── Experimentation
- ├── Problem Solving
- ├── Innovation
- ├── Collaboration
- └── Continuous Learning
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Creativity</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Curiosity</div></div>
+<div class="tree-item"><div class="tree-node">Knowledge</div></div>
+<div class="tree-item"><div class="tree-node">Imagination</div></div>
+<div class="tree-item"><div class="tree-node">Observation</div></div>
+<div class="tree-item"><div class="tree-node">Experimentation</div></div>
+<div class="tree-item"><div class="tree-node">Problem Solving</div></div>
+<div class="tree-item"><div class="tree-node">Innovation</div></div>
+<div class="tree-item"><div class="tree-node">Collaboration</div></div>
+<div class="tree-item"><div class="tree-node">Continuous Learning</div></div>
+</div>
+</div>
 
 Each component strengthens creative capability.
 
@@ -205,7 +206,7 @@ Creativity generates ideas.
 
 Innovation implements them.
 
-An idea changes the world only when it becomes practical. :contentReference[oaicite:2]{index=2}
+An idea changes the world only when it becomes practical.
 
 ---
 
@@ -257,7 +258,7 @@ Creativity improves:
 - Artistic expression
 - Human progress
 
-Creativity is increasingly recognized as essential for education, sustainable development, science, culture, and economic growth. :contentReference[oaicite:3]{index=3}
+Creativity is increasingly recognized as essential for education, sustainable development, science, culture, and economic growth.
 
 ---
 
@@ -297,7 +298,7 @@ One creative idea can improve millions of lives.
 
 ✔ Creativity exists across science, engineering, business, education, and the arts.
 
-✔ Innovation differs from creativity because it involves implementing creative ideas in practice. :contentReference[oaicite:4]{index=4}
+✔ Innovation differs from creativity because it involves implementing creative ideas in practice.
 
 ---
 
@@ -336,40 +337,34 @@ Ask yourself:
 ## Built Upon
 
 - [[Psychology]]
-- [[Neuroscience]]
 - [[Learning]]
-- [[Technology]]
 - [[Decision Making]]
 - [[Leadership]]
 
 ## Enables
 
-- [[Innovation]]
-- [[Entrepreneurship]]
-- [[Scientific Discovery]]
 - [[Engineering]]
-- [[Problem Solving]]
-- [[Human Progress]]
 
 ## Related
 
 - [[Critical Thinking]]
-- [[Design]]
-- [[Innovation]]
 - [[Artificial Intelligence]]
-
-## Next
-
-→ [[Decision Making]]
 
 ---
 
 # HumanOS Principle
 
-Creativity is the human capability to transform knowledge, imagination, and experience into original and valuable ideas. By combining curiosity with disciplined thinking, experimentation, and collaboration, humans continually expand what is possible. Creativity is not the opposite of science—it is one of the forces that drives scientific discovery, technological innovation, cultural development, and the continual improvement of civilization. :contentReference[oaicite:5]{index=5}
+Creativity is the human capability to transform knowledge, imagination, and experience into original and valuable ideas. By combining curiosity with disciplined thinking, experimentation, and collaboration, humans continually expand what is possible. Creativity is not the opposite of science—it is one of the forces that drives scientific discovery, technological innovation, cultural development, and the continual improvement of civilization.
 
 ---
 
 # Key Insight
 
 > **Every invention, every scientific breakthrough, every work of art, and every civilization began as an idea in someone's mind. Creativity is the process that transforms imagination into reality. HumanOS teaches creativity not as artistic talent, but as humanity's universal ability to understand reality, imagine better possibilities, and build them responsibly.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/10---decision-making" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Decision Making</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

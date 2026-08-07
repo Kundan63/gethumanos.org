@@ -1,6 +1,6 @@
 # Human Development
 
-> *Human Development is the lifelong process through which a single fertilized cell grows into a complex human being and continues changing from conception until death. Development includes physical growth, brain maturation, cognitive abilities, emotional regulation, social relationships, and aging. It is driven by interactions among genes, biology, environment, nutrition, learning, and experience. Understanding human development explains not only how humans grow, but also how each stage of life builds the foundation for the next.* :contentReference[oaicite:0]{index=0}
+> *Human Development is the lifelong process through which a single fertilized cell grows into a complex human being and continues changing from conception until death. Development includes physical growth, brain maturation, cognitive abilities, emotional regulation, social relationships, and aging. It is driven by interactions among genes, biology, environment, nutrition, learning, and experience. Understanding human development explains not only how humans grow, but also how each stage of life builds the foundation for the next.*
 
 ---
 
@@ -48,7 +48,7 @@ It examines:
 - Social development
 - Healthy aging
 
-Development is not limited to childhood—it continues throughout life. :contentReference[oaicite:1]{index=1}
+Development is not limited to childhood—it continues throughout life.
 
 ---
 
@@ -87,7 +87,7 @@ It explains how the body and brain change over time.
 
 Each stage builds upon the previous one.
 
-Development is continuous—every stage influences the next. :contentReference[oaicite:2]{index=2}
+Development is continuous—every stage influences the next.
 
 ---
 
@@ -152,7 +152,7 @@ Understanding development helps people make better decisions **at every stage of
 
 A fertilized egg develops into a baby through precisely coordinated stages of cell division, organ formation, and growth.
 
-Proper maternal nutrition, healthcare, and avoidance of harmful exposures strongly influence prenatal development. :contentReference[oaicite:3]{index=3}
+Proper maternal nutrition, healthcare, and avoidance of harmful exposures strongly influence prenatal development.
 
 ---
 
@@ -195,7 +195,7 @@ Adults generally reach peak levels of:
 - Family formation
 - Social responsibility
 
-Although physical maturation is complete, learning and brain adaptation continue throughout adulthood. :contentReference[oaicite:4]{index=4}
+Although physical maturation is complete, learning and brain adaptation continue throughout adulthood.
 
 ---
 
@@ -389,12 +389,6 @@ It provides the biological foundation for understanding education, psychology, h
 
 ---
 
-## Next
-
-→ [[Embryonic Development]]
-
----
-
 # HumanOS Principle
 
 Human development is the story of how life unfolds.
@@ -409,4 +403,11 @@ It reveals that human life is not a collection of isolated ages, but one continu
 
 # Key Insight
 
-> **Human development is the lifelong biological and psychological process through which humans grow from conception to old age. Guided by genetics and shaped by environment, nutrition, learning, and experience, each stage builds the foundation for the next. Understanding human development helps us promote healthy pregnancies, support children, guide adolescents, improve adult well-being, and encourage healthy aging—revealing how the entire human lifespan is one interconnected process of continuous growth and adaptation.** :contentReference[oaicite:5]{index=5}
+> **Human development is the lifelong biological and psychological process through which humans grow from conception to old age. Guided by genetics and shaped by environment, nutrition, learning, and experience, each stage builds the foundation for the next. Understanding human development helps us promote healthy pregnancies, support children, guide adolescents, improve adult well-being, and encourage healthy aging—revealing how the entire human lifespan is one interconnected process of continuous growth and adaptation.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/05-human-development/01---embryonic-development" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Embryonic Development</span><span class="os-cta-sub">Embryonic development is the remarkable biological process through which a single...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,6 +1,6 @@
 # Diabetes & Metabolic Disorders
 
-> *Diabetes and metabolic disorders are a group of chronic diseases in which the body's normal regulation of energy, glucose, fats, and hormones becomes impaired. Diabetes mellitus is characterized by persistently elevated blood glucose caused by insufficient insulin production, reduced insulin action (insulin resistance), or both. Metabolic disorders also include obesity, metabolic syndrome, dyslipidemia, insulin resistance, fatty liver disease, gout, and inherited metabolic diseases. These conditions are closely interconnected and substantially increase the risk of cardiovascular disease, kidney disease, blindness, nerve damage, and premature death.* :contentReference[oaicite:0]{index=0}
+> *Diabetes and metabolic disorders are a group of chronic diseases in which the body's normal regulation of energy, glucose, fats, and hormones becomes impaired. Diabetes mellitus is characterized by persistently elevated blood glucose caused by insufficient insulin production, reduced insulin action (insulin resistance), or both. Metabolic disorders also include obesity, metabolic syndrome, dyslipidemia, insulin resistance, fatty liver disease, gout, and inherited metabolic diseases. These conditions are closely interconnected and substantially increase the risk of cardiovascular disease, kidney disease, blindness, nerve damage, and premature death.*
 
 ---
 
@@ -22,7 +22,7 @@ The most common disorders include:
 - Non-alcoholic fatty liver disease (NAFLD)
 - Gout
 
-Diabetes is one of the most common metabolic disorders worldwide, affecting approximately **830 million people**. :contentReference[oaicite:1]{index=1}
+Diabetes is one of the most common metabolic disorders worldwide, affecting approximately **830 million people**.
 
 ---
 
@@ -36,7 +36,7 @@ The body constantly regulates:
 - Energy production
 - Protein metabolism
 
-When this regulation fails because of genetics, autoimmune disease, obesity, insulin resistance, aging, or environmental influences, metabolism becomes abnormal and disease develops. :contentReference[oaicite:2]{index=2}
+When this regulation fails because of genetics, autoimmune disease, obesity, insulin resistance, aging, or environmental influences, metabolism becomes abnormal and disease develops.
 
 ---
 
@@ -44,7 +44,7 @@ When this regulation fails because of genetics, autoimmune disease, obesity, ins
 
 > **How does the body lose its ability to regulate blood sugar and energy?**
 
-Diabetes and metabolic disorders develop when insulin production, insulin action, or other metabolic pathways are disrupted, leading to abnormal blood glucose, fat metabolism, and long-term organ damage. :contentReference[oaicite:3]{index=3}
+Diabetes and metabolic disorders develop when insulin production, insulin action, or other metabolic pathways are disrupted, leading to abnormal blood glucose, fat metabolism, and long-term organ damage.
 
 ---
 
@@ -56,26 +56,27 @@ Diabetes and metabolic disorders develop when insulin production, insulin action
 
 # Major Disorders
 
-```text
-Metabolic Disorders
-        │
- ┌──────┼──────────────┬──────────────┐
- ▼      ▼              ▼              ▼
-Type 1 Diabetes
-Type 2 Diabetes
-Prediabetes
-Gestational Diabetes
- │
- ├────────────┬───────────────┐
- ▼            ▼
-Metabolic Syndrome
-Obesity
- │
- ├────────────┬───────────────┐
- ▼            ▼
-Fatty Liver
-Dyslipidemia
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Metabolic Disorders</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Type 1 Diabetes</div></div>
+<div class="tree-item"><div class="tree-node">Type 2 Diabetes</div></div>
+<div class="tree-item"><div class="tree-node">Prediabetes</div></div>
+<div class="tree-item">
+<div class="tree-node">Gestational Diabetes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Metabolic Syndrome</div></div>
+<div class="tree-item">
+<div class="tree-node">Obesity</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Fatty Liver</div></div>
+<div class="tree-item"><div class="tree-node">Dyslipidemia</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ---
 
@@ -84,7 +85,7 @@ Dyslipidemia
 - Autoimmune destruction of insulin-producing beta cells.
 - Little or no insulin is produced.
 - Requires lifelong insulin therapy.
-- Cannot currently be prevented. :contentReference[oaicite:4]{index=4}
+- Cannot currently be prevented.
 
 ---
 
@@ -93,7 +94,7 @@ Dyslipidemia
 - More than **95% of diabetes cases**.
 - Body becomes resistant to insulin.
 - Eventually insulin production may decline.
-- Strongly associated with obesity, physical inactivity, and genetic susceptibility. :contentReference[oaicite:5]{index=5}
+- Strongly associated with obesity, physical inactivity, and genetic susceptibility.
 
 ---
 
@@ -101,7 +102,7 @@ Dyslipidemia
 
 Blood glucose is above normal but below the threshold for diabetes.
 
-Without intervention, many people progress to type 2 diabetes, although progression is not inevitable. :contentReference[oaicite:6]{index=6}
+Without intervention, many people progress to type 2 diabetes, although progression is not inevitable.
 
 ---
 
@@ -109,7 +110,7 @@ Without intervention, many people progress to type 2 diabetes, although progress
 
 Occurs during pregnancy.
 
-Increases risks during pregnancy and raises the future risk of type 2 diabetes for both mother and child. :contentReference[oaicite:7]{index=7}
+Increases risks during pregnancy and raises the future risk of type 2 diabetes for both mother and child.
 
 ---
 
@@ -129,15 +130,14 @@ Together these greatly increase cardiovascular risk.
 
 # Complete Causes
 
-```text
-Complete Causes
-      │
- ┌────┼──────────────────────────────┐
- ▼    ▼                              ▼
-Genetics
-Lifestyle
-Environment
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Complete Causes</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Lifestyle</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+</div>
+</div>
 
 ### 🧬 Genetics
 
@@ -172,7 +172,7 @@ Protective dietary patterns emphasize:
 - Nuts
 - Healthy fats
 
-:contentReference[oaicite:8]{index=8}
+
 
 ---
 
@@ -231,7 +231,7 @@ Insulin sensitivity generally decreases with age, increasing diabetes risk.
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:230px"><svg width="100%" viewBox="0 0 230 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="194.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="115.1" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Insulin Resistance</text><rect x="18.0" y="90.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">High Blood Glucose</text><rect x="18.0" y="162.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Blood Vessel Damage</text><rect x="18.0" y="234.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Nerve Damage</text><rect x="18.0" y="306.0" width="194.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="115.1" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Inflammation</text><rect x="18.0" y="378.0" width="194.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="115.1" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Organ Damage</text><line x1="115.1" y1="64.0" x2="115.1" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="136.0" x2="115.1" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="208.0" x2="115.1" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="280.0" x2="115.1" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="115.1" y1="352.0" x2="115.1" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Persistently elevated blood glucose damages blood vessels, nerves, kidneys, eyes, and the heart over time. :contentReference[oaicite:9]{index=9}
+Persistently elevated blood glucose damages blood vessels, nerves, kidneys, eyes, and the heart over time.
 
 ---
 
@@ -246,7 +246,7 @@ Persistently elevated blood glucose damages blood vessels, nerves, kidneys, eyes
 - Frequent infections
 - Unexplained weight loss (more common in type 1 diabetes)
 
-Symptoms of type 2 diabetes may develop slowly over years. :contentReference[oaicite:10]{index=10}
+Symptoms of type 2 diabetes may develop slowly over years.
 
 ---
 
@@ -267,7 +267,7 @@ Additional assessment may include:
 - Foot examination
 - Blood pressure
 
-:contentReference[oaicite:11]{index=11}
+
 
 ---
 
@@ -297,7 +297,7 @@ Treatment depends on the specific disorder.
 - Continuous glucose monitoring (CGM)
 - Regular HbA1c testing
 
-:contentReference[oaicite:12]{index=12}
+
 
 ---
 
@@ -312,7 +312,7 @@ Strong evidence supports:
 - Smoking cessation
 - Stress management
 
-These interventions improve insulin sensitivity and reduce complications. :contentReference[oaicite:13]{index=13}
+These interventions improve insulin sensitivity and reduce complications.
 
 ---
 
@@ -349,7 +349,7 @@ These interventions improve insulin sensitivity and reduce complications. :conte
 - Excess saturated fat
 - Excess alcohol
 
-Healthy dietary patterns can help prevent or delay type 2 diabetes and improve glucose control. :contentReference[oaicite:14]{index=14}
+Healthy dietary patterns can help prevent or delay type 2 diabetes and improve glucose control.
 
 ---
 
@@ -388,7 +388,7 @@ Lifestyle practices include:
 
 ### Current Scientific Evidence
 
-Some Ayurvedic herbs have shown promising glucose-lowering effects in small studies, but evidence is generally insufficient to replace insulin or standard diabetes medications. They should be considered complementary approaches alongside evidence-based care. :contentReference[oaicite:15]{index=15}
+Some Ayurvedic herbs have shown promising glucose-lowering effects in small studies, but evidence is generally insufficient to replace insulin or standard diabetes medications. They should be considered complementary approaches alongside evidence-based care.
 
 ### Safety
 
@@ -412,7 +412,7 @@ Key preventive measures:
 - Control blood pressure and cholesterol.
 - Participate in recommended screening.
 
-Type 2 diabetes can often be prevented or delayed through lifestyle changes, while type 1 diabetes cannot currently be prevented. :contentReference[oaicite:16]{index=16}
+Type 2 diabetes can often be prevented or delayed through lifestyle changes, while type 1 diabetes cannot currently be prevented.
 
 ---
 
@@ -428,7 +428,7 @@ Poorly controlled diabetes may cause:
 - Foot ulcers
 - Lower limb amputation
 
-:contentReference[oaicite:17]{index=17}
+
 
 ---
 
@@ -457,11 +457,13 @@ Diabetes is one of the fastest-growing chronic diseases worldwide.
 
 Understanding diabetes enables people to:
 
-- Prevent type 2 diabetes.
-- Detect disease early.
-- Avoid complications.
-- Protect the heart, kidneys, eyes, and nerves.
-- Improve both lifespan and healthspan.
+> [!success]
+> - Prevent type 2 diabetes.
+> - Detect disease early.
+> - Avoid complications.
+> - Protect the heart, kidneys, eyes, and nerves.
+> - Improve both lifespan and healthspan.
+
 
 ---
 
@@ -530,7 +532,6 @@ It connects:
 
 - [[Endocrine System]]
 - [[Nutrition]]
-- [[Metabolism]]
 - [[Lifestyle Medicine]]
 - [[Chronic Diseases]]
 - [[Cardiovascular Diseases]]
@@ -545,7 +546,6 @@ It demonstrates that metabolic health is central to overall human health and tha
 ## Depends On
 
 - [[Endocrine System]]
-- [[Metabolism]]
 - [[Disease Mechanisms]]
 
 ## Enables
@@ -558,21 +558,22 @@ It demonstrates that metabolic health is central to overall human health and tha
 
 - [[Nutrition]]
 - [[Exercise]]
-- [[Obesity]]
-- [[Fatty Liver Disease]]
-
-## Next
-
-→ [[Cancer]]
 
 ---
 
 # HumanOS Principle
 
-Diabetes and metabolic disorders arise when the body's regulation of energy, glucose, and fat metabolism becomes impaired through interactions between genetics, physiology, environment, and lifestyle. Although type 1 diabetes currently cannot be prevented, many cases of type 2 diabetes can be delayed or prevented through healthy weight, balanced nutrition, regular physical activity, and early screening. Effective management combines lifestyle modification, evidence-based medication, and continuous monitoring to reduce complications and preserve long-term health. :contentReference[oaicite:18]{index=18}
+Diabetes and metabolic disorders arise when the body's regulation of energy, glucose, and fat metabolism becomes impaired through interactions between genetics, physiology, environment, and lifestyle. Although type 1 diabetes currently cannot be prevented, many cases of type 2 diabetes can be delayed or prevented through healthy weight, balanced nutrition, regular physical activity, and early screening. Effective management combines lifestyle modification, evidence-based medication, and continuous monitoring to reduce complications and preserve long-term health.
 
 ---
 
 # Key Insight
 
-> **Diabetes and metabolic disorders are diseases of disrupted energy regulation. They develop when insulin production, insulin action, or other metabolic pathways fail to maintain normal blood glucose and nutrient balance. Understanding their causes, mechanisms, prevention, and treatment shows that metabolic health depends on the lifelong interaction of genetics, behavior, environment, and evidence-based medical care.** :contentReference[oaicite:19]{index=19}
+> **Diabetes and metabolic disorders are diseases of disrupted energy regulation. They develop when insulin production, insulin action, or other metabolic pathways fail to maintain normal blood glucose and nutrient balance. Understanding their causes, mechanisms, prevention, and treatment shows that metabolic health depends on the lifelong interaction of genetics, behavior, environment, and evidence-based medical care.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/06-health--and--medicine/03-major-diseases/05---cancer" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Cancer</span><span class="os-cta-sub">Cancer is a group of diseases in which abnormal cells grow uncontrollably, evade the...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

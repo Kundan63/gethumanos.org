@@ -1,6 +1,6 @@
 # Urinary System
 
-> *The Urinary System is the body's filtration and balance network. It continuously cleans the blood, removes metabolic waste, regulates water and electrolyte balance, maintains blood pressure and acid-base balance, activates vitamin D, stimulates red blood cell production, and preserves the stable internal environment required for life. Every drop of urine represents the body's remarkable ability to maintain homeostasis.* :contentReference[oaicite:0]{index=0}
+> *The Urinary System is the body's filtration and balance network. It continuously cleans the blood, removes metabolic waste, regulates water and electrolyte balance, maintains blood pressure and acid-base balance, activates vitamin D, stimulates red blood cell production, and preserves the stable internal environment required for life. Every drop of urine represents the body's remarkable ability to maintain homeostasis.*
 
 ---
 
@@ -24,7 +24,7 @@ It consists of:
 - 🫙 Urinary Bladder
 - 🚪 Urethra
 
-Although commonly called the "excretory system," its most important role is **maintaining homeostasis**, not simply producing urine. :contentReference[oaicite:1]{index=1}
+Although commonly called the "excretory system," its most important role is **maintaining homeostasis**, not simply producing urine.
 
 ---
 
@@ -55,56 +55,79 @@ Useful substances are recovered.
 
 Waste products are eliminated.
 
-```text
-Blood
-   │
-   ▼
-Kidneys
-   │
-Filtration
-   │
-────────────────────────────
-Useful Materials
-(Water • Glucose • Ions)
-        │
- Reabsorbed into Blood
-────────────────────────────
-Waste Products
-(Urea • Creatinine • Toxins)
-        │
-        ▼
-      Urine
-        │
-        ▼
-     Ureters
-        │
-        ▼
-     Bladder
-        │
-        ▼
-     Urethra
-        │
-        ▼
- Outside Body
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Blood</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Kidneys</span></div>
+</div>
+</div>
 
-Each kidney contains about **one million nephrons**, the microscopic functional units where filtration, reabsorption, secretion, and urine formation occur. :contentReference[oaicite:2]{index=2}
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Filtration</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Useful Materials (Water, Glucose, Ions)</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Reabsorbed into Blood</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Waste Products (Urea, Creatinine, Toxins)</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Urine</div></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Urine</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Ureters</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Bladder</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Urethra</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Outside Body</span></div>
+</div>
+</div>
+
+Each kidney contains about **one million nephrons**, the microscopic functional units where filtration, reabsorption, secretion, and urine formation occur.
 
 ---
 
 # Components of the Urinary System
 
-```text
-             Urinary System
-                    │
-      ┌─────────────┼──────────────┐
-      ▼             ▼              ▼
-   Kidneys       Ureters       Bladder
-      │                            │
-      └─────────────┬──────────────┘
-                    ▼
-                 Urethra
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Urinary System</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Kidneys</div></div>
+<div class="tree-item"><div class="tree-node">Ureters</div></div>
+<div class="tree-item"><div class="tree-node">Bladder</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Urethra</span></div>
+</div>
+</div>
 
 ### 🫘 Kidneys
 
@@ -155,19 +178,31 @@ Many people think the kidneys only make urine.
 
 Their responsibilities are far greater.
 
-```text
-              Kidneys
-                 │
- ┌───────────────┼──────────────────┐
- ▼               ▼                  ▼
-Blood       Water & Salt       Blood Pressure
-Filtration     Balance          Regulation
- ▼               ▼                  ▼
-Acid-Base    Vitamin D       Erythropoietin
-Balance      Activation      (Red Blood Cells)
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Kidneys</div>
+<div class="tree-children">
+<div class="tree-item">
+<div class="tree-node">Blood Filtration</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Acid-Base Balance</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Water & Salt Balance</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Vitamin D Activation</div></div>
+</div>
+</div>
+<div class="tree-item">
+<div class="tree-node">Blood Pressure Regulation</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Erythropoietin (Red Blood Cells)</div></div>
+</div>
+</div>
+</div>
+</div>
 
-Kidney failure therefore affects nearly every organ system. :contentReference[oaicite:3]{index=3}
+Kidney failure therefore affects nearly every organ system.
 
 ---
 
@@ -183,23 +218,25 @@ The urinary system quietly supports every other organ system by keeping the body
 
 Every day your kidneys:
 
-- Filter your blood repeatedly.
-- Remove toxins.
-- Maintain hydration.
-- Balance sodium and potassium.
-- Help regulate blood pressure.
-- Activate vitamin D for healthy bones.
-- Produce hormones that stimulate red blood cell production.
+> [!success]
+> - Filter your blood repeatedly.
+> - Remove toxins.
+> - Maintain hydration.
+> - Balance sodium and potassium.
+> - Help regulate blood pressure.
+> - Activate vitamin D for healthy bones.
+> - Produce hormones that stimulate red blood cell production.
 
 Without healthy kidneys:
 
-- Waste accumulates.
-- Swelling develops.
-- Blood pressure rises.
-- Bones weaken.
-- Anemia develops.
-- Heart rhythm may become dangerous.
-- Life eventually requires dialysis or kidney transplantation.
+> [!success]
+> - Waste accumulates.
+> - Swelling develops.
+> - Blood pressure rises.
+> - Bones weaken.
+> - Anemia develops.
+> - Heart rhythm may become dangerous.
+> - Life eventually requires dialysis or kidney transplantation.
 
 Understanding kidney health explains why hydration, nutrition, blood pressure control, and diabetes prevention are so important.
 
@@ -240,7 +277,7 @@ During exercise:
 
 ### 🩸 Blood Loss
 
-Reduced blood volume activates the **renin–angiotensin–aldosterone system (RAAS)**, helping conserve sodium and water to support blood pressure. :contentReference[oaicite:4]{index=4}
+Reduced blood volume activates the **renin–angiotensin–aldosterone system (RAAS)**, helping conserve sodium and water to support blood pressure.
 
 ---
 
@@ -248,30 +285,30 @@ Reduced blood volume activates the **renin–angiotensin–aldosterone system (R
 
 The urinary system depends on many interacting factors.
 
-```text
-              Urinary Health
-                    ▲
-                    │
- ┌──────────────────┼──────────────────┐
- │                  │                  │
-Hydration      Nutrition        Blood Pressure
- │                  │                  │
- ├──────────────────┼──────────────────┤
- │                  │                  │
-Diabetes       Physical Activity    Sleep
- │                  │                  │
- ├──────────────────┼──────────────────┤
- │                  │                  │
-Medications     Smoking         Environment
- │                  │                  │
- ├──────────────────┼──────────────────┤
- │                  │                  │
-Genetics      Infections       Aging
- │                  │                  │
- └──────────────────┼──────────────────┘
-                    │
-        Healthy or Diseased Kidneys
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Urinary Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Hydration</div></div>
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Blood Pressure</div></div>
+<div class="tree-item"><div class="tree-node">Diabetes</div></div>
+<div class="tree-item"><div class="tree-node">Physical Activity</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Medications</div></div>
+<div class="tree-item"><div class="tree-node">Smoking</div></div>
+<div class="tree-item"><div class="tree-node">Environment</div></div>
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Infections</div></div>
+<div class="tree-item"><div class="tree-node">Aging</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Healthy or Diseased Kidneys</span></div>
+</div>
+</div>
 
 Healthy kidneys depend on the interaction of lifestyle, environment, genetics, and overall cardiovascular and metabolic health.
 
@@ -295,11 +332,16 @@ Healthy kidneys depend on the interaction of lifestyle, environment, genetics, a
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:271px"><svg width="100%" viewBox="0 0 271 942" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Genetics</text><rect x="18.0" y="90.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">High Blood Pressure</text><rect x="18.0" y="162.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Diabetes</text><rect x="18.0" y="234.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Poor Hydration</text><rect x="18.0" y="306.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Smoking</text><rect x="18.0" y="378.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Obesity</text><rect x="18.0" y="450.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">High Salt Intake</text><rect x="18.0" y="522.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Kidney Infections</text><rect x="18.0" y="594.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Certain Medications</text><rect x="18.0" y="666.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Kidney Stones</text><rect x="18.0" y="738.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="764.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Aging</text><rect x="18.0" y="810.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="836.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">──────────────────────</text><rect x="18.0" y="882.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="908.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Kidney &amp; Urinary Disease</text><line x1="135.4" y1="64.0" x2="135.4" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="136.0" x2="135.4" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="208.0" x2="135.4" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="280.0" x2="135.4" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="352.0" x2="135.4" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="424.0" x2="135.4" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="496.0" x2="135.4" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="568.0" x2="135.4" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="640.0" x2="135.4" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="712.0" x2="135.4" y2="732.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="784.0" x2="135.4" y2="804.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="856.0" x2="135.4" y2="876.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-Worldwide, **diabetes and high blood pressure are the leading causes of chronic kidney disease**, highlighting the close relationship between kidney health and metabolic and cardiovascular health. :contentReference[oaicite:5]{index=5}
+Worldwide, **diabetes and high blood pressure are the leading causes of chronic kidney disease**, highlighting the close relationship between kidney health and metabolic and cardiovascular health.
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ancient_Hindu_text_Sushruta_samhita_yantra,_surgical_instruments_4_of_4.jpg?width=1200" alt="A page from the ancient Sushruta Samhita depicting yantra, surgical instruments used in ancient Indian surgery">
+<p class="domain-figure-caption">Surgical instruments from the Sushruta Samhita, the ancient Indian text whose author pioneered procedures such as bladder-stone removal — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -461,9 +503,7 @@ It continuously regulates the composition of blood, protects every organ system,
 It prepares the foundation for:
 
 - [[Reproductive System]]
-- [[Disease & Medicine]]
 - [[Nutrition]]
-- [[Longevity]]
 
 ---
 
@@ -479,26 +519,13 @@ It prepares the foundation for:
 
 ## Enables
 
-- [[Blood Pressure]]
-- [[Electrolyte Balance]]
-- [[Disease & Medicine]]
-- [[Longevity]]
+None.
 
 ---
 
 ## Related
 
-- [[Kidneys]]
-- [[Nephron]]
-- [[Urine]]
-- [[Electrolytes]]
-- [[Blood Pressure]]
-
----
-
-## Next
-
-→ [[Reproductive System]]
+None.
 
 ---
 
@@ -516,4 +543,11 @@ Health depends not only on what enters the body—but also on what the body wise
 
 # Key Insight
 
-> **The urinary system is the body's filtration and balance network. By continuously cleaning the blood, regulating water and electrolytes, maintaining blood pressure and acid-base balance, activating vitamin D, and supporting red blood cell production, it preserves the stable internal environment required for life. Understanding this system reveals why hydration, nutrition, blood pressure control, diabetes prevention, and healthy lifestyle choices are essential for protecting kidney function and sustaining lifelong health.** :contentReference[oaicite:6]{index=6}
+> **The urinary system is the body's filtration and balance network. By continuously cleaning the blood, regulating water and electrolytes, maintaining blood pressure and acid-base balance, activating vitamin D, and supporting red blood cell production, it preserves the stable internal environment required for life. Understanding this system reveals why hydration, nutrition, blood pressure control, diabetes prevention, and healthy lifestyle choices are essential for protecting kidney function and sustaining lifelong health.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/03-human-system/09---reproductive-system" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Reproductive System</span><span class="os-cta-sub">The Reproductive System is the body's continuity system. Unlike every other organ...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

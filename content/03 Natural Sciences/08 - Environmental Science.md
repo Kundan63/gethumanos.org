@@ -23,7 +23,7 @@ It combines knowledge from:
 - Engineering
 - Public Policy
 
-Unlike **Ecology**, which primarily studies relationships among living organisms and their environment, Environmental Science focuses on **how human activities affect the environment—and how environmental changes affect human societies.** :contentReference[oaicite:0]{index=0}
+Unlike **Ecology**, which primarily studies relationships among living organisms and their environment, Environmental Science focuses on **how human activities affect the environment—and how environmental changes affect human societies.**
 
 Environmental Science asks questions such as:
 
@@ -52,7 +52,7 @@ We need:
 
 As civilization grows, human activities increasingly influence these systems.
 
-Environmental Science exists to understand these interactions and develop evidence-based solutions that balance environmental protection with human development. :contentReference[oaicite:1]{index=1}
+Environmental Science exists to understand these interactions and develop evidence-based solutions that balance environmental protection with human development.
 
 Without Environmental Science, humanity would struggle to:
 
@@ -69,33 +69,42 @@ Without Environmental Science, humanity would struggle to:
 
 Environmental Science studies the continuous interaction between nature and society.
 
-```text
-      Earth's Natural Systems
-              │
-              ▼
- Air • Water • Soil • Climate • Life
-              │
-              ▼
-        Human Activities
-              │
-              ▼
- Agriculture • Industry • Cities
- Energy • Transport • Technology
-              │
-              ▼
- Environmental Impacts
-              │
-              ▼
- Scientific Investigation
-              │
-              ▼
- Sustainable Solutions
-              │
-              ▼
- Healthy Planet & Human Society
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Earth's Natural Systems</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Air, Water, Soil, Climate, Life</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Human Activities</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Agriculture, Industry, Cities, Energy, Transport, Technology</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Environmental Impacts</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Scientific Investigation</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Sustainable Solutions</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">8</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Healthy Planet &amp; Human Society</span></div>
+</div>
+</div>
 
-Rather than studying nature or humans separately, Environmental Science treats them as one interconnected system. :contentReference[oaicite:2]{index=2}
+Rather than studying nature or humans separately, Environmental Science treats them as one interconnected system.
 
 ---
 
@@ -103,40 +112,57 @@ Rather than studying nature or humans separately, Environmental Science treats t
 
 Environmental Science is the bridge between the natural world and civilization.
 
-```text
-                     SUN
-                      │
-                      ▼
-               Earth's Systems
-                      │
-      ┌───────────────┼────────────────┐
-      ▼               ▼                ▼
- Atmosphere      Hydrosphere     Lithosphere
-      │               │                │
-      └───────────────┼────────────────┘
-                      ▼
-                  Biosphere
-                      │
-                      ▼
-                Human Society
-                      │
-      ┌───────────────┼─────────────────────────────┐
-      ▼               ▼              ▼              ▼
- Agriculture      Industry      Cities & Energy  Technology
-      │               │              │              │
-      └───────────────┼──────────────┴──────────────┘
-                      ▼
-         Environmental Challenges
-                      │
-                      ▼
-         Science • Policy • Innovation
-                      │
-                      ▼
-             Sustainable Development
-                      │
-                      ▼
-               Future Generations
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div></div>
+<div class="flow-step-content"><span class="flow-step-title">SUN</span></div>
+</div>
+</div>
+
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Earth's Systems</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Atmosphere</div></div>
+<div class="tree-item"><div class="tree-node">Hydrosphere</div></div>
+<div class="tree-item"><div class="tree-node">Lithosphere</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Biosphere</span></div>
+</div>
+</div>
+
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Human Society</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Agriculture</div></div>
+<div class="tree-item"><div class="tree-node">Industry</div></div>
+<div class="tree-item"><div class="tree-node">Cities &amp; Energy</div></div>
+<div class="tree-item"><div class="tree-node">Technology</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Environmental Challenges</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Science • Policy • Innovation</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Sustainable Development</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Future Generations</span></div>
+</div>
+</div>
 
 This diagram highlights the central idea of Environmental Science: **humans are part of Earth's systems, not separate from them.**
 
@@ -158,66 +184,48 @@ Environmental Science is directly connected to everyday life.
 
 It influences:
 
-- The air we breathe.
-- The water we drink.
-- The food we eat.
-- The climate we experience.
-- The energy we consume.
-- The waste we produce.
-- The health of future generations.
+> [!success]
+> - The air we breathe.
+> - The water we drink.
+> - The food we eat.
+> - The climate we experience.
+> - The energy we consume.
+> - The waste we produce.
+> - The health of future generations.
 
 Understanding Environmental Science helps humans:
 
-- Prevent pollution.
-- Conserve natural resources.
-- Build healthier communities.
-- Reduce disaster risks.
-- Support sustainable economic development.
-- Protect ecosystems that support human life.
+> [!success]
+> - Prevent pollution.
+> - Conserve natural resources.
+> - Build healthier communities.
+> - Reduce disaster risks.
+> - Support sustainable economic development.
+> - Protect ecosystems that support human life.
 
-Environmental protection is ultimately about protecting people as well as nature. :contentReference[oaicite:3]{index=3}
+Environmental protection is ultimately about protecting people as well as nature.
 
 ---
 
 # Daily Life Examples
 
-### 🚰 Drinking Water
-
-Environmental Science helps ensure that drinking water remains safe through watershed protection, water treatment, pollution control, and groundwater management.
-
----
-
-### ♻ Waste Management
-
-Recycling, composting, and proper waste disposal reduce pollution while conserving valuable natural resources.
-
----
-
-### 🌾 Sustainable Agriculture
-
-Scientific farming practices protect soils, reduce chemical pollution, conserve water, and improve long-term food security.
-
----
-
-### ⚡ Clean Energy
-
-Renewable energy reduces dependence on finite fossil fuels while helping improve air quality and reduce greenhouse gas emissions.
-
----
-
-### 🏙 Urban Planning
-
-Cities use environmental science to improve air quality, reduce flood risks, increase green spaces, and create healthier living environments.
-
----
-
-### 🌳 Forest Conservation
-
-Protecting forests preserves biodiversity, regulates climate, reduces soil erosion, and supports clean water supplies.
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🚰</span><span class="os-card-title">Drinking Water</span><span class="os-card-desc">Environmental Science helps ensure that drinking water remains safe through watershed protection, water treatment, pollution control, and groundwater management.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">♻</span><span class="os-card-title">Waste Management</span><span class="os-card-desc">Recycling, composting, and proper waste disposal reduce pollution while conserving valuable natural resources.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌾</span><span class="os-card-title">Sustainable Agriculture</span><span class="os-card-desc">Scientific farming practices protect soils, reduce chemical pollution, conserve water, and improve long-term food security.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">⚡</span><span class="os-card-title">Clean Energy</span><span class="os-card-desc">Renewable energy reduces dependence on finite fossil fuels while helping improve air quality and reduce greenhouse gas emissions.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🏙</span><span class="os-card-title">Urban Planning</span><span class="os-card-desc">Cities use environmental science to improve air quality, reduce flood risks, increase green spaces, and create healthier living environments.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌳</span><span class="os-card-title">Forest Conservation</span><span class="os-card-desc">Protecting forests preserves biodiversity, regulates climate, reduces soil erosion, and supports clean water supplies.</span></div>
+</div>
 
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Pavagada_Solar_Park_2020.jpg?width=1200" alt="Aerial view of the Pavagada Solar Park in Karnataka, India, one of the world's largest solar power installations">
+<p class="domain-figure-caption">Pavagada Solar Park, Karnataka — one of the world's largest solar power installations — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -289,7 +297,7 @@ Environmental Science supports long-term economic prosperity through:
 - Green technology
 - Ecosystem services
 
-Healthy ecosystems provide immense economic value that is often overlooked. :contentReference[oaicite:4]{index=4}
+Healthy ecosystems provide immense economic value that is often overlooked.
 
 ---
 
@@ -417,21 +425,19 @@ It is the bridge between understanding nature and learning how to live responsib
 
 ## Related
 
-- [[Sustainability]]
 - [[Biodiversity]]
-- [[Natural Resources]]
-- [[Pollution]]
 - [[Climate]]
 - [[Ecology]]
-
----
-
-## Next
-
-→ [[Origin of Life]]
 
 ---
 
 # Key Insight
 
 > **Environmental Science reveals that humanity is inseparable from the natural world. Every breath we take, every meal we eat, every city we build, and every technology we create depends on Earth's interconnected systems. Understanding these relationships allows us to move beyond merely using nature toward becoming responsible stewards of the only known planet that supports human civilization.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/04-life-sciences/01---origin-of-life" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Origin of Life</span><span class="os-cta-sub">The Origin of Life explores one of humanity's greatest scientific questions: How did...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

@@ -1,6 +1,6 @@
 # Lifelong Learning
 
-> **Lifelong Learning is the continuous process of acquiring, applying, improving, and sharing knowledge, skills, values, and capabilities throughout every stage of life.** It extends beyond schools and universities to include learning at home, at work, within communities, and through everyday experience. Lifelong learning enables people to adapt to changing realities, solve new problems, remain capable in a changing world, and continue growing throughout life. :contentReference[oaicite:0]{index=0}
+> **Lifelong Learning is the continuous process of acquiring, applying, improving, and sharing knowledge, skills, values, and capabilities throughout every stage of life.** It extends beyond schools and universities to include learning at home, at work, within communities, and through everyday experience. Lifelong learning enables people to adapt to changing realities, solve new problems, remain capable in a changing world, and continue growing throughout life.
 
 ---
 
@@ -91,25 +91,26 @@ It occurs through:
 - Practice
 - Reflection
 
-UNESCO defines lifelong learning as learning that spans all ages, all levels of education, all learning modalities, all learning environments, and a variety of purposes. :contentReference[oaicite:1]{index=1}
+UNESCO defines lifelong learning as learning that spans all ages, all levels of education, all learning modalities, all learning environments, and a variety of purposes.
 
 ---
 
 # The Lifelong Learning System
 
-```text
-Lifelong Learning
-         │
- ├── Curiosity
- ├── Knowledge
- ├── Learning Skills
- ├── Practice
- ├── Reflection
- ├── Adaptability
- ├── Teaching Others
- ├── Continuous Improvement
- └── Wisdom
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Lifelong Learning</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Curiosity</div></div>
+<div class="tree-item"><div class="tree-node">Knowledge</div></div>
+<div class="tree-item"><div class="tree-node">Learning Skills</div></div>
+<div class="tree-item"><div class="tree-node">Practice</div></div>
+<div class="tree-item"><div class="tree-node">Reflection</div></div>
+<div class="tree-item"><div class="tree-node">Adaptability</div></div>
+<div class="tree-item"><div class="tree-node">Teaching Others</div></div>
+<div class="tree-item"><div class="tree-node">Continuous Improvement</div></div>
+<div class="tree-item"><div class="tree-node">Wisdom</div></div>
+</div>
+</div>
 
 Each component reinforces the others throughout life.
 
@@ -205,7 +206,7 @@ Adaptability allows people to:
 - Embrace new technologies
 - Solve unfamiliar problems
 
-Continuous learning is one of humanity's greatest adaptive advantages. :contentReference[oaicite:2]{index=2}
+Continuous learning is one of humanity's greatest adaptive advantages.
 
 ---
 
@@ -290,7 +291,7 @@ Lifelong learning improves:
 - Innovation
 - Personal growth
 
-In rapidly changing societies, continuous learning helps people adapt to technological, economic, and social change while supporting health, employability, civic participation, and well-being. :contentReference[oaicite:3]{index=3}
+In rapidly changing societies, continuous learning helps people adapt to technological, economic, and social change while supporting health, employability, civic participation, and well-being.
 
 ---
 
@@ -332,7 +333,7 @@ Every new skill expands future possibilities.
 
 ✔ Diverse learning environments strengthen capability.
 
-✔ Curiosity, motivation, and learning skills support lifelong learning. :contentReference[oaicite:4]{index=4}
+✔ Curiosity, motivation, and learning skills support lifelong learning.
 
 ---
 
@@ -371,10 +372,8 @@ Ask yourself:
 ## Built Upon
 
 - [[Education]]
-- [[Neuroscience]]
 - [[Psychology]]
 - [[Memory]]
-- [[Technology]]
 - [[Decision Making]]
 - [[Creativity]]
 
@@ -384,28 +383,28 @@ Ask yourself:
 - [[Personal Growth]]
 - [[Career]]
 - [[Leadership]]
-- [[Innovation]]
-- [[Human Capability]]
 
 ## Related
 
 - [[Learning]]
 - [[Memory]]
 - [[Critical Thinking]]
-- [[Curiosity]]
-
-## Next
-
-→ [[Happiness]]
 
 ---
 
 # HumanOS Principle
 
-Lifelong learning is the continuous process of improving one's understanding of reality and expanding one's capabilities throughout life. HumanOS views learning not as preparation for living, but as an essential part of living itself. Every new insight, skill, experience, and reflection strengthens a person's ability to adapt, contribute, and responsibly shape the future. :contentReference[oaicite:5]{index=5}
+Lifelong learning is the continuous process of improving one's understanding of reality and expanding one's capabilities throughout life. HumanOS views learning not as preparation for living, but as an essential part of living itself. Every new insight, skill, experience, and reflection strengthens a person's ability to adapt, contribute, and responsibly shape the future.
 
 ---
 
 # Key Insight
 
 > **School teaches you how to begin learning. Life teaches you why you must never stop. HumanOS treats lifelong learning as the engine that continuously upgrades the human operating system, enabling every generation to understand reality more deeply, solve better problems, and contribute more wisely to humanity.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/11-living-well-(the-human-operating-system)/12---happiness" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Happiness</span><span class="os-cta-sub">Continue exploring the HumanOS knowledge graph</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>

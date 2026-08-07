@@ -72,23 +72,27 @@ Blood continuously circulates through two connected loops:
 - **Pulmonary Circulation** → Heart ↔ Lungs
 - **Systemic Circulation** → Heart ↔ Entire Body
 
-The cardiovascular system continually redistributes blood according to the body's needs—for example, directing more blood to muscles during exercise and more to the digestive tract after a meal. :contentReference[oaicite:0]{index=0}
+The cardiovascular system continually redistributes blood according to the body's needs—for example, directing more blood to muscles during exercise and more to the digestive tract after a meal.
 
 ---
 
 # Components of the Cardiovascular System
 
-```text
-          Cardiovascular System
-                   │
-     ┌─────────────┼─────────────┐
-     ▼             ▼             ▼
-   Heart          Blood      Blood Vessels
-                                 │
-               ┌─────────────────┼─────────────────┐
-               ▼                 ▼                 ▼
-           Arteries         Capillaries         Veins
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Cardiovascular System</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Heart</div></div>
+<div class="tree-item"><div class="tree-node">Blood</div></div>
+<div class="tree-item">
+<div class="tree-node">Blood Vessels</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Arteries</div></div>
+<div class="tree-item"><div class="tree-node">Capillaries</div></div>
+<div class="tree-item"><div class="tree-node">Veins</div></div>
+</div>
+</div>
+</div>
+</div>
 
 ### ❤️ Heart
 
@@ -119,30 +123,48 @@ Transports:
 
 # Blood Circulation
 
-```text
-                 BODY
-                   ▲
-                   │
-          Oxygen-rich Blood
-                   │
-             Left Heart
-                   │
-                   ▼
-                Aorta
-                   │
-             Body Organs
-                   │
-          Oxygen-poor Blood
-                   │
-             Right Heart
-                   │
-                   ▼
-                Lungs
-                   │
-          Oxygen-rich Blood
-                   │
-             Left Heart
-```
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">BODY</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Oxygen-rich Blood</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Left Heart</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Aorta</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Body Organs</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Oxygen-poor Blood</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">7</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Right Heart</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">8</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Lungs</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">9</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Oxygen-rich Blood</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">10</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Left Heart</span></div>
+</div>
+</div>
 
 This continuous circulation delivers oxygen to tissues and returns carbon dioxide to the lungs for exhalation.
 
@@ -164,19 +186,21 @@ Your heart beats approximately **100,000 times every day**, pumping roughly **7,
 
 Every heartbeat:
 
-- Delivers oxygen to your brain.
-- Feeds your muscles.
-- Removes waste.
-- Supports immunity.
-- Distributes hormones.
-- Regulates body temperature.
+> [!success]
+> - Delivers oxygen to your brain.
+> - Feeds your muscles.
+> - Removes waste.
+> - Supports immunity.
+> - Distributes hormones.
+> - Regulates body temperature.
 
 When circulation is impaired:
 
-- Cells begin to die within minutes.
-- Organs fail.
-- Brain damage develops rapidly.
-- Life is threatened.
+> [!success]
+> - Cells begin to die within minutes.
+> - Organs fail.
+> - Brain damage develops rapidly.
+> - Life is threatened.
 
 Understanding the cardiovascular system explains why heart health influences every aspect of human health.
 
@@ -188,7 +212,7 @@ Understanding the cardiovascular system explains why heart health influences eve
 
 <div class="diagram-panel diagram-panel-narrow" style="max-width:271px"><svg width="100%" viewBox="0 0 271 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Exercise</text><rect x="18.0" y="90.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Muscles Need More Oxygen</text><rect x="18.0" y="162.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Heart Beats Faster</text><rect x="18.0" y="234.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Blood Flow Increases</text><rect x="18.0" y="306.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">More Oxygen Delivered</text><rect x="18.0" y="378.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">More Energy Produced</text><line x1="135.4" y1="64.0" x2="135.4" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="136.0" x2="135.4" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="208.0" x2="135.4" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="280.0" x2="135.4" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="352.0" x2="135.4" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
-During exercise, blood flow is redirected toward skeletal muscles, the heart, and the skin while decreasing to less active organs such as the digestive tract. :contentReference[oaicite:1]{index=1}
+During exercise, blood flow is redirected toward skeletal muscles, the heart, and the skin while decreasing to less active organs such as the digestive tract.
 
 ---
 
@@ -227,30 +251,30 @@ Blood vessels near the skin widen, increasing heat loss and helping regulate bod
 
 The cardiovascular system depends on many factors.
 
-```text
-             Cardiovascular Health
-                     ▲
-                     │
- ┌───────────────────┼────────────────────┐
- │                   │                    │
-Nutrition      Physical Activity      Sleep
- │                   │                    │
- ├───────────────────┼────────────────────┤
- │                   │                    │
-Stress         Body Weight         Blood Pressure
- │                   │                    │
- ├───────────────────┼────────────────────┤
- │                   │                    │
-Smoking       Air Pollution      Diabetes
- │                   │                    │
- ├───────────────────┼────────────────────┤
- │                   │                    │
-Genetics      Aging         Healthcare Access
- │                   │                    │
- └───────────────────┼────────────────────┘
-                     │
-          Healthy or Diseased Heart
-```
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Cardiovascular Health</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Nutrition</div></div>
+<div class="tree-item"><div class="tree-node">Physical Activity</div></div>
+<div class="tree-item"><div class="tree-node">Sleep</div></div>
+<div class="tree-item"><div class="tree-node">Stress</div></div>
+<div class="tree-item"><div class="tree-node">Body Weight</div></div>
+<div class="tree-item"><div class="tree-node">Blood Pressure</div></div>
+<div class="tree-item"><div class="tree-node">Smoking</div></div>
+<div class="tree-item"><div class="tree-node">Air Pollution</div></div>
+<div class="tree-item"><div class="tree-node">Diabetes</div></div>
+<div class="tree-item"><div class="tree-node">Genetics</div></div>
+<div class="tree-item"><div class="tree-node">Aging</div></div>
+<div class="tree-item"><div class="tree-node">Healthcare Access</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Healthy or Diseased Heart</span></div>
+</div>
+</div>
 
 Cardiovascular health is influenced by biological, behavioural, environmental, and social factors.
 
@@ -281,6 +305,11 @@ Cardiovascular diseases usually develop over many years through interactions amo
 ---
 
 # Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cardiothoracic_and_Neurosciences_Centre_AIIMS_(C._N._Centre),_Delhi_during_COVID-19_pandemic_in_Delhi_IMG_20210316_112004.jpg?width=1200" alt="The Cardiothoracic and Neurosciences Centre at AIIMS, New Delhi, India">
+<p class="domain-figure-caption">Cardiothoracic and Neurosciences Centre, AIIMS New Delhi — a leading Indian centre for cardiac care and research — via Wikimedia Commons</p>
+</div>
 
 ## Human Body
 
@@ -456,7 +485,6 @@ It prepares the foundation for:
 - [[Digestive System]]
 - [[Immune System]]
 - [[Exercise]]
-- [[Disease & Medicine]]
 
 ---
 
@@ -475,23 +503,12 @@ It prepares the foundation for:
 - [[Exercise]]
 - [[Respiratory System]]
 - [[Immune System]]
-- [[Disease & Medicine]]
 
 ---
 
 ## Related
 
-- [[Heart]]
-- [[Blood]]
-- [[Blood Vessels]]
-- [[Blood Pressure]]
-- [[Circulation]]
-
----
-
-## Next
-
-→ [[Respiratory System]]
+None.
 
 ---
 
@@ -512,3 +529,10 @@ Together they maintain circulation, sustain homeostasis, and make every other or
 # Key Insight
 
 > **The cardiovascular system is the body's transportation network. By continuously circulating blood, it connects every organ, delivers oxygen and nutrients, removes waste, distributes hormones and immune cells, and maintains homeostasis. Understanding this system reveals why heart health influences every aspect of human life and why daily choices—from nutrition and exercise to sleep and stress management—shape health across an entire lifetime.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/05-human/03-human-system/04---respiratory-system" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Respiratory System</span><span class="os-cta-sub">The Respiratory System is the body's gas exchange network. It continuously brings...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>
