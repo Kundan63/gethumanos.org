@@ -288,6 +288,132 @@ input:focus-visible {
 .os-card:nth-of-type(12n + 11) { --card-accent: #f87171; }
 .os-card:nth-of-type(12n + 12) { --card-accent: #c4b5fd; }
 
+// A non-link variant of .os-card for plain comparison callouts (e.g. the
+// "Without/With Foundations" pair on domain pages) — same look, no hover
+// lift/shadow since there's nothing to click through to.
+.os-card-static {
+  cursor: default;
+}
+.os-card-static:hover {
+  transform: none;
+  box-shadow: none;
+  border-color: var(--lightgray);
+}
+
+// ---- Domain landing pages (e.g. /01-foundations/index.md) ----
+// A real index.md in a domain folder overrides Quartz's auto-generated
+// plain note listing. Cover photo + title block up top, small inline
+// photo "figures" usable within any section further down. Images are
+// hotlinked directly from Wikimedia Commons (public-domain/CC works,
+// credited beneath) rather than stored locally — the visitor's browser
+// fetches them, not the build.
+.domain-cover {
+  position: relative;
+  width: 100%;
+  height: clamp(160px, 26vw, 260px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: color-mix(in srgb, var(--light) 90%, black 10%);
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--lightgray);
+  margin: 0.5rem 0 0;
+}
+.domain-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+.domain-cover::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 55%,
+    color-mix(in srgb, var(--light) 85%, black 15%) 100%
+  );
+  pointer-events: none;
+}
+.domain-cover-credit {
+  font-size: 0.72rem;
+  color: var(--gray);
+  text-align: right;
+  margin: 0.35rem 0 1.5rem;
+}
+.domain-title-block {
+  text-align: center;
+  margin: 0 0 1.5rem;
+}
+.domain-title-block .domain-icon {
+  font-size: 2.4rem;
+  display: block;
+  margin-bottom: 0.4rem;
+}
+.domain-title-block h1 {
+  margin: 0 0 0.5rem;
+}
+// The base theme keeps each heading's "#" anchor link in the flow at
+// opacity:0 (only revealed on hover) so it can be clicked for a
+// permalink. On these domain title headings that invisible icon still
+// occupies width to the right of the text, which pulls the visible
+// word off-center relative to the emoji centered above it. Removing it
+// here (this heading doesn't need a hover permalink — it's the page's
+// own top-level title) lets the text center exactly under the icon.
+.domain-title-block h1 > a[role="anchor"] {
+  display: none;
+}
+.domain-tagline {
+  color: var(--darkgray);
+  font-size: 1.05rem;
+  max-width: 620px;
+  margin: 0 auto;
+}
+.domain-figure {
+  margin: 1.5rem 0;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--lightgray);
+  background: color-mix(in srgb, var(--light) 90%, black 10%);
+}
+.domain-figure img {
+  width: 100%;
+  height: clamp(160px, 24vw, 240px);
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}
+.domain-figure-caption {
+  margin: 0;
+  padding: 0.6rem 0.9rem;
+  font-size: 0.78rem;
+  color: var(--gray);
+  background: color-mix(in srgb, var(--light) 92%, black 8%);
+}
+// article-title and note-properties are configured to skip the homepage
+// (condition: not-index) but that only checks for the literal root
+// "index" slug — a domain folder's own index.md (slug "01-foundations/
+// index", etc.) doesn't match, so both still render above our custom
+// content: a plain top-left "Foundations" heading duplicating the
+// centered .domain-title-block heading below it, plus a "Properties"
+// box listing the frontmatter description. Hide both on any subfolder
+// index page (data-slug ending in "/index"), keep the centered one.
+body[data-slug$="/index"] .article-title,
+body[data-slug$="/index"] .note-properties {
+  display: none !important;
+}
+// The folder-page plugin always appends its own auto-generated listing
+// (item count + every child page with its date) after the page's body
+// content, even when that folder has a real index.md -- it doesn't
+// replace the listing, it just adds custom content above it. Our
+// card-grid up top already covers this same list far better designed,
+// so hide the plain auto-listing on domain index pages.
+body[data-slug$="/index"] .page-listing {
+  display: none !important;
+}
+
 // ---- Stat strip on homepage ----
 .os-stats {
   display: flex;
@@ -446,6 +572,16 @@ input:focus-visible {
   margin: 0 auto;
   max-width: 100%;
   height: auto;
+}
+// The accent-colored start/end boxes in flow diagrams (fill: var(
+// --section-accent, ...), e.g. bright cyan) were drawn with white label
+// text, which washes out against lighter accent colors. The plain
+// lightgray middle boxes' gray-on-gray text was fine as-is. Target only
+// the accent boxes' labels via the adjacent-sibling combinator (the
+// <text> immediately follows its matching <rect> in the SVG markup) so
+// this doesn't touch the middle boxes sitewide.
+.diagram-panel svg rect[fill*="section-accent"] + text {
+  fill: #0a0a0f !important;
 }
 .diagram-panel-narrow {
   max-width: 100%;
@@ -1168,7 +1304,7 @@ body[data-slug="index"] .card-grid {
 .os-cta-sub {
   font-family: var(--codeFont);
   font-size: 0.75rem;
-  color: var(--gray) !important;
+  color: var(--darkgray) !important;
   margin-top: 0.2rem;
 }
 .os-cta-arrow {
@@ -1255,6 +1391,235 @@ body[data-slug="index"] .card-grid {
   }
 }
 
+// ---- Flow steps: replaces plain ```text ASCII-arrow diagrams (│ ▼ chains)
+// that rendered as inert monospace code blocks inside "How does X work?"
+// sections. Same numbered-step-with-connecting-rail idea as a vertical
+// timeline — each step glows, the rail fades toward the next step, so a
+// process reads as a sequence instead of a wall of text. ----
+.flow-steps {
+  margin: 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+}
+.flow-step {
+  display: flex;
+  gap: 1rem;
+}
+.flow-step-rail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 0 0 auto;
+}
+.flow-step-num {
+  width: 2.15rem;
+  height: 2.15rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--headerFont);
+  font-weight: 800;
+  font-size: 0.9rem;
+  color: #0a0a0f;
+  background: linear-gradient(135deg, var(--secondary), var(--tertiary));
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--secondary) 14%, transparent),
+    0 0 16px color-mix(in srgb, var(--secondary) 45%, transparent);
+  flex: 0 0 auto;
+}
+.flow-step-line {
+  width: 2px;
+  flex: 1;
+  min-height: 1.1rem;
+  margin: 0.3rem 0;
+  background: linear-gradient(
+    var(--secondary),
+    color-mix(in srgb, var(--secondary) 15%, transparent)
+  );
+  opacity: 0.7;
+}
+.flow-step-content {
+  padding: 0.3rem 0 1.4rem;
+  font-family: var(--bodyFont);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--darkgray);
+}
+.flow-step:last-child .flow-step-content {
+  padding-bottom: 0.3rem;
+}
+.flow-step-title {
+  display: block;
+  font-family: var(--headerFont);
+  font-weight: $boldWeight;
+  font-size: 1rem;
+  color: var(--dark);
+  margin-bottom: 0.15rem;
+}
+@media all and ($mobile) {
+  .flow-step-num {
+    width: 1.85rem;
+    height: 1.85rem;
+    font-size: 0.8rem;
+  }
+  .flow-step-content {
+    font-size: 0.88rem;
+  }
+}
+
+// ---- Tag grid: for flat "Applications" bullet lists (single words/short
+// phrases, no description per item) that don't carry enough content per
+// item to justify a full os-card. Reuses the pipeline-step pill look, but
+// wrapped and unordered instead of chained — these are categories, not a
+// sequence. ----
+.tag-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.1rem 0;
+}
+.tag-pill {
+  font-family: var(--bodyFont);
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 0.45rem 0.95rem;
+  border-radius: 999px;
+  border: 1px solid var(--lightgray);
+  background: var(--lightgray);
+  color: var(--darkgray);
+  white-space: nowrap;
+  transition: transform 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+.tag-pill:hover {
+  border-color: var(--secondary);
+  color: var(--dark);
+  transform: translateY(-2px);
+}
+@media all and ($mobile) {
+  .tag-pill {
+    font-size: 0.78rem;
+    padding: 0.38rem 0.78rem;
+  }
+}
+
+// ---- Tree diagram: generic pure-CSS org-chart connector, for the plain
+// ```text ASCII branching diagrams (root splitting into multiple children,
+// sometimes multiple levels deep) that render as inert monospace blocks
+// elsewhere on the site. Recursive by construction — .tree-children can
+// nest inside another .tree-item at any depth. Horizontal connectors on
+// desktop; on mobile it collapses to a simple indented list since a wide
+// horizontal tree doesn't fit a narrow viewport. ----
+.tree-diagram {
+  margin: 1.5rem 0;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 0.25rem;
+}
+.tree-node {
+  display: inline-block;
+  font-family: var(--bodyFont);
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 0.4rem 0.85rem;
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+  background: var(--lightgray);
+  color: var(--darkgray);
+  white-space: nowrap;
+}
+.tree-node.tree-node-root {
+  font-family: var(--headerFont);
+  font-weight: 800;
+  color: #0a0a0f;
+  background: linear-gradient(135deg, var(--secondary), var(--tertiary));
+  border: none;
+  box-shadow: 0 0 16px color-mix(in srgb, var(--secondary) 45%, transparent);
+}
+.tree-children {
+  display: flex;
+  justify-content: center;
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+  position: relative;
+}
+.tree-children::before {
+  content: "";
+  position: absolute;
+  top: -1.5rem;
+  left: 50%;
+  width: 1px;
+  height: 1.5rem;
+  background: var(--gray);
+  opacity: 0.6;
+}
+.tree-item {
+  position: relative;
+  padding-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.tree-item::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 1px;
+  height: 1.5rem;
+  background: var(--gray);
+  opacity: 0.6;
+}
+.tree-children > .tree-item::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: var(--gray);
+  opacity: 0.6;
+}
+.tree-children > .tree-item:first-child::after {
+  left: 50%;
+}
+.tree-children > .tree-item:last-child::after {
+  right: 50%;
+}
+.tree-children > .tree-item:only-child::after {
+  display: none;
+}
+@media all and ($mobile) {
+  .tree-node {
+    font-size: 0.78rem;
+    padding: 0.35rem 0.7rem;
+  }
+  .tree-children {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.6rem;
+    margin-top: 0.8rem;
+    margin-left: 1rem;
+    border-left: 1px dashed var(--gray);
+    padding-left: 1rem;
+  }
+  .tree-children::before {
+    display: none;
+  }
+  .tree-item {
+    padding-top: 0;
+    align-items: flex-start;
+  }
+  .tree-item::before,
+  .tree-children > .tree-item::after {
+    display: none;
+  }
+  .tree-diagram {
+    align-items: flex-start;
+  }
+}
+
 // ---- Mission: this is the actual thesis of the whole project, but it
 // previously had the same visual weight as the "under construction"
 // note directly below it. Now a large centered statement with a soft
@@ -1318,6 +1683,16 @@ body[data-slug="index"] .card-grid {
   background: #4ade80;
   box-shadow: 0 0 6px #4ade80;
   animation: os-pulse 2s ease-in-out infinite;
+}
+.status-pill-small {
+  margin: 2rem auto 0.5rem;
+  padding: 0.35rem 0.85rem;
+  font-size: 0.68rem;
+  opacity: 0.7;
+}
+.status-pill-small .status-dot {
+  width: 6px;
+  height: 6px;
 }
 @keyframes os-pulse {
   0%,
