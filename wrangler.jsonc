@@ -1,7 +1,16 @@
 {
   "name": "gethumanos",
   "compatibility_date": "2026-08-07",
+  "main": "worker/index.ts",
   "assets": {
-    "directory": "./public"
-  }
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+  "d1_databases": [
+    {
+      "binding": "FEEDBACK_DB",
+      "database_name": "humanos-feedback",
+      "database_id": "aa9437c5-12e1-45bc-a9ef-250530536c71"
+    }
+  ]
 }
