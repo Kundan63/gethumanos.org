@@ -111,6 +111,11 @@ Every component supports healthy development.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Mother_and_Child_at_Village_of_West_Bengal,India.jpg?width=1200" alt="A mother with her child in a village in West Bengal, India">
+<p class="domain-figure-caption">A mother and child in rural West Bengal, India — via Wikimedia Commons</p>
+</div>
+
 ## ❤️ Love & Secure Attachment
 
 Children develop best when they experience:

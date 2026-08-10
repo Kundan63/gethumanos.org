@@ -363,6 +363,11 @@ The Internet transforms isolated computers into a globally connected information
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Insat-1B.jpg?width=1200" alt="INSAT-1B, one of India's early multipurpose geostationary satellites that laid the foundation for the country's telecommunications and communication network infrastructure.">
+<p class="domain-figure-caption">INSAT-1B, part of India's satellite communication network — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 The Internet enables:

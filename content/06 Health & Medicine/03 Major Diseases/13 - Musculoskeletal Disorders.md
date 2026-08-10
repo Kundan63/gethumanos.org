@@ -485,6 +485,11 @@ Musculoskeletal disorders are the **leading global cause of disability**, making
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Yoga_Teacher_Training_India_-_Shiva_Tattva_Yoga,_Rishikesh_.jpg?width=1200" alt="Yoga teacher training in Rishikesh, India, the birthplace of yoga and a practice widely used to support musculoskeletal health">
+<p class="domain-figure-caption">Yoga training in Rishikesh, India — yoga is widely used to support joint and muscle health — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Musculoskeletal disorders affect:

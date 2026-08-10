@@ -386,6 +386,11 @@ Meditation develops the capacity to observe experience more clearly before respo
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Great_Buddha_Statue,_Bodh_Gaya.jpg?width=1200" alt="The Great Buddha Statue at Bodh Gaya, India, seated in the meditative dhyana mudra">
+<p class="domain-figure-caption">The Great Buddha Statue at Bodh Gaya, seated in the meditative dhyana mudra — via Wikimedia Commons</p>
+</div>
+
 ## Human Mind
 
 Meditation can strengthen:

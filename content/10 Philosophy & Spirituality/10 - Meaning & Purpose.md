@@ -395,6 +395,11 @@ Meaning transforms experience into significance, while purpose transforms signif
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Statue_of_Arjun_and_Krishna_in_Rishikesh.JPG?width=1200" alt="A statue depicting Krishna and Arjuna on the battlefield of Kurukshetra, the setting of the Bhagavad Gita's teachings on purpose and duty">
+<p class="domain-figure-caption">Statue of Krishna and Arjuna in Rishikesh, depicting the Bhagavad Gita's dialogue on purpose and duty — via Wikimedia Commons</p>
+</div>
+
 ## Human Mind
 
 Meaning and purpose support:

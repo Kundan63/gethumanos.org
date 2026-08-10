@@ -362,6 +362,11 @@ Future technologies transform scientific discovery into new capabilities that sh
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/LVM3_M4%2C_Chandrayaan-3_-_Launch_vehicle_lifting_off_from_the_Second_Launch_Pad_(SLP)_of_SDSC-SHAR%2C_Sriharikota_03.webp?width=1200" alt="The LVM3 M4 launch vehicle carrying India's Chandrayaan-3 mission lifting off from the Satish Dhawan Space Centre, Sriharikota.">
+<p class="domain-figure-caption">Chandrayaan-3 launch, Sriharikota, India — a landmark in future space technology — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Future technologies may enable:

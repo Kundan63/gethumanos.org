@@ -446,6 +446,11 @@ Understanding pharmacology helps people:
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/AIIMS%20DELHI%20Building.jpg?width=1200" alt="The main building of the All India Institute of Medical Sciences (AIIMS) in New Delhi, India's premier medical and pharmacological research institute">
+<p class="domain-figure-caption">AIIMS New Delhi, India's leading centre for medical research and pharmacology — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Medicines influence:

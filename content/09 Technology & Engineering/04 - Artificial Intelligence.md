@@ -474,6 +474,11 @@ AI transforms information into predictions, decisions, and intelligent assistanc
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sophia_(robot).jpg?width=1200" alt="Sophia, a social humanoid robot developed by Hanson Robotics, demonstrating artificial intelligence capable of facial expression and natural conversation.">
+<p class="domain-figure-caption">Sophia, a humanoid robot showcasing artificial intelligence, at the 2017 AI for Good Global Summit — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 AI enables:

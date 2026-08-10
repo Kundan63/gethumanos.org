@@ -355,6 +355,11 @@ Comparative religion connects humanity's diverse spiritual traditions through ca
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Great_Stupa_at_Sanchi.jpg?width=1200" alt="The Great Stupa at Sanchi, India, one of the oldest Buddhist monuments in the world">
+<p class="domain-figure-caption">The Great Stupa at Sanchi, India, among the oldest surviving Buddhist monuments — via Wikimedia Commons</p>
+</div>
+
 ## Human Mind
 
 Comparative religion develops:

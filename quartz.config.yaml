@@ -6,7 +6,7 @@ configuration:
   enablePopovers: false
   analytics: null
   locale: en-US
-  baseUrl: humanos.example.com  # TODO: replace with your real domain before deploying
+  baseUrl: gethumanos.org
   ignorePatterns:
     - private
     - templates
@@ -228,11 +228,9 @@ plugins:
       position: afterBody
       priority: 10
   - source: "@quartz-community/footer"
-    enabled: true
+    enabled: false
     options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+      links: {}
     layout:
       position: footer
       priority: 50

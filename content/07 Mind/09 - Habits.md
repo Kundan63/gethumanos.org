@@ -329,6 +329,11 @@ Habits convert repeated decisions into automatic behavior.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Yoga-vini-teacher-training-rishikesh.jpg?width=1200" alt="Practitioners in a yoga session in Rishikesh, India, a tradition built on cultivating disciplined daily habits">
+<p class="domain-figure-caption">A yoga practice session in Rishikesh, India — a tradition centered on cultivating disciplined habits — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Habits affect:

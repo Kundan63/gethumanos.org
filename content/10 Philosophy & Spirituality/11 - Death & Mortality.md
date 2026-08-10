@@ -314,6 +314,11 @@ Death gives human life its finite nature, shaping many aspects of culture and pe
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ahilya_Ghat_by_the_Ganges,_Varanasi.jpg?width=1200" alt="Ahilya Ghat on the banks of the Ganges in Varanasi, a city closely associated with reflection on mortality">
+<p class="domain-figure-caption">Ahilya Ghat on the Ganges in Varanasi, a city long associated with reflection on death and mortality — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Death marks the irreversible end of biological life.

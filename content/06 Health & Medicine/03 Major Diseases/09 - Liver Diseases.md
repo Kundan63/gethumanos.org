@@ -460,6 +460,11 @@ Because early liver disease is often silent, prevention and early detection are 
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Community_health_worker_gives_a_vaccination_in_Odisha_state,_India_(8380317750).jpg?width=1200" alt="A community health worker administering a vaccination in Odisha, India, part of efforts to prevent viral hepatitis and liver disease">
+<p class="domain-figure-caption">A community health worker administers a vaccination in Odisha, India — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Liver disease affects:

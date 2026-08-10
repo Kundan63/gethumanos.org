@@ -136,6 +136,11 @@ Every component supports long-term financial well-being.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/BSE_-_Bombay_Stock_Exchange_Building.jpg?width=1200" alt="The Bombay Stock Exchange building (Phiroze Jeejeebhoy Towers) in Mumbai, India">
+<p class="domain-figure-caption">The Bombay Stock Exchange, Asia's oldest stock exchange, in Mumbai — via Wikimedia Commons</p>
+</div>
+
 ## 💼 Income
 
 Income is the starting point of every financial plan.

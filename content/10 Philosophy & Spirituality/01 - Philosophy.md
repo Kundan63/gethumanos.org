@@ -405,6 +405,11 @@ Philosophy connects human curiosity with systematic understanding.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bhagavad_Gita,_a_19th_century_manuscript.jpg?width=1200" alt="A 19th-century manuscript page of the Bhagavad Gita, one of the foundational texts of Indian philosophy">
+<p class="domain-figure-caption">19th-century manuscript of the Bhagavad Gita, a foundational text of Indian philosophy — via Wikimedia Commons</p>
+</div>
+
 ## Human Mind
 
 Philosophy develops:

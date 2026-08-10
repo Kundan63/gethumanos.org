@@ -109,6 +109,11 @@ These systems continuously interact rather than operating independently.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sasankasana_-_International_Day_of_Yoga_Celebration_-_NCSM_-_Kolkata_2015-06-21_7360.JPG?width=1200" alt="Participants practicing the Sasankasana yoga pose during an International Day of Yoga celebration in Kolkata, India">
+<p class="domain-figure-caption">Yoga practitioners at an International Day of Yoga celebration in Kolkata — via Wikimedia Commons</p>
+</div>
+
 ## 🥗 Nutrition
 
 Provides:

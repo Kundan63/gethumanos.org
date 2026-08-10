@@ -495,6 +495,11 @@ Understanding cancer helps people:
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Homi_Bhabha_Block_at_Tata_Memorial_Hospital_Mumbai.jpg?width=1200" alt="The Homi Bhabha Block at Tata Memorial Hospital in Mumbai, India's oldest and largest cancer treatment and research centre">
+<p class="domain-figure-caption">Tata Memorial Hospital, Mumbai — India's oldest and largest cancer centre — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Cancer can affect **any organ**.

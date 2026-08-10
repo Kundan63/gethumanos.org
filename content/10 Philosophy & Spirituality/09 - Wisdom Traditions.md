@@ -397,6 +397,11 @@ Wisdom traditions transform knowledge into practical guidance for living.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nalanda_University_India_ruins.jpg?width=1200" alt="Ruins of Nalanda University in Bihar, India, one of the world's first great centers of learning">
+<p class="domain-figure-caption">Ruins of Nalanda University, Bihar — one of the world's earliest centers of higher learning — via Wikimedia Commons</p>
+</div>
+
 ## Human Mind
 
 Wisdom traditions cultivate:

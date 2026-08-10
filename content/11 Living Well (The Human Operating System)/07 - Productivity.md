@@ -111,6 +111,11 @@ Every component influences long-term effectiveness.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Jantar_mantar_jaipur_sundial.jpg?width=1200" alt="The giant stone sundial at Jantar Mantar, Jaipur, an 18th-century astronomical instrument used to measure time">
+<p class="domain-figure-caption">The sundial at Jantar Mantar, Jaipur — an 18th-century Indian instrument for measuring time — via Wikimedia Commons</p>
+</div>
+
 ## 🎯 Purpose
 
 Productivity begins with clarity.

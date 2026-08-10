@@ -119,6 +119,11 @@ Every component strengthens the quality of decisions.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sculpture_of_Chanakya_with_Chandragupta_Maurya.jpg?width=1200" alt="A sculpture depicting the ancient Indian strategist Chanakya with Emperor Chandragupta Maurya">
+<p class="domain-figure-caption">Chanakya, the ancient Indian strategist and teacher renowned for his treatise on statecraft and decision making — via Wikimedia Commons</p>
+</div>
+
 ## 🎯 Goals
 
 Every decision begins with clarity.

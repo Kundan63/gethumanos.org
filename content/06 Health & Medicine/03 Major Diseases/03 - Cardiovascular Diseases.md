@@ -528,6 +528,11 @@ Understanding cardiovascular disease allows people to:
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gandhi_Memorial_Hospital,_a_heart_research_centre_in_Kalyani_02.jpg?width=1200" alt="Gandhi Memorial Hospital in Kalyani, West Bengal, a dedicated heart disease research and treatment centre in India">
+<p class="domain-figure-caption">Gandhi Memorial Hospital, Kalyani — a heart research and treatment centre in India — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Affects:

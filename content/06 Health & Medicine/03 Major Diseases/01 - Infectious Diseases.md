@@ -481,6 +481,11 @@ Communicable diseases remain a major global cause of illness and death, particul
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/AIIMS_DELHI_Building.jpg?width=1200" alt="The All India Institute of Medical Sciences (AIIMS) in New Delhi, one of India's leading centers for infectious disease treatment and research">
+<p class="domain-figure-caption">AIIMS New Delhi, a leading Indian referral hospital for infectious disease care — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Infectious diseases affect nearly every organ system.

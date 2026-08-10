@@ -120,6 +120,11 @@ Each component supports long-term professional success.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bagmane_Tech_Park_Bangalore_India.jpg?width=1200" alt="Bagmane Tech Park, a major information technology office campus in Bangalore, India">
+<p class="domain-figure-caption">Bagmane Tech Park, Bangalore — a hub of professional careers in India's technology industry — via Wikimedia Commons</p>
+</div>
+
 ## 🎯 Purpose
 
 Meaningful careers align personal strengths with work that creates value.

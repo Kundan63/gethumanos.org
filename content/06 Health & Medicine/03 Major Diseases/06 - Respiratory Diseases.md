@@ -487,6 +487,11 @@ Understanding respiratory diseases helps people:
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Delhi_air_pollution_2019.jpg?width=1200" alt="Thick smog reducing visibility over Delhi, illustrating the air pollution that drives much of India's respiratory disease burden">
+<p class="domain-figure-caption">Smog over Delhi — air pollution is a leading cause of respiratory disease in India — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Respiratory diseases reduce oxygen delivery to every organ.

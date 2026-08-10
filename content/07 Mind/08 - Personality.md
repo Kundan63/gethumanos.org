@@ -342,6 +342,11 @@ Personality links biology and experience to consistent patterns of human behavio
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Rabindranath%20Tagore%20portrait%20(1).jpg?width=1200" alt="A portrait of Rabindranath Tagore, the Indian polymath and Nobel laureate known for his distinctive personality and creative philosophy">
+<p class="domain-figure-caption">Rabindranath Tagore, whose writings explored individuality and the human personality — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Personality is influenced by:

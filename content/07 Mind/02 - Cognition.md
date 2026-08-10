@@ -327,6 +327,11 @@ Cognition connects biological brain function with intelligent human behavior.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/FMRI%20Brain%20Scan.jpg?width=1200" alt="A functional MRI (fMRI) brain scan used to study patterns of neural activity underlying cognition">
+<p class="domain-figure-caption">A functional MRI scan capturing brain activity during cognitive processing — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Cognition depends on:

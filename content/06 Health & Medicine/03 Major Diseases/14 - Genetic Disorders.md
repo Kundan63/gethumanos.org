@@ -417,6 +417,11 @@ Understanding genetics allows earlier diagnosis, better prevention, informed fam
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Centre_for_DNA_Fingerprinting_and_Diagnostics_(CDFD)_in_Hyderabad.jpg?width=1200" alt="The Centre for DNA Fingerprinting and Diagnostics (CDFD) in Hyderabad, India's national institute for genetic and DNA research">
+<p class="domain-figure-caption">Centre for DNA Fingerprinting and Diagnostics, Hyderabad — India's national genetic research institute — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Genetic disorders may affect:

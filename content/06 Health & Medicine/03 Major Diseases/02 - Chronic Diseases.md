@@ -455,6 +455,11 @@ WHO identifies tobacco use, unhealthy diet, physical inactivity, harmful alcohol
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/A_Free_Health_Check-up_Camp_in_progress_at_the_Bharat_Nirman_Public_Information_Campaign,_at_Medavakkam,_Tamil_Nadu_on_October_26,_2013.jpg?width=1200" alt="A free public health check-up camp in progress at Medavakkam, Tamil Nadu, screening residents for chronic disease risk factors">
+<p class="domain-figure-caption">A community health check-up camp in Tamil Nadu screening for chronic disease risk factors — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Chronic diseases gradually damage:

@@ -485,6 +485,11 @@ Mental health is an essential part of overall health, not separate from it.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nimhans_convention_centre.jpg?width=1200" alt="The convention centre at NIMHANS in Bangalore, India's national institute for mental health">
+<p class="domain-figure-caption">NIMHANS Convention Centre, Bangalore — India's national institute for mental health — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Mental disorders influence:

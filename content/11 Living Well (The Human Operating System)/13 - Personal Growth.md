@@ -129,6 +129,11 @@ Growth emerges from the interaction of all these components.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Vivekananda_Rock,_Kanyakumari.JPG?width=1200" alt="The Vivekananda Rock Memorial at Kanyakumari, India, built on the rock where Swami Vivekananda meditated">
+<p class="domain-figure-caption">Vivekananda Rock Memorial, Kanyakumari — commemorating a lifelong journey of self-realization — via Wikimedia Commons</p>
+</div>
+
 ## 🪞 Self-Awareness
 
 Growth begins by understanding yourself.

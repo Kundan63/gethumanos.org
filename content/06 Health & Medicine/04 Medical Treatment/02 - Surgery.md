@@ -456,6 +456,11 @@ Access to safe surgery is considered a fundamental component of modern healthcar
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sushruta%20Statue%20Banaras.JPG?width=1200" alt="A statue of Sushruta, the ancient Indian physician regarded as the father of surgery, in Banaras (Varanasi)">
+<p class="domain-figure-caption">Statue of Sushruta, the ancient Indian surgeon whose Sushruta Samhita is among the earliest known surgical texts — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Surgery can:

@@ -114,6 +114,11 @@ Each strengthens different aspects of human life.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Happy_indian_family.jpg?width=1200" alt="A happy Indian family sharing time together">
+<p class="domain-figure-caption">An Indian family — relationships remain one of the strongest predictors of human well-being — via Wikimedia Commons</p>
+</div>
+
 ## 👨‍👩‍👧 Family
 
 The first environment in which humans learn:

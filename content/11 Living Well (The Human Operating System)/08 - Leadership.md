@@ -117,6 +117,11 @@ Every component strengthens long-term leadership effectiveness.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Mahatma_Gandhi_Statue,_Gandhi_Maidan,_Patna.jpg?width=1200" alt="Statue of Mahatma Gandhi at Gandhi Maidan, Patna, India">
+<p class="domain-figure-caption">Statue of Mahatma Gandhi, whose leadership shaped India's independence movement — via Wikimedia Commons</p>
+</div>
+
 ## 🧭 Self-Leadership
 
 Every leader begins by leading themselves.

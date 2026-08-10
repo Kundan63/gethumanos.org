@@ -134,6 +134,11 @@ These dimensions continually influence one another.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/HOLI,_a_festival_of_colours_in_the_city_of_joy.JPG?width=1200" alt="People celebrating Holi, the Indian festival of colours">
+<p class="domain-figure-caption">Holi, the Indian festival of colours — a joyful celebration of connection and renewal — via Wikimedia Commons</p>
+</div>
+
 ## 😊 Positive Emotions
 
 Positive emotions include:

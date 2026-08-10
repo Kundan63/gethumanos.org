@@ -491,6 +491,11 @@ Neurological disorders are now among the world's leading causes of disability an
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bangalore,_NIMHANS_campus._National_Institute_of_Mental_Health_and_Neurosciences.jpg?width=1200" alt="The campus of NIMHANS in Bangalore, India's leading institute for neurological and mental health research">
+<p class="domain-figure-caption">NIMHANS, Bangalore — India's premier institute for neurological and brain health research — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Neurological diseases affect:

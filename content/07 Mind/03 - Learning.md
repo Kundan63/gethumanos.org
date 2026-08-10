@@ -287,6 +287,11 @@ Learning connects experience with lasting change.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nalanda%20University%20India%20ruins.jpg?width=1200" alt="The ruins of Nalanda University in Bihar, India, an ancient center of learning that flourished from the 5th to 12th centuries CE">
+<p class="domain-figure-caption">Ruins of Nalanda, one of the world's first residential universities and a center of ancient learning — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Learning depends on:

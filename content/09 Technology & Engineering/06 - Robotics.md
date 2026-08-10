@@ -429,6 +429,11 @@ Robotics transforms digital intelligence into physical action.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Diwakar_Vaish_with_his_development_-_Manav_at_A-SET_Robotics_Lab.jpg?width=1200" alt="Diwakar Vaish with Manav, India's first fully 3D-printed indigenous humanoid robot, developed at the A-SET Robotics Lab.">
+<p class="domain-figure-caption">Manav, India's first indigenously developed 3D-printed humanoid robot — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Robotics enables:

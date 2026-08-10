@@ -378,6 +378,11 @@ Spirituality transforms lived experience into personal growth and meaning.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ganga_Aarti_at_Dawn.jpg?width=1200" alt="A Ganga Aarti ceremony at dawn on the banks of the Ganges in Rishikesh, India">
+<p class="domain-figure-caption">Ganga Aarti ceremony at dawn on the banks of the Ganges in Rishikesh — via Wikimedia Commons</p>
+</div>
+
 ## Human Mind
 
 Spirituality can support:

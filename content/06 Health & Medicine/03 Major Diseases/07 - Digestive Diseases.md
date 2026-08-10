@@ -493,6 +493,11 @@ Poor digestive health can affect nearly every organ system.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Dhanvantari-at-Ayurveda-expo.jpg?width=1200" alt="A depiction of Dhanvantari, the Hindu deity of Ayurveda and medicine, displayed at an Ayurveda exposition in India">
+<p class="domain-figure-caption">Dhanvantari, the deity of Ayurveda, at an Indian Ayurveda exposition — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Digestive diseases affect:

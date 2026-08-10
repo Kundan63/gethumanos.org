@@ -460,6 +460,11 @@ Understanding kidney disease helps people:
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Peritoneal_dialysis_machine.jpg?width=1200" alt="A peritoneal dialysis machine used to treat patients with kidney failure">
+<p class="domain-figure-caption">A peritoneal dialysis machine, used to treat kidney failure — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Kidney disease affects:

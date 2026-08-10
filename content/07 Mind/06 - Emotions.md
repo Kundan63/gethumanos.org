@@ -396,6 +396,11 @@ Emotions connect biological processes with human behavior and social life.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Rasa%20Lila%20in%20Manipuri%20dance%20style.jpg?width=1200" alt="Dancers performing Rasa Lila in the Manipuri classical dance style, an art form built around depicting human emotions (rasa)">
+<p class="domain-figure-caption">Rasa Lila performed in the Manipuri dance style, rooted in the ancient Indian theory of emotion (rasa) — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Emotions affect:

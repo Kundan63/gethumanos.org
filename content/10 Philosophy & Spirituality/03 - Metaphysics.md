@@ -390,6 +390,11 @@ Metaphysics investigates the deepest foundations upon which every other field of
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Adi_Shankara_statue_and_art_near_Dwarka_Sharada_Peetham.jpg?width=1200" alt="A statue of Adi Shankara, the 8th-century Indian philosopher of Advaita Vedanta metaphysics, near Dwarka Sharada Peetham">
+<p class="domain-figure-caption">Statue of Adi Shankara, the 8th-century founder of Advaita Vedanta metaphysics — via Wikimedia Commons</p>
+</div>
+
 ## Human Mind
 
 Metaphysics develops:

@@ -118,6 +118,11 @@ Each component reinforces the others throughout life.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nalanda_University_ruins.JPG?width=1200" alt="Ruins of the ancient Nalanda University, a centre of learning in India from the 5th to 12th centuries">
+<p class="domain-figure-caption">Ruins of Nalanda, one of the world's earliest centres of higher learning — via Wikimedia Commons</p>
+</div>
+
 ## ❓ Curiosity
 
 Learning begins with curiosity.

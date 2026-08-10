@@ -379,6 +379,11 @@ It reminds us that healthcare is about caring for the person—not only treating
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Peace-valley-nellikuzhy-ernakulam-palliative-care-centres-9j6rjwfkli.jpg?width=1200" alt="The Peace Valley palliative care centre in Nellikuzhy, Ernakulam, Kerala, which provides care for patients with life-limiting illness">
+<p class="domain-figure-caption">Peace Valley Palliative Care Centre in Kerala, India — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Palliative care improves:

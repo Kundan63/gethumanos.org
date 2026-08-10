@@ -408,6 +408,11 @@ Consciousness connects physical brain processes with subjective human experience
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sri_Ramana_Maharshi_-_Portrait_-_G._G_Welling_-_1948.jpg?width=1200" alt="A 1948 portrait photograph of Sri Ramana Maharshi, the Indian sage known for his teachings on self-inquiry and consciousness">
+<p class="domain-figure-caption">Sri Ramana Maharshi, the Indian sage renowned for his teachings on self-inquiry and consciousness — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Consciousness enables:

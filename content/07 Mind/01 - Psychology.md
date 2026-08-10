@@ -335,6 +335,11 @@ Psychology connects biology with human experience and behavior.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bangalore%2C%20NIMHANS%20campus.%20National%20Institute%20of%20Mental%20Health%20and%20Neurosciences.jpg?width=1200" alt="The campus of NIMHANS (National Institute of Mental Health and Neurosciences) in Bangalore, India's leading institute for mental health and psychology">
+<p class="domain-figure-caption">NIMHANS, Bangalore — India's foremost institute for mental health, neurosciences, and psychology — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Psychology studies how:

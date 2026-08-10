@@ -434,6 +434,11 @@ Biotechnology transforms biological knowledge into practical solutions for human
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/National_Institute_of_Immunology%2C_New_Delhi.jpg?width=1200" alt="The National Institute of Immunology in New Delhi, India, a leading research institute for immunology and biotechnology.">
+<p class="domain-figure-caption">The National Institute of Immunology, New Delhi, a centre for Indian biotechnology research — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Biotechnology enables:

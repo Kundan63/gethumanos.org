@@ -433,6 +433,11 @@ Understanding autoimmune diseases helps people:
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/RheumatoideArthritisAP.jpg?width=1200" alt="An anteroposterior X-ray of a hand showing joint damage caused by rheumatoid arthritis, an autoimmune disease">
+<p class="domain-figure-caption">X-ray of a hand affected by rheumatoid arthritis, an autoimmune disease — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Autoimmune diseases may affect:

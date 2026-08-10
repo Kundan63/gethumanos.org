@@ -392,6 +392,11 @@ Behaviour is where the internal mind becomes observable action.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ashoka%20Pillar%2C%20Sarnath.jpg?width=1200" alt="The Ashoka Pillar at Sarnath, India, inscribed with edicts promoting moral conduct and social behaviour in the 3rd century BCE">
+<p class="domain-figure-caption">The Ashoka Pillar at Sarnath, inscribed with edicts guiding moral and social behaviour — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Behaviour affects:

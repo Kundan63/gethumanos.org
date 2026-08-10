@@ -416,6 +416,11 @@ Electronics transforms electrical energy into information, intelligence, and aut
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Silicon_wafer.jpg?width=1200" alt="A polished silicon wafer, the base material from which semiconductor chips and modern electronic circuits are fabricated.">
+<p class="domain-figure-caption">A silicon wafer, the foundation of modern semiconductor electronics — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Electronics enables:

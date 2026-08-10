@@ -479,6 +479,11 @@ Engineering transforms scientific understanding into technologies that shape soc
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Statue_of_Unity.jpg?width=1200" alt="The Statue of Unity in Gujarat, India — at 182 metres, the world's tallest statue and a landmark feat of structural and civil engineering.">
+<p class="domain-figure-caption">The Statue of Unity, Gujarat, India — the world's tallest statue and an engineering landmark — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Engineering provides:

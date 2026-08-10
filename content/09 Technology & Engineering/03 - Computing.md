@@ -422,6 +422,11 @@ Computing transforms information into action and knowledge.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Aerial_view_of_the_Glass_Pyramid_at_the_Infosys_Campus.jpg?width=1200" alt="Aerial view of the Glass Pyramid at the Infosys campus in Bengaluru, India, headquarters of one of the world's largest information technology and computing services companies.">
+<p class="domain-figure-caption">The Infosys campus in Bengaluru, India, a hub of global computing and IT services — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Computing enables:

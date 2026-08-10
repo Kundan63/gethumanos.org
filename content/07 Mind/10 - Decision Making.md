@@ -395,6 +395,11 @@ Decision making transforms thought into purposeful action.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Arjuna%20and%20Krishna%20at%20the%20Mahabharata%20war%2C%20Bhagavad%20Gita%2C%20Kurukshetra%2C%20Haryana.jpg?width=1200" alt="A depiction of Krishna and Arjuna on the battlefield of Kurukshetra from the Bhagavad Gita, a dialogue centered on moral decision making">
+<p class="domain-figure-caption">Krishna and Arjuna at Kurukshetra — the Bhagavad Gita's dialogue on decision making under moral conflict — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Decision making depends on:

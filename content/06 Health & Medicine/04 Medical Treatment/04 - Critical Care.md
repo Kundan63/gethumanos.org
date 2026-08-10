@@ -392,6 +392,11 @@ It saves lives by supporting the body's essential organs during the most dangero
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Patient%20lying%20in%20bed%20in%20intensive%20care%20unit%20of%20hospital%20with%20apparatuses%20and%20hemodialysis%20machine.jpg?width=1200" alt="A patient lying in a hospital bed in an intensive care unit, connected to monitoring apparatus and a hemodialysis machine">
+<p class="domain-figure-caption">A patient under continuous monitoring in an intensive care unit — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Critical care supports:

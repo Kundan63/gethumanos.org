@@ -344,6 +344,11 @@ Intelligence transforms knowledge into effective action.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Srinivasa%20Ramanujan%20-%20OPC%20-%201.jpg?width=1200" alt="A portrait photograph of Srinivasa Ramanujan, the self-taught Indian mathematician renowned for his extraordinary mathematical intelligence">
+<p class="domain-figure-caption">Srinivasa Ramanujan, the Indian mathematical genius whose insights continue to influence mathematics — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Intelligence depends on:

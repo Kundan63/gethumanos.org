@@ -416,6 +416,11 @@ WHO recognizes rehabilitation as an essential health service that should be avai
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Physiotherapy%20session.jpg?width=1200" alt="A physiotherapist guiding a patient through a rehabilitation exercise during a physiotherapy session">
+<p class="domain-figure-caption">A physiotherapy session helping a patient regain movement and function — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Rehabilitation improves:

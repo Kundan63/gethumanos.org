@@ -378,6 +378,11 @@ Memory transforms experience into lasting knowledge.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Vedas%20palm%20leaf%20manuscript%2C%20Tamil%20Grantha%20Script%2C%20Sanskrit%2C%20Tamil%20Nadu.jpg?width=1200" alt="An ancient palm-leaf manuscript of the Vedas in Grantha script and Sanskrit from Tamil Nadu, India, used to preserve and transmit knowledge across generations">
+<p class="domain-figure-caption">A palm-leaf manuscript of the Vedas from Tamil Nadu — an ancient technology for preserving memory and knowledge — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Memory depends on:

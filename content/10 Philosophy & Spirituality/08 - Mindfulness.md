@@ -362,6 +362,11 @@ Mindfulness strengthens the connection between awareness and deliberate action.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Buddhist_monk_meditation.jpg?width=1200" alt="A Buddhist monk meditating at the Ajanta Caves in Maharashtra, India">
+<p class="domain-figure-caption">A Buddhist monk in meditation at the Ajanta Caves, Maharashtra — via Wikimedia Commons</p>
+</div>
+
 ## Human Mind
 
 Mindfulness can improve:

@@ -108,6 +108,11 @@ Each component strengthens the others.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Shiva_meditating_Rishikesh.jpg?width=1200" alt="A statue of Lord Shiva in a meditative pose on the banks of the Ganges at Rishikesh, India">
+<p class="domain-figure-caption">A meditating Shiva statue at Rishikesh, a centre for meditation and yoga in India — via Wikimedia Commons</p>
+</div>
+
 ## ❤️ Emotional Regulation
 
 The ability to recognize, understand, and manage emotions without being controlled by them.

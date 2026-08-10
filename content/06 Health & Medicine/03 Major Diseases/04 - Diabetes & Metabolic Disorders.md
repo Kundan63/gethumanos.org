@@ -469,6 +469,11 @@ Understanding diabetes enables people to:
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gymnema_sylvestre_W_IMG_3124.jpg?width=1200" alt="Gymnema sylvestre, known in India as 'Gudmar' (sugar destroyer), a plant traditionally used in Ayurvedic diabetes care">
+<p class="domain-figure-caption">Gymnema sylvestre ('Gudmar'), an Indian plant traditionally used to support blood sugar control — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Affects:

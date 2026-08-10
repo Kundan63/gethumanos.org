@@ -119,6 +119,11 @@ Each component strengthens creative capability.
 
 # Core Components
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ajanta_Cave_17_frescoe.jpg?width=1200" alt="An ancient fresco painting inside Cave 17 of the Ajanta Caves, India">
+<p class="domain-figure-caption">A fresco in the Ajanta Caves, among the earliest surviving masterpieces of Indian creative art — via Wikimedia Commons</p>
+</div>
+
 ## ❓ Curiosity
 
 Creativity begins with questions.

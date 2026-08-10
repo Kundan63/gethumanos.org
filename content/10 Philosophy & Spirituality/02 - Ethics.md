@@ -392,6 +392,11 @@ Ethics transforms human values into responsible action.
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ashoka_pillar_at_Vaishali,_Bihar,_India.jpg?width=1200" alt="The Ashoka Pillar at Vaishali, Bihar, inscribed with the ethical edicts of Emperor Ashoka">
+<p class="domain-figure-caption">Ashoka Pillar at Vaishali, Bihar, bearing the emperor's edicts on ethical governance — via Wikimedia Commons</p>
+</div>
+
 ## Human Mind
 
 Ethics develops:

@@ -375,6 +375,11 @@ Timely emergency care is one of the most cost-effective and impactful parts of a
 
 # Human Impact
 
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/The%20108%20Ambulance.jpg?width=1200" alt="A 108 emergency ambulance, part of India's free nationwide emergency response and ambulance service">
+<p class="domain-figure-caption">A 108 ambulance, India's free emergency medical response service — via Wikimedia Commons</p>
+</div>
+
 ## Human Body
 
 Emergency medicine protects:
