@@ -17,7 +17,7 @@ Evolution explains:
 - Why different species share similarities.
 - Why all living organisms are connected through common ancestry.
 
-Evolution does **not** explain how life first began. That question belongs to **[[Origin of Life]]**. Evolution begins **after the first living organisms already exist.
+Evolution does **not** explain how life first began. That question belongs to **[[Origin of Life]]**. Evolution begins **after the first living organisms already exist**.
 
 ---
 
