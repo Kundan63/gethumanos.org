@@ -228,9 +228,10 @@ plugins:
       position: afterBody
       priority: 10
   - source: "@quartz-community/footer"
-    enabled: false
+    enabled: true
     options:
-      links: {}
+      links:
+        Copyright: /copyright
     layout:
       position: footer
       priority: 50

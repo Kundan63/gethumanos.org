@@ -1,0 +1,23 @@
+diff --git a/node_modules/@quartz-community/footer/dist/components/index.js b/node_modules/@quartz-community/footer/dist/components/index.js
+index b5f7875..3ad21ec 100644
+--- a/node_modules/@quartz-community/footer/dist/components/index.js
++++ b/node_modules/@quartz-community/footer/dist/components/index.js
+@@ -349,15 +349,9 @@ var Footer_default = ((opts) => {
+     const links = opts?.links ?? [];
+     return /* @__PURE__ */ u2("footer", { class: `${displayClass ?? ""}`, children: [
+       /* @__PURE__ */ u2("p", { children: [
+-        i18n(cfg?.locale ?? "en-US").components.footer.createdWith,
+-        " ",
+-        /* @__PURE__ */ u2("a", { href: "https://quartz.jzhao.xyz/", children: [
+-          "Quartz",
+-          version ? ` v${version}` : ""
+-        ] }),
+-        " \xA9",
+-        " ",
+-        year
++        "\xA9 ",
++        year,
++        " HumanOS. All rights reserved."
+       ] }),
+       /* @__PURE__ */ u2("ul", { children: Object.entries(links).map(([text, link]) => /* @__PURE__ */ u2("li", { children: /* @__PURE__ */ u2("a", { href: link, children: text }) })) })
+     ] });
