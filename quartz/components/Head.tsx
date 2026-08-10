@@ -104,6 +104,13 @@ export default (() => {
             return resource
           }
         })}
+
+        {/* Cloudflare Web Analytics */}
+        <script
+          type="module"
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon='{"token": "b283554c8b0e4df6a425b091726b8c78"}'
+        />
       </head>
     )
   }
