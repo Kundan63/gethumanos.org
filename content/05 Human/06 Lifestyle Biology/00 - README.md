@@ -1,3 +1,8 @@
+---
+title: Lifestyle Biology
+description: Lifestyle Biology is the study of how everyday behaviors influence the structure, function, and long-term health of the human body.
+---
+
 # Lifestyle Biology
 
 > *Lifestyle Biology is the study of how everyday behaviors influence the structure, function, and long-term health of the human body. Nutrition, physical activity, sleep, stress management, daily habits, circadian rhythms, and recovery are not merely lifestyle choices—they are biological inputs that continuously regulate gene expression, metabolism, hormones, immunity, brain function, aging, and disease risk. Understanding lifestyle biology reveals that health is created not only by medicine, but by the repeated biological effects of daily living.*

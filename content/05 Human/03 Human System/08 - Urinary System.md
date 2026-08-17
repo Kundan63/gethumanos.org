@@ -1,3 +1,8 @@
+---
+title: Urinary System
+description: The Urinary System is the body's filtration and balance network.
+---
+
 # Urinary System
 
 > *The Urinary System is the body's filtration and balance network. It continuously cleans the blood, removes metabolic waste, regulates water and electrolyte balance, maintains blood pressure and acid-base balance, activates vitamin D, stimulates red blood cell production, and preserves the stable internal environment required for life. Every drop of urine represents the body's remarkable ability to maintain homeostasis.*

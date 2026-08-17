@@ -1,3 +1,8 @@
+---
+title: Disease Mechanisms
+description: Disease mechanisms (pathogenesis) are the biological processes through which a disease begins, develops, progresses, and produces its signs, symptoms, and...
+---
+
 # Disease Mechanisms
 
 > *Disease mechanisms (pathogenesis) are the biological processes through which a disease begins, develops, progresses, and produces its signs, symptoms, and complications. They explain **how and why** normal physiology becomes abnormal physiology, linking the initial cause (etiology) to cellular injury, tissue damage, organ dysfunction, and clinical disease. Understanding disease mechanisms provides the scientific basis for prevention, diagnosis, and targeted treatment.*

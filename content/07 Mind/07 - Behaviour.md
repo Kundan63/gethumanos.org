@@ -1,3 +1,8 @@
+---
+title: Behaviour
+description: Behaviour is the observable actions and responses of an organism to internal and external stimuli.
+---
+
 # Behaviour
 
 > *Behaviour is the observable actions and responses of an organism to internal and external stimuli. It includes everything people do—from simple reflexes and habits to complex social interactions and goal-directed actions. Human behaviour emerges from the interaction of biology, cognition, emotions, learning, personality, environment, and culture. Psychology studies behaviour scientifically to understand why people act the way they do and how behaviour can change.*

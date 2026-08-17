@@ -1,3 +1,8 @@
+---
+title: Kidney Diseases
+description: Kidney diseases are disorders that impair the kidneys' ability to filter blood, remove waste products, regulate body fluids and electrolytes, maintain...
+---
+
 # Kidney Diseases
 
 > *Kidney diseases are disorders that impair the kidneys' ability to filter blood, remove waste products, regulate body fluids and electrolytes, maintain acid–base balance, produce hormones, and support blood pressure regulation. They include acute kidney injury (AKI), chronic kidney disease (CKD), kidney stones, kidney infections, inherited disorders, and autoimmune kidney diseases. Chronic kidney disease affects an estimated **674 million people worldwide**, while severe kidney failure requires dialysis or kidney transplantation for survival. Kidney disease often develops silently and is strongly linked with diabetes, hypertension, cardiovascular disease, and aging.*

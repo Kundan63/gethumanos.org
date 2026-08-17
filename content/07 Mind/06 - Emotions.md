@@ -1,3 +1,8 @@
+---
+title: Emotions
+description: Emotions are complex psychological and biological responses to events that are personally meaningful.
+---
+
 # Emotions
 
 > *Emotions are complex psychological and biological responses to events that are personally meaningful. They involve subjective feelings, physiological changes, cognitive appraisal, behavioral responses, and emotional expression. Emotions help humans respond rapidly to opportunities and threats, communicate with others, guide decision making, strengthen learning, and promote survival. Rather than being separate from thinking, emotions continuously interact with cognition, memory, motivation, and behavior.*

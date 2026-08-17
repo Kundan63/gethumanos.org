@@ -1,3 +1,8 @@
+---
+title: Palliative Care
+description: Palliative care is an approach that improves the quality of life of patients (adults and children) and their families who are facing problems associated with...
+---
+
 # Palliative Care
 
 > *Palliative care is an approach that improves the quality of life of patients (adults and children) and their families who are facing problems associated with life-threatening or serious illness. It prevents and relieves suffering through the early identification, careful assessment, and treatment of pain and other physical, psychological, social, and spiritual problems. Palliative care is appropriate at any stage of serious illness and can be provided alongside treatments intended to cure or prolong life. Globally, an estimated **56.8 million people** need palliative care each year, yet only about **14%** receive it.*

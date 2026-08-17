@@ -1,3 +1,8 @@
+---
+title: Natural Sciences
+description: The Natural Sciences explain how the physical world works—from the smallest particles to the largest ecosystems, and from the birth of stars to the emergence...
+---
+
 # Natural Sciences
 
 > *The Natural Sciences explain how the physical world works—from the smallest particles to the largest ecosystems, and from the birth of stars to the emergence of life.*

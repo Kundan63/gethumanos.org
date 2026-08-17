@@ -1,3 +1,8 @@
+---
+title: Brain
+description: The Brain is the body's central command center and the biological foundation of the human mind.
+---
+
 # Brain
 
 > *The Brain is the body's central command center and the biological foundation of the human mind. It receives information from the environment, interprets it, makes decisions, controls every organ system, stores memories, enables learning, generates emotions, and produces consciousness. Every thought, movement, feeling, invention, and civilization begins within the activity of the human brain.*

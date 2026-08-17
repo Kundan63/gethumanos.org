@@ -1,3 +1,8 @@
+---
+title: Politics
+description: Politics is the process through which individuals, groups, and governments make collective decisions about shared problems, resolve conflicts, and allocate...
+---
+
 # Politics
 
 > *Politics is the process through which individuals, groups, and governments make collective decisions about shared problems, resolve conflicts, and allocate limited resources. Politics determines **who gets what, when, how, and why**, shaping laws, public policies, institutions, and the distribution of power within society. Because people have different interests, values, and priorities, politics exists wherever collective decisions must be made.*

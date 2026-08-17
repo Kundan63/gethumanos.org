@@ -1,3 +1,8 @@
+---
+title: Mental Well-being
+description: Mental Well-being is the foundation of how humans think, feel, learn, adapt, and relate to others.
+---
+
 # Mental Well-being
 
 > **Mental Well-being is the foundation of how humans think, feel, learn, adapt, and relate to others.** It is the state in which the mind functions effectively, enabling people to cope with life's challenges, realize their abilities, learn, work productively, build healthy relationships, and contribute meaningfully to society. Mental well-being is more than the absence of mental illness—it is the presence of psychological resilience, emotional balance, cognitive flexibility, and purposeful living.

@@ -1,3 +1,8 @@
+---
+title: Oceanography
+description: Oceanography explains how Earth's oceans work as one interconnected system.
+---
+
 # Oceanography
 
 > *Oceanography explains how Earth's oceans work as one interconnected system. It reveals how the oceans regulate climate, sustain life, shape continents, and support human civilization.*

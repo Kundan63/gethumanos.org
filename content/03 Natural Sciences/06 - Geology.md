@@ -1,3 +1,8 @@
+---
+title: Geology
+description: Geology explains the story written in Earth's rocks.
+---
+
 # Geology
 
 > *Geology explains the story written in Earth's rocks. It reveals how our planet formed, how continents move, how mountains rise, and how geological processes have made human civilization possible.*

@@ -1,3 +1,8 @@
+---
+title: Tissues
+description: Tissues are the body's first level of cooperation.
+---
+
 # Tissues
 
 > *Tissues are the body's first level of cooperation. They demonstrate how millions of similar cells work together to perform functions that no single cell could accomplish alone. Every organ in the human body exists because different tissues cooperate in a precise and highly organized way.*

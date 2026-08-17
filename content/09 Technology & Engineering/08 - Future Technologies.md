@@ -1,3 +1,8 @@
+---
+title: Future Technologies
+description: Future Technologies are emerging scientific and engineering innovations that are still developing but have the potential to significantly transform society...
+---
+
 # Future Technologies
 
 > *Future Technologies are emerging scientific and engineering innovations that are still developing but have the potential to significantly transform society, industry, healthcare, communication, energy, transportation, and human life. These technologies are characterized by rapid advancement, uncertainty, and the possibility of creating entirely new capabilities or reshaping existing systems.*

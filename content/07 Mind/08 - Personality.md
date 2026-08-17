@@ -1,3 +1,8 @@
+---
+title: Personality
+description: Personality is the relatively enduring pattern of thoughts, emotions, motivations, and behaviors that makes each individual unique.
+---
+
 # Personality
 
 > *Personality is the relatively enduring pattern of thoughts, emotions, motivations, and behaviors that makes each individual unique. It influences how people perceive the world, respond to situations, interact with others, and make decisions. Personality develops through the interaction of genetic factors, brain function, life experiences, culture, and environment. Although personality tends to remain relatively stable over time, it can gradually change through development, learning, and significant life experiences.*

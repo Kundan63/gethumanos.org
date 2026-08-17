@@ -1,3 +1,8 @@
+---
+title: Respiratory System
+description: The Respiratory System is the body's gas exchange network.
+---
+
 # Respiratory System
 
 > *The Respiratory System is the body's gas exchange network. It continuously brings oxygen from the atmosphere into the body and removes carbon dioxide produced by cells. Every breath connects the external environment with every living cell, making respiration one of the most fundamental processes sustaining human life.*

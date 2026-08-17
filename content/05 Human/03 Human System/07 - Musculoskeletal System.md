@@ -1,3 +1,8 @@
+---
+title: Musculoskeletal System
+description: The Musculoskeletal System is the body's framework and movement system.
+---
+
 # Musculoskeletal System
 
 > *The Musculoskeletal System is the body's framework and movement system. It provides structure, protects vital organs, enables movement, stores essential minerals, produces blood cells, and allows humans to interact physically with the world. Every step, every breath, every gesture, and every physical achievement depends on this remarkable partnership between bones, muscles, joints, and connective tissues.*

@@ -1,3 +1,8 @@
+---
+title: Cognition
+description: Cognition is the collection of mental processes involved in acquiring, processing, storing, and using knowledge.
+---
+
 # Cognition
 
 > *Cognition is the collection of mental processes involved in acquiring, processing, storing, and using knowledge. It includes perception, attention, thinking, learning, memory, language, reasoning, problem solving, judgment, and decision making. Cognition enables humans to interpret information, understand the world, solve problems, adapt to changing environments, and guide behavior. Cognitive psychology is the scientific study of these mental processes and how they interact.*

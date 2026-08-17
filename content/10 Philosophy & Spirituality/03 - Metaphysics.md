@@ -1,3 +1,8 @@
+---
+title: Metaphysics
+description: Metaphysics is the branch of philosophy that studies the fundamental nature of reality, existence, and being.
+---
+
 # Metaphysics
 
 > *Metaphysics is the branch of philosophy that studies the fundamental nature of reality, existence, and being. It investigates the most general questions about what exists, what it means to exist, how reality is structured, and the relationships among mind, matter, time, space, causation, identity, and possibility. While science investigates particular aspects of the natural world through observation and experiment, metaphysics examines the conceptual foundations upon which our understanding of reality is built.*

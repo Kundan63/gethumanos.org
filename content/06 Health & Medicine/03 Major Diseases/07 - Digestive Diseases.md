@@ -1,3 +1,8 @@
+---
+title: Digestive Diseases
+description: Digestive diseases are disorders that affect the gastrointestinal (GI) tract and associated organs—including the esophagus, stomach, intestines, liver...
+---
+
 # Digestive Diseases
 
 > *Digestive diseases are disorders that affect the gastrointestinal (GI) tract and associated organs—including the esophagus, stomach, intestines, liver, pancreas, and gallbladder. These diseases interfere with the digestion of food, absorption of nutrients, regulation of metabolism, or elimination of waste. Digestive diseases range from acute infections to chronic inflammatory, autoimmune, metabolic, and malignant conditions. They are among the most common reasons for healthcare visits worldwide and can significantly affect nutrition, quality of life, and overall health.*

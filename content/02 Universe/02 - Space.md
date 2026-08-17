@@ -1,3 +1,8 @@
+---
+title: Space
+description: The three-dimensional framework in which matter exists, energy moves, and every event in the Universe takes place.
+---
+
 # Space
 
 > *The three-dimensional framework in which matter exists, energy moves, and every event in the Universe takes place.*

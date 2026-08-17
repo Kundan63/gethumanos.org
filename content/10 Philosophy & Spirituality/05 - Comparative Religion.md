@@ -1,3 +1,8 @@
+---
+title: Comparative Religion
+description: Comparative Religion is the academic study of the world's religious traditions through the systematic comparison of their beliefs, practices, ethics, rituals...
+---
+
 # Comparative Religion
 
 > *Comparative Religion is the academic study of the world's religious traditions through the systematic comparison of their beliefs, practices, ethics, rituals, histories, sacred texts, institutions, and cultural roles. Rather than evaluating which religion is true or false, comparative religion seeks to understand similarities, differences, historical development, and the ways religions address common human questions about existence, morality, suffering, purpose, and the sacred.*

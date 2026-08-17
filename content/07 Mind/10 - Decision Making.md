@@ -1,3 +1,8 @@
+---
+title: Decision Making
+description: Decision making is the cognitive process of evaluating alternatives and selecting a course of action to achieve a goal.
+---
+
 # Decision Making
 
 > *Decision making is the cognitive process of evaluating alternatives and selecting a course of action to achieve a goal. It integrates perception, attention, memory, reasoning, emotions, values, experience, and expected outcomes. Decision making ranges from fast, automatic judgments to slow, deliberate analysis. Because humans often face uncertainty and limited information, decisions are influenced not only by logic but also by heuristics, cognitive biases, emotions, and social factors.*

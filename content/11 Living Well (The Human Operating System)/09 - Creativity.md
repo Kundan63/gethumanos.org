@@ -1,3 +1,8 @@
+---
+title: Creativity
+description: Creativity is the human capacity to generate original and valuable ideas, make novel connections, solve problems, and transform imagination into reality.
+---
+
 # Creativity
 
 > **Creativity is the human capacity to generate original and valuable ideas, make novel connections, solve problems, and transform imagination into reality.** It is not limited to art—it drives scientific discovery, engineering, entrepreneurship, medicine, education, leadership, and everyday problem-solving. Creativity enables humans to adapt to changing environments, create new possibilities, and advance civilization.

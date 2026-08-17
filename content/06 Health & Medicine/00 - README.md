@@ -1,3 +1,8 @@
+---
+title: Health & Medicine
+description: Health isn't simply the absence of disease — it's your body and mind's dynamic ability to maintain balance, adapt to challenges, recover from injury, and keep...
+---
+
 # Health & Medicine
 
 > *Health isn't simply the absence of disease — it's your body and mind's dynamic ability to maintain balance, adapt to challenges, recover from injury, and keep functioning physically, mentally, and socially. This section is the study of how you stay healthy, why you get sick, how illness gets caught and treated, and how health gets preserved across an entire life. Medicine applies everything science knows to prevent, diagnose, treat, and rehabilitate disease while promoting lifelong well-being.*

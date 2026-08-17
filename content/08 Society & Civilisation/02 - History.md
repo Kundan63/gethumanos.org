@@ -1,3 +1,8 @@
+---
+title: History
+description: History is the systematic study of the human past through the critical analysis of evidence such as written records, artifacts, oral traditions, and other...
+---
+
 # History
 
 > *History is the systematic study of the human past through the critical analysis of evidence such as written records, artifacts, oral traditions, and other historical sources. Historians seek not only to describe what happened, but also to explain why events occurred, how societies changed over time, and how the past continues to shape the present. History helps humans understand patterns of change, continuity, causation, and the development of civilizations.*

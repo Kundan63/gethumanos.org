@@ -1,3 +1,8 @@
+---
+title: Chronic Diseases
+description: Chronic diseases, also called noncommunicable diseases (NCDs), are long-lasting health conditions that usually develop gradually, persist for months or years...
+---
+
 # Chronic Diseases
 
 > *Chronic diseases, also called **noncommunicable diseases (NCDs)**, are long-lasting health conditions that usually develop gradually, persist for months or years, and often require ongoing medical care or lifestyle management. They arise from a combination of genetic, physiological, environmental, and behavioral factors rather than being caused by infectious microorganisms. Chronic diseases are the leading cause of death worldwide, accounting for approximately **75% of all non-pandemic-related deaths**, with cardiovascular diseases, cancer, chronic respiratory diseases, and diabetes being the major contributors.*

@@ -1,3 +1,8 @@
+---
+title: HumanOS Principles
+description: The HumanOS Principles define the fundamental rules that govern every part of HumanOS.
+---
+
 # HumanOS Principles
 
 > **The HumanOS Principles define the fundamental rules that govern every part of HumanOS.**

@@ -1,3 +1,8 @@
+---
+title: Diagnosis
+description: Diagnosis is the systematic process of identifying the disease, disorder, injury, or health condition that best explains a person's signs, symptoms...
+---
+
 # Diagnosis
 
 > *Diagnosis is the systematic process of identifying the disease, disorder, injury, or health condition that best explains a person's signs, symptoms, examination findings, and test results. It combines clinical reasoning with evidence from the patient's history, physical examination, laboratory tests, imaging, and other investigations to determine the most likely explanation for the patient's health problem. Diagnosis is both a **process** and a **clinical conclusion**, and it guides treatment, prognosis, prevention, and follow-up.*

@@ -1,3 +1,8 @@
+---
+title: Organs
+description: Organs are the body's specialized functional units. They are built from multiple tissues working together to perform complex tasks that keep us alive.
+---
+
 # Organs
 
 > *Organs are the body's specialized functional units. They are built from multiple tissues working together to perform complex tasks that keep us alive. Every heartbeat, every breath, every thought, and every movement depends on healthy organs cooperating as one integrated system.*

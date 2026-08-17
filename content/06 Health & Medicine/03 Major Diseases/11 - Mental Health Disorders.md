@@ -1,3 +1,8 @@
+---
+title: Mental Health Disorders
+description: Mental health disorders (mental disorders) are clinically significant disturbances in cognition, emotional regulation, or behavior that cause distress or...
+---
+
 # Mental Health Disorders
 
 > *Mental health disorders (mental disorders) are clinically significant disturbances in cognition, emotional regulation, or behavior that cause distress or impair important areas of functioning. They arise from complex interactions among biological, psychological, developmental, social, and environmental factors. Mental disorders include anxiety disorders, depressive disorders, bipolar disorder, schizophrenia, obsessive-compulsive disorder (OCD), post-traumatic stress disorder (PTSD), eating disorders, neurodevelopmental disorders, and others. In 2021, **nearly 1 in 7 people worldwide (about 1.1 billion people)** were living with a mental disorder, making them one of the leading causes of disability worldwide. Effective prevention and treatment exist, but many people do not receive adequate care.

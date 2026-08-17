@@ -1,3 +1,8 @@
+---
+title: Digestive System
+description: The Digestive System is the body's nutrient processing and energy acquisition network.
+---
+
 # Digestive System
 
 > *The Digestive System is the body's nutrient processing and energy acquisition network. It transforms food from the external world into the molecules that build cells, produce energy, regulate hormones, repair tissues, support immunity, and sustain every function of human life.*

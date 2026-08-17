@@ -1,3 +1,8 @@
+---
+title: Epistemology
+description: The study of knowledge and how humans determine what can be known with confidence.
+---
+
 # Epistemology
 
 > *The study of knowledge and how humans determine what can be known with confidence.*

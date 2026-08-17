@@ -1,3 +1,8 @@
+---
+title: Meditation
+description: Meditation is a family of intentional mental practices that train attention, awareness, and emotional regulation in order to cultivate clarity, insight...
+---
+
 # Meditation
 
 > *Meditation is a family of intentional mental practices that train attention, awareness, and emotional regulation in order to cultivate clarity, insight, well-being, or inner transformation. Although meditation originated in many religious and philosophical traditions, it is also practiced in secular contexts for mental health, stress reduction, learning, and personal development. Different meditation techniques have different goals, but most involve deliberately directing and regulating attention.*

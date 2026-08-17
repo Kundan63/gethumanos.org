@@ -1,3 +1,8 @@
+---
+title: Philosophy
+description: Philosophy is the systematic study of the most fundamental questions about reality, knowledge, reason, existence, values, mind, language, and human life.
+---
+
 # Philosophy
 
 > *Philosophy is the systematic study of the most fundamental questions about reality, knowledge, reason, existence, values, mind, language, and human life. Rather than relying solely on observation or tradition, philosophy uses critical thinking, logical reasoning, conceptual analysis, and careful argument to understand the world and humanity's place within it. Historically, philosophy gave rise to many sciences and continues to provide the conceptual foundations for scientific inquiry, ethics, politics, mathematics, and other fields of knowledge.*

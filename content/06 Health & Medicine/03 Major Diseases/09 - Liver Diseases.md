@@ -1,3 +1,8 @@
+---
+title: Liver Diseases
+description: Liver diseases are disorders that damage the liver and impair its ability to perform essential functions such as metabolism, detoxification, nutrient...
+---
+
 # Liver Diseases
 
 > *Liver diseases are disorders that damage the liver and impair its ability to perform essential functions such as metabolism, detoxification, nutrient processing, bile production, protein synthesis, hormone regulation, and blood clotting. Liver diseases include viral hepatitis, fatty liver disease, cirrhosis, autoimmune liver diseases, genetic disorders, drug-induced liver injury, and liver cancer. Many liver diseases develop silently over years before symptoms appear, but early detection and treatment can often prevent irreversible liver damage.*

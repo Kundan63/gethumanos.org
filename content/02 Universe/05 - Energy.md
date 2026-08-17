@@ -1,3 +1,8 @@
+---
+title: Energy
+description: Energy is what makes change possible.
+---
+
 # Energy
 
 > *Energy is what makes change possible. Every heartbeat, thought, sunrise, storm, machine, and civilization exists because energy is constantly flowing and transforming.*

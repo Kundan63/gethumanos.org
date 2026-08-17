@@ -1,3 +1,8 @@
+---
+title: Nervous System
+description: The Nervous System is the body's master communication and control network.
+---
+
 # Nervous System
 
 > *The Nervous System is the body's master communication and control network. It continuously receives information, interprets it, makes decisions, and coordinates every conscious thought, emotion, memory, movement, and unconscious function that keeps us alive.*

@@ -1,3 +1,8 @@
+---
+title: Botany
+description: Botany explains how plants sustain life on Earth.
+---
+
 # Botany
 
 > *Botany explains how plants sustain life on Earth. It reveals how plants capture sunlight, produce oxygen, build ecosystems, regulate climate, feed civilization, and ultimately make human life possible.*

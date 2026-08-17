@@ -1,3 +1,8 @@
+---
+title: Physical Laws
+description: Physical laws are the consistent rules that govern how the Universe behaves.
+---
+
 # Physical Laws
 
 > *Physical laws are the consistent rules that govern how the Universe behaves. From the motion of galaxies to the beating of a human heart, the same laws apply everywhere we have reliably tested them.*

@@ -1,3 +1,8 @@
+---
+title: HumanOS Framework
+description: The HumanOS Framework explains how reality is connected.
+---
+
 # HumanOS Framework
 
 > **The HumanOS Framework explains how reality is connected.**

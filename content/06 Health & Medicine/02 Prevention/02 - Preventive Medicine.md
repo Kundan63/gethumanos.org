@@ -1,3 +1,8 @@
+---
+title: Preventive Medicine
+description: Preventive Medicine is the medical specialty devoted to preventing disease, promoting health, prolonging life, and reducing disability through evidence-based...
+---
+
 # Preventive Medicine
 
 > *Preventive Medicine is the medical specialty devoted to preventing disease, promoting health, prolonging life, and reducing disability through evidence-based interventions applied to individuals and populations. It combines clinical medicine, epidemiology, public health, behavioral science, and environmental health to prevent illness before it occurs, detect disease early, reduce complications, and improve overall health outcomes.*

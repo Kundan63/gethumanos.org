@@ -1,3 +1,8 @@
+---
+title: Anthropology
+description: Anthropology is the scientific study of humanity across time and space.
+---
+
 # Anthropology
 
 > *Anthropology is the scientific study of humanity across time and space. It seeks to understand what it means to be human by examining human biology, evolution, culture, language, archaeology, and society. Anthropology is unique because it takes a **holistic** approach, integrating evidence from the natural sciences, social sciences, and humanities to explain both the diversity and the shared characteristics of human life.*

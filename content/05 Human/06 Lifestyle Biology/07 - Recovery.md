@@ -1,3 +1,8 @@
+---
+title: Recovery
+description: Recovery is the biological process through which the body and mind restore normal function after physical, mental, or emotional stress.
+---
+
 # Recovery
 
 > *Recovery is the biological process through which the body and mind restore normal function after physical, mental, or emotional stress. During recovery, damaged tissues are repaired, energy stores are replenished, hormones are rebalanced, waste products are removed, and physiological systems adapt to become stronger and more resilient. Recovery is not passive inactivity—it is an active biological process that allows adaptation, health, and long-term performance.*

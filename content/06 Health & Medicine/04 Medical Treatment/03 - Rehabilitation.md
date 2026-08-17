@@ -1,3 +1,8 @@
+---
+title: Rehabilitation
+description: Rehabilitation is a set of interventions designed to optimize functioning and reduce disability in people with health conditions in interaction with their...
+---
+
 # Rehabilitation
 
 > *Rehabilitation is a set of interventions designed to optimize functioning and reduce disability in people with health conditions in interaction with their environment. It helps individuals regain, maintain, or improve physical, mental, cognitive, and social functioning after illness, injury, surgery, disability, or aging. Rehabilitation is considered an essential component of healthcare, alongside prevention, health promotion, treatment, and palliative care. Globally, **1 in 3 people** could benefit from rehabilitation during their lifetime, yet many do not receive the services they need.*

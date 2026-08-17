@@ -1,3 +1,8 @@
+---
+title: Mindfulness
+description: Mindfulness is the practice of intentionally paying attention to present-moment experience with openness, acceptance, and without unnecessary judgment.
+---
+
 # Mindfulness
 
 > *Mindfulness is the practice of intentionally paying attention to present-moment experience with openness, acceptance, and without unnecessary judgment. It involves awareness of thoughts, emotions, bodily sensations, and the surrounding environment as they arise, allowing individuals to respond thoughtfully rather than automatically. Although mindfulness has roots in contemplative traditions, it is now widely studied in psychology, neuroscience, healthcare, and education as a secular skill for improving attention, emotional regulation, and well-being.*

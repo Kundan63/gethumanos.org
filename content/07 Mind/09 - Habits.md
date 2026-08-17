@@ -1,3 +1,8 @@
+---
+title: Habits
+description: Habits are learned behaviors that become automatic through repetition in a consistent context.
+---
+
 # Habits
 
 > *Habits are learned behaviors that become automatic through repetition in a consistent context. Once established, habits require little conscious thought because they are triggered by environmental or internal cues rather than deliberate decision making. Habits allow the brain to conserve mental effort by automating frequently repeated actions, making them a powerful influence on health, productivity, relationships, and everyday life.*

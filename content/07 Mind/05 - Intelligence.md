@@ -1,3 +1,8 @@
+---
+title: Intelligence
+description: Intelligence is the ability to learn from experience, reason, solve problems, adapt to new situations, and apply knowledge effectively.
+---
+
 # Intelligence
 
 > *Intelligence is the ability to learn from experience, reason, solve problems, adapt to new situations, and apply knowledge effectively. Rather than being a single skill, intelligence is a complex set of cognitive abilities that enables humans to understand the world, think abstractly, make decisions, and respond successfully to changing environments. Psychologists continue to debate its exact nature, with theories ranging from a single general intelligence (**g**) to multiple distinct intelligences and practical forms of intelligence.*

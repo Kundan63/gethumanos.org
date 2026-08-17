@@ -1,3 +1,8 @@
+---
+title: Physical Well-being
+description: Physical Well-being is the foundation of human capability.
+---
+
 # Physical Well-being
 
 > **Physical Well-being is the foundation of human capability.** It is the state in which the body's systems function efficiently, enabling people to move, think, work, learn, build relationships, recover from challenges, and pursue meaningful goals. Physical well-being extends beyond the absence of disease; it includes energy, strength, resilience, mobility, recovery, and the capacity to live an active and fulfilling life.

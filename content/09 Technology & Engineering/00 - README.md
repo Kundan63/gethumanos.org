@@ -1,3 +1,8 @@
+---
+title: Technology & Engineering
+description: Technology is what happens when scientific knowledge, engineering principles, and human creativity get pointed at a real problem — the tools, machines...
+---
+
 # Technology & Engineering
 
 > *Technology is what happens when scientific knowledge, engineering principles, and human creativity get pointed at a real problem — the tools, machines, systems, and processes that come out the other side. Engineering is the disciplined process that gets you there: designing, building, testing, and improving until something actually works. Together, they're how scientific understanding turns into practical solutions — the reason health, communication, transportation, energy, and manufacturing look nothing like they did a century ago.*

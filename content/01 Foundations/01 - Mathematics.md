@@ -1,3 +1,8 @@
+---
+title: Mathematics
+description: The universal language used to describe patterns, quantity, structure, and relationships in reality.
+---
+
 # Mathematics
 
 > *The universal language used to describe patterns, quantity, structure, and relationships in reality.*

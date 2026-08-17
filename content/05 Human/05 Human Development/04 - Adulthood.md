@@ -1,3 +1,8 @@
+---
+title: Adulthood
+description: Adulthood is the longest stage of human development, during which physical growth is complete and individuals assume increasing responsibility for their...
+---
+
 # Adulthood
 
 > *Adulthood is the longest stage of human development, during which physical growth is complete and individuals assume increasing responsibility for their health, relationships, work, family, and society. Although physical maturation is largely finished, the brain, mind, skills, and identity continue to develop throughout adulthood. Healthy adulthood is characterized not by the absence of change, but by continuous adaptation, learning, and contribution across the lifespan.*

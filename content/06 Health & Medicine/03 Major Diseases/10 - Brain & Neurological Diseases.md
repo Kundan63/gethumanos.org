@@ -1,3 +1,8 @@
+---
+title: Brain & Neurological Diseases
+description: Brain and neurological diseases are disorders that affect the brain, spinal cord, peripheral nerves, neuromuscular junctions, or muscles.
+---
+
 # Brain & Neurological Diseases
 
 > *Brain and neurological diseases are disorders that affect the brain, spinal cord, peripheral nerves, neuromuscular junctions, or muscles. They disrupt the nervous system's ability to control movement, sensation, cognition, behavior, memory, language, and vital body functions. Neurological disorders include stroke, epilepsy, migraine, Alzheimer's disease, Parkinson's disease, multiple sclerosis, peripheral neuropathy, brain tumors, infections, and traumatic brain injury. Neurological conditions are now the leading cause of ill health and disability worldwide, affecting more than one-third of the global population.*

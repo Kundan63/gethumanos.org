@@ -1,3 +1,8 @@
+---
+title: Scientific Method
+description: The most reliable process humans have developed for discovering and improving knowledge about the natural world.
+---
+
 # Scientific Method
 
 > *The most reliable process humans have developed for discovering and improving knowledge about the natural world.*

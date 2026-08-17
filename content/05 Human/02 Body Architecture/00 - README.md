@@ -1,3 +1,8 @@
+---
+title: Body Architecture
+description: Body Architecture explains how the human body is constructed—from individual cells to the complete organism.
+---
+
 # Body Architecture
 
 > *Body Architecture explains how the human body is constructed—from individual cells to the complete organism. It reveals how biological structure creates biological function, and why understanding this hierarchy is essential for understanding health, disease, medicine, and human life.*

@@ -1,3 +1,8 @@
+---
+title: Immune System
+description: The Immune System is the body's defense and surveillance network.
+---
+
 # Immune System
 
 > *The Immune System is the body's defense and surveillance network. It continuously identifies harmful microbes, destroys infected or abnormal cells, repairs damaged tissues, and remembers previous infections to provide faster protection in the future. Every day, it protects us from countless threats without us ever noticing.*

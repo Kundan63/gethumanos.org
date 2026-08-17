@@ -1,3 +1,8 @@
+---
+title: Neurotransmitters
+description: Neurotransmitters are the chemical messengers of the nervous system.
+---
+
 # Neurotransmitters
 
 > *Neurotransmitters are the chemical messengers of the nervous system. They carry information across synapses, allowing neurons to communicate with other neurons, muscles, and glands. Every thought, memory, emotion, movement, decision, and conscious experience depends on neurotransmitters transmitting signals throughout the brain and body.*

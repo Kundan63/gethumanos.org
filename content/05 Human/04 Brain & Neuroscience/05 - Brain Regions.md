@@ -1,3 +1,8 @@
+---
+title: Brain Regions
+description: Brain regions are specialized anatomical areas that work together to process information, regulate the body, and generate the human mind.
+---
+
 # Brain Regions
 
 > *Brain regions are specialized anatomical areas that work together to process information, regulate the body, and generate the human mind. Although different regions have characteristic functions, no thought, memory, emotion, or behavior is produced by a single area alone. The brain functions as an integrated network in which specialized regions continuously communicate to produce perception, intelligence, movement, language, and consciousness.*

@@ -1,3 +1,8 @@
+---
+title: Memory
+description: Memory is the brain's ability to encode, store, and retrieve information from past experience.
+---
+
 # Memory
 
 > *Memory is the brain's ability to encode, store, and retrieve information from past experience. It allows humans to learn from the past, act in the present, and plan for the future. Without memory there would be no knowledge, no personal identity, no language, no culture, and no civilization. Memory is not simply the storage of information—it is the biological foundation of learning, intelligence, and human experience.*

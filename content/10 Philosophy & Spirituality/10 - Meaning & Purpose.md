@@ -1,3 +1,8 @@
+---
+title: Meaning & Purpose
+description: Meaning and purpose are closely related but distinct concepts that help humans understand why life matters and what direction it should take.
+---
+
 # Meaning & Purpose
 
 > *Meaning and purpose are closely related but distinct concepts that help humans understand why life matters and what direction it should take. Meaning refers to the sense that life is coherent, significant, and worthwhile, while purpose refers to long-term aims or goals that guide actions. Philosophy, psychology, spirituality, and many wisdom traditions all study how people discover, create, or experience meaning and purpose, recognizing them as central dimensions of human flourishing.*

@@ -1,3 +1,8 @@
+---
+title: Genetic Disorders
+description: Genetic disorders are diseases caused wholly or partly by changes (variants or mutations) in DNA.
+---
+
 # Genetic Disorders
 
 > *Genetic disorders are diseases caused wholly or partly by changes (variants or mutations) in DNA. These changes may affect a single gene, multiple genes, or entire chromosomes, altering how proteins are made or how cells function. Some genetic disorders are inherited from parents, while others arise from new (de novo) genetic changes during a person's lifetime. Scientists have identified thousands of genetic disorders, ranging from rare conditions such as cystic fibrosis and sickle cell disease to common multifactorial diseases influenced by both genes and environmental factors.*

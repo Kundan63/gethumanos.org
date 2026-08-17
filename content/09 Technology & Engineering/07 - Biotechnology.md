@@ -1,3 +1,8 @@
+---
+title: Biotechnology
+description: Biotechnology is the application of biology, living organisms, cells, or biological systems together with science and engineering to develop products...
+---
+
 # Biotechnology
 
 > *Biotechnology is the application of biology, living organisms, cells, or biological systems together with science and engineering to develop products, technologies, and processes that improve human health, agriculture, industry, and the environment. Modern biotechnology combines genetics, molecular biology, chemistry, computing, and engineering to solve biological problems and create solutions that benefit society.*

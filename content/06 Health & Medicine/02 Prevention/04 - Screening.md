@@ -1,3 +1,8 @@
+---
+title: Screening
+description: Screening is the systematic testing of people who do not have symptoms to identify those who are more likely to have, or be at increased risk of developing, a...
+---
+
 # Screening
 
 > *Screening is the systematic testing of people who do **not** have symptoms to identify those who are more likely to have, or be at increased risk of developing, a disease or condition. Screening is **not** intended to diagnose disease. Instead, it identifies individuals who require further diagnostic evaluation or early intervention. The goal is to detect disease at an earlier stage, when treatment is often more effective and health outcomes can be improved.*

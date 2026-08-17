@@ -1,3 +1,8 @@
+---
+title: Biodiversity
+description: Biodiversity explains the richness of life on Earth.
+---
+
 # Biodiversity
 
 > *Biodiversity explains the richness of life on Earth. It reveals how the diversity of genes, species, and ecosystems creates resilient natural systems that support human health, civilization, and the future of life itself.*

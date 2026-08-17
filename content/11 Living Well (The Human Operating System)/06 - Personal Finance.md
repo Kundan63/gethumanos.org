@@ -1,3 +1,8 @@
+---
+title: Personal Finance
+description: Personal Finance is the lifelong process of managing money and financial resources to meet present needs, prepare for future uncertainties, achieve long-term...
+---
+
 # Personal Finance
 
 > **Personal Finance is the lifelong process of managing money and financial resources to meet present needs, prepare for future uncertainties, achieve long-term goals, and support a meaningful life.** It includes earning, budgeting, saving, investing, managing debt, protecting against risk, and planning for major life events. The ultimate goal is not simply accumulating wealth, but achieving financial well-being—the ability to meet obligations, withstand shocks, pursue opportunities, and make choices that improve quality of life.

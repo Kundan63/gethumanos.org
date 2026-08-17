@@ -1,3 +1,8 @@
+---
+title: Spirituality
+description: Spirituality is the human search for meaning, purpose, connection, and inner transformation.
+---
+
 # Spirituality
 
 > *Spirituality is the human search for meaning, purpose, connection, and inner transformation. It involves the way individuals understand and experience what they consider ultimately significant—whether understood as God, the sacred, ultimate reality, nature, humanity, or deeply held values. Spirituality may be expressed within a religious tradition or independently of organized religion through practices such as reflection, meditation, contemplation, compassion, and service.*

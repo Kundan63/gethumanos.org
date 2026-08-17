@@ -1,3 +1,8 @@
+---
+title: Evolution
+description: Evolution explains how life changes over generations.
+---
+
 # Evolution
 
 > *Evolution explains how life changes over generations. It reveals how every species on Earth—including humans—shares a common biological history shaped by inheritance, variation, natural selection, and time.*

@@ -1,3 +1,8 @@
+---
+title: Endocrine System
+description: The Endocrine System is the body's long-distance communication network.
+---
+
 # Endocrine System
 
 > *The Endocrine System is the body's long-distance communication network. Using hormones carried through the bloodstream, it coordinates growth, metabolism, stress responses, reproduction, sleep, emotions, and countless other processes that allow the human body to adapt while maintaining homeostasis.*

@@ -1,3 +1,8 @@
+---
+title: HumanOS Life Architecture
+description: The HumanOS Life Architecture defines how a human life should be organized as one integrated system.
+---
+
 # HumanOS Life Architecture
 
 > **The HumanOS Life Architecture defines how a human life should be organized as one integrated system.**

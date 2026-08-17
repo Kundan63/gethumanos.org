@@ -1,3 +1,8 @@
+---
+title: Reproductive System
+description: The Reproductive System is the body's continuity system.
+---
+
 # Reproductive System
 
 > *The Reproductive System is the body's continuity system. Unlike every other organ system, its primary purpose is not to keep an individual alive but to ensure the continuation of human life across generations. It produces reproductive cells, regulates sex hormones, enables fertilization, supports pregnancy, childbirth, and lactation, and connects biology with family, society, and the future of our species.*

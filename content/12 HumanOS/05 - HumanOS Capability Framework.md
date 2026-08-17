@@ -1,3 +1,8 @@
+---
+title: HumanOS Capability Framework
+description: The HumanOS Capability Framework explains how humans develop the ability to understand reality, solve problems, adapt to change, and contribute responsibly...
+---
+
 # HumanOS Capability Framework
 
 > **The HumanOS Capability Framework explains how humans develop the ability to understand reality, solve problems, adapt to change, and contribute responsibly throughout life.**

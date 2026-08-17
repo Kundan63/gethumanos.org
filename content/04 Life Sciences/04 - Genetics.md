@@ -1,3 +1,8 @@
+---
+title: Genetics
+description: Genetics explains how biological information is stored, inherited, expressed, and changed.
+---
+
 # Genetics
 
 > *Genetics explains how biological information is stored, inherited, expressed, and changed. It reveals how a microscopic DNA molecule carries the instructions to build every cell, every organism, and ultimately every human being.*

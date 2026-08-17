@@ -1,3 +1,8 @@
+---
+title: Health
+description: Health is a dynamic state of physical, mental, and social well-being in which the body and mind function effectively, maintain internal balance (homeostasis)...
+---
+
 # Health
 
 > *Health is a dynamic state of physical, mental, and social well-being in which the body and mind function effectively, maintain internal balance (homeostasis), adapt to challenges, recover from illness or injury, and enable individuals to live productive and meaningful lives. Health is more than the absence of disease—it is the body's continuous ability to maintain and restore normal function in a changing environment.*

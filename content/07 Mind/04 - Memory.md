@@ -1,3 +1,8 @@
+---
+title: Memory
+description: Memory is the system of mental processes that enables humans to encode, store, and retrieve information over time.
+---
+
 # Memory
 
 > *Memory is the system of mental processes that enables humans to encode, store, and retrieve information over time. It allows experiences, knowledge, skills, and events to influence future thoughts and behavior. Memory is fundamental to learning, reasoning, decision making, language, identity, and adaptation. Without memory, every experience would feel entirely new, making learning and personal continuity impossible.*

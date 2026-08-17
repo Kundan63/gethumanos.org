@@ -1,3 +1,8 @@
+---
+title: Embryonic Development
+description: Embryonic development is the remarkable biological process through which a single fertilized cell becomes a complex multicellular human embryo.
+---
+
 # Embryonic Development
 
 > *Embryonic development is the remarkable biological process through which a single fertilized cell becomes a complex multicellular human embryo. During the first eight weeks after fertilization, billions of cells divide, specialize, organize into tissues and organs, and establish the body plan that will support the rest of life. Nearly every structure of the human body begins during this short but extraordinarily important period.*

@@ -1,3 +1,8 @@
+---
+title: Consciousness
+description: Consciousness is the state of being aware of yourself, your thoughts, your body, and the world around you.
+---
+
 # Consciousness
 
 > *Consciousness is the state of being aware of yourself, your thoughts, your body, and the world around you. It enables humans to perceive reality, experience emotions, make decisions, reflect on the past, imagine the future, and develop a sense of self. While neuroscience has identified many brain systems involved in consciousness, exactly how subjective experience arises from physical brain activity remains one of the greatest open questions in science and philosophy.*

@@ -1,3 +1,8 @@
+---
+title: Astronomy
+description: Astronomy is the scientific study of the objects and phenomena beyond Earth's atmosphere, helping humanity understand its place in the Universe.
+---
+
 # Astronomy
 
 > *Astronomy is the scientific study of the objects and phenomena beyond Earth's atmosphere, helping humanity understand its place in the Universe.*

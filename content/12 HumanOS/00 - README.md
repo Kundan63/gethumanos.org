@@ -1,3 +1,8 @@
+---
+title: HumanOS
+description: HumanOS is the integration layer.
+---
+
 # HumanOS
 
 > **HumanOS is the integration layer.**

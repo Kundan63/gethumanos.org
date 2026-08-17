@@ -1,3 +1,8 @@
+---
+title: Mind
+description: "Your mind is everything that happens between \"the world hits your senses\" and \"you do something about it.\" The brain is the physical organ — three pounds of..."
+---
+
 # Mind
 
 > *Your mind is everything that happens between "the world hits your senses" and "you do something about it." The **brain** is the physical organ — three pounds of neurons sitting behind your eyes. The **mind** is what that organ produces: thought, memory, emotion, decision, personality — the whole experience of being you. Psychology studies how the mind works. Neuroscience explains how the brain makes it possible. Put them together, and you get the closest thing we have to an explanation of why you think, feel, and act the way you do.*

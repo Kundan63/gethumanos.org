@@ -1,3 +1,8 @@
+---
+title: Education
+description: Education is the lifelong process through which people acquire knowledge, skills, values, attitudes, habits, and ways of thinking that enable them to...
+---
+
 # Education
 
 > *Education is the lifelong process through which people acquire knowledge, skills, values, attitudes, habits, and ways of thinking that enable them to understand the world, develop their potential, participate in society, and improve their lives. It occurs through both formal institutions such as schools and universities and informal experiences within families, communities, workplaces, and everyday life. Education is one of humanity's most important mechanisms for transmitting knowledge and culture across generations.*

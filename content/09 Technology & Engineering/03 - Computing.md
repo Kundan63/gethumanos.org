@@ -1,3 +1,8 @@
+---
+title: Computing
+description: Computing is the systematic process of representing, storing, processing, transmitting, and interpreting information using algorithms and computational systems.
+---
+
 # Computing
 
 > *Computing is the systematic process of representing, storing, processing, transmitting, and interpreting information using algorithms and computational systems. It encompasses the design, development, and application of computer hardware, software, data, and networks to solve problems, automate tasks, and generate knowledge. Computing forms the foundation of the modern digital world, enabling everything from smartphones and cloud computing to artificial intelligence and scientific research.*

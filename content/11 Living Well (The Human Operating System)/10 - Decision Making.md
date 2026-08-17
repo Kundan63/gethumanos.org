@@ -1,3 +1,8 @@
+---
+title: Decision Making
+description: Decision Making is the process of selecting a course of action from available alternatives based on goals, evidence, values, risks, and expected outcomes.
+---
+
 # Decision Making
 
 > **Decision Making is the process of selecting a course of action from available alternatives based on goals, evidence, values, risks, and expected outcomes.** Every human decision—whether personal, professional, scientific, or societal—shapes future possibilities. Better decisions improve health, relationships, careers, financial security, and the long-term direction of individuals and civilizations. Evidence-informed decision-making combines the best available knowledge with context, values, and judgment rather than relying on impulse or habit alone.

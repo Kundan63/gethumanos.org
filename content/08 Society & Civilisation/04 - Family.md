@@ -1,3 +1,8 @@
+---
+title: Family
+description: A family is a socially recognized group of people connected through kinship, blood, marriage, adoption, cohabitation, or long-term emotional commitment.
+---
+
 # Family
 
 > *A family is a socially recognized group of people connected through kinship, blood, marriage, adoption, cohabitation, or long-term emotional commitment. Families provide care, protection, socialization, emotional support, and economic cooperation. Although family structures differ across cultures and throughout history, the family remains the primary institution through which humans reproduce, raise children, transmit culture, and build society.*

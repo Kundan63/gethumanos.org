@@ -1,3 +1,8 @@
+---
+title: HumanOS Decision Framework
+description: The HumanOS Decision Framework is a universal method for making thoughtful, evidence-based, and responsible decisions.
+---
+
 # HumanOS Decision Framework
 
 > **The HumanOS Decision Framework is a universal method for making thoughtful, evidence-based, and responsible decisions.**

@@ -1,3 +1,8 @@
+---
+title: Zoology
+description: Zoology explains the diversity of animal life.
+---
+
 # Zoology
 
 > *Zoology explains the diversity of animal life. It reveals how animals evolved, survive, behave, interact with ecosystems, and ultimately how humans became one branch of the animal kingdom.*

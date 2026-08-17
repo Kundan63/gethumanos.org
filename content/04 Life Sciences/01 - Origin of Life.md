@@ -1,3 +1,8 @@
+---
+title: Origin of Life
+description: "The Origin of Life explores one of humanity's greatest scientific questions: How did non-living matter on the early Earth eventually become the first living..."
+---
+
 # Origin of Life
 
 > *The Origin of Life explores one of humanity's greatest scientific questions: How did non-living matter on the early Earth eventually become the first living cells?*

@@ -1,3 +1,8 @@
+---
+title: Sleep
+description: Sleep is a naturally recurring biological state in which consciousness, movement, and responsiveness to the environment are temporarily reduced while the...
+---
+
 # Sleep
 
 > *Sleep is a naturally recurring biological state in which consciousness, movement, and responsiveness to the environment are temporarily reduced while the brain and body perform essential processes of restoration, regulation, learning, and repair. Sleep is not simply a period of rest—it is an active biological process that supports brain function, metabolism, immunity, tissue repair, hormone regulation, and long-term health.*

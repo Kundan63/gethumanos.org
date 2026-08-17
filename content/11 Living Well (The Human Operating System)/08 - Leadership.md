@@ -1,3 +1,8 @@
+---
+title: Leadership
+description: Leadership is the ability to influence, guide, and enable individuals or groups to achieve shared goals while creating conditions in which people...
+---
+
 # Leadership
 
 > **Leadership is the ability to influence, guide, and enable individuals or groups to achieve shared goals while creating conditions in which people, organizations, and communities can grow and succeed.** Leadership is not limited to positions of authority—it is a process of responsibility, influence, service, decision-making, and coordination that can be exercised in families, teams, organizations, and societies. Effective leadership develops people, aligns purpose, builds trust, and creates environments where others can perform at their best.

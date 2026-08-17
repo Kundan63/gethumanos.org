@@ -1,3 +1,8 @@
+---
+title: Aging
+description: Aging is the natural, lifelong biological process in which the structure and function of cells, tissues, organs, and body systems gradually change over time.
+---
+
 # Aging
 
 > *Aging is the natural, lifelong biological process in which the structure and function of cells, tissues, organs, and body systems gradually change over time. These changes increase the risk of disease, reduce the body's ability to repair damage, and eventually limit lifespan. Aging is universal, but the **rate of aging varies greatly between individuals**, influenced by genetics, lifestyle, environment, and healthcare. Although aging cannot currently be stopped, healthy habits can significantly improve healthspan—the years of life spent in good health.*

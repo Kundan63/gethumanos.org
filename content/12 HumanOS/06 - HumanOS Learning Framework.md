@@ -1,3 +1,8 @@
+---
+title: HumanOS Learning Framework
+description: The HumanOS Learning Framework explains how humans continuously transform experience into understanding, understanding into capability, and capability into...
+---
+
 # HumanOS Learning Framework
 
 > **The HumanOS Learning Framework explains how humans continuously transform experience into understanding, understanding into capability, and capability into lifelong contribution.**

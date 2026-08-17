@@ -1,3 +1,8 @@
+---
+title: Electronics
+description: Electronics is the branch of engineering and applied physics concerned with the controlled movement of electrons through semiconductor devices and electronic...
+---
+
 # Electronics
 
 > *Electronics is the branch of engineering and applied physics concerned with the controlled movement of electrons through semiconductor devices and electronic circuits to process information, amplify signals, control power, and perform computation. By combining components such as resistors, capacitors, diodes, transistors, and integrated circuits, electronics enables modern technologies ranging from smartphones and medical devices to satellites, industrial automation, and artificial intelligence.*

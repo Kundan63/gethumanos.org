@@ -1,3 +1,8 @@
+---
+title: Synapses
+description: Synapses are the communication junctions of the nervous system.
+---
+
 # Synapses
 
 > *Synapses are the communication junctions of the nervous system. They are the tiny connections where one neuron passes information to another neuron, muscle, or gland. Every thought, memory, emotion, movement, and conscious experience depends not only on neurons themselves, but on the trillions of synapses that connect them into functioning neural networks.*

@@ -1,3 +1,8 @@
+---
+title: Ecology
+description: Ecology explains how life is connected.
+---
+
 # Ecology
 
 > *Ecology explains how life is connected. It reveals how organisms interact with one another and with their environment, showing that the survival of every species—including humans—depends on healthy, interconnected ecosystems.*

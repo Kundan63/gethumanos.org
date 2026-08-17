@@ -1,3 +1,8 @@
+---
+title: Microbiology
+description: Microbiology reveals the invisible world of life.
+---
+
 # Microbiology
 
 > *Microbiology reveals the invisible world of life. It explains how microscopic organisms shape ecosystems, human health, evolution, and civilization—even though most are too small to be seen with the naked eye.*

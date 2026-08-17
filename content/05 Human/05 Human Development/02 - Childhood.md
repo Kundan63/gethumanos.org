@@ -1,3 +1,8 @@
+---
+title: Childhood
+description: Childhood is the stage of human development between infancy and adolescence during which the body, brain, and mind undergo rapid growth.
+---
+
 # Childhood
 
 > *Childhood is the stage of human development between infancy and adolescence during which the body, brain, and mind undergo rapid growth. It is the period in which humans develop language, movement, reasoning, emotional regulation, social skills, values, and the foundations of lifelong health. Childhood is shaped by the interaction of genetics, nutrition, family, education, play, environment, and experience. Because the brain is highly plastic during these years, childhood has a profound influence on health, learning, and well-being throughout life.*

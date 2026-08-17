@@ -1,3 +1,8 @@
+---
+title: Respiratory Diseases
+description: Respiratory diseases are disorders that affect the airways, lungs, and other structures involved in breathing.
+---
+
 # Respiratory Diseases
 
 > *Respiratory diseases are disorders that affect the airways, lungs, and other structures involved in breathing. They include both acute infectious diseases (such as pneumonia and tuberculosis) and chronic respiratory diseases (such as asthma and chronic obstructive pulmonary disease (COPD)). Respiratory diseases interfere with the body's ability to exchange oxygen and carbon dioxide, reducing oxygen delivery to tissues. The most common chronic respiratory diseases are asthma and COPD, while lung cancer, pneumonia, and tuberculosis are also major global causes of illness and death.*

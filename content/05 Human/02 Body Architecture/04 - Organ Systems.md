@@ -1,3 +1,8 @@
+---
+title: Organ Systems
+description: Organ Systems explain how individual organs cooperate to sustain life. No organ functions alone.
+---
+
 # Organ Systems
 
 > *Organ Systems explain how individual organs cooperate to sustain life. No organ functions alone. The heart depends on the lungs, the lungs depend on the brain, the brain depends on the heart, and every system continuously communicates with every other system. Human life emerges from this extraordinary biological cooperation.*

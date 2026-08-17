@@ -1,3 +1,8 @@
+---
+title: Wisdom Traditions
+description: Wisdom traditions are long-standing philosophical, religious, and cultural systems that seek to answer life's deepest questions and guide people toward wise...
+---
+
 # Wisdom Traditions
 
 > *Wisdom traditions are long-standing philosophical, religious, and cultural systems that seek to answer life's deepest questions and guide people toward wise, ethical, and meaningful living. Rather than focusing primarily on abstract theory, wisdom traditions emphasize practical knowledge, moral character, self-understanding, compassion, and the cultivation of a flourishing life. They are found across civilizations and include traditions such as Stoicism, Confucianism, Buddhism, Daoism, Vedanta, Indigenous knowledge systems, and many others.*

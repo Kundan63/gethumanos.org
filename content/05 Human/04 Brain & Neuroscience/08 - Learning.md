@@ -1,3 +1,8 @@
+---
+title: Learning
+description: Learning is the process through which experience, study, observation, or practice produces lasting changes in knowledge, skills, behavior, or understanding.
+---
+
 # Learning
 
 > *Learning is the process through which experience, study, observation, or practice produces lasting changes in knowledge, skills, behavior, or understanding. In the brain, learning occurs when experience changes neural connections and reorganizes brain networks. It is the biological mechanism through which humans adapt to their environment, accumulate knowledge, develop intelligence, and transmit culture across generations.*

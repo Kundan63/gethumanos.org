@@ -1,3 +1,8 @@
+---
+title: Human Biology
+description: Human Biology explains how the human organism is built, how it functions, how it interacts with its environment, why it becomes healthy or diseased, and how...
+---
+
 # Human Biology
 
 > *Human Biology explains how the human organism is built, how it functions, how it interacts with its environment, why it becomes healthy or diseased, and how scientific understanding enables humans to live healthier, longer, and more meaningful lives.*

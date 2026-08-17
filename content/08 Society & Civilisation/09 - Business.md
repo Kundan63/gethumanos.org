@@ -1,3 +1,8 @@
+---
+title: Business
+description: A business is an organization that creates value by producing and delivering goods or services that satisfy customer needs, typically with the goal of earning...
+---
+
 # Business
 
 > *A business is an organization that creates value by producing and delivering goods or services that satisfy customer needs, typically with the goal of earning a profit. Businesses combine natural resources, labor, capital, knowledge, and entrepreneurship to solve problems, create wealth, generate employment, and improve living standards. While many businesses are for-profit, not-for-profit organizations also apply business principles to deliver social value. Business is one of the primary mechanisms through which economies transform resources into products and services that improve human life.*

@@ -1,3 +1,8 @@
+---
+title: Systems Thinking
+description: Understanding reality by seeing how parts interact to create wholes.
+---
+
 # Systems Thinking
 
 > *Understanding reality by seeing how parts interact to create wholes.*

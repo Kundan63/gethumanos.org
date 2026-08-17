@@ -1,3 +1,8 @@
+---
+title: Economics
+description: Economics is the social science that studies how individuals, businesses, governments, and societies make choices when resources are limited but human wants...
+---
+
 # Economics
 
 > *Economics is the social science that studies how individuals, businesses, governments, and societies make choices when resources are limited but human wants are unlimited. It examines how goods and services are produced, distributed, exchanged, and consumed, and how these choices influence individual well-being, economic growth, and society as a whole. Rather than simply studying money, economics studies decision making under scarcity.*

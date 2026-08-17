@@ -1,3 +1,8 @@
+---
+title: Emergency Medicine
+description: Emergency medicine is the medical specialty responsible for the immediate evaluation, diagnosis, stabilization, and treatment of patients with acute illness...
+---
+
 # Emergency Medicine
 
 > *Emergency medicine is the medical specialty responsible for the immediate evaluation, diagnosis, stabilization, and treatment of patients with acute illness or injury requiring urgent care. It manages medical, surgical, traumatic, psychiatric, obstetric, and pediatric emergencies across all age groups. Emergency medicine emphasizes rapid recognition of life-threatening conditions, timely resuscitation, stabilization, and appropriate disposition—whether discharge, hospital admission, surgery, or transfer to critical care. It serves as the front door of modern healthcare systems and is a key component of universal health coverage.*

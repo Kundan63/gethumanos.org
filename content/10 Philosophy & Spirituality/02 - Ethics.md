@@ -1,3 +1,8 @@
+---
+title: Ethics
+description: Ethics is the branch of philosophy that studies morality—what people ought to do, what makes actions right or wrong, what constitutes a good life, and what...
+---
+
 # Ethics
 
 > *Ethics is the branch of philosophy that studies morality—what people ought to do, what makes actions right or wrong, what constitutes a good life, and what virtues individuals and societies should cultivate. Ethics seeks to develop reasoned principles for evaluating human behavior, character, and institutions rather than relying solely on custom, authority, or personal opinion.*

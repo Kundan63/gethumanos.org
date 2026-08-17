@@ -1,3 +1,8 @@
+---
+title: Productivity
+description: Productivity is the ability to consistently transform time, energy, knowledge, and resources into meaningful value.
+---
+
 # Productivity
 
 > **Productivity is the ability to consistently transform time, energy, knowledge, and resources into meaningful value.** It is not about doing more things—it is about doing the right things effectively and sustainably. True productivity balances performance with well-being, recognizing that long-term contribution depends on healthy people, thoughtful systems, and purposeful work.

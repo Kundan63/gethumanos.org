@@ -1,3 +1,8 @@
+---
+title: Neuroplasticity
+description: Neuroplasticity is the brain's ability to change its structure, function, and connections throughout life in response to learning, experience, practice...
+---
+
 # Neuroplasticity
 
 > *Neuroplasticity is the brain's ability to change its structure, function, and connections throughout life in response to learning, experience, practice, environment, and injury. Rather than being permanently fixed after childhood, the brain continuously rewires itself by strengthening useful neural connections, weakening unused ones, forming new synapses, and reorganizing neural networks. Neuroplasticity is the biological foundation of learning, memory, recovery, adaptation, and lifelong human development.*

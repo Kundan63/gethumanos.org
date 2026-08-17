@@ -1,3 +1,8 @@
+---
+title: Culture
+description: Culture is the shared system of values, beliefs, knowledge, language, customs, behaviors, symbols, traditions, and material objects that people learn and...
+---
+
 # Culture
 
 > *Culture is the shared system of values, beliefs, knowledge, language, customs, behaviors, symbols, traditions, and material objects that people learn and transmit from one generation to the next. Unlike biological traits, culture is learned rather than inherited. It shapes how people think, communicate, solve problems, build societies, and understand the world. Culture is one of humanity's greatest adaptations because it allows knowledge to accumulate across generations instead of being rediscovered repeatedly.*

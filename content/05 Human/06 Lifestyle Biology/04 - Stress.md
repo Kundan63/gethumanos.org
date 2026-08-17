@@ -1,3 +1,8 @@
+---
+title: Stress
+description: Stress is the body's natural biological and psychological response to a challenge, demand, or perceived threat.
+---
+
 # Stress
 
 > *Stress is the body's natural biological and psychological response to a challenge, demand, or perceived threat. It activates coordinated changes in the brain, nervous system, endocrine system, cardiovascular system, immune system, and metabolism to help the body adapt and survive. Short-term stress can improve performance and survival, but prolonged or chronic stress can disrupt normal body functions and increase the risk of physical and mental illness.*

@@ -1,3 +1,8 @@
+---
+title: Matter
+description: Matter is the physical substance from which stars, planets, living organisms, and human civilizations are built.
+---
+
 # Matter
 
 > *Matter is the physical substance from which stars, planets, living organisms, and human civilizations are built.*

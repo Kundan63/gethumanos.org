@@ -1,3 +1,8 @@
+---
+title: Musculoskeletal Disorders
+description: Musculoskeletal disorders (MSDs) are conditions that affect the body's locomotor system—bones, muscles, joints, tendons, ligaments, cartilage, and other...
+---
+
 # Musculoskeletal Disorders
 
 > *Musculoskeletal disorders (MSDs) are conditions that affect the body's locomotor system—bones, muscles, joints, tendons, ligaments, cartilage, and other connective tissues. They impair movement, stability, and physical function, often causing persistent pain, stiffness, weakness, or disability. More than **1.71 billion people worldwide** live with musculoskeletal conditions, making them the **leading cause of disability globally**. Low back pain is the single largest contributor to disability worldwide.*

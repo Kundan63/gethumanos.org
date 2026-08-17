@@ -1,3 +1,8 @@
+---
+title: Homeostasis
+description: Homeostasis is the body's ability to maintain a stable internal environment despite constant changes inside and outside the body.
+---
+
 # Homeostasis
 
 > *Homeostasis is the body's ability to maintain a stable internal environment despite constant changes inside and outside the body. It is the central organizing principle of human physiology because every cell, tissue, organ, and organ system depends on internal stability to survive.*

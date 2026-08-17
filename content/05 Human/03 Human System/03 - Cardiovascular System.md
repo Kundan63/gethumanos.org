@@ -1,3 +1,8 @@
+---
+title: Cardiovascular System
+description: The Cardiovascular System is the body's transportation network.
+---
+
 # Cardiovascular System
 
 > *The Cardiovascular System is the body's transportation network. It continuously delivers oxygen, nutrients, hormones, immune cells, and heat to every cell while removing carbon dioxide and metabolic waste. Every heartbeat sustains life by connecting every organ, tissue, and cell into one integrated system.*

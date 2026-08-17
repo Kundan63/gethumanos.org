@@ -1,3 +1,8 @@
+---
+title: Nutrition
+description: Nutrition is the biological process by which organisms obtain, digest, absorb, transport, utilize, store, and eliminate nutrients from food.
+---
+
 # Nutrition
 
 > *Nutrition is the biological process by which organisms obtain, digest, absorb, transport, utilize, store, and eliminate nutrients from food. These nutrients provide energy, build and repair tissues, regulate body functions, and support growth, reproduction, immunity, and survival. Nutrition is therefore the primary biological link between the external environment and the internal functioning of the human body.*

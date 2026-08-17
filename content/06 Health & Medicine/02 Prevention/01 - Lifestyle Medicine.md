@@ -1,3 +1,8 @@
+---
+title: Lifestyle Medicine
+description: Lifestyle Medicine is an evidence-based medical specialty that uses therapeutic lifestyle interventions as the primary treatment for preventing, managing, and...
+---
+
 # Lifestyle Medicine
 
 > *Lifestyle Medicine is an evidence-based medical specialty that uses therapeutic lifestyle interventions as the primary treatment for preventing, managing, and in some cases reversing chronic diseases. Rather than focusing only on treating symptoms, it addresses the root biological causes of disease through scientifically supported changes in nutrition, physical activity, sleep, stress management, social connection, and avoidance of harmful substances.*

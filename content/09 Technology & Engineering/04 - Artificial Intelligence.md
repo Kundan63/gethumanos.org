@@ -1,3 +1,8 @@
+---
+title: Artificial Intelligence
+description: Artificial Intelligence (AI) is the field of computing that develops systems capable of performing tasks that normally require human intelligence, such as...
+---
+
 # Artificial Intelligence
 
 > *Artificial Intelligence (AI) is the field of computing that develops systems capable of performing tasks that normally require human intelligence, such as learning, reasoning, perception, language understanding, planning, decision-making, and problem-solving. Modern AI systems learn patterns from data and use those patterns to generate predictions, recommendations, decisions, or new content, enabling computers to assist humans in increasingly complex cognitive tasks.*

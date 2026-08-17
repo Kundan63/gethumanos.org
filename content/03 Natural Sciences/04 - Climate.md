@@ -1,3 +1,8 @@
+---
+title: Climate
+description: Climate is Earth's long-term pattern of weather, shaped by the continuous interaction of the atmosphere, oceans, land, ice, the Sun, and life itself.
+---
+
 # Climate
 
 > *Climate is Earth's long-term pattern of weather, shaped by the continuous interaction of the atmosphere, oceans, land, ice, the Sun, and life itself. It determines where ecosystems thrive, how civilizations develop, and how humans live.*

@@ -1,3 +1,8 @@
+---
+title: Chemistry
+description: Chemistry explains how matter transforms.
+---
+
 # Chemistry
 
 > *Chemistry explains how matter transforms. It reveals how atoms become molecules, molecules become materials, and chemical reactions make life, technology, and civilization possible.*

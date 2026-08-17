@@ -1,3 +1,8 @@
+---
+title: Health Promotion
+description: Health promotion is the process of enabling people and communities to increase control over the factors that determine their health and thereby improve their...
+---
+
 # Health Promotion
 
 > *Health promotion is the process of enabling people and communities to increase control over the factors that determine their health and thereby improve their health. It is a comprehensive social, environmental, political, and educational process that goes beyond preventing disease or encouraging healthy lifestyles. Health promotion seeks to create the conditions in which people can achieve their highest possible level of health by strengthening individual capabilities while also improving the environments, policies, and social systems that influence health.*

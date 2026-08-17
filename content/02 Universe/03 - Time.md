@@ -1,3 +1,8 @@
+---
+title: Time
+description: The dimension that orders change, allows events to occur in sequence, and makes the evolution of the Universe, life, and human experience possible.
+---
+
 # Time
 
 > *The dimension that orders change, allows events to occur in sequence, and makes the evolution of the Universe, life, and human experience possible.*

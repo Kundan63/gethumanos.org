@@ -1,3 +1,8 @@
+---
+title: Critical Care
+description: Critical care is specialized medical care for people with life-threatening illnesses or injuries that require continuous monitoring, advanced organ support...
+---
+
 # Critical Care
 
 > *Critical care is specialized medical care for people with life-threatening illnesses or injuries that require continuous monitoring, advanced organ support, and rapid intervention. It is typically delivered in Intensive Care Units (ICUs), High Dependency Units (HDUs), or other dedicated critical care areas by multidisciplinary teams using advanced monitoring systems, life-support technologies, and evidence-based treatments. Critical care is an essential component of modern healthcare because timely intervention can prevent death and improve recovery from severe illness or injury.*

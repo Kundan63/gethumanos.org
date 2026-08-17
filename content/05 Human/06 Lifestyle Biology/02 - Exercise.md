@@ -1,3 +1,8 @@
+---
+title: Exercise
+description: Exercise is planned, structured, and repetitive physical activity performed to improve or maintain physical fitness, health, and performance.
+---
+
 # Exercise
 
 > *Exercise is planned, structured, and repetitive physical activity performed to improve or maintain physical fitness, health, and performance. By placing controlled stress on the body, exercise stimulates biological adaptations that strengthen muscles, bones, the heart, lungs, brain, metabolism, and immune system. Rather than wearing the body out, appropriate exercise makes the body stronger by activating its natural processes of repair and adaptation.*

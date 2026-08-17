@@ -1,3 +1,8 @@
+---
+title: HumanOS Architecture
+description: The HumanOS Architecture defines the structure of HumanOS.
+---
+
 # HumanOS Architecture
 
 > **The HumanOS Architecture defines the structure of HumanOS.**

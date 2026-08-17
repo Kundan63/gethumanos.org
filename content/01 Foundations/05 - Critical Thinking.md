@@ -1,3 +1,8 @@
+---
+title: Critical Thinking
+description: The disciplined practice of evaluating information, evidence, assumptions, and reasoning to make sound judgments and better decisions.
+---
+
 # Critical Thinking
 
 > *The disciplined practice of evaluating information, evidence, assumptions, and reasoning to make sound judgments and better decisions.*

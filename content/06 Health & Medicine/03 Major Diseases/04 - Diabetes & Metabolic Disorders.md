@@ -1,3 +1,8 @@
+---
+title: Diabetes & Metabolic Disorders
+description: Diabetes and metabolic disorders are a group of chronic diseases in which the body's normal regulation of energy, glucose, fats, and hormones becomes impaired.
+---
+
 # Diabetes & Metabolic Disorders
 
 > *Diabetes and metabolic disorders are a group of chronic diseases in which the body's normal regulation of energy, glucose, fats, and hormones becomes impaired. Diabetes mellitus is characterized by persistently elevated blood glucose caused by insufficient insulin production, reduced insulin action (insulin resistance), or both. Metabolic disorders also include obesity, metabolic syndrome, dyslipidemia, insulin resistance, fatty liver disease, gout, and inherited metabolic diseases. These conditions are closely interconnected and substantially increase the risk of cardiovascular disease, kidney disease, blindness, nerve damage, and premature death.*

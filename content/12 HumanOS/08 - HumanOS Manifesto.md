@@ -1,3 +1,8 @@
+---
+title: HumanOS Manifesto
+description: This is the declaration of HumanOS. It explains what HumanOS believes, why it exists, and the responsibility that comes with understanding reality.
+---
+
 # HumanOS Manifesto
 
 > **This is the declaration of HumanOS.**

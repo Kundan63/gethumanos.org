@@ -1,3 +1,8 @@
+---
+title: Psychology
+description: Psychology is the scientific study of the mind and behavior.
+---
+
 # Psychology
 
 > *Psychology is the scientific study of the mind and behavior. It seeks to understand how humans and other animals think, feel, learn, remember, perceive, decide, and behave. Psychology uses the scientific method to explain mental processes and behavior, integrating insights from biology, neuroscience, cognition, development, and social interaction. As both a natural and social science, psychology helps explain why people behave as they do and how that knowledge can improve health, education, relationships, work, and society.*

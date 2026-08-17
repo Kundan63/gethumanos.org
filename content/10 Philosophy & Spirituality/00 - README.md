@@ -1,3 +1,8 @@
+---
+title: Philosophy & Spirituality
+description: Philosophy and spirituality are two different ways of chasing the same deep questions. Philosophy gets there through reason, logic, and argument.
+---
+
 # 08 – Philosophy & Spirituality
 
 > **Philosophy and spirituality are two different ways of chasing the same deep questions.**

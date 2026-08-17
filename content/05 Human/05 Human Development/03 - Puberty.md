@@ -1,3 +1,8 @@
+---
+title: Puberty
+description: Puberty is the biological transition from childhood to reproductive maturity.
+---
+
 # Puberty
 
 > *Puberty is the biological transition from childhood to reproductive maturity. During puberty, hormonal changes trigger rapid physical growth, sexual maturation, brain development, and emotional and social changes. Although the sequence of development is highly predictable, the age at which puberty begins varies among individuals due to genetics, nutrition, health, and environmental influences. Puberty prepares the body for adulthood while the brain continues to mature into early adulthood.*

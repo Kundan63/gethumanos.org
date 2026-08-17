@@ -1,3 +1,8 @@
+---
+title: Death & Mortality
+description: Death is the irreversible end of the biological functions that sustain a living organism, while mortality is the condition that all living organisms...
+---
+
 # Death & Mortality
 
 > *Death is the irreversible end of the biological functions that sustain a living organism, while mortality is the condition that all living organisms eventually die. Death is studied scientifically as a biological process, medically as a clinical event, psychologically as a human experience, philosophically as a question about existence, and culturally and spiritually through diverse traditions that seek to understand its meaning. Awareness of mortality profoundly influences human behavior, values, relationships, and civilization.*

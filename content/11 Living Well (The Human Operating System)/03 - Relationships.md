@@ -1,3 +1,8 @@
+---
+title: Relationships
+description: Relationships are the network of human connections through which people survive, learn, love, cooperate, grow, and contribute to society.
+---
+
 # Relationships
 
 > **Relationships are the network of human connections through which people survive, learn, love, cooperate, grow, and contribute to society.** Healthy relationships provide belonging, trust, emotional support, practical assistance, and opportunities for personal development. They are among the strongest predictors of long-term health, resilience, life satisfaction, and human flourishing. Relationships are not simply a social preference—they are a biological, psychological, and evolutionary necessity.

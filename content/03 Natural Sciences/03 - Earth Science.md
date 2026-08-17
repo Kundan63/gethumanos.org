@@ -1,3 +1,8 @@
+---
+title: Earth Science
+description: Earth Science explains how our planet works as one interconnected system.
+---
+
 # Earth Science
 
 > *Earth Science explains how our planet works as one interconnected system. It reveals how rocks, oceans, atmosphere, climate, and life interact to create the only known world that supports human civilization.*

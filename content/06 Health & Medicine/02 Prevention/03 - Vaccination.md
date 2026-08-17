@@ -1,3 +1,8 @@
+---
+title: Vaccination
+description: Vaccination is the process of administering a vaccine to stimulate the immune system to develop protection against a specific infectious disease without...
+---
+
 # Vaccination
 
 > *Vaccination is the process of administering a vaccine to stimulate the immune system to develop protection against a specific infectious disease without causing the disease itself. Vaccines expose the immune system to a safe form or component of a pathogen, allowing it to produce antibodies and immune memory that provide rapid protection during future exposure. Vaccination is one of the most effective public health interventions ever developed, preventing millions of deaths each year and reducing the spread of many serious infectious diseases.*

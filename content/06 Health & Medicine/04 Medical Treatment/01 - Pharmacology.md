@@ -1,3 +1,8 @@
+---
+title: Pharmacology
+description: Pharmacology is the scientific study of drugs (medicines) and how they interact with living organisms.
+---
+
 # Pharmacology
 
 > *Pharmacology is the scientific study of drugs (medicines) and how they interact with living organisms. It examines how drugs produce their effects, how the body absorbs, distributes, metabolizes, and eliminates them, and how they can be used safely and effectively to prevent, diagnose, or treat disease. Pharmacology forms the scientific foundation of modern medicine by integrating biology, chemistry, physiology, and clinical medicine.*

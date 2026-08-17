@@ -1,3 +1,8 @@
+---
+title: Robotics
+description: Robotics is the interdisciplinary field of engineering, computer science, electronics, and artificial intelligence that focuses on designing, building...
+---
+
 # Robotics
 
 > *Robotics is the interdisciplinary field of engineering, computer science, electronics, and artificial intelligence that focuses on designing, building, programming, operating, and improving robots—machines capable of sensing their environment, processing information, making decisions, and performing physical actions autonomously or under human control. Robotics extends human physical capabilities by automating tasks that are dangerous, repetitive, highly precise, or beyond normal human ability.*

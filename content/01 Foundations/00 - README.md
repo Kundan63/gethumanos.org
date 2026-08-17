@@ -1,3 +1,8 @@
+---
+title: Foundations
+description: This is where HumanOS begins — not with facts about the world, but with the tools for telling which facts are actually true.
+---
+
 # Foundations
 
 > **This is where HumanOS begins — not with facts about the world, but with the tools for telling which facts are actually true.**

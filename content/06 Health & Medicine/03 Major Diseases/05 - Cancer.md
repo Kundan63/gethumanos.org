@@ -1,3 +1,8 @@
+---
+title: Cancer
+description: Cancer is a group of diseases in which abnormal cells grow uncontrollably, evade the body's normal growth controls, invade surrounding tissues, and may spread...
+---
+
 # Cancer
 
 > *Cancer is a group of diseases in which abnormal cells grow uncontrollably, evade the body's normal growth controls, invade surrounding tissues, and may spread (metastasize) to distant organs. Cancer develops through a multistep process involving genetic changes and interactions with physical, chemical, and biological carcinogens. It can affect almost any tissue in the body and is one of the leading causes of death worldwide, causing nearly **10 million deaths in 2024**. Between **30–50% of cancers are preventable** through evidence-based prevention strategies.*

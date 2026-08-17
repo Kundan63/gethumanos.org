@@ -1,3 +1,8 @@
+---
+title: Law
+description: Law is the system of rules created, interpreted, and enforced by legitimate political authorities to regulate behavior, protect rights, resolve disputes...
+---
+
 # Law
 
 > *Law is the system of rules created, interpreted, and enforced by legitimate political authorities to regulate behavior, protect rights, resolve disputes, maintain social order, and promote justice. Laws define what people may do, must do, and must not do, while legal institutions such as legislatures, courts, police, and correctional systems ensure that these rules are applied consistently. The rule of law is a cornerstone of modern civilization because it makes both citizens and governments accountable to the law rather than to arbitrary power.*

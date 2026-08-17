@@ -1,3 +1,8 @@
+---
+title: Living Well
+description: Living Well is where all of it gets put to use. Every field of knowledge in HumanOS — from physics to philosophy — funnels into this one section.
+---
+
 # Living Well
 
 > **Living Well is where all of it gets put to use.**

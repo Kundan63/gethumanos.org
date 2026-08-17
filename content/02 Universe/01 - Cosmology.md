@@ -1,3 +1,8 @@
+---
+title: Cosmology
+description: Understanding the story of the Universe is the first step toward understanding our own story.
+---
+
 # Cosmology
 
 > *Understanding the story of the Universe is the first step toward understanding our own story.*

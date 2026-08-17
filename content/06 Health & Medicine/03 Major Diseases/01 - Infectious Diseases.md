@@ -1,3 +1,8 @@
+---
+title: Infectious Diseases
+description: Infectious diseases are illnesses caused by pathogenic microorganisms—including bacteria, viruses, fungi, parasites, and prions—that invade the body...
+---
+
 # Infectious Diseases
 
 > *Infectious diseases are illnesses caused by pathogenic microorganisms—including bacteria, viruses, fungi, parasites, and prions—that invade the body, multiply, and disrupt normal biological function. These diseases may spread directly or indirectly between people, from animals to humans, through contaminated food or water, or via vectors such as mosquitoes and ticks. Infectious diseases remain one of the leading causes of illness and death worldwide, but many are preventable through hygiene, sanitation, vaccination, safe food and water, vector control, and appropriate medical treatment.*

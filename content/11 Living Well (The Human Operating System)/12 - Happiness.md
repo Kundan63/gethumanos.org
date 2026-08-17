@@ -1,3 +1,8 @@
+---
+title: Happiness
+description: Happiness is a positive state of human experience characterized by feelings such as joy, contentment, satisfaction, and the evaluation that life is going well.
+---
+
 # Happiness
 
 > **Happiness is a positive state of human experience characterized by feelings such as joy, contentment, satisfaction, and the evaluation that life is going well.** Modern science views happiness as one component of overall well-being rather than its entirety. While happiness includes positive emotions, a flourishing life also depends on meaning, purpose, relationships, health, growth, and contribution. Happiness is therefore best understood as an outcome of living well rather than a goal pursued in isolation.

@@ -1,3 +1,8 @@
+---
+title: The Journey Continues
+description: HumanOS ends here. Your journey does not.
+---
+
 # The Journey Continues
 
 > **HumanOS ends here.**

@@ -1,3 +1,8 @@
+---
+title: Brain & Neuroscience
+description: The Brain & Neuroscience section explores how billions of interconnected nerve cells produce thought, memory, learning, emotion, consciousness, and behavior.
+---
+
 # Brain & Neuroscience
 
 > *The Brain & Neuroscience section explores how billions of interconnected nerve cells produce thought, memory, learning, emotion, consciousness, and behavior. It explains how the brain receives information from the world, transforms it into knowledge and decisions, and enables humans to understand, create, communicate, and shape civilization.*

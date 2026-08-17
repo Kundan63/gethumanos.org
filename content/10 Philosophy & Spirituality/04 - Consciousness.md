@@ -1,3 +1,8 @@
+---
+title: Consciousness
+description: Consciousness is the state of subjective awareness through which an individual experiences the world, the body, and the self.
+---
+
 # Consciousness
 
 > *Consciousness is the state of subjective awareness through which an individual experiences the world, the body, and the self. It includes perception, thoughts, emotions, sensations, intentions, and the feeling of being aware. Consciousness is studied across philosophy, neuroscience, psychology, cognitive science, and artificial intelligence, yet its precise nature and origin remain among the greatest unsolved questions in science and philosophy.*

@@ -1,3 +1,8 @@
+---
+title: Risk Factors
+description: A risk factor is any characteristic, behavior, environmental exposure, biological condition, or genetic trait that increases the likelihood of developing a...
+---
+
 # Risk Factors
 
 > *A risk factor is any characteristic, behavior, environmental exposure, biological condition, or genetic trait that increases the likelihood of developing a disease or adverse health outcome. Risk factors do not guarantee that disease will occur, but they increase probability. Understanding risk factors allows individuals, healthcare professionals, and societies to prevent disease before it develops by reducing or eliminating modifiable risks while managing non-modifiable ones.*

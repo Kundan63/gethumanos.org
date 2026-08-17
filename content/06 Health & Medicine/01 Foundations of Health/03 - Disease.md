@@ -1,3 +1,8 @@
+---
+title: Disease
+description: A disease is an abnormal condition that disrupts the normal structure or function of cells, tissues, organs, or body systems, producing characteristic signs...
+---
+
 # Disease
 
 > *A disease is an abnormal condition that disrupts the normal structure or function of cells, tissues, organs, or body systems, producing characteristic signs and/or symptoms. Disease develops when the body's normal homeostatic mechanisms are unable to maintain physiological balance because of genetic abnormalities, infections, immune dysfunction, environmental exposures, nutritional deficiencies, injury, aging, or other harmful processes. Disease is therefore the biological consequence of disrupted normal function.*

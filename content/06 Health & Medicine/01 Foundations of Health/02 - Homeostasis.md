@@ -1,3 +1,8 @@
+---
+title: Homeostasis
+description: Homeostasis is the dynamic process by which living organisms maintain a relatively stable internal environment despite continuous changes inside and outside...
+---
+
 # Homeostasis
 
 > *Homeostasis is the dynamic process by which living organisms maintain a relatively stable internal environment despite continuous changes inside and outside the body. Through coordinated regulation by the nervous, endocrine, cardiovascular, respiratory, renal, immune, and other systems, the body continuously adjusts variables such as temperature, blood glucose, blood pressure, pH, oxygen, water, electrolytes, and hormones within ranges compatible with life. Homeostasis is the central organizing principle of physiology because every living cell depends upon a stable internal environment to survive and function.*

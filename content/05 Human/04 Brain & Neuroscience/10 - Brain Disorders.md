@@ -1,3 +1,8 @@
+---
+title: Brain Disorders
+description: Brain disorders are conditions that disrupt the normal structure or function of the brain.
+---
+
 # Brain Disorders
 
 > *Brain disorders are conditions that disrupt the normal structure or function of the brain. They can affect thinking, memory, movement, sensation, language, emotions, behavior, consciousness, or personality. Brain disorders arise from many causes—including genetics, aging, injury, infection, vascular disease, immune dysfunction, tumors, and environmental factors—and range from temporary illnesses to lifelong neurological diseases. Understanding brain disorders reveals how healthy brain function depends on the coordinated activity of neurons, synapses, neurotransmitters, blood supply, and neural networks.*

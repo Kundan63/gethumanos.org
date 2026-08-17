@@ -1,3 +1,8 @@
+---
+title: Career
+description: A career is the long-term journey through which people apply their knowledge, skills, values, and abilities to create value for others while earning the...
+---
+
 # Career
 
 > **A career is the long-term journey through which people apply their knowledge, skills, values, and abilities to create value for others while earning the resources needed to sustain life.** More than a sequence of jobs, a career is a process of continual learning, contribution, adaptation, and personal development. A fulfilling career supports financial stability, personal growth, social contribution, and well-being.

@@ -1,3 +1,8 @@
+---
+title: Cell Biology
+description: Cell Biology explains how life works at its most fundamental level.
+---
+
 # Cell Biology
 
 > *Cell Biology explains how life works at its most fundamental level. It reveals how tiny cells become tissues, organs, organisms, and ultimately complex beings capable of thinking, feeling, and understanding the Universe.*

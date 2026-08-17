@@ -1,3 +1,8 @@
+---
+title: Autoimmune Diseases
+description: Autoimmune diseases are disorders in which the immune system mistakenly attacks the body's own healthy cells, tissues, or organs instead of protecting them...
+---
+
 # Autoimmune Diseases
 
 > *Autoimmune diseases are disorders in which the immune system mistakenly attacks the body's own healthy cells, tissues, or organs instead of protecting them from harmful microbes. They develop when the immune system loses tolerance to "self" and produces immune cells or autoantibodies that target the body's own tissues. Scientists recognize **more than 80 autoimmune diseases**, affecting virtually every organ system. Together, they are a major cause of chronic illness and disability, with women accounting for approximately **80% of affected individuals**. Although most autoimmune diseases cannot currently be cured, many can be effectively managed with early diagnosis and evidence-based treatment.*

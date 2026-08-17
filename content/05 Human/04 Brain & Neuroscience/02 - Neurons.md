@@ -1,3 +1,8 @@
+---
+title: Neurons
+description: Neurons are the fundamental information-processing cells of the nervous system.
+---
+
 # Neurons
 
 > *Neurons are the fundamental information-processing cells of the nervous system. They receive information, integrate it, generate electrical signals, and communicate with other neurons, muscles, and glands. Every thought, memory, movement, emotion, and perception begins with the activity of billions of interconnected neurons.*

@@ -1,3 +1,8 @@
+---
+title: Internet
+description: The Internet is the global system of interconnected computer networks that communicate using the Internet Protocol Suite (TCP/IP), enabling billions of...
+---
+
 # Internet
 
 > *The Internet is the global system of interconnected computer networks that communicate using the Internet Protocol Suite (TCP/IP), enabling billions of devices worldwide to exchange information, deliver services, and support communication. Rather than being a single network, the Internet is a "network of networks" connecting homes, businesses, governments, universities, and data centers into one global communication infrastructure.*

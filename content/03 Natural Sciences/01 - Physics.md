@@ -1,3 +1,8 @@
+---
+title: Physics
+description: Physics is the science of how the Universe works.
+---
+
 # Physics
 
 > *Physics is the science of how the Universe works. It explains the rules governing matter, energy, motion, forces, space, and time—from the smallest particles to the largest galaxies.*

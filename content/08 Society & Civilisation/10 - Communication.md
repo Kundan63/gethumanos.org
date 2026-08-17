@@ -1,3 +1,8 @@
+---
+title: Communication
+description: Communication is the process of creating, sharing, receiving, and interpreting information, ideas, emotions, and meaning between individuals or groups through...
+---
+
 # Communication
 
 > *Communication is the process of creating, sharing, receiving, and interpreting information, ideas, emotions, and meaning between individuals or groups through verbal, nonverbal, written, visual, or digital forms. Effective communication is not merely transmitting information—it is achieving shared understanding. Communication is fundamental to human relationships, learning, cooperation, culture, science, business, and civilization because it allows knowledge to be exchanged across individuals and generations.*

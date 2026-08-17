@@ -1,3 +1,8 @@
+---
+title: Human
+description: You are the most complex thing you'll ever study.
+---
+
 # 04. Human
 
 > *You are the most complex thing you'll ever study. This section is about how one organism — built from trillions of cooperating cells — became capable of understanding the Universe itself. It's about how your body, brain, lifestyle, environment, and the people around you interact to shape your health, your resilience, and the quality of the one life you get.*

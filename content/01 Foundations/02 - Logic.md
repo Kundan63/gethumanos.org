@@ -1,3 +1,8 @@
+---
+title: Logic
+description: The framework of correct reasoning that transforms information into reliable understanding.
+---
+
 # Logic
 
 > *The framework of correct reasoning that transforms information into reliable understanding.*

@@ -1,3 +1,8 @@
+---
+title: Philosophy of Knowledge
+description: Understanding why knowledge matters, what it is ultimately for, and how it should shape human life.
+---
+
 # Philosophy of Knowledge
 
 > *Understanding why knowledge matters, what it is ultimately for, and how it should shape human life.*

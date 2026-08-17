@@ -1,3 +1,8 @@
+---
+title: Parenting
+description: Parenting is the lifelong responsibility of nurturing, protecting, educating, and guiding children so they develop into healthy, capable, ethical...
+---
+
 # Parenting
 
 > **Parenting is the lifelong responsibility of nurturing, protecting, educating, and guiding children so they develop into healthy, capable, ethical, independent, and compassionate adults.** Parenting is more than meeting a child's physical needs—it shapes brain development, emotional security, character, learning, relationships, and future contribution to society. Parents and caregivers are among the most influential architects of human development.

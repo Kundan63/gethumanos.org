@@ -1,3 +1,8 @@
+---
+title: Life Sciences
+description: Life Sciences explain how life emerged, evolved, diversified, and functions—from the first self-replicating molecules to the extraordinary diversity of...
+---
+
 # Life Sciences
 
 > *Life Sciences explain how life emerged, evolved, diversified, and functions—from the first self-replicating molecules to the extraordinary diversity of organisms on Earth, including human beings.*

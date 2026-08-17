@@ -1,3 +1,8 @@
+---
+title: Human Development
+description: Human Development is the lifelong process through which a single fertilized cell grows into a complex human being and continues changing from conception until...
+---
+
 # Human Development
 
 > *Human Development is the lifelong process through which a single fertilized cell grows into a complex human being and continues changing from conception until death. Development includes physical growth, brain maturation, cognitive abilities, emotional regulation, social relationships, and aging. It is driven by interactions among genes, biology, environment, nutrition, learning, and experience. Understanding human development explains not only how humans grow, but also how each stage of life builds the foundation for the next.*

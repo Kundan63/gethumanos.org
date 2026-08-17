@@ -1,3 +1,8 @@
+---
+title: Environmental Science
+description: Environmental Science explains how humans and nature influence one another.
+---
+
 # Environmental Science
 
 > *Environmental Science explains how humans and nature influence one another. It helps us understand how to meet human needs while maintaining the Earth's ability to support life for future generations.*

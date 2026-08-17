@@ -1,3 +1,8 @@
+---
+title: Universe
+description: The origin and framework of everything that exists.
+---
+
 # Universe
 
 > *The origin and framework of everything that exists.*

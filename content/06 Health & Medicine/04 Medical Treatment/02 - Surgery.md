@@ -1,3 +1,8 @@
+---
+title: Surgery
+description: Surgery is a branch of medicine that uses operative procedures to diagnose, treat, repair, remove, or replace diseased, injured, or abnormal tissues and organs.
+---
+
 # Surgery
 
 > *Surgery is a branch of medicine that uses operative procedures to diagnose, treat, repair, remove, or replace diseased, injured, or abnormal tissues and organs. Modern surgery combines anatomy, physiology, pathology, anesthesia, sterile technique, and technology to restore health, relieve suffering, prevent disability, or save lives. It ranges from minor outpatient procedures to highly complex organ transplantation and robotic surgery. Safe surgery is considered an essential component of universal healthcare because millions of lives depend on timely access to surgical and anesthesia services.*

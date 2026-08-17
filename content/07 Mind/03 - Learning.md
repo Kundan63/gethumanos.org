@@ -1,3 +1,8 @@
+---
+title: Learning
+description: Learning is a relatively permanent change in knowledge or behavior that results from experience.
+---
+
 # Learning
 
 > *Learning is a relatively permanent change in knowledge or behavior that results from experience. It enables organisms to adapt to their environment by acquiring new information, skills, habits, and behaviors. Unlike instincts and reflexes, which are innate, learning develops through interaction with the environment. Psychology identifies several major forms of learning, including classical conditioning, operant conditioning, and observational learning, while modern cognitive science also emphasizes the roles of memory, attention, reasoning, and understanding in learning.*

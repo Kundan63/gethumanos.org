@@ -1,3 +1,8 @@
+---
+title: Cardiovascular Diseases
+description: Cardiovascular diseases (CVDs) are a group of disorders affecting the heart and blood vessels.
+---
+
 # Cardiovascular Diseases
 
 > *Cardiovascular diseases (CVDs) are a group of disorders affecting the heart and blood vessels. They include coronary artery disease, stroke, hypertension-related heart disease, heart failure, peripheral arterial disease, congenital heart disease, rheumatic heart disease, deep vein thrombosis, and pulmonary embolism. Cardiovascular diseases are the leading cause of death worldwide, responsible for an estimated **19.8 million deaths in 2022**, with approximately **85%** of these deaths resulting from heart attacks and strokes. Most cardiovascular diseases are preventable by reducing behavioral and environmental risk factors while appropriately treating hypertension, diabetes, and high cholesterol.*

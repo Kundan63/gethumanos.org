@@ -1,3 +1,8 @@
+---
+title: Circadian Rhythm
+description: Circadian rhythm is the body's internal biological timing system that generates approximately 24-hour cycles in physiology, behavior, and metabolism.
+---
+
 # Circadian Rhythm
 
 > *Circadian rhythm is the body's internal biological timing system that generates approximately 24-hour cycles in physiology, behavior, and metabolism. This internal clock synchronizes sleep, hormone release, body temperature, metabolism, digestion, immune function, and many other biological processes with the Earth's daily cycle of light and darkness. Rather than simply controlling sleep, circadian rhythms coordinate nearly every organ system so the body performs the right functions at the right time.*

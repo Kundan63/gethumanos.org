@@ -1,3 +1,8 @@
+---
+title: Society & Civilization
+description: Society is what happens when humans stop going it alone — the organized web of relationships, institutions, and shared habits that let people live together...
+---
+
 # Society & Civilization
 
 > *Society is what happens when humans stop going it alone — the organized web of relationships, institutions, and shared habits that let people live together, cooperate, and build a common way of life. Civilization is what that web looks like once it matures: cities, governments, laws, economies, education, technology, writing, and everything else that comes with organizing millions of people at once. Together, they explain how you go from a single human to a family, to a community, to a culture, to a nation, to a global civilization. Sociology studies society directly; anthropology, history, economics, and political science each explain a different slice of how civilization actually works.*

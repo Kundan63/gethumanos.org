@@ -1,3 +1,8 @@
+---
+title: Lifelong Learning
+description: Lifelong Learning is the continuous process of acquiring, applying, improving, and sharing knowledge, skills, values, and capabilities throughout every stage...
+---
+
 # Lifelong Learning
 
 > **Lifelong Learning is the continuous process of acquiring, applying, improving, and sharing knowledge, skills, values, and capabilities throughout every stage of life.** It extends beyond schools and universities to include learning at home, at work, within communities, and through everyday experience. Lifelong learning enables people to adapt to changing realities, solve new problems, remain capable in a changing world, and continue growing throughout life.

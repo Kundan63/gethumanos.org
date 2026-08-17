@@ -1,3 +1,8 @@
+---
+title: Integumentary System
+description: The Integumentary System is the body's protective interface with the external world.
+---
+
 # Integumentary System
 
 > *The Integumentary System is the body's protective interface with the external world. It forms the first line of defense against physical injury, pathogens, harmful chemicals, ultraviolet radiation, and water loss while enabling sensation, temperature regulation, vitamin D production, and communication with the environment. The skin is not merely a covering—it is a living organ that constantly protects, repairs, and adapts.*
