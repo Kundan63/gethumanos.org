@@ -1,55 +1,31 @@
 ---
 title: Anthropology
-description: Anthropology is the scientific study of humanity across time and space.
+description: Anthropology is the scientific study of humanity — our biological origins, evolution, behaviour, cultures, languages, societies, and material remains.
 ---
 
 # Anthropology
 
-> *Anthropology is the scientific study of humanity across time and space. It seeks to understand what it means to be human by examining human biology, evolution, culture, language, archaeology, and society. Anthropology is unique because it takes a **holistic** approach, integrating evidence from the natural sciences, social sciences, and humanities to explain both the diversity and the shared characteristics of human life.*
+> *Anthropology is the scientific study of humanity — our biological origins, evolution, behaviour, cultures, languages, societies, and material remains across time and space. It asks the question underneath civilization itself: what makes humans human? It connects the biological organism produced by evolution with the cultural, social, linguistic, and technological world humans create.*
 
 ---
 
-# What is Anthropology?
+# Why does this section exist?
 
-Anthropology is the study of:
+Humans are not only biological organisms.
 
-- Human origins
-- Human evolution
-- Biological diversity
-- Culture
-- Language
-- Society
-- Archaeology
-- Human behavior
+We are also:
 
-It asks one fundamental question:
+- Social beings
+- Language users
+- Cultural learners
+- Tool makers
+- Cooperative organisms
+- Knowledge transmitters
+- Institution builders
 
-> **What does it mean to be human?**
+Understanding humanity therefore requires more than studying anatomy or evolution alone.
 
-Unlike many disciplines that focus on one aspect of humanity, anthropology studies humans as whole biological, cultural, historical, and social beings.
-
----
-
-# Why does Anthropology exist?
-
-Humans are the only species that:
-
-- Build civilizations
-- Create languages
-- Develop cultures
-- Record history
-- Invent technology
-- Continuously reshape their environment
-
-Understanding humanity requires more than biology alone.
-
-Anthropology exists to explain:
-
-- Where humans came from
-- How humans evolved
-- Why cultures differ
-- How societies function
-- What humans share despite cultural diversity
+Anthropology connects biology, behaviour, culture, language, archaeology, and society to explain how humans became the civilization-building species.
 
 ---
 
@@ -57,166 +33,370 @@ Anthropology exists to explain:
 
 > **What makes humans human?**
 
-Anthropology answers this by combining evidence from biology, archaeology, linguistics, culture, and history to understand humanity across both time and place.
+Anthropology investigates how biological evolution, learning, language, cooperation, culture, technology, and environment interact to produce the extraordinary diversity and complexity of human life.
 
 ---
 
 # The Anthropology System
 
-<div class="diagram-panel diagram-panel-narrow" style="max-width:198px"><svg width="100%" viewBox="0 0 198 726" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="161.8" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="98.9" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Human Evolution</text><rect x="18.0" y="90.0" width="161.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="98.9" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Biology</text><rect x="18.0" y="162.0" width="161.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="98.9" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Culture</text><rect x="18.0" y="234.0" width="161.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="98.9" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Language</text><rect x="18.0" y="306.0" width="161.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="98.9" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Technology</text><rect x="18.0" y="378.0" width="161.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="98.9" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Families</text><rect x="18.0" y="450.0" width="161.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="98.9" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Communities</text><rect x="18.0" y="522.0" width="161.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="98.9" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Societies</text><rect x="18.0" y="594.0" width="161.8" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="98.9" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Civilizations</text><rect x="18.0" y="666.0" width="161.8" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="98.9" y="692.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Humanity</text><line x1="98.9" y1="64.0" x2="98.9" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="98.9" y1="136.0" x2="98.9" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="98.9" y1="208.0" x2="98.9" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="98.9" y1="280.0" x2="98.9" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="98.9" y1="352.0" x2="98.9" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="98.9" y1="424.0" x2="98.9" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="98.9" y1="496.0" x2="98.9" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="98.9" y1="568.0" x2="98.9" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="98.9" y1="640.0" x2="98.9" y2="660.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
+<div class="diagram-panel diagram-panel-narrow" style="max-width:271px"><svg width="100%" viewBox="0 0 271 654" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Human Biology</text><rect x="18.0" y="90.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Evolution</text><rect x="18.0" y="162.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Mind &amp; Behaviour</text><rect x="18.0" y="234.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Language &amp; Communication</text><rect x="18.0" y="306.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Learning &amp; Culture</text><rect x="18.0" y="378.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cooperation</text><rect x="18.0" y="450.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Technology &amp; Knowledge</text><rect x="18.0" y="522.0" width="234.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="135.4" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Institutions &amp; Society</text><rect x="18.0" y="594.0" width="234.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="135.4" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Civilization</text><line x1="135.4" y1="64.0" x2="135.4" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="136.0" x2="135.4" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="208.0" x2="135.4" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="280.0" x2="135.4" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="352.0" x2="135.4" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="424.0" x2="135.4" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="496.0" x2="135.4" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="135.4" y1="568.0" x2="135.4" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
+
+Each layer depends on the layers beneath it, while also changing the conditions experienced by later generations.
 
 ---
 
-# The Four Fields of Anthropology
-
-<div class="tree-diagram">
-<div class="tree-node tree-node-root">Anthropology</div>
-<div class="tree-children">
-<div class="tree-item"><div class="tree-node">Biological</div></div>
-<div class="tree-item"><div class="tree-node">Cultural</div></div>
-<div class="tree-item"><div class="tree-node">Archaeology</div></div>
-<div class="tree-item"><div class="tree-node">Linguistic</div></div>
-</div>
-</div>
-
-The four-field approach is a defining feature of modern anthropology, particularly in North America. Together, these fields provide complementary perspectives on the human experience.
-
----
+# Major Fields
 
 ## 🧬 Biological Anthropology
 
-Studies:
+Studies humans as biological organisms.
+
+Includes:
 
 - Human evolution
 - Genetics
 - Fossils
 - Primates
-- Human adaptation
+- Biological variation
+- Adaptation
+- Human-environment relationships
 
-Questions include:
-
-- How did humans evolve?
-- Why do humans vary biologically?
-- How does biology interact with culture?
+Core question: How did humans become the biological species we are?
 
 ---
 
 ## 🏺 Archaeology
 
-Studies past human societies through:
+Studies past human societies through material evidence.
 
-- Artifacts
-- Buildings
+Includes:
+
 - Tools
+- Buildings
+- Pottery
 - Burials
-- Ancient settlements
+- Art
+- Settlements
+- Food remains
+- Inscriptions
+- Environmental evidence
 
-Archaeologists reconstruct human history from material remains.
+Archaeology is especially important when written records are absent or incomplete.
+
+<div class="diagram-panel diagram-panel-narrow" style="max-width:303px"><svg width="100%" viewBox="0 0 303 366" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="267.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="151.7" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Human Activity</text><rect x="18.0" y="90.0" width="267.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="151.7" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Material Remains</text><rect x="18.0" y="162.0" width="267.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="151.7" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Archaeological Evidence</text><rect x="18.0" y="234.0" width="267.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="151.7" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Interpretation</text><rect x="18.0" y="306.0" width="267.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="151.7" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Understanding Past Societies</text><line x1="151.7" y1="64.0" x2="151.7" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="151.7" y1="136.0" x2="151.7" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="151.7" y1="208.0" x2="151.7" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="151.7" y1="280.0" x2="151.7" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
+
+Core question: What can material remains tell us about how humans lived?
 
 ---
 
-## 🌍 Cultural Anthropology
+## 🎭 Cultural Anthropology
 
-Studies:
+Studies how humans create and transmit ways of living.
 
-- Culture
+Includes:
+
+- Values
 - Beliefs
-- Traditions
-- Social organization
+- Customs
 - Religion
-- Economy
-- Family life
+- Family
+- Food
+- Work
+- Social organization
+- Identity
+- Economic life
 
-It seeks to understand how people live and how cultures shape behavior.
+Culture is primarily learned and socially transmitted rather than genetically inherited.
+
+Core question: How do humans learn to live together in particular ways?
 
 ---
 
-## 🗣 Linguistic Anthropology
+## 💬 Linguistic Anthropology
 
-Studies:
+Studies language as a human social and cultural system.
+
+Includes:
 
 - Language
-- Communication
-- Symbols
 - Meaning
+- Symbols
+- Communication
 - Language change
+- Social use of language
+- Language and identity
+- Language and culture
 
-Language is viewed as both a communication system and a cultural system.
+<div class="diagram-panel diagram-panel-narrow" style="max-width:206px"><svg width="100%" viewBox="0 0 206 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="169.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="103.0" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Experience</text><rect x="18.0" y="90.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Symbol</text><rect x="18.0" y="162.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Language</text><rect x="18.0" y="234.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Communication</text><rect x="18.0" y="306.0" width="169.9" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="103.0" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Shared Knowledge</text><rect x="18.0" y="378.0" width="169.9" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="103.0" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Culture</text><line x1="103.0" y1="64.0" x2="103.0" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="136.0" x2="103.0" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="208.0" x2="103.0" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="280.0" x2="103.0" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="103.0" y1="352.0" x2="103.0" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
 
----
+Language allows information to move beyond individual experience and across generations.
 
-# The Holistic Approach
-
-Anthropology studies humans as interconnected systems.
-
-<div class="diagram-panel diagram-panel-narrow" style="max-width:176px"><svg width="100%" viewBox="0 0 165 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="129.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="82.7" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Biology</text><rect x="18.0" y="90.0" width="129.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="82.7" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Culture</text><rect x="18.0" y="162.0" width="129.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="82.7" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Language</text><rect x="18.0" y="234.0" width="129.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="82.7" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Society</text><rect x="18.0" y="306.0" width="129.3" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="82.7" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Environment</text><rect x="18.0" y="378.0" width="129.3" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="82.7" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Human Life</text><line x1="82.7" y1="64.0" x2="82.7" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="82.7" y1="136.0" x2="82.7" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="82.7" y1="208.0" x2="82.7" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="82.7" y1="280.0" x2="82.7" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="82.7" y1="352.0" x2="82.7" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
-
-Rather than isolating one factor, anthropology examines how these systems interact. This holistic perspective is one of the discipline's defining characteristics.
+Core question: How does language allow humans to create and share a common world?
 
 ---
 
-# Core Principles of Anthropology
+# Biology and Culture
 
-Anthropology emphasizes:
+Humans inherit biology, but they also inherit knowledge.
 
-- Holistic thinking
-- Scientific observation
-- Fieldwork
-- Cross-cultural comparison
-- Human diversity
-- Cultural understanding
-- Evolutionary perspective
+A child receives genetic information from previous generations, while learning language, skills, values, practices, and social expectations from other people.
 
-These principles help anthropologists understand both human similarities and differences.
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Human</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Biological Inheritance</div></div>
+<div class="tree-item"><div class="tree-node">Cultural Inheritance</div></div>
+</div>
+</div>
 
----
+Human development therefore emerges from interaction between:
 
-# Culture and Human Diversity
+- Biology
+- Mind
+- Culture
+- Environment
+- Learning
+- Social relationships
 
-Anthropology recognizes that:
-
-- Every society develops culture.
-- Cultures differ across environments and histories.
-- No single culture represents all humanity.
-
-Understanding cultural diversity helps explain why humans behave differently while sharing a common biological heritage.
-
----
-
-# Research Methods
-
-Anthropologists commonly use:
-
-- Fieldwork
-- Participant observation
-- Interviews
-- Ethnography
-- Archaeological excavation
-- Fossil analysis
-- Comparative studies
-- Linguistic analysis
-
-Different questions require different methods.
+Biology and culture should not be treated as competing explanations of humanity. They continuously influence one another.
 
 ---
 
-# Anthropology and Other Sciences
+# Human Diversity
+
+Humans share a common evolutionary history while living in highly diverse environments and cultures.
+
+Human variation is influenced by interactions among:
+
+- Biology
+- Environment
+- Geography
+- Migration
+- History
+- Social learning
+- Culture
+- Technology
+
+Anthropology therefore studies both:
+
+> **Human unity — and human diversity**
+
+Cultural differences do not mean that different populations are different kinds of humans. All living humans belong to the same species and share deep evolutionary ancestry.
+
+---
+
+# Culture & Cumulative Knowledge
+
+One of the most important human capacities is cumulative culture.
+
+Humans do not have to rediscover everything individually. Each generation can inherit language, tools, knowledge, stories, skills, social practices, technologies, and institutions — and then modify or improve them.
+
+<div class="diagram-panel diagram-panel-narrow" style="max-width:238px"><svg width="100%" viewBox="0 0 238 510" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Generation 1</text><rect x="18.0" y="90.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Knowledge</text><rect x="18.0" y="162.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Generation 2</text><rect x="18.0" y="234.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Modified Knowledge</text><rect x="18.0" y="306.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Generation 3</text><rect x="18.0" y="378.0" width="202.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="119.2" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Further Accumulation</text><rect x="18.0" y="450.0" width="202.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="119.2" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Civilization</text><line x1="119.2" y1="64.0" x2="119.2" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="136.0" x2="119.2" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="208.0" x2="119.2" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="280.0" x2="119.2" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="352.0" x2="119.2" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="119.2" y1="424.0" x2="119.2" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
+
+This helps explain why human societies can accumulate knowledge at a scale far beyond the lifetime of a single individual.
+
+---
+
+# Language & Knowledge Transmission
+
+Language is one of the mechanisms that makes cumulative culture possible.
+
+Historical knowledge traditions provide useful examples of humans deliberately organizing systems for preserving and transmitting information.
+
+The six Vedangas, for example, included:
+
+- **Shiksha** — phonetics
+- **Vyakarana** — grammar
+- **Chandas** — prosody
+- **Nirukta** — etymology
+- **Jyotisha** — astronomy and calendrical knowledge
+- **Kalpa** — ritual frameworks
+
+For HumanOS, their importance here is primarily anthropological and historical. They show how a civilization developed specialized disciplines for preserving language, interpreting knowledge, maintaining traditions, and transmitting information across generations.
+
+They should not be treated as evidence that historical explanations are automatically equivalent to modern scientific knowledge.
+
+---
+
+# Culture, Stories & Collective Memory
+
+Humans preserve cultural knowledge through:
+
+- Stories
+- Rituals
+- Texts
+- Art
+- Language
+- Institutions
+- Education
+- Oral traditions
+
+The Vedic corpus, Ramayana, Mahabharata, Puranas, Agamas, and Tantras provide historical examples of cultural traditions preserving ideas about identity, religion, family, duty, leadership, social relationships, morality, cosmology, and collective memory.
+
+These sources can therefore be studied as cultural evidence. A text may be historically important because it tells us what a tradition preserved, taught, valued, or believed — without every factual claim within it being established empirical knowledge.
+
+---
+
+# Family & Social Relationships
+
+Humans depend on social relationships throughout life.
+
+Anthropology studies:
+
+- Kinship
+- Marriage
+- Parenthood
+- Child-rearing
+- Cooperation
+- Social roles
+- Group identity
+- Intergenerational relationships
+
+Epic traditions such as the Ramayana and Mahabharata provide cultural narratives involving family, loyalty, duty, conflict, leadership, and social relationships. They are most useful to Anthropology as sources for studying cultural ideas and social values, rather than as universal descriptions of human behaviour.
+
+---
+
+# Religion & Human Culture
+
+Religion is an important part of human cultural life.
+
+Anthropology studies how religious systems can interact with:
+
+- Beliefs
+- Rituals
+- Ethics
+- Community
+- Identity
+- Social institutions
+- Cultural memory
+- Worldviews
+
+The Vedic, Puranic, Agamic, and Tantric traditions provide historical examples of this relationship.
+
+Anthropology studies these traditions as human cultural and social phenomena. It does not require HumanOS to treat theological claims as scientifically established facts.
+
+---
+
+# Anthropology & Civilization
+
+Anthropology helps explain how humans organize themselves into increasingly complex social systems.
+
+<div class="diagram-panel diagram-panel-narrow" style="max-width:182px"><svg width="100%" viewBox="0 0 182 654" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="145.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="90.8" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Individuals</text><rect x="18.0" y="90.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Families</text><rect x="18.0" y="162.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Groups</text><rect x="18.0" y="234.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Communities</text><rect x="18.0" y="306.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cultures</text><rect x="18.0" y="378.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Institutions</text><rect x="18.0" y="450.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cities</text><rect x="18.0" y="522.0" width="145.6" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="90.8" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">States</text><rect x="18.0" y="594.0" width="145.6" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="90.8" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Civilizations</text><line x1="90.8" y1="64.0" x2="90.8" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="136.0" x2="90.8" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="208.0" x2="90.8" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="280.0" x2="90.8" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="352.0" x2="90.8" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="424.0" x2="90.8" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="496.0" x2="90.8" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="90.8" y1="568.0" x2="90.8" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
+
+This development depends on interacting systems of biology, cooperation, culture, language, knowledge, technology, economy, politics, institutions, and environment. Anthropology therefore provides a bridge between the individual human and the collective systems of civilization.
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_great_bath_full_view_-_Mohenjo-daro.jpg?width=1200" alt="The Great Bath of Mohenjo-daro, a ritual bathing structure of the Indus Valley Civilization">
+<p class="domain-figure-caption">The Great Bath of Mohenjo-daro, the Indus Valley Civilization's ancient public bathing structure — via Wikimedia Commons</p>
+</div>
+
+---
+
+# How Anthropology Studies Humans
+
+Anthropologists use different methods depending on the question.
+
+**Fieldwork**
+Direct study of people and communities in their social environments.
+
+**Participant Observation**
+Participating in social life while systematically observing it.
+
+**Ethnography**
+Detailed description and interpretation of cultures and social groups.
+
+**Interviews**
+Understanding people's experiences, beliefs, and perspectives.
+
+**Archaeology**
+Studying material remains of past societies.
+
+**Biological Analysis**
+Studying fossils, skeletal remains, genetics, primates, and biological variation.
+
+**Comparative Research**
+Comparing humans across cultures, populations, environments, and historical periods.
+
+**Linguistic Analysis**
+Studying language, meaning, communication, and language change.
+
+No single method can explain every dimension of humanity.
+
+---
+
+# Anthropology & Other Fields
+
+Anthropology connects multiple areas of HumanOS — bridging the biological and social sciences.
 
 <div class="tree-diagram">
 <div class="tree-node tree-node-root">Anthropology</div>
 <div class="tree-children">
-<div class="tree-item"><div class="tree-node">Biology</div></div>
-<div class="tree-item"><div class="tree-node">Archaeology</div></div>
+<div class="tree-item"><div class="tree-node">Human Biology</div></div>
+<div class="tree-item"><div class="tree-node">Evolution</div></div>
 <div class="tree-item"><div class="tree-node">Psychology</div></div>
-<div class="tree-item"><div class="tree-node">Sociology</div></div>
-<div class="tree-item"><div class="tree-node">History</div></div>
+<div class="tree-item"><div class="tree-node">Behaviour</div></div>
 <div class="tree-item"><div class="tree-node">Linguistics</div></div>
+<div class="tree-item"><div class="tree-node">Archaeology</div></div>
+<div class="tree-item"><div class="tree-node">History</div></div>
+<div class="tree-item"><div class="tree-node">Sociology</div></div>
 <div class="tree-item"><div class="tree-node">Geography</div></div>
-<div class="tree-item"><div class="tree-node">Evolutionary Science</div></div>
+<div class="tree-item"><div class="tree-node">Economics</div></div>
+<div class="tree-item"><div class="tree-node">Political Science</div></div>
+<div class="tree-item"><div class="tree-node">Philosophy</div></div>
+<div class="tree-item"><div class="tree-node">Technology</div></div>
 </div>
 </div>
 
-Anthropology bridges many disciplines to develop a comprehensive understanding of humanity.
+---
+
+# Why should humans care?
+
+Anthropology helps humans understand:
+
+> [!success]
+> - Where we came from
+> - Why humans are biologically similar
+> - Why cultures are so diverse
+> - How culture shapes behaviour
+> - How knowledge survives across generations
+> - How humans cooperate
+> - How societies develop
+> - How civilizations emerge
+> - How technology changes human life
+
+Understanding humanity can improve cross-cultural cooperation, education, public health, institutional design, technology design, international development, human rights, and environmental decision making.
+
+---
+
+# Reality Connections
+
+<div class="diagram-panel diagram-panel-narrow" style="max-width:176px"><svg width="100%" viewBox="0 0 173 654" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="137.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="86.7" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Evolution</text><rect x="18.0" y="90.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Biology</text><rect x="18.0" y="162.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Mind</text><rect x="18.0" y="234.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Behaviour</text><rect x="18.0" y="306.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Language</text><rect x="18.0" y="378.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Culture</text><rect x="18.0" y="450.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cooperation</text><rect x="18.0" y="522.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Institutions</text><rect x="18.0" y="594.0" width="137.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="86.7" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Civilization</text><line x1="86.7" y1="64.0" x2="86.7" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="136.0" x2="86.7" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="208.0" x2="86.7" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="280.0" x2="86.7" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="352.0" x2="86.7" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="424.0" x2="86.7" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="496.0" x2="86.7" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="568.0" x2="86.7" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
+
+Anthropology sits between the biological and social worlds — it connects the individual organism to the collective human world.
+
+---
+
+# Role in HumanOS
+
+Anthropology is the bridge between Human Biology and Society & Civilization.
+
+It explains how an evolved biological organism becomes:
+
+- A learning organism
+- A language user
+- A social being
+- A culture builder
+- A knowledge transmitter
+- A technology creator
+- An institution builder
+
+<div class="diagram-panel diagram-panel-narrow" style="max-width:176px"><svg width="100%" viewBox="0 0 173 654" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="137.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="86.7" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Biology</text><rect x="18.0" y="90.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Mind</text><rect x="18.0" y="162.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Behaviour</text><rect x="18.0" y="234.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Language</text><rect x="18.0" y="306.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Culture</text><rect x="18.0" y="378.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Cooperation</text><rect x="18.0" y="450.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="476.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Knowledge</text><rect x="18.0" y="522.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="548.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Institutions</text><rect x="18.0" y="594.0" width="137.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="86.7" y="620.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Civilization</text><line x1="86.7" y1="64.0" x2="86.7" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="136.0" x2="86.7" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="208.0" x2="86.7" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="280.0" x2="86.7" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="352.0" x2="86.7" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="424.0" x2="86.7" y2="444.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="496.0" x2="86.7" y2="516.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="568.0" x2="86.7" y2="588.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
+
+The deeper HumanOS question is not simply *what are humans?* It is:
+
+> **How did a biological species become a cultural, technological, and civilization-building species?**
+
+Anthropology provides one of the major scientific frameworks for answering that question.
 
 ---
 
@@ -227,140 +407,13 @@ Anthropology contributes to:
 <div class="tag-grid">
 <span class="tag-pill">Public health</span>
 <span class="tag-pill">Education</span>
-<span class="tag-pill">Archaeology</span>
 <span class="tag-pill">Human rights</span>
 <span class="tag-pill">Business</span>
-<span class="tag-pill">International development</span>
+<span class="tag-pill">Technology</span>
 <span class="tag-pill">Artificial intelligence</span>
+<span class="tag-pill">International development</span>
 <span class="tag-pill">Environmental conservation</span>
-<span class="tag-pill">Forensic science</span>
 </div>
-
-Anthropological insights help design policies and technologies that better reflect human diversity.
-
----
-
-# Misconceptions
-
-### ❌ Anthropology only studies ancient humans.
-
-Reality:
-
-Anthropologists study both ancient and modern societies.
-
----
-
-### ❌ Anthropology only studies remote tribes.
-
-Reality:
-
-Anthropologists study cities, corporations, hospitals, online communities, and many aspects of contemporary life.
-
----
-
-### ❌ Anthropology is only about fossils.
-
-Reality:
-
-Fossils are part of biological anthropology, but the discipline also studies language, culture, history, archaeology, and social life.
-
----
-
-# Why should humans care?
-
-Anthropology helps humans understand:
-
-> [!success]
-> - Where we came from
-> - Why cultures differ
-> - How societies evolve
-> - What all humans share
-> - How diversity strengthens civilization
-
-It encourages curiosity, empathy, and evidence-based understanding of humanity.
-
----
-
-# Reality Connections
-
-<div class="diagram-panel diagram-panel-narrow" style="max-width:176px"><svg width="100%" viewBox="0 0 173 438" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram"><defs><marker id="hos-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><rect x="18.0" y="18.0" width="137.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="86.7" y="44.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Evolution</text><rect x="18.0" y="90.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="116.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Humans</text><rect x="18.0" y="162.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="188.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Culture</text><rect x="18.0" y="234.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="260.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Language</text><rect x="18.0" y="306.0" width="137.4" height="42" rx="8" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="86.7" y="332.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="400" font-size="14.5" fill="var(--darkgray)">Society</text><rect x="18.0" y="378.0" width="137.4" height="42" rx="8" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="86.7" y="404.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Civilization</text><line x1="86.7" y1="64.0" x2="86.7" y2="84.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="136.0" x2="86.7" y2="156.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="208.0" x2="86.7" y2="228.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="280.0" x2="86.7" y2="300.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/><line x1="86.7" y1="352.0" x2="86.7" y2="372.0" stroke="var(--gray)" stroke-width="1.8" marker-end="url(#hos-arrow)"/></svg></div>
-
-Anthropology connects biological evolution with cultural evolution.
-
----
-
-# Human Impact
-
-<div class="domain-figure">
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_great_bath_full_view_-_Mohenjo-daro.jpg?width=1200" alt="The Great Bath of Mohenjo-daro, a ritual bathing structure of the Indus Valley Civilization">
-<p class="domain-figure-caption">The Great Bath of Mohenjo-daro, the Indus Valley Civilization's ancient public bathing structure — via Wikimedia Commons</p>
-</div>
-
-## Human Body
-
-Anthropology explains:
-
-- Human evolution
-- Biological diversity
-- Adaptation
-- Health across populations
-
----
-
-## Society
-
-Anthropology helps explain:
-
-- Families
-- Communities
-- Culture
-- Religion
-- Economics
-- Politics
-- Identity
-
----
-
-## Technology
-
-Anthropology contributes to:
-
-- Human-centered design
-- User experience (UX)
-- Artificial intelligence ethics
-- Digital anthropology
-- Cross-cultural product design
-
----
-
-## Philosophy
-
-> **Anthropology asks the broadest human question: What does it mean to be human? By studying humanity across time, cultures, and environments, it reveals both the remarkable diversity and the shared nature of our species.**
-
----
-
-# Applying this Knowledge
-
-- Respect cultural diversity while recognizing shared human needs.
-- Examine assumptions through evidence rather than stereotypes.
-- Learn from societies different from your own.
-- Understand that culture and biology interact rather than compete.
-- Appreciate that humanity's future is shaped by lessons from its past.
-
----
-
-# Role in HumanOS
-
-**Anthropology** explains humanity as an integrated biological, cultural, historical, and social system.
-
-It connects:
-
-- [[History]]
-- [[Culture]]
-- [[Family]]
-- [[Psychology]]
-
-It serves as the foundation for understanding how humans evolved from biological organisms into cultural beings capable of building civilizations.
 
 ---
 
@@ -368,31 +421,46 @@ It serves as the foundation for understanding how humans evolved from biological
 
 ## Depends On
 
-- [[Culture]]
+- [[Human Biology]]
+- [[Evolution]]
+- [[Mind]]
+- [[Behaviour]]
+- [[Communication]]
+- [[Earth Science|Earth & Environment]]
 
 ## Enables
 
 - [[History]]
 - [[Culture]]
+- [[Family]]
+- [[Education]]
+- [[Society & Civilization|Society & Civilisation]]
 
 ## Related
 
-- [[Family]]
-- [[Education]]
-- [[Communication]]
 - [[Psychology]]
+- Sociology
+- [[Genetics]]
+- Linguistics
+- Archaeology
+- Geography
+- [[History]]
+- [[Philosophy]]
+- [[Economics]]
+- [[Politics|Political Science]]
+- [[Technology & Engineering|Technology]]
 
 ---
 
 # HumanOS Principle
 
-Anthropology is the holistic study of humanity across time and space. By integrating biological evolution, archaeology, culture, language, and society, anthropology explains both the diversity and unity of the human species. It reveals how humans adapted to different environments, created cultures, built civilizations, and continue to shape the world through cooperation, learning, and innovation.
+Humans are simultaneously biological organisms and cultural beings. Biology explains the organism; learning, language, cooperation, culture, and technology explain how that organism became capable of building societies and civilizations.
 
 ---
 
 # Key Insight
 
-> **Anthropology is the science of humanity. It shows that to understand ourselves, we must study not only our biology, but also our cultures, languages, histories, and societies. By viewing humans as one interconnected system across time and space, anthropology reveals both what makes us unique and what unites us as a species.**
+> **To understand humanity, study both what humans inherited through evolution and what humans created through collective learning. Biology gives humans the capacity; culture allows knowledge to accumulate; cooperation turns knowledge into institutions; and institutions allow civilization to scale.**
 
 ---
 
