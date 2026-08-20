@@ -4,3 +4,5 @@ public
 quartz/.quartz-cache
 .DS_Store
 *.log
+__pycache__
+*.pyc
