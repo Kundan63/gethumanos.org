@@ -328,23 +328,20 @@ No single method can explain every dimension of humanity.
 
 Anthropology connects multiple areas of HumanOS — bridging the biological and social sciences.
 
-<div class="tree-diagram">
-<div class="tree-node tree-node-root">Anthropology</div>
-<div class="tree-children">
-<div class="tree-item"><div class="tree-node">Human Biology</div></div>
-<div class="tree-item"><div class="tree-node">Evolution</div></div>
-<div class="tree-item"><div class="tree-node">Psychology</div></div>
-<div class="tree-item"><div class="tree-node">Behaviour</div></div>
-<div class="tree-item"><div class="tree-node">Linguistics</div></div>
-<div class="tree-item"><div class="tree-node">Archaeology</div></div>
-<div class="tree-item"><div class="tree-node">History</div></div>
-<div class="tree-item"><div class="tree-node">Sociology</div></div>
-<div class="tree-item"><div class="tree-node">Geography</div></div>
-<div class="tree-item"><div class="tree-node">Economics</div></div>
-<div class="tree-item"><div class="tree-node">Political Science</div></div>
-<div class="tree-item"><div class="tree-node">Philosophy</div></div>
-<div class="tree-item"><div class="tree-node">Technology</div></div>
-</div>
+<div class="tag-grid">
+<span class="tag-pill">Human Biology</span>
+<span class="tag-pill">Evolution</span>
+<span class="tag-pill">Psychology</span>
+<span class="tag-pill">Behaviour</span>
+<span class="tag-pill">Linguistics</span>
+<span class="tag-pill">Archaeology</span>
+<span class="tag-pill">History</span>
+<span class="tag-pill">Sociology</span>
+<span class="tag-pill">Geography</span>
+<span class="tag-pill">Economics</span>
+<span class="tag-pill">Political Science</span>
+<span class="tag-pill">Philosophy</span>
+<span class="tag-pill">Technology</span>
 </div>
 
 ---
